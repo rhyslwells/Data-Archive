@@ -1,0 +1,25 @@
+name: Airbyte
+enableToc: true
+openToc: false
+enableLinkPreview: true
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableCallouts: true
+enableSPA: true
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: true
+enableGitHubEdit: true
+GitHubLink: https://github.com/airbytehq/glossary/tree/hugo/content
+enableSemanticSearch: false
+operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+description:
+  A single place for all data knowledge
+page_title:
+  "Data Glossary 🧠"
+links:
+  - link_name: Twitter
+    link: https://twitter.com/AirbyteHQ
+  - link_name: Github
+    link: https://github.com/airbytehq

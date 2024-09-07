@@ -9,5 +9,3 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
-assets/indices/linkIndex.json
-assets/indices/contentIndex.json
