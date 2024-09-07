@@ -21,3 +21,13 @@ The rest of your content lives here. You can use **Markdown** here :)
 >[!Todo]
 >item 
 
+>[!Example]
+>test
+
+
+| Category                           | Topics |
+| ---------------------------------- | ------ |
+| [[data engineering]]               |        |
+| [[machine learning\|data science]] |        |
+|                                    |        |
+
