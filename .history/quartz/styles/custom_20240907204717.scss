@@ -108,37 +108,37 @@ a.tag-link {
       padding-bottom: 0.3em;
     }
 
-    // & > h1 {
-    //   font-size: 1.1rem;
-    //   color: $red;
-    // }
+    & > h1 {
+      font-size: 1.1rem;
+      color: $red;
+    }
 
-    // & > h2 {
-    //   color: $orange;
-    // }
+    & > h2 {
+      color: $orange;
+    }
 
-    // & > h3 {
-    //   color: $yellow;
-    // }
+    & > h3 {
+      color: $yellow;
+    }
 
-    // & > h4 {
-    //   color: $green;
-    // }
+    & > h4 {
+      color: $green;
+    }
 
-    // & > h5 {
-    //   color: $cyan;
-    // }
+    & > h5 {
+      color: $cyan;
+    }
 
-    // & > h6 {
-    //   color: $purple;
-    // }
+    & > h6 {
+      color: $purple;
+    }
   }
 
-//   & .page-header {
-//     @media all and (max-width: $fullPageWidth) {
-//       margin-top: 1rem;
-//     }
-//   }
+  & .page-header {
+    @media all and (max-width: $fullPageWidth) {
+      margin-top: 1rem;
+    }
+  }
 }
 
 .page-title {

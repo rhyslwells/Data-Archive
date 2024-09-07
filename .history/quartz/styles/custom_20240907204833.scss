@@ -134,11 +134,11 @@ a.tag-link {
     // }
   }
 
-//   & .page-header {
-//     @media all and (max-width: $fullPageWidth) {
-//       margin-top: 1rem;
-//     }
-//   }
+  & .page-header {
+    @media all and (max-width: $fullPageWidth) {
+      margin-top: 1rem;
+    }
+  }
 }
 
 .page-title {
