@@ -1,7 +1,7 @@
 ---
 date: 2023-04-05
 type:
-summary:""
+summary:
 tags:
 ---
 
