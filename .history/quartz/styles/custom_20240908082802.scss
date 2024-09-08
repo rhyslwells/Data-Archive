@@ -1,14 +1,36 @@
-@use "./variables.scss" as *;
 @use "./base.scss";
 
-$red: #AF3029;
-$orange: #BC5215;
-$yellow: #AD8301;
-$green: #66800B;
-$cyan: #24837B;
-$blue: #205EA6;
-$purple: #5E409D;
-$magenta: #A02F6F;
+// put your custom CSS here!
+
+// Add your own CSS here!
+:root {
+    --light: #FFF;
+    --dark: #1A194D;
+    --secondary: #433BFB;
+    --tertiary: #FF6A4D;
+    --visited: #615EFF;
+    --primary: #615EFF;
+    --gray: #1A194D; //#4e4e4e;
+    --lightgray: #E8E8ED;
+    --outlinegray: #D9D9E0;
+    --million-progress-bar-color: var(--secondary);
+    --callout-info-accent: #67DAE1 !important;
+}
+
+[saved-theme="dark"] {
+    --light: #0A0A23 !important;
+    --dark: #fff !important;
+    --secondary: #615EFF !important; //#625eff !important; // #ff6a4d !important;
+    --visited: #7F7EFF !important;
+    --tertiary: #FF6A4D !important;
+    --primary: #7F7EFF !important;
+    --gray: #fff !important;
+    --lightgray: #1A194D !important;
+    --outlinegray: #2D3270 !important;
+    --callout-info-accent: #00A5B5 !important;
+}
+
+/* New material below.
 
 /* Sidebar top margins */
 .left.sidebar,
@@ -86,30 +108,30 @@ a.tag-link {
       padding-bottom: 0.3em;
     }
 
-    & > h1 {
-      font-size: 1.1rem;
-      color: $red;
-    }
+    // & > h1 {
+    //   font-size: 1.1rem;
+    //   color: $red;
+    // }
 
-    & > h2 {
-      color: $orange;
-    }
+    // & > h2 {
+    //   color: $orange;
+    // }
 
-    & > h3 {
-      color: $yellow;
-    }
+    // & > h3 {
+    //   color: $yellow;
+    // }
 
-    & > h4 {
-      color: $green;
-    }
+    // & > h4 {
+    //   color: $green;
+    // }
 
-    & > h5 {
-      color: $cyan;
-    }
+    // & > h5 {
+    //   color: $cyan;
+    // }
 
-    & > h6 {
-      color: $purple;
-    }
+    // & > h6 {
+    //   color: $purple;
+    // }
   }
 
   & .page-header {
