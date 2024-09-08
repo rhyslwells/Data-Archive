@@ -29,7 +29,6 @@ export {
   FolderContent,
   Darkmode,
   Head,
-  LinksHeader,
   PageTitle,
   ContentMeta,
   Spacer,
