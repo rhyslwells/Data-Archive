@@ -31,10 +31,10 @@ const defaultOptions: GraphOptions = {
     drag: true,
     zoom: true,
     depth: 1, //-1 for full graph
-    scale: 1.1,
+    scale: 3,
     repelForce: 0.5,
     centerForce: 0.3,
-    linkDistance: 30,
+    linkDistance: 3,
     fontSize: 1,
     opacityScale: 1,
     showTags: false,
