@@ -1,1 +1,0 @@
-Is a [[loss function]] for [[Classification]] of categorical. 

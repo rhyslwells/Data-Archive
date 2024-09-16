@@ -1,1 +1,0 @@
-microsoft sql server management.
