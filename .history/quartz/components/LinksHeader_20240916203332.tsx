@@ -14,7 +14,7 @@ export default (() => {
             <a href="/pages/Data_Archive">Data Archive</a>
           </span>
           <span>
-            <a href="/pages/Home">Home</a>
+            <a href="/pages/Home">Maths</a>
           </span>
         </div>
       <hr style="background-color: var(--gray); border-top: 1px var(--gray) solid; margin-top: 1.3rem"></hr>
