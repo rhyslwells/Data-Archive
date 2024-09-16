@@ -1,1 +1,0 @@
-This markdown document captures the essential steps and code snippets to process and split combined data from an Excel sheet into a relational database structure using SQLite and Python. You can save this document as a `.md` file for your notes.
