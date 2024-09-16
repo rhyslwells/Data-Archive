@@ -5,6 +5,7 @@ public
 prof
 tsconfig.tsbuildinfo
 content\.obsidian
+content\uncleaned_notes
 .quartz-cache
 private/
 .replit
@@ -12,4 +13,3 @@ replit.nix
 assets/indices/linkIndex.json
 assets/indices/contentIndex.json
 .venv
-content\uncleaned_notes
