@@ -1,0 +1,43 @@
+{
+  "recentFiles": [
+    {
+      "basename": "index",
+      "path": "pages/index.md"
+    },
+    {
+      "basename": "Dataview Inbox",
+      "path": "templates/Dataview Inbox.md"
+    },
+    {
+      "basename": "Notes",
+      "path": "templates/Notes.md"
+    },
+    {
+      "basename": "templator",
+      "path": "templates/templator.md"
+    },
+    {
+      "basename": "Home",
+      "path": "pages/Home.md"
+    },
+    {
+      "basename": "DE tags",
+      "path": "pages/DE tags.md"
+    },
+    {
+      "basename": "new",
+      "path": "templates/new.md"
+    },
+    {
+      "basename": "data_analysis",
+      "path": "uncleaned notes/data_analysis.md"
+    },
+    {
+      "basename": "Pasted image 20240910072458",
+      "path": "images/Pasted image 20240910072458.png"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}
