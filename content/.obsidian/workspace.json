@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b094422ab871eb9e",
+        "id": "e281c7abca3b31bd",
         "type": "tabs",
         "children": [
           {
-            "id": "4f652b971488b339",
+            "id": "9a2e9d134cf7b5b5",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,15 @@
             }
           },
           {
-            "id": "24cc77dc42c868fd",
+            "id": "4f1199de595c2ec7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20240916075439.png"
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -127,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "images/Pasted image 20240916075439.png",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Pasted image 20240916075439.png"
+                "file": "index.md"
               }
             }
           },
@@ -179,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20240916075439.png",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20240916075439.png",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,15 +231,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24cc77dc42c868fd",
+  "active": "c1b62b58193264ce",
   "lastOpenFiles": [
-    "images/Pasted image 20240916075433.png",
-    "Communication principles.md",
-    "images/Pasted image 20240916075439.png",
-    "pages/Home.md",
-    "pages/index.md",
     "templates/Dataview Inbox.md",
     "templates/Notes.md",
+    "pages/Home.md",
+    "images/Pasted image 20240916075439.png",
+    "images/Pasted image 20240916075433.png",
+    "Communication principles.md",
+    "index.md",
     "templates/templator.md",
     "pages/Learning repo canvas.canvas",
     "pages/DE tags.md",
