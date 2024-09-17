@@ -1,52 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "_index",
-      "path": "_index.md"
+      "basename": "SVM",
+      "path": "uncleaned/SVM.md"
     },
     {
-      "basename": "Dataview Inbox",
-      "path": "templates/Dataview Inbox.md"
+      "basename": "Scala",
+      "path": "uncleaned/Scala.md"
     },
     {
-      "basename": "Notes",
-      "path": "templates/Notes.md"
+      "basename": "Ridge",
+      "path": "uncleaned/Ridge.md"
+    },
+    {
+      "basename": "p-values in linear regression in sklearn",
+      "path": "uncleaned/p-values in linear regression in sklearn.md"
+    },
+    {
+      "basename": "p values",
+      "path": "uncleaned/p values.md"
+    },
+    {
+      "basename": "unstructured data",
+      "path": "standardised/unstructured data.md"
+    },
+    {
+      "basename": "etlt",
+      "path": "standardised/etlt.md"
+    },
+    {
+      "basename": "note",
+      "path": "templates/note.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
     },
     {
       "basename": "Home",
-      "path": "pages/Home.md"
+      "path": "Home.md"
     },
     {
-      "basename": "Pasted image 20240916075439",
-      "path": "images/Pasted image 20240916075439.png"
+      "basename": "Data Analysis",
+      "path": "uncleaned/Data Analysis.md"
     },
     {
-      "basename": "Pasted image 20240916075433",
-      "path": "images/Pasted image 20240916075433.png"
+      "basename": "melt",
+      "path": "uncleaned/melt.md"
     },
     {
-      "basename": "Communication principles",
-      "path": "Communication principles.md"
+      "basename": "stack",
+      "path": "uncleaned/stack.md"
     },
     {
-      "basename": "templator",
-      "path": "templates/templator.md"
+      "basename": "PySpark",
+      "path": "uncleaned/PySpark.md"
     },
     {
-      "basename": "DE tags",
-      "path": "pages/DE tags.md"
+      "basename": "Apache Airflow",
+      "path": "uncleaned/Apache Airflow.md"
     },
     {
-      "basename": "new",
-      "path": "templates/new.md"
+      "basename": "Feature Selection",
+      "path": "uncleaned/Feature Selection.md"
+    },
+    {
+      "basename": "sdlc Software dev life cycle",
+      "path": "uncleaned/sdlc Software dev life cycle.md"
+    },
+    {
+      "basename": "Dropping Na values",
+      "path": "uncleaned/Dropping Na values.md"
+    },
+    {
+      "basename": "Finding missing data",
+      "path": "uncleaned/Finding missing data.md"
+    },
+    {
+      "basename": "Groupby",
+      "path": "uncleaned/Groupby.md"
+    },
+    {
+      "basename": "Imputation",
+      "path": "uncleaned/Imputation.md"
+    },
+    {
+      "basename": "Multicollinearity",
+      "path": "uncleaned/Multicollinearity.md"
+    },
+    {
+      "basename": "Initial data Analysis",
+      "path": "uncleaned/Initial data Analysis.md"
+    },
+    {
+      "basename": "outliers",
+      "path": "uncleaned/outliers.md"
+    },
+    {
+      "basename": "PowerBI",
+      "path": "uncleaned/PowerBI.md"
+    },
+    {
+      "basename": "PCA",
+      "path": "uncleaned/PCA.md"
+    },
+    {
+      "basename": "Standardisation",
+      "path": "uncleaned/Standardisation.md"
+    },
+    {
+      "basename": "Violin plot",
+      "path": "uncleaned/Violin plot.md"
+    },
+    {
+      "basename": "Filtering rows",
+      "path": "uncleaned/Filtering rows.md"
+    },
+    {
+      "basename": "Dropping missing values",
+      "path": "uncleaned/Dropping missing values.md"
+    },
+    {
+      "basename": "Distributions",
+      "path": "uncleaned/Distributions.md"
     },
     {
       "basename": "data_analysis",
-      "path": "uncleaned notes/data_analysis.md"
+      "path": "uncleaned/data_analysis.md"
     },
     {
-      "basename": "Pasted image 20240910072458",
-      "path": "images/Pasted image 20240910072458.png"
+      "basename": "DBScan",
+      "path": "uncleaned/DBScan.md"
+    },
+    {
+      "basename": "WCSS and elbow method",
+      "path": "uncleaned/WCSS and elbow method.md"
+    },
+    {
+      "basename": "K-means",
+      "path": "uncleaned/K-means.md"
+    },
+    {
+      "basename": "Data warehouse",
+      "path": "uncleaned/Data warehouse.md"
+    },
+    {
+      "basename": "Storage solutions",
+      "path": "uncleaned/Storage solutions.md"
+    },
+    {
+      "basename": "Neural networks",
+      "path": "uncleaned/Neural networks.md"
+    },
+    {
+      "basename": "Random Forests",
+      "path": "uncleaned/Random Forests.md"
+    },
+    {
+      "basename": "data lakehouse",
+      "path": "uncleaned/data lakehouse.md"
+    },
+    {
+      "basename": "cte (common table expression)",
+      "path": "uncleaned/cte (common table expression).md"
+    },
+    {
+      "basename": "business intelligence tools",
+      "path": "uncleaned/business intelligence tools.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "uncleaned/SQL.md"
+    },
+    {
+      "basename": "general infos",
+      "path": "plugins/general infos.md"
+    },
+    {
+      "basename": "Using SQLite to Process and Split Combined Data from Excel",
+      "path": "uncleaned/Using SQLite to Process and Split Combined Data from Excel.md"
+    },
+    {
+      "basename": "dev ops",
+      "path": "uncleaned/dev ops.md"
+    },
+    {
+      "basename": "soft delete",
+      "path": "uncleaned/soft delete.md"
+    },
+    {
+      "basename": "interview notepad",
+      "path": "uncleaned/interview notepad.md"
+    },
+    {
+      "basename": "Categorical metrics",
+      "path": "uncleaned/Categorical metrics.md"
+    },
+    {
+      "basename": "Accuracy score",
+      "path": "uncleaned/Accuracy score.md"
     }
   ],
   "omittedPaths": [],

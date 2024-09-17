@@ -1,0 +1,1 @@
+can understand the Grammar as a method for acceptable sentences.

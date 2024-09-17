@@ -1,0 +1,1 @@
+What is [[Stacking]]?;; is an [[Ensemble model]] combines predictions of multiple base models ==by training a meta-model== on the outputs of the base models.#ml

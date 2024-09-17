@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e281c7abca3b31bd",
+        "id": "362c29aa53c56e48",
         "type": "tabs",
         "children": [
           {
-            "id": "9a2e9d134cf7b5b5",
+            "id": "caf26f080e9440c7",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Home.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "4f1199de595c2ec7",
+            "id": "b23dcd3c5181a621",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "uncleaned/SVM.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"notes/\" ",
+                "query": "tag:#concept",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.50198364257812
+    "width": 249.50016403198242
   },
   "right": {
     "id": "5b13eed461f71e5a",
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "uncleaned/SVM.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "uncleaned/SVM.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "uncleaned/SVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "uncleaned/SVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 525.5,
-    "collapsed": true
+    "width": 525.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,49 +219,53 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "audio-recorder:Start/stop recording": true,
+      "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": true,
-      "graph:Open graph view": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-projects:Open projects": false,
-      "vscode-editor:Create Code File": false,
-      "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false
+      "graph:Open graph view": true,
+      "obsidian-spaced-repetition:Review flashcards": true,
+      "obsidian-kanban:Create new board": true,
+      "obsidian-projects:Open projects": true,
+      "vscode-editor:Create Code File": true,
+      "homepage:Open homepage": true,
+      "templater-obsidian:Templater": true
     }
   },
   "active": "c1b62b58193264ce",
   "lastOpenFiles": [
-    "templates/Dataview Inbox.md",
-    "templates/Notes.md",
-    "pages/Home.md",
+    "uncleaned/Scala.md",
+    "uncleaned/Ridge.md",
+    "uncleaned/p-values in linear regression in sklearn.md",
+    "uncleaned/p values.md",
+    "standardised/unstructured data.md",
+    "standardised/etlt.md",
+    "templates/note.md",
+    "index.md",
+    "Home.md",
+    "uncleaned/Data Analysis.md",
+    "uncleaned/melt.md",
+    "uncleaned/stack.md",
+    "uncleaned/PySpark.md",
+    "uncleaned/Apache Airflow.md",
+    "uncleaned/Feature Selection.md",
+    "uncleaned/sdlc Software dev life cycle.md",
+    "uncleaned/Dropping Na values.md",
+    "uncleaned/Finding missing data.md",
+    "uncleaned/Groupby.md",
+    "uncleaned/Imputation.md",
+    "uncleaned/Multicollinearity.md",
+    "uncleaned/Joining dataframes together.md",
+    "uncleaned/Initial data Analysis.md",
+    "uncleaned/outliers.md",
+    "uncleaned/PowerBI.md",
+    "uncleaned/PCA.md",
+    "Recording 20240917053412.webm",
+    "Monthly Review",
+    "pages/Learning repo canvas.canvas",
+    "plugins",
     "images/Pasted image 20240916075439.png",
     "images/Pasted image 20240916075433.png",
-    "Communication principles.md",
-    "index.md",
-    "templates/templator.md",
-    "pages/Learning repo canvas.canvas",
-    "pages/DE tags.md",
-    "private/private-note.md",
-    "templates/new.md",
-    "uncleaned notes/data_analysis.md",
-    "standardised notes",
-    "pages/MonthlyReview.md",
-    "pages/WeeklyReview.md",
-    "uncleaned notes/interview questions 2.md",
-    "uncleaned notes/deep_learning.md",
-    "uncleaned notes/machine_learning.md",
+    "standardised",
     "notes/done",
-    "uncleaned notes/interview notepad.md",
-    "tags.md",
-    "Home.md",
-    "uncleaned notes/prompting.md",
-    "uncleaned notes/sql 2.md",
-    "uncleaned notes/etl 2.md",
-    "uncleaned notes/data warehouse 2.md",
-    "uncleaned notes/apache spark 2.md",
-    "uncleaned notes/apache airflow 2.md",
-    "term/sql 2.md",
     "images/Pasted image 20240415105641.png",
     "images/Pasted image 20240411103608.png",
     "images/Pasted image 20240411095614.png",
@@ -276,9 +279,6 @@
     "pages",
     "quartz/plugins/transformers/frontmatter.ts",
     "quartz/plugins/transformers/linebreaks.ts",
-    "quartz/plugins/transformers/toc.ts",
-    "quartz/plugins/transformers/syntax.ts",
-    "quartz/plugins/transformers/oxhugofm.ts",
     "3_Projects/AIS/AIS ideas.canvas",
     "4_veolia/Veolia.canvas",
     "0_Archive/Learning_repo/Learning repo canvas.canvas",

@@ -6,43 +6,21 @@ title: Home
 
 The Data Archive is continuously growing, here are some starting points.
 
-| Data categories      | Topics               |
-| -------------------- | -------------------- |
-| [[Data Science]]     | [[Machine Learning]] |
-| [[Data Analysis]]    |                      |
-| [[Data Engineering]] |                      |
+| Categories           | Related Tags                                                                 |
+| -------------------- | ---------------------------------------------------------------------------- |
+| [[Data Science]]     | #classifer #ml #process #optimisation #evaluation #preprocessing #clustering |
+| [[Data Analysis]]    | #pandas                                                                      |
+| [[Data Engineering]] | #design #database #SQL                                                       |
+| Mathamatics          | #statistics #distributions                                                   |
+| LLM's                | #NLP                                                                         |
+| Devops               | #devops #software #data                                                      |
+| Other                | #learning #concept #question #interview_questions<br>#excel                  |
 
-| Programming Categories |     |     |
-| ---------------------- | --- | --- |
-| Python                 |     |     |
-| Vscode                 |     |     |
-| Business Intelligence  |     |     |
-|                        |     |     |
-#business 
+## Monthly Review
 
-#design 
-#workflow 
+See monthly review folder, for my current direction #MonthlyReview
 
-#database 
-#data_storage 
 
-#etl 
-#extract 
-#transform 
-
-#SQL 
-#Excel 
-#software 
-#### Other
-
-#cloud 
-
-```dataview
-LIST
-FROM "uncleaned notes"
-SORT file.size DESC
-LIMIT 4
-```
 
 
 

@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"5f167f7bc6e99aa4","type":"text","text":"See [[Phases]] for portal.","x":20,"y":52,"width":228,"height":73},
-		{"id":"e82d96386f85ad65","type":"text","text":"Tags:\n\n#classifer \n\n#ml \n\n#template \n\n#process \n\n#issues\n\n#learning \n","x":280,"y":-138,"width":220,"height":298},
-		{"id":"b7410c1758dd2848","type":"text","text":"How do you know if a [[Classifiers]] has been [[overfitting]]? For example with [[Random Forests]]\n\nYou can use [[Cross validation]]\n\nIn [[Linear Regression]] or polynomial ect you use [[Regularisation]]. Can you do something similar for other classifiers?\n\nPartially answered in [[Model training]].","x":-300,"y":-120,"width":300,"height":245},
-		{"id":"4d846109091246bf","type":"text","text":"[[Gradient Descent?\n\n[[statsmodel]]? <- [[Linear Regression]]\n\n","x":-300,"y":160,"width":228,"height":120}
-	],
-	"edges":[]
-}
