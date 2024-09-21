@@ -1,7 +1,7 @@
 ---
-title: "What is Normalization?"
+title: What is Normalization?
 tags:
-- data engineering
+  - database
 ---
 
 Normalization is used in relational database design to reduce data redundancy and improve data integrity. Developed by British computer scientist [Edgar F. Codd ](https://en.wikipedia.org/wiki/Edgar_F._Codd) in the 1970s as part of his relational model, normalization involves organizing the columns (attributes) and tables (relations) in a database to ensure proper enforcement of dependencies through database integrity constraints. 
@@ -18,3 +18,8 @@ This is achieved by applying formal rules during the synthesis (creation of a ne
 ## Denormalization
 **Denormalization**, on the other hand, is the process of intentionally introducing redundancy into a database design by combining tables or adding redundant data, aiming to improve query performance or simplify the database structure. Denormalization is the **opposite of normalization**. Please consider the trade-offs between data integrity and query performance. This technique is used with [Dimensional Modeling](term/dimensional%20modeling.md) in [OLAP](term/olap%20(online%20analytical%20processing).md) cubes, for example.
 
+
+
+Normalization is the process of structuring data from the source into a format appropriate for consumption in the destination. For example, when writing data from a nested, dynamically typed source like a JSON API to a relational destination like Postgres, normalization is the process that un-nests JSON from the source into a relational table format that uses the appropriate column types in the destination.
+
+Read more on our [docs](https://docs.airbyte.com/cloud/core-concepts#normalization) or what [Database Normalization](term/database%20normalization.md) means in general.

@@ -1,7 +1,7 @@
 ---
-title: "What is Business Intelligence?"
+title: What is Business Intelligence
 tags:
-- data engineering
+  - engineering
 ---
 Business intelligence (BI) leverages software and services to [transform data](term/data%20transformation.md) into actionable insights that inform an organization’s business decisions. The new term is [Data Engineering](Data%20Engineering.md). The language of a BI engineer is [SQL](term/sql.md).
 
@@ -13,3 +13,10 @@ BI should produce a simple overview of your business, boost efficiency, and auto
   * **Empower users**: With the so-called self-service BI, every user can analyze their data instead of only BI or IT persons.
 
 Read more on [Business Intelligence meets Data Engineering with Emerging Technologies](https://www.sspaeti.com/blog/business-intelligence-meets-data-engineering/).
+
+
+
+[Business Intelligence](term/business%20intelligence.md) tools visualizing your data across the organizations. See a curated list of tools including the referenced image below on [Catalog of BI tools](https://notion.castordoc.com/catalog-of-bi-tools).
+
+![](images/business-intelligence-tools-landscape.png)
+

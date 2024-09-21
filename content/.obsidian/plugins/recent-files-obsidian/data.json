@@ -1,8 +1,172 @@
 {
   "recentFiles": [
     {
+      "basename": "ML",
+      "path": "uncleaned/ML.md"
+    },
+    {
+      "basename": "Bagging",
+      "path": "uncleaned/Bagging.md"
+    },
+    {
+      "basename": "Accuracy score",
+      "path": "uncleaned/Accuracy score.md"
+    },
+    {
+      "basename": "note",
+      "path": "templates/note.md"
+    },
+    {
+      "basename": "Knowledge Graphs with Obsidian",
+      "path": "uncleaned/Knowledge Graphs with Obsidian.md"
+    },
+    {
+      "basename": "PyTorch",
+      "path": "uncleaned/PyTorch.md"
+    },
+    {
+      "basename": "NoSQL",
+      "path": "uncleaned/NoSQL.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "interpretability",
+      "path": "interpretability.md"
+    },
+    {
+      "basename": "Drawing 2024-09-21 18.34.33.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-21 18.34.33.excalidraw.md"
+    },
+    {
+      "basename": "RAG",
+      "path": "uncleaned/RAG.md"
+    },
+    {
+      "basename": "WebChatGPT",
+      "path": "uncleaned/WebChatGPT.md"
+    },
+    {
+      "basename": "Pasted image 20240921154214",
+      "path": "images/Pasted image 20240921154214.png"
+    },
+    {
+      "basename": "Knowledge Graphs",
+      "path": "standardised/Knowledge Graphs.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "prompting",
+      "path": "standardised/prompting.md"
+    },
+    {
+      "basename": "review",
+      "path": "templates/review.md"
+    },
+    {
+      "basename": "unstructured data",
+      "path": "standardised/unstructured data.md"
+    },
+    {
+      "basename": "acid transactions",
+      "path": "standardised/acid transactions.md"
+    },
+    {
+      "basename": "etlt",
+      "path": "standardised/etlt.md"
+    },
+    {
+      "basename": "data governance",
+      "path": "standardised/data governance.md"
+    },
+    {
+      "basename": "cte",
+      "path": "standardised/cte.md"
+    },
+    {
+      "basename": "database normalization",
+      "path": "uncleaned/database normalization.md"
+    },
+    {
+      "basename": "Microsoft access",
+      "path": "uncleaned/Microsoft access.md"
+    },
+    {
+      "basename": "Data warehouse",
+      "path": "uncleaned/Data warehouse.md"
+    },
+    {
+      "basename": "dagster",
+      "path": "uncleaned/dagster.md"
+    },
+    {
+      "basename": "data lineage",
+      "path": "uncleaned/data lineage.md"
+    },
+    {
+      "basename": "data lakehouse",
+      "path": "uncleaned/data lakehouse.md"
+    },
+    {
+      "basename": "data engineering guides",
+      "path": "uncleaned/data engineering guides.md"
+    },
+    {
+      "basename": "Data Analysis",
+      "path": "uncleaned/Data Analysis.md"
+    },
+    {
+      "basename": "Data Science Questions",
+      "path": "pages/Data Science Questions.md"
+    },
+    {
+      "basename": "data literacy",
+      "path": "uncleaned/data literacy.md"
+    },
+    {
+      "basename": "business intelligence",
+      "path": "uncleaned/business intelligence.md"
+    },
+    {
+      "basename": "DAG",
+      "path": "standardised/DAG.md"
+    },
+    {
+      "basename": "Standardisation",
+      "path": "uncleaned/Standardisation.md"
+    },
+    {
       "basename": "SVM",
       "path": "uncleaned/SVM.md"
+    },
+    {
+      "basename": "storage layer object store",
+      "path": "uncleaned/storage layer object store.md"
+    },
+    {
+      "basename": "structured data",
+      "path": "uncleaned/structured data.md"
+    },
+    {
+      "basename": "Violin plot",
+      "path": "uncleaned/Violin plot.md"
+    },
+    {
+      "basename": "big o notation",
+      "path": "uncleaned/big o notation.md"
+    },
+    {
+      "basename": "Apache Spark",
+      "path": "uncleaned/Apache Spark.md"
+    },
+    {
+      "basename": "Apache Airflow",
+      "path": "uncleaned/Apache Airflow.md"
     },
     {
       "basename": "Scala",
@@ -21,30 +185,6 @@
       "path": "uncleaned/p values.md"
     },
     {
-      "basename": "unstructured data",
-      "path": "standardised/unstructured data.md"
-    },
-    {
-      "basename": "etlt",
-      "path": "standardised/etlt.md"
-    },
-    {
-      "basename": "note",
-      "path": "templates/note.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "Data Analysis",
-      "path": "uncleaned/Data Analysis.md"
-    },
-    {
       "basename": "melt",
       "path": "uncleaned/melt.md"
     },
@@ -57,148 +197,8 @@
       "path": "uncleaned/PySpark.md"
     },
     {
-      "basename": "Apache Airflow",
-      "path": "uncleaned/Apache Airflow.md"
-    },
-    {
       "basename": "Feature Selection",
       "path": "uncleaned/Feature Selection.md"
-    },
-    {
-      "basename": "sdlc Software dev life cycle",
-      "path": "uncleaned/sdlc Software dev life cycle.md"
-    },
-    {
-      "basename": "Dropping Na values",
-      "path": "uncleaned/Dropping Na values.md"
-    },
-    {
-      "basename": "Finding missing data",
-      "path": "uncleaned/Finding missing data.md"
-    },
-    {
-      "basename": "Groupby",
-      "path": "uncleaned/Groupby.md"
-    },
-    {
-      "basename": "Imputation",
-      "path": "uncleaned/Imputation.md"
-    },
-    {
-      "basename": "Multicollinearity",
-      "path": "uncleaned/Multicollinearity.md"
-    },
-    {
-      "basename": "Initial data Analysis",
-      "path": "uncleaned/Initial data Analysis.md"
-    },
-    {
-      "basename": "outliers",
-      "path": "uncleaned/outliers.md"
-    },
-    {
-      "basename": "PowerBI",
-      "path": "uncleaned/PowerBI.md"
-    },
-    {
-      "basename": "PCA",
-      "path": "uncleaned/PCA.md"
-    },
-    {
-      "basename": "Standardisation",
-      "path": "uncleaned/Standardisation.md"
-    },
-    {
-      "basename": "Violin plot",
-      "path": "uncleaned/Violin plot.md"
-    },
-    {
-      "basename": "Filtering rows",
-      "path": "uncleaned/Filtering rows.md"
-    },
-    {
-      "basename": "Dropping missing values",
-      "path": "uncleaned/Dropping missing values.md"
-    },
-    {
-      "basename": "Distributions",
-      "path": "uncleaned/Distributions.md"
-    },
-    {
-      "basename": "data_analysis",
-      "path": "uncleaned/data_analysis.md"
-    },
-    {
-      "basename": "DBScan",
-      "path": "uncleaned/DBScan.md"
-    },
-    {
-      "basename": "WCSS and elbow method",
-      "path": "uncleaned/WCSS and elbow method.md"
-    },
-    {
-      "basename": "K-means",
-      "path": "uncleaned/K-means.md"
-    },
-    {
-      "basename": "Data warehouse",
-      "path": "uncleaned/Data warehouse.md"
-    },
-    {
-      "basename": "Storage solutions",
-      "path": "uncleaned/Storage solutions.md"
-    },
-    {
-      "basename": "Neural networks",
-      "path": "uncleaned/Neural networks.md"
-    },
-    {
-      "basename": "Random Forests",
-      "path": "uncleaned/Random Forests.md"
-    },
-    {
-      "basename": "data lakehouse",
-      "path": "uncleaned/data lakehouse.md"
-    },
-    {
-      "basename": "cte (common table expression)",
-      "path": "uncleaned/cte (common table expression).md"
-    },
-    {
-      "basename": "business intelligence tools",
-      "path": "uncleaned/business intelligence tools.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "uncleaned/SQL.md"
-    },
-    {
-      "basename": "general infos",
-      "path": "plugins/general infos.md"
-    },
-    {
-      "basename": "Using SQLite to Process and Split Combined Data from Excel",
-      "path": "uncleaned/Using SQLite to Process and Split Combined Data from Excel.md"
-    },
-    {
-      "basename": "dev ops",
-      "path": "uncleaned/dev ops.md"
-    },
-    {
-      "basename": "soft delete",
-      "path": "uncleaned/soft delete.md"
-    },
-    {
-      "basename": "interview notepad",
-      "path": "uncleaned/interview notepad.md"
-    },
-    {
-      "basename": "Categorical metrics",
-      "path": "uncleaned/Categorical metrics.md"
-    },
-    {
-      "basename": "Accuracy score",
-      "path": "uncleaned/Accuracy score.md"
     }
   ],
   "omittedPaths": [],

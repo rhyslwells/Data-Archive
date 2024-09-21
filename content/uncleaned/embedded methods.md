@@ -17,6 +17,6 @@ Embedded methods for [[Feature Selection]] ==integrate feature selection directl
 
 6. **Considerations**:
    - Hyperparameter Tuning: Tuning regularization parameters or other model-specific parameters may be necessary to optimize feature selection performance.
-   - Model Interpretability: While embedded methods can automatically select features, interpreting the resulting model may be challenging, especially for complex models like ensemble methods.
+   - Model [[Interpretability]]: While embedded methods can automatically select features, interpreting the resulting model may be challenging, especially for complex models like ensemble methods.
 
 Embedded methods provide a convenient and efficient approach to feature selection by seamlessly integrating it into the model training process, ultimately leading to models that are more parsimonious and potentially more interpretable.

@@ -10,4 +10,4 @@ XGBoost may involve parameters like eta and max depth.
   - **Flexibility**: Offers a wide range of hyperparameters for fine-tuning models.
 - **Relative Use Cases**:
   - Suitable for a wide range of applications, including structured data and tabular datasets.
-  - Effective when interpretability of the model is important and extensive hyperparameter tuning is feasible.
+  - Effective when [[interpretability]] of the model is important and extensive hyperparameter tuning is feasible.

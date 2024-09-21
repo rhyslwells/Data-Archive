@@ -3,8 +3,8 @@ title: What is unstructured data?
 tags:
   - data
   - engineering
-  - concept
 ---
+
 >[!Important]
 > Unstructured data is data that does not conform to a data model and has no easily identifiable structure. 
 

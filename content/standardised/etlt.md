@@ -1,7 +1,6 @@
 ---
 title: What is EtLT?
 tags:
-  - concept
   - engineering
 category: Data Engineering
 ---

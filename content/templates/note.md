@@ -1,23 +1,21 @@
 ---
-title: A question
+title: 
 tags: 
 category: Data Science
 ---
 
 
->[!important]
-> 
-
-
->[!attention]
+>[!Summary]
 >
 
+>[!important] 
+>
 
->[!Todo]
->- [ ] 
-
+>[!attention] 
+>
 
 >[!Example]
 >
 
-
+>[!Todo]
+>- [ ] 

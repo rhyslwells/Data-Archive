@@ -2,7 +2,6 @@
 tags:
   - distributions
   - "#analysis"
-  - "#data"
 ---
 like a [[Boxplot]]
 

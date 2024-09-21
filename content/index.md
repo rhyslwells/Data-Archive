@@ -10,11 +10,11 @@ The Data Archive is continuously growing, here are some starting points.
 | -------------------- | ---------------------------------------------------------------------------- |
 | [[Data Science]]     | #classifer #ml #process #optimisation #evaluation #preprocessing #clustering |
 | [[Data Analysis]]    | #pandas                                                                      |
-| [[Data Engineering]] | #design #database #SQL                                                       |
-| Mathamatics          | #statistics #distributions                                                   |
+| [[Data Engineering]] | #design #database #SQL #engineering                                          |
+| Mathematics          | #statistics #distributions                                                   |
 | LLM's                | #NLP                                                                         |
 | Devops               | #devops #software #data                                                      |
-| Other                | #learning #concept #question #interview_questions<br>#excel                  |
+| Other                | #learning #concept #question #interview_questions<br>#excel #business        |
 
 ## Monthly Review
 

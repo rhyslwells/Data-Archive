@@ -41,7 +41,7 @@ Transform raw data into a format that best describes the problem to the model. T
 **Formatting**
 - Convert data into the required format, e.g., from .xls to .csv.
 
- [[normalization]]
+ [[database normalization]]
 - Ensure consistent data representation and scale features appropriately.
   - Example: Normalize monetary values and quantities to a common scale using methods like min-max normalization.
 

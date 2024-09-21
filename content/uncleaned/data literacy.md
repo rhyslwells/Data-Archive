@@ -1,7 +1,7 @@
 ---
-title: "What is Data Literacy?"
+title: What is Data Literacy?
 tags:
-- data engineering
+  - "#business"
 ---
 
 Data literacy is the ability to read, work with, analyze, and argue with data in order to extract meaningful information and make informed decisions. This skill set is crucial for employees across various levels of an organization, especially as data-driven decision-making becomes increasingly important.

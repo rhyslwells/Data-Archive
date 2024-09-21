@@ -16,5 +16,7 @@
   "obsidian-annotator",
   "obsidian-linter",
   "highlightr-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-excalidraw-plugin",
+  "obsidian-tagfolder"
 ]
