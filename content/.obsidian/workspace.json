@@ -10,9 +10,16 @@
           {
             "id": "b7af89658a41e198",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -77,8 +84,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -118,6 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Tasks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -158,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tasks.md"
+              }
             }
           },
           {
@@ -167,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +226,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3aa060a54b5aa0a0",
+  "active": "c1b62b58193264ce",
   "lastOpenFiles": [
     "uncleaned/ML.md",
     "uncleaned/Bagging.md",
@@ -225,7 +236,7 @@
     "uncleaned/PyTorch.md",
     "uncleaned/NoSQL.md",
     "Tasks.md",
-    "interpretability.md",
+    "standardised/interpretability.md",
     "Pasted Image 20240921184050_291.png",
     "Excalidraw/Drawing 2024-09-21 18.34.33.excalidraw.md",
     "Excalidraw/Drawing 2024-09-21 18.39.05.excalidraw.md",
