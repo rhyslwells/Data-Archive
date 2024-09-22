@@ -16,7 +16,4 @@ git rm -r --cached content/uncleaned_notes
 
 # Tasks 22092024
 
-Pages can be setup with LinksHeader.tsx
-
-Can change what folders appear in explorer with quartz.config.ts
 

@@ -51,6 +51,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   afterBody: [
     // Component.Breadcrumbs(),
+        Component.TagList(),
     Component.Graph({
       localGraph: {
         drag: true, // whether to allow panning the view around
@@ -78,11 +79,10 @@ export const defaultContentPageLayout: PageLayout = {
         removeTags: [], // what tags to remove from the graph
         showTags: true, // whether to show tags in the graph
       },
-    }    ),
-    Component.TagList(),
+    }    )
   ],
   left: [
-    Component.PageTitle(),
+    // Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
