@@ -1,7 +1,5 @@
 #preprocessing #data #analysis 
 
-
-
 Apply Principal Component Analysis (PCA) to reduce the dimensionality of a dataset and then train a machine learning model on the reduced data. Compare the model's performance before and after dimensionality reduction.
   ?
   ```python
@@ -37,3 +35,14 @@ Apply Principal Component Analysis (PCA) to reduce the dimensionality of a datas
 
 
 ![[Pasted image 20240128194148.png|500]]
+
+# dimension reduction
+
+#preprocessing 
+
+PCA - [[Unsupervised]]
+
+What is Dimension reduction?;;A: involves reducing the number of features in a dataset while retaining its essential information.
+<!--SR:!2024-04-20,9,270-->
+
+Give an example of Dimension reduction;; [[PCA]] i.e. Principal Component Analysis (PCA) is a common technique that identifies orthogonal axes representing the most significant variance in the data.

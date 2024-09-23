@@ -1,7 +1,6 @@
 ---
 title: A question
 tags:
-  - "#data"
   - analysis
 category: Data Science
 ---

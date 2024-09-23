@@ -1,7 +1,6 @@
 ---
 title: What is SQL?
 tags:
-  - data
   - engineering
   - software
 ---

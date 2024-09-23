@@ -63,7 +63,8 @@ Log odds are the Log of the odds (makes wining /not winning symmetrical).
 
 $$ln(\frac{p}{1-p})=b_0 + b_1 x$$
 # What does the graph tell us?
-#question 
+
+
 Specifically a graph such as,
 
 ![[Pasted image 20240124095916.png]]

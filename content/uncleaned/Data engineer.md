@@ -1,3 +1,8 @@
+---
+title: What is the Data Engineering Lifecycle?
+tags:
+  - data engineering
+---
 Tasks:
 
 - [x] LLRB: ER diagram and database creation, data collection method,
@@ -120,3 +125,9 @@ Soft:
   - **Collaboration:** Facilitating teamwork with shared repositories and continuous integration workflows.
   - **Continuous Learning:** Keeping up-to-date with the latest technologies and updating pipelines due to obsolescence of tech.
 - **Documentation and Security**: Creating documentation, implementing security measures, and exploring system upgrades for enhanced efficiency.
+
+
+[[Data engineer]]
+
+A data engineer today oversees the whole data engineering process, from collecting data from various sources to making it available for downstream processes. The role requires familiarity with the multiple stages of the data engineering lifecycle and an aptitude for evaluating data tools for optimal performance across several dimensions, including price, speed, flexibility, scalability, simplicity, reusability, and interoperability.
+

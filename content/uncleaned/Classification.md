@@ -6,7 +6,7 @@ tags:
 Supervised
 ## Description
 
-[[Classifiers]]
+[[Classifier]]
 
 ## Questions and answers
 

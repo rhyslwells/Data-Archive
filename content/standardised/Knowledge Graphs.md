@@ -1,7 +1,6 @@
 ---
 title: 
 tags: 
-category: Data Science
 ---
 >[!Summary]  
 > Knowledge graphs (KGs) enable large language models (LLMs) to generate more accurate, trustworthy AI outputs. Neo4j is leader in this space and make use of KG through  such as generative AI techniques like GraphRAG.

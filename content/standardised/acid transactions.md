@@ -1,5 +1,5 @@
 ---
-title: What are ACID Transactions?
+title: 
 tags:
   - engineering
 ---

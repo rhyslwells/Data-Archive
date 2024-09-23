@@ -1,5 +1,6 @@
 #ml 
-How to use pipelines in sklearn? #question 
+
+
 
 ```python
 # Naivebayesfor email prediction

@@ -1,7 +1,7 @@
 ---
-title: "What is ELT?"
+title: 
 tags:
-- data engineering
+  - engineering
 ---
 ELT (Extract, Load, and [Transform](term/data%20transformation.md)) is a [data integration](term/data%20integration.md) approach that extracts (E) data from a source system, and loads (L) raw data into a destination system before it transforms (T) the data. In other words, in the ELT approach, transformation (T) of the data is done _within_ the destination [Data Warehouse](term/data%20warehouse.md) after data has been loaded. 
 

@@ -11,7 +11,7 @@ tags:
 - **Structure**: Data is organized into tables with columns and rows, offering detailed, real-time information.
 - **Flexibility**: Databases boast a flexible schema, allowing for dynamic adjustments to accommodate evolving needs.
 - **Use Case**: Primarily utilized for recording transactions and managing live data. slow for large queries.
-### [[Data warehouse]]:
+### [[uncleaned/Data Warehouse]]:
 - **Definition**: A specialized database optimized for analytical processing or online analytical processing (==OLAP==).
 - **Data Aggregation**: Aggregates data from multiple sources (databases) via an [[ETL]] (Extract, Transform, Load) process, summarizing it for analytical purposes.
 - **Historical Data**: Maintains historical data but may not always include the latest updates unless refreshed by the ETL process.

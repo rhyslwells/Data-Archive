@@ -1,8 +1,8 @@
 ---
 tags:
-  - distributions
   - "#data"
   - "#analysis"
+  - statistics
 ---
 
 ## Notes

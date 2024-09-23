@@ -4,6 +4,7 @@ tags:
 ---
 # Terms of interest:
 
+
 #### train_test_split
 
 X and y are separate things (y is the target variable/column) and X is multiple is columns used to get y.

@@ -1,5 +1,5 @@
 ---
-title: What is a CTE (Common Table Expression)?
+title: 
 tags:
   - engineering
 ---

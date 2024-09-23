@@ -5,196 +5,200 @@
       "path": "Tasks.md"
     },
     {
-      "basename": "ML",
-      "path": "uncleaned/ML.md"
+      "basename": "quartz discussion",
+      "path": "uncleaned/quartz discussion.md"
     },
     {
-      "basename": "Bagging",
-      "path": "uncleaned/Bagging.md"
-    },
-    {
-      "basename": "Accuracy score",
-      "path": "uncleaned/Accuracy score.md"
-    },
-    {
-      "basename": "note",
-      "path": "templates/note.md"
-    },
-    {
-      "basename": "Knowledge Graphs with Obsidian",
-      "path": "uncleaned/Knowledge Graphs with Obsidian.md"
-    },
-    {
-      "basename": "PyTorch",
-      "path": "uncleaned/PyTorch.md"
-    },
-    {
-      "basename": "NoSQL",
-      "path": "uncleaned/NoSQL.md"
-    },
-    {
-      "basename": "interpretability",
-      "path": "standardised/interpretability.md"
-    },
-    {
-      "basename": "Drawing 2024-09-21 18.34.33.excalidraw",
-      "path": "Excalidraw/Drawing 2024-09-21 18.34.33.excalidraw.md"
-    },
-    {
-      "basename": "RAG",
-      "path": "uncleaned/RAG.md"
-    },
-    {
-      "basename": "WebChatGPT",
-      "path": "uncleaned/WebChatGPT.md"
-    },
-    {
-      "basename": "Pasted image 20240921154214",
-      "path": "images/Pasted image 20240921154214.png"
-    },
-    {
-      "basename": "Knowledge Graphs",
-      "path": "standardised/Knowledge Graphs.md"
+      "basename": "LLM",
+      "path": "uncleaned/LLM.md"
     },
     {
       "basename": "index",
       "path": "index.md"
     },
     {
-      "basename": "prompting",
-      "path": "standardised/prompting.md"
+      "basename": "Questions",
+      "path": "pages/Questions.md"
     },
     {
-      "basename": "review",
-      "path": "templates/review.md"
+      "basename": "Why use isolation forest (Random Forests) for outliers detection",
+      "path": "uncleaned/Why use isolation forest (Random Forests) for outliers detection.md"
     },
     {
-      "basename": "unstructured data",
-      "path": "standardised/unstructured data.md"
+      "basename": "Kaggle Abalone regression example",
+      "path": "uncleaned/Kaggle Abalone regression example.md"
     },
     {
-      "basename": "acid transactions",
-      "path": "standardised/acid transactions.md"
+      "basename": "Scikit-learn",
+      "path": "uncleaned/Scikit-learn.md"
     },
     {
-      "basename": "etlt",
-      "path": "standardised/etlt.md"
+      "basename": "Transformed Target Regressor",
+      "path": "uncleaned/Transformed Target Regressor.md"
     },
     {
-      "basename": "data governance",
-      "path": "standardised/data governance.md"
+      "basename": "Why use isolation forest ([[Random Forests",
+      "path": "uncleaned/Why use isolation forest ([[Random Forests.md"
     },
     {
-      "basename": "cte",
-      "path": "standardised/cte.md"
+      "basename": "Why do we do feature importance",
+      "path": "uncleaned/Why do we do feature importance.md"
     },
     {
-      "basename": "database normalization",
-      "path": "uncleaned/database normalization.md"
+      "basename": "Model training",
+      "path": "uncleaned/Model training.md"
     },
     {
-      "basename": "Microsoft access",
-      "path": "uncleaned/Microsoft access.md"
+      "basename": "Cross validation",
+      "path": "uncleaned/Cross validation.md"
     },
     {
-      "basename": "Data warehouse",
-      "path": "uncleaned/Data warehouse.md"
+      "basename": "Classifier",
+      "path": "uncleaned/Classifier.md"
     },
     {
-      "basename": "dagster",
-      "path": "uncleaned/dagster.md"
+      "basename": "Sklearn Pipiline",
+      "path": "uncleaned/Sklearn Pipiline.md"
     },
     {
-      "basename": "data lineage",
-      "path": "uncleaned/data lineage.md"
+      "basename": "Logistic Regression",
+      "path": "uncleaned/Logistic Regression.md"
     },
     {
-      "basename": "data lakehouse",
-      "path": "uncleaned/data lakehouse.md"
+      "basename": "interpretability",
+      "path": "standardised/interpretability.md"
     },
     {
-      "basename": "data engineering guides",
-      "path": "uncleaned/data engineering guides.md"
+      "basename": "Pasted image 20240922201606",
+      "path": "images/Pasted image 20240922201606.png"
     },
     {
-      "basename": "Data Analysis",
-      "path": "uncleaned/Data Analysis.md"
+      "basename": "jinja template",
+      "path": "standardised/jinja template.md"
     },
     {
-      "basename": "data literacy",
-      "path": "uncleaned/data literacy.md"
+      "basename": "Flask",
+      "path": "standardised/Flask.md"
     },
     {
-      "basename": "business intelligence",
-      "path": "uncleaned/business intelligence.md"
+      "basename": "granularity",
+      "path": "uncleaned/granularity.md"
     },
     {
-      "basename": "DAG",
-      "path": "standardised/DAG.md"
+      "basename": "Groupby",
+      "path": "standardised/Groupby.md"
+    },
+    {
+      "basename": "Filtering rows",
+      "path": "standardised/Filtering rows.md"
+    },
+    {
+      "basename": "PowerBI",
+      "path": "uncleaned/PowerBI.md"
+    },
+    {
+      "basename": "reverse etl",
+      "path": "uncleaned/reverse etl.md"
     },
     {
       "basename": "Standardisation",
       "path": "uncleaned/Standardisation.md"
     },
     {
-      "basename": "SVM",
-      "path": "uncleaned/SVM.md"
+      "basename": "data lineage",
+      "path": "standardised/data lineage.md"
     },
     {
-      "basename": "storage layer object store",
-      "path": "uncleaned/storage layer object store.md"
+      "basename": "data mesh",
+      "path": "uncleaned/data mesh.md"
     },
     {
-      "basename": "structured data",
-      "path": "uncleaned/structured data.md"
+      "basename": "Data Analysis",
+      "path": "uncleaned/Data Analysis.md"
     },
     {
-      "basename": "Violin plot",
-      "path": "uncleaned/Violin plot.md"
+      "basename": "PCA",
+      "path": "uncleaned/PCA.md"
     },
     {
-      "basename": "big o notation",
-      "path": "uncleaned/big o notation.md"
+      "basename": "Data Engineering",
+      "path": "uncleaned/Data Engineering.md"
+    },
+    {
+      "basename": "data engineering guides",
+      "path": "uncleaned/data engineering guides.md"
+    },
+    {
+      "basename": "Data Warehouse",
+      "path": "uncleaned/Data Warehouse.md"
+    },
+    {
+      "basename": "data lake 1",
+      "path": "uncleaned/data lake 1.md"
+    },
+    {
+      "basename": "data lakehouse",
+      "path": "uncleaned/data lakehouse.md"
+    },
+    {
+      "basename": "cloud provider",
+      "path": "uncleaned/cloud provider.md"
+    },
+    {
+      "basename": "Databricks",
+      "path": "uncleaned/Databricks.md"
     },
     {
       "basename": "Apache Spark",
       "path": "uncleaned/Apache Spark.md"
     },
     {
+      "basename": "kubernetes 1",
+      "path": "uncleaned/kubernetes 1.md"
+    },
+    {
+      "basename": "big o notation",
+      "path": "standardised/big o notation.md"
+    },
+    {
       "basename": "Apache Airflow",
-      "path": "uncleaned/Apache Airflow.md"
+      "path": "standardised/Apache Airflow.md"
     },
     {
-      "basename": "Scala",
-      "path": "uncleaned/Scala.md"
+      "basename": "Directed Acyclic Graph (DAG)",
+      "path": "standardised/Directed Acyclic Graph (DAG).md"
     },
     {
-      "basename": "Ridge",
-      "path": "uncleaned/Ridge.md"
+      "basename": "dimensions",
+      "path": "uncleaned/dimensions.md"
     },
     {
-      "basename": "p-values in linear regression in sklearn",
-      "path": "uncleaned/p-values in linear regression in sklearn.md"
-    },
-    {
-      "basename": "p values",
-      "path": "uncleaned/p values.md"
-    },
-    {
-      "basename": "melt",
-      "path": "uncleaned/melt.md"
+      "basename": "ELT",
+      "path": "uncleaned/ELT.md"
     },
     {
       "basename": "stack",
       "path": "uncleaned/stack.md"
     },
     {
-      "basename": "PySpark",
-      "path": "uncleaned/PySpark.md"
+      "basename": "SQL",
+      "path": "uncleaned/SQL.md"
     },
     {
-      "basename": "Feature Selection",
-      "path": "uncleaned/Feature Selection.md"
+      "basename": "Linear Regression",
+      "path": "uncleaned/Linear Regression.md"
+    },
+    {
+      "basename": "Deep learning frameworks",
+      "path": "uncleaned/Deep learning frameworks.md"
+    },
+    {
+      "basename": "Deep Learning",
+      "path": "uncleaned/Deep Learning.md"
+    },
+    {
+      "basename": "Get data",
+      "path": "uncleaned/Get data.md"
     }
   ],
   "omittedPaths": [],

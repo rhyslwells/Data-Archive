@@ -1,7 +1,7 @@
 ---
 tags:
-  - distributions
   - "#analysis"
+  - statistics
 ---
 like a [[Boxplot]]
 

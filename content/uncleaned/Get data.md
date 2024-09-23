@@ -24,25 +24,6 @@ text_end = [m.start() for m in re.finditer('End of Project Gutenberg', text)]
 text = text[text_start[1]:text_end[0]]
 ```
 
-# Example:
-
-# When are we done:
-
-# Ask Chatgpt:
-
-
-"""
-	# What is involved?
-	# Give an example:
-	# When are we done?
-"""
-
-
-
-
-
-
-## [[Get data]]
 
 How would you approach a colleague who is hesitant to share their data?
 ?

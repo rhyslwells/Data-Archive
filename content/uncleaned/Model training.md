@@ -3,7 +3,6 @@ tags:
   - ml
 ---
 
-
 Split data into training and testing sets.
 Train the model on the training set.
 

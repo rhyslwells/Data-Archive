@@ -3,7 +3,6 @@ title: Interpretability
 tags:
   - ml
   - drafting
-category: Data Science
 ---
 
 >[!Summary]

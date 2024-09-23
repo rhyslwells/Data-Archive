@@ -1,11 +1,8 @@
 ---
 tags:
   - pandas
-  - "#data"
   - "#analysis"
-aliases: 
-type: 
-created: 2024-06-21 15:23
+
 ---
 For when there are multiple fields
 

@@ -1,7 +1,6 @@
 ---
 title: Prompting
 tags: 
-category:
 ---
 
 

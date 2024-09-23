@@ -5,8 +5,6 @@ tags:
   - "#learning"
 ---
 
-tags:
----
 
 [Overview video](https://www.youtube.com/watch?v=MDP9FfsNx60)
 ## [[Tensorflow]]

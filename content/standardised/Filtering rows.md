@@ -1,10 +1,7 @@
 ---
 tags:
   - pandas
-  - "#data"
-  - "#analysis"
 ---
-
 
 `df_new=df[df["var1"]>=999]`
 

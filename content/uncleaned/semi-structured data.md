@@ -1,8 +1,8 @@
 ---
-title: "What is semi-structured data?"
+title: What is semi-structured data?
 tags:
-- data engineering
-- concept
+  - data
+  - engineering
 ---
 
 Semi-structured data is data that lacks a rigid structure and that does not conform directly to a data model, but that has tags, metadata, or elements that describe the data. Examples of semi-structured data are JSON or XML files. Semi-structured data often contains enough information that it can be relatively easily converted into structured data. 

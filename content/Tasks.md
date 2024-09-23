@@ -1,14 +1,20 @@
-## Small tasks
+### Notes
 
-- [ ] Clean pages folder:
-      These should include [[Data_Archive]] (what i am doing here),Questions related to areas of interest.
-- [ ] Figure out tags and bring to [[index]]
-- [ ] Monthly review also need to be added. Do Octobers.
-- [ ] Develop a good template for "standardised" notes.
+Chain of thought (logical math solving) reasoning with [[LLM]]'s as emergent behaviours
+
+Activation atlases is a viewing method for high dimensional space that AI system use for predictions. Example AlexNet (cofounder of OpenAI)
+# Investigating
+
+#drafting
+
 - [ ] Investigate excalidraw for here.
-- [ ] We should change Home to "Tasks/Ideas" so that Home is reserved for index.
 - [ ] We should also group/dataview questions into a questions page.
 
-## Ongoing tasks
+# Ongoing tasks
 
 - [ ] Move relevant files from "uncleaned" to "standardised".
+- [ ] See tags and clean and consolidate tags and related pages.
+- [ ] Monthly review also need to be added.
+# Organisation
+
+- [ ] Clean pages folder.

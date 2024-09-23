@@ -1,8 +1,7 @@
 ---
-title: What is EtLT?
+title: 
 tags:
   - engineering
-category: Data Engineering
 ---
 
 >[!important]

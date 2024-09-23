@@ -3,7 +3,6 @@ tags:
   - ml
   - classifer
 ---
-
 ## Description
 
 types are [[Supervised]] and [[Unsupervised]]
@@ -38,7 +37,7 @@ Examples:
 [[SVM]]
 ## Flashcards
 
-What is a [[Classifiers]]?;; It is an algorithm that categorizes data into one or more of a set of “classes.
+What is a [[Classifier]]?;; It is an algorithm that categorizes data into one or more of a set of “classes.
 
 **What is a [[Decision Tree]]?**;;A decision tree is a model that maps features to target values by making decisions at each internal node. It is constructed by recursively splitting the data based on the most informative feature.
 

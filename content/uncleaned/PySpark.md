@@ -11,7 +11,7 @@ created:
 
 Part of [[Spark]]
 
-[[DAG]]
+[[Directed Acyclic Graph (DAG)]]
 
 Interlinked with [[SQL]] queriers
 

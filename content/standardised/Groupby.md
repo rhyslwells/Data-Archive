@@ -1,8 +1,7 @@
 ---
 type: grouping
 tags:
-  - "#data"
-  - "#analysis"
+  - pandas
 ---
 
 See [[Groupby vs crosstab]] too
