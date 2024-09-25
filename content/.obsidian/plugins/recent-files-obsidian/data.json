@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Goals",
+      "path": "Monthly Review/Goals.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
       "basename": "Questions",
       "path": "pages/Questions.md"
     },
     {
       "basename": "How do businesses use Gen AI",
       "path": "standardised/How do businesses use Gen AI.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Tasks.md"
     },
     {
       "basename": "How to reduce the need for Gen AI responses",
@@ -27,10 +31,6 @@
     {
       "basename": "ExcaliBrain",
       "path": "plugins/ExcaliBrain.md"
-    },
-    {
-      "basename": "Goals",
-      "path": "Monthly Review/Goals.md"
     },
     {
       "basename": "What common techniques are used to determine if a Gen AI is good",
