@@ -12,11 +12,12 @@
   "vscode-editor",
   "homepage",
   "dataview",
-  "obsidian-view-mode-by-frontmatter",
   "obsidian-annotator",
   "obsidian-linter",
   "highlightr-plugin",
   "templater-obsidian",
   "obsidian-excalidraw-plugin",
-  "obsidian-tagfolder"
+  "obsidian-tagfolder",
+  "obsidian42-strange-new-worlds",
+  "excalibrain"
 ]

@@ -11,7 +11,7 @@ Type: [[Classification]] [[Unsupervised]]
 ## [[How to pick the best hyperparameters]]:
 
 [[WCSS and elbow method]]
-## [[Interpretation]]
+## [[interpretability]]
 
 [[Standardisation]] is usefull to bring features to the same scale, as clusters look crappy if you dont [[Standardisation]].
 ```python

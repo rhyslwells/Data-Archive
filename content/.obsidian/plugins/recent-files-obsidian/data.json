@@ -1,8 +1,84 @@
 {
   "recentFiles": [
     {
+      "basename": "Questions",
+      "path": "pages/Questions.md"
+    },
+    {
+      "basename": "How do businesses use Gen AI",
+      "path": "standardised/How do businesses use Gen AI.md"
+    },
+    {
       "basename": "Tasks",
       "path": "Tasks.md"
+    },
+    {
+      "basename": "How to reduce the need for Gen AI responses",
+      "path": "uncleaned/How to reduce the need for Gen AI responses.md"
+    },
+    {
+      "basename": "How do we we access Gen AI generated content",
+      "path": "uncleaned/How do we we access Gen AI generated content.md"
+    },
+    {
+      "basename": "Dataview Inbox",
+      "path": "plugins/Dataview Inbox.md"
+    },
+    {
+      "basename": "ExcaliBrain",
+      "path": "plugins/ExcaliBrain.md"
+    },
+    {
+      "basename": "Goals",
+      "path": "Monthly Review/Goals.md"
+    },
+    {
+      "basename": "What common techniques are used to determine if a Gen AI is good",
+      "path": "uncleaned/What common techniques are used to determine if a Gen AI is good.md"
+    },
+    {
+      "basename": "Attention mechanism",
+      "path": "uncleaned/Attention mechanism.md"
+    },
+    {
+      "basename": "reinforcement learning",
+      "path": "uncleaned/reinforcement learning.md"
+    },
+    {
+      "basename": "Sarsa",
+      "path": "uncleaned/Sarsa.md"
+    },
+    {
+      "basename": "How do we control a generative AI in business through the use of guardrails",
+      "path": "uncleaned/How do we control a generative AI in business through the use of guardrails.md"
+    },
+    {
+      "basename": "neural nets",
+      "path": "uncleaned/neural nets.md"
+    },
+    {
+      "basename": "Why do we do feature importance",
+      "path": "uncleaned/Why do we do feature importance.md"
+    },
+    {
+      "basename": "Why use isolation forest (Random Forests) for outliers detection",
+      "path": "uncleaned/Why use isolation forest (Random Forests) for outliers detection.md"
+    },
+    {
+      "basename": "AI Engineer",
+      "path": "uncleaned/AI Engineer.md"
+    },
+    {
+      "basename": "inferencing in Gen AI versus prediction in machine learning",
+      "path": "uncleaned/inferencing in Gen AI versus prediction in machine learning.md"
+    },
+    {
+      "basename": "interpretability",
+      "path": "standardised/interpretability.md"
+    },
+    {
+      "basename": "Active Learning",
+      "path": "uncleaned/Active Learning.md"
     },
     {
       "basename": "quartz discussion",
@@ -15,14 +91,6 @@
     {
       "basename": "index",
       "path": "index.md"
-    },
-    {
-      "basename": "Questions",
-      "path": "pages/Questions.md"
-    },
-    {
-      "basename": "Why use isolation forest (Random Forests) for outliers detection",
-      "path": "uncleaned/Why use isolation forest (Random Forests) for outliers detection.md"
     },
     {
       "basename": "Kaggle Abalone regression example",
@@ -39,10 +107,6 @@
     {
       "basename": "Why use isolation forest ([[Random Forests",
       "path": "uncleaned/Why use isolation forest ([[Random Forests.md"
-    },
-    {
-      "basename": "Why do we do feature importance",
-      "path": "uncleaned/Why do we do feature importance.md"
     },
     {
       "basename": "Model training",
@@ -63,10 +127,6 @@
     {
       "basename": "Logistic Regression",
       "path": "uncleaned/Logistic Regression.md"
-    },
-    {
-      "basename": "interpretability",
-      "path": "standardised/interpretability.md"
     },
     {
       "basename": "Pasted image 20240922201606",
@@ -139,66 +199,6 @@
     {
       "basename": "data lakehouse",
       "path": "uncleaned/data lakehouse.md"
-    },
-    {
-      "basename": "cloud provider",
-      "path": "uncleaned/cloud provider.md"
-    },
-    {
-      "basename": "Databricks",
-      "path": "uncleaned/Databricks.md"
-    },
-    {
-      "basename": "Apache Spark",
-      "path": "uncleaned/Apache Spark.md"
-    },
-    {
-      "basename": "kubernetes 1",
-      "path": "uncleaned/kubernetes 1.md"
-    },
-    {
-      "basename": "big o notation",
-      "path": "standardised/big o notation.md"
-    },
-    {
-      "basename": "Apache Airflow",
-      "path": "standardised/Apache Airflow.md"
-    },
-    {
-      "basename": "Directed Acyclic Graph (DAG)",
-      "path": "standardised/Directed Acyclic Graph (DAG).md"
-    },
-    {
-      "basename": "dimensions",
-      "path": "uncleaned/dimensions.md"
-    },
-    {
-      "basename": "ELT",
-      "path": "uncleaned/ELT.md"
-    },
-    {
-      "basename": "stack",
-      "path": "uncleaned/stack.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "uncleaned/SQL.md"
-    },
-    {
-      "basename": "Linear Regression",
-      "path": "uncleaned/Linear Regression.md"
-    },
-    {
-      "basename": "Deep learning frameworks",
-      "path": "uncleaned/Deep learning frameworks.md"
-    },
-    {
-      "basename": "Deep Learning",
-      "path": "uncleaned/Deep Learning.md"
-    },
-    {
-      "basename": "Get data",
-      "path": "uncleaned/Get data.md"
     }
   ],
   "omittedPaths": [],

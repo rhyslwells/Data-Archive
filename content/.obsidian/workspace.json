@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9306e35db436fdec",
+        "id": "44c85d48410c4a33",
         "type": "tabs",
         "children": [
           {
-            "id": "f283c545833d7068",
+            "id": "705b27bf55faf329",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,48 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d7f89be2bd98c559",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Questions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "14615ddaebc505c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "standardised/How do businesses use Gen AI.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1dc87765178e331d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Questions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.50922393798828
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5b13eed461f71e5a",
@@ -97,7 +138,7 @@
       {
         "id": "9454b722f578abbd",
         "type": "tabs",
-        "dimension": 27.50333778371162,
+        "dimension": 36.44859813084112,
         "children": [
           {
             "id": "ff3901bb682c970e",
@@ -111,20 +152,12 @@
             }
           },
           {
-            "id": "2dac4c1a5f309628",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
             "id": "b533c6a45f780726",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tasks.md",
+                "file": "pages/Questions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,18 +180,47 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.6904633602123104,
                   "close": true
                 }
               }
             }
+          },
+          {
+            "id": "ac5043f9f52388f7",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
+          },
+          {
+            "id": "783bc148f60a6d6d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2850395f208fa3e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pages/Questions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "71bdd913dd026b43",
         "type": "tabs",
-        "dimension": 72.49666221628839,
+        "dimension": 63.55140186915887,
         "children": [
           {
             "id": "023b75570ad2cd68",
@@ -166,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "pages/Questions.md"
               }
             }
           },
@@ -176,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "pages/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,29 +248,18 @@
                 "unlinkedCollapsed": false
               }
             }
-          },
-          {
-            "id": "28da7ea0ac42d34e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Tasks.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
+    "width": 401.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "vim-toggle:Toggle Vim Mode": false,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
@@ -226,38 +277,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c1b62b58193264ce",
+  "active": "d7f89be2bd98c559",
   "lastOpenFiles": [
-    "uncleaned/quartz discussion.md",
+    "standardised/How do businesses use Gen AI.md",
+    "pages/Questions.md",
     "Tasks.md",
+    "uncleaned/How to reduce the need for Gen AI responses.md",
+    "uncleaned/How do we we access Gen AI generated content.md",
+    "plugins/Dataview Inbox.md",
+    "plugins/ExcaliBrain.md",
+    "plugins/excalibrain.md",
+    "Monthly Review/Goals.md",
+    "uncleaned/What common techniques are used to determine if a Gen AI is good.md",
+    "uncleaned/Attention mechanism.md",
+    "uncleaned/reinforcement learning.md",
+    "uncleaned/Sarsa.md",
+    "uncleaned/How do we control a generative AI in business through the use of guardrails.md",
+    "uncleaned/neural nets.md",
+    "uncleaned/Why do we do feature importance.md",
+    "uncleaned/Why use isolation forest (Random Forests) for outliers detection.md",
+    "uncleaned/AI Engineer.md",
+    "uncleaned/How do businesses have governance with constantly depreciated gen AI models.md",
+    "uncleaned/inferencing in Gen AI versus prediction in machine learning.md",
+    "standardised/interpretability.md",
+    "uncleaned/Interpretation.md",
+    "uncleaned/Active Learning.md",
+    "uncleaned/quartz discussion.md",
     "uncleaned/LLM.md",
     "index.md",
-    "pages/Questions.md",
-    "uncleaned/Why use isolation forest (Random Forests) for outliers detection.md",
-    "uncleaned/Kaggle Abalone regression example.md",
-    "uncleaned/Scikit-learn.md",
-    "uncleaned/Transformed Target Regressor.md",
-    "uncleaned/Why use isolation forest ([[Random Forests.md",
-    "uncleaned/Why do we do feature importance.md",
-    "uncleaned/Model training.md",
-    "uncleaned/Cross validation.md",
-    "uncleaned/Classifier.md",
-    "uncleaned/Sklearn Pipiline.md",
-    "uncleaned/Logistic Regression.md",
-    "standardised/interpretability.md",
-    "term/data transformation.md",
     "images/Pasted image 20240922201606.png",
-    "standardised/jinja template.md",
-    "standardised/Flask.md",
     "images/Pasted image 20240922202938.png",
     "images/Pasted image 20240922202345.png",
     "images/Pasted image 20240922202323.png",
-    "uncleaned/granularity.md",
-    "standardised/Groupby.md",
-    "standardised/Filtering rows.md",
-    "uncleaned/PowerBI.md",
-    "uncleaned/notebooks.md",
-    "uncleaned/reverse etl.md",
     "term",
     "Pasted Image 20240921184050_291.png",
     "Excalidraw/Drawing 2024-09-21 18.34.33.excalidraw.png",

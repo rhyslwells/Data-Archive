@@ -125,3 +125,9 @@ Need comprehensibility and accuracy in explanations to enhance user understandin
 - **Methodology**: Incorporate techniques that can produce contrastive explanations while maintaining accuracy and fidelity to the model's predictions.
 - **Audience Awareness**: Understanding the audience's social context and prior beliefs is crucial for effective communication of model outcomes.
 
+
+
+
+
+- Understand how the model makes predictions.
+- Use techniques like feature importance scores or LIME to explain individual predictions.

@@ -18,3 +18,7 @@ Activation atlases is a viewing method for high dimensional space that AI system
 # Organisation
 
 - [ ] Clean pages folder.
+- [ ] Update projects on blog.
+- [ ] Link Goals with to blog.   
+- [ ] Use notes from attended talks to get [[Questions]] and generate starting answers with GPT.
+- [ ] Apply tags to answered [[Questions]].
