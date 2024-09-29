@@ -1,6 +1,12 @@
-#ml
+---
+title: 
+tags:
+  - ml
+---
 
-Gradient descent is an optimization algorithm used to minimize errors in a model by adjusting its parameters iteratively. It works by moving in the direction of the steepest decrease of the [[loss function]].
+
+>[!Summary]
+> Gradient descent is an optimization algorithm used to minimize errors in a model by adjusting its parameters iteratively. It works by moving in the direction of the steepest decrease of the [[loss function]].
 
 ## Q&A's
 

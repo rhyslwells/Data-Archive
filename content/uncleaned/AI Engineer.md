@@ -6,4 +6,4 @@ They know what
 - [[LSTM]] means
 - [[Attention mechanism]]
 - [[prompting]] optimisation
-- Knowing [[neural nets]]
+- Knowing [[What is a neural network]]

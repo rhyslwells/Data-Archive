@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "44c85d48410c4a33",
+        "id": "c6671c58b502f554",
         "type": "tabs",
         "children": [
           {
-            "id": "d7f89be2bd98c559",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Questions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1dc87765178e331d",
+            "id": "4ad99cfc66c56582",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -36,12 +23,12 @@
             }
           },
           {
-            "id": "801517370ae3aa0f",
+            "id": "bfcbf53daa4ac9c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly Review/Goals.md",
+                "file": "pages/Questions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#learning",
+                "query": "tag:#drafting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -115,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 256.5092239379883
   },
   "right": {
     "id": "5b13eed461f71e5a",
@@ -124,7 +111,7 @@
       {
         "id": "9454b722f578abbd",
         "type": "tabs",
-        "dimension": 36.44859813084112,
+        "dimension": 54.68940316686967,
         "children": [
           {
             "id": "ff3901bb682c970e",
@@ -143,10 +130,10 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Monthly Review/Goals.md",
+                "file": "pages/Questions.md",
                 "options": {
                   "collapse-filter": true,
-                  "search": "",
+                  "search": "#question",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
@@ -154,8 +141,23 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag: #question  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    }
+                  ],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
@@ -194,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monthly Review/Goals.md",
+                "file": "pages/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +208,7 @@
       {
         "id": "71bdd913dd026b43",
         "type": "tabs",
-        "dimension": 63.55140186915887,
+        "dimension": 45.31059683313033,
         "children": [
           {
             "id": "023b75570ad2cd68",
@@ -214,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly Review/Goals.md"
+                "file": "pages/Questions.md"
               }
             }
           },
@@ -224,8 +226,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monthly Review/Goals.md",
-                "collapseAll": false,
+                "file": "pages/Questions.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -240,12 +242,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5,
+    "width": 350.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "vim-toggle:Toggle Vim Mode": false,
+      "vim-toggle:Toggle Vim Mode": true,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
@@ -253,44 +255,46 @@
       "command-palette:Open command palette": true,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": true,
-      "graph:Open graph view": true,
+      "graph:Open graph view": false,
       "obsidian-spaced-repetition:Review flashcards": true,
       "obsidian-kanban:Create new board": true,
       "obsidian-projects:Open projects": true,
       "vscode-editor:Create Code File": true,
       "homepage:Open homepage": true,
       "templater-obsidian:Templater": true,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "darlal-switcher-plus:Open in Headings Mode": true,
+      "darlal-switcher-plus:Open Symbols for the active editor": true
     }
   },
-  "active": "801517370ae3aa0f",
+  "active": "bfcbf53daa4ac9c6",
   "lastOpenFiles": [
     "Tasks.md",
     "pages/Questions.md",
-    "standardised/How do businesses use Gen AI.md",
-    "uncleaned/How to reduce the need for Gen AI responses.md",
+    "standardised/RAG.md",
+    "images/Pasted image 20240928194559.png",
+    "templates/note.md",
+    "uncleaned/How does chain of thought work.md",
     "uncleaned/How do we we access Gen AI generated content.md",
-    "plugins/Dataview Inbox.md",
-    "plugins/ExcaliBrain.md",
-    "plugins/excalibrain.md",
-    "Monthly Review/Goals.md",
-    "uncleaned/What common techniques are used to determine if a Gen AI is good.md",
-    "uncleaned/Attention mechanism.md",
-    "uncleaned/reinforcement learning.md",
-    "uncleaned/Sarsa.md",
-    "uncleaned/How do we control a generative AI in business through the use of guardrails.md",
-    "uncleaned/neural nets.md",
-    "uncleaned/Why do we do feature importance.md",
-    "uncleaned/Why use isolation forest (Random Forests) for outliers detection.md",
-    "uncleaned/AI Engineer.md",
-    "uncleaned/How do businesses have governance with constantly depreciated gen AI models.md",
+    "uncleaned/BERTScore.md",
+    "Monthly Review/October 2024.md",
+    "uncleaned/Summary table creation.md",
     "uncleaned/inferencing in Gen AI versus prediction in machine learning.md",
-    "standardised/interpretability.md",
-    "uncleaned/Interpretation.md",
-    "uncleaned/Active Learning.md",
-    "uncleaned/quartz discussion.md",
-    "uncleaned/LLM.md",
-    "index.md",
+    "standardised/Is a knowledge graph the same a RAG setup.md",
+    "standardised/What is a Digital twin.md",
+    "Monthly Review/Goals.md",
+    "standardised/Knowledge Graph.md",
+    "uncleaned/Knowledge Graph.md",
+    "uncleaned/Retrieval-Augmented Generation (RAG).md",
+    "uncleaned/How does backpropagation work.md",
+    "uncleaned/Gradient Descent.md",
+    "uncleaned/Backpropagation.md",
+    "standardised/What is a neural network.md",
+    "uncleaned/Transformer Network.md",
+    "uncleaned/Forward Propagation.md",
+    "uncleaned/machine_learning.md",
+    "uncleaned/Neural network.md",
+    "uncleaned/neural nets.md",
     "images/Pasted image 20240922201606.png",
     "images/Pasted image 20240922202938.png",
     "images/Pasted image 20240922202345.png",
@@ -308,7 +312,6 @@
     "images/Pasted image 20240916075433.png",
     "standardised",
     "notes/done",
-    "images/Pasted image 20240415105641.png",
     "uncleaned notes",
     "New folder",
     "pages",

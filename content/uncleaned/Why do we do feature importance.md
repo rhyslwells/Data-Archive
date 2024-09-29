@@ -1,3 +1,13 @@
+---
+title: 
+tags:
+  - question
+importance: 
+engagement: 
+recency_of_interest: 2024-09-26
+---
+
+
 [[Why do we do feature importance]]
 - [[feature importance]]
 - help in understanding which features are most influential in making predictions.

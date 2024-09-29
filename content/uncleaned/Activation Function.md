@@ -4,7 +4,7 @@ tags:
 ---
 
 
-Used in [[Neural networks]] for non-linearity
+Used in [[What is a neural network]] for non-linearity
 
 - **Sigmoid:** S-shaped curve (0 to 1) often used in binary classification. Image of Sigmoid activation function: [https://en.wikipedia.org/wiki/Sigmoid_function](https://en.wikipedia.org/wiki/Sigmoid_function)
 - **ReLU (Rectified Linear Unit):** Outputs input directly if positive, otherwise 0. Simple and efficient, often used in modern deep neural networks. Image of ReLU activation function: [https://en.wikipedia.org/wiki/Rectifier_(neural_networks](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))

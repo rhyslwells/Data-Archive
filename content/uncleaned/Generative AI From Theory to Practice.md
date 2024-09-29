@@ -1,7 +1,7 @@
 ### Objective:
 
  How do LLMs work and operate.  
- Enabling LLM's at scale:
+ Enabling [[LLM]]'s at scale:
  Explore recent AI and Generative AI language models 
 
 
@@ -16,7 +16,7 @@ How train: Use [[Markov chain]] for prediction of the next [[Tokenisation]]
 Tokeniser: map from token to number
 
 1. Pre-training: tokenise input using [[NLP]] techqinues
-2. LLM looks at context: nearby tokens, in order to predict
+2. [[LLM]] looks at context: nearby tokens, in order to predict
 
 different implmentationg for differnet languages. Differnet tokenisers or translating after.
 
@@ -66,7 +66,7 @@ image model techniques:
 - image to image
 ## Notes: 
 
-Use LLM's to get short info, then cluster.
+Use [[LLM]]'s to get short info, then cluster.
 Going round training data : called a Epochs
 
 

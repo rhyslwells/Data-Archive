@@ -1,22 +1,51 @@
 {
   "collapse-filter": false,
-  "search": "file:out",
-  "showTags": true,
+  "search": "f",
+  "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#question  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag: #ml  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:sta",
+      "color": {
+        "a": 1,
+        "rgb": 369416
+      }
+    },
+    {
+      "query": "path: uncleaned  ",
+      "color": {
+        "a": 1,
+        "rgb": 7566195
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.7,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.90805516174765,
+  "lineSizeMultiplier": 2.29202216780513,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.360742363706663,
   "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.769132732170347,
-  "close": false
+  "linkStrength": 0.760793916741848,
+  "linkDistance": 112,
+  "scale": 0.20520480837929594,
+  "close": true
 }

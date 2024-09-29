@@ -30,7 +30,7 @@ Models can take in pandas datas frames of numpy arrays.
 
 Examples: 
 
-[[Neural networks]]
+[[What is a neural network]]
 [[Regression]]
 [[Naive Bayes]]
 [[Decision Tree]]

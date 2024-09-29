@@ -1,7 +1,17 @@
-Controlling a generative AI in business through the use of guardrails ensures that the AI remains aligned with specific business goals and avoids unintended or harmful outputs. Guardrails are essential for maintaining security, compliance, and reliability in AI systems. Here's an outline based on your notes:
+---
+title: 
+tags:
+  - question
+  - GenAI
+  - business
+importance: 5
+engagement: 5
+recency_of_interest: 2024-09-26
+---
+Controlling a generative AI in business through the use of [[guardrails]] ensures that the AI remains aligned with specific business goals and avoids unintended or harmful outputs. Guardrails are essential for maintaining security, compliance, and reliability in AI systems. Here's an outline based on your notes:
 
 ### 1. **Input Guardrails**
-   - **Prompt Injection Control**: To prevent users from prompting the AI in ways that could result in harmful or inappropriate responses, filtering or validating inputs can be essential. This reduces the risk of the model being "jailbroken" (i.e., forced to generate outputs outside its intended use case).
+   - **Prompt Injection Control**:[[prompting]] To prevent users from prompting the AI in ways that could result in harmful or inappropriate responses, filtering or validating inputs can be essential. This reduces the risk of the model being "jailbroken" (i.e., forced to generate outputs outside its intended use case).
    - **Topic Restriction**: Limit the AI’s inputs to specific business-relevant topics. For instance, if the AI is designed for customer support, it should ignore inputs about unrelated topics (e.g., entertainment or politics).
    - **User Authentication**: Depending on business needs, certain input guardrails can restrict access to specific features or sensitive information based on user credentials or roles.
 

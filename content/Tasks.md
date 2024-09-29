@@ -1,15 +1,4 @@
-### Notes
-
-Chain of thought (logical math solving) reasoning with [[LLM]]'s as emergent behaviours
-
-Activation atlases is a viewing method for high dimensional space that AI system use for predictions. Example AlexNet (cofounder of OpenAI)
-# Investigating
-
 #drafting
-
-- [ ] Investigate excalidraw for here.
-- [ ] We should also group/dataview questions into a questions page.
-
 # Ongoing tasks
 
 - [ ] Move relevant files from "uncleaned" to "standardised".
@@ -17,7 +6,7 @@ Activation atlases is a viewing method for high dimensional space that AI system
 - [ ] Monthly review also need to be added.
 # Organisation
 
-- [ ] Clean pages folder.
+- [ ] Clean pages folder, and ensure work on quartz.
 - [ ] Update projects on blog.
 - [ ] Link Goals with to blog.   
 - [ ] Use notes from attended talks to get [[Questions]] and generate starting answers with GPT.

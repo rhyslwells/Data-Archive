@@ -1,10 +1,7 @@
 ---
 title: General Infos (Folder Structure, Links)
-tags: []
-weight: -9
+tags: 
 ---
-
-
 ## Folder Structure
 The content of the Glossary is in `content/term` folder. The rest outside of `content/` is the website/framework.
 

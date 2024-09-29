@@ -1,88 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "Goals",
-      "path": "Monthly Review/Goals.md"
+      "basename": "Questions",
+      "path": "pages/Questions.md"
     },
     {
       "basename": "Tasks",
       "path": "Tasks.md"
     },
     {
-      "basename": "Questions",
-      "path": "pages/Questions.md"
+      "basename": "RAG",
+      "path": "standardised/RAG.md"
     },
     {
-      "basename": "How do businesses use Gen AI",
-      "path": "standardised/How do businesses use Gen AI.md"
+      "basename": "note",
+      "path": "templates/note.md"
     },
     {
-      "basename": "How to reduce the need for Gen AI responses",
-      "path": "uncleaned/How to reduce the need for Gen AI responses.md"
+      "basename": "How does chain of thought work",
+      "path": "uncleaned/How does chain of thought work.md"
     },
     {
       "basename": "How do we we access Gen AI generated content",
       "path": "uncleaned/How do we we access Gen AI generated content.md"
     },
     {
-      "basename": "Dataview Inbox",
-      "path": "plugins/Dataview Inbox.md"
+      "basename": "BERTScore",
+      "path": "uncleaned/BERTScore.md"
     },
     {
-      "basename": "ExcaliBrain",
-      "path": "plugins/ExcaliBrain.md"
+      "basename": "October 2024",
+      "path": "Monthly Review/October 2024.md"
     },
     {
-      "basename": "What common techniques are used to determine if a Gen AI is good",
-      "path": "uncleaned/What common techniques are used to determine if a Gen AI is good.md"
-    },
-    {
-      "basename": "Attention mechanism",
-      "path": "uncleaned/Attention mechanism.md"
-    },
-    {
-      "basename": "reinforcement learning",
-      "path": "uncleaned/reinforcement learning.md"
-    },
-    {
-      "basename": "Sarsa",
-      "path": "uncleaned/Sarsa.md"
-    },
-    {
-      "basename": "How do we control a generative AI in business through the use of guardrails",
-      "path": "uncleaned/How do we control a generative AI in business through the use of guardrails.md"
-    },
-    {
-      "basename": "neural nets",
-      "path": "uncleaned/neural nets.md"
-    },
-    {
-      "basename": "Why do we do feature importance",
-      "path": "uncleaned/Why do we do feature importance.md"
-    },
-    {
-      "basename": "Why use isolation forest (Random Forests) for outliers detection",
-      "path": "uncleaned/Why use isolation forest (Random Forests) for outliers detection.md"
-    },
-    {
-      "basename": "AI Engineer",
-      "path": "uncleaned/AI Engineer.md"
+      "basename": "Summary table creation",
+      "path": "uncleaned/Summary table creation.md"
     },
     {
       "basename": "inferencing in Gen AI versus prediction in machine learning",
       "path": "uncleaned/inferencing in Gen AI versus prediction in machine learning.md"
     },
     {
-      "basename": "interpretability",
-      "path": "standardised/interpretability.md"
+      "basename": "Is a knowledge graph the same a RAG setup",
+      "path": "standardised/Is a knowledge graph the same a RAG setup.md"
     },
     {
-      "basename": "Active Learning",
-      "path": "uncleaned/Active Learning.md"
+      "basename": "What is a Digital twin",
+      "path": "standardised/What is a Digital twin.md"
     },
     {
-      "basename": "quartz discussion",
-      "path": "uncleaned/quartz discussion.md"
+      "basename": "Goals",
+      "path": "Monthly Review/Goals.md"
+    },
+    {
+      "basename": "Knowledge Graph",
+      "path": "standardised/Knowledge Graph.md"
+    },
+    {
+      "basename": "How does backpropagation work",
+      "path": "uncleaned/How does backpropagation work.md"
+    },
+    {
+      "basename": "Gradient Descent",
+      "path": "uncleaned/Gradient Descent.md"
+    },
+    {
+      "basename": "Backpropagation",
+      "path": "uncleaned/Backpropagation.md"
+    },
+    {
+      "basename": "What is a neural network",
+      "path": "standardised/What is a neural network.md"
+    },
+    {
+      "basename": "Transformer Network",
+      "path": "uncleaned/Transformer Network.md"
+    },
+    {
+      "basename": "Forward Propagation",
+      "path": "uncleaned/Forward Propagation.md"
+    },
+    {
+      "basename": "machine_learning",
+      "path": "uncleaned/machine_learning.md"
+    },
+    {
+      "basename": "What does observability mean in terms of machine learning",
+      "path": "standardised/What does observability mean in terms of machine learning.md"
+    },
+    {
+      "basename": "Chain of thought",
+      "path": "uncleaned/Chain of thought.md"
+    },
+    {
+      "basename": "What common techniques are used to determine if a Gen AI is good",
+      "path": "uncleaned/What common techniques are used to determine if a Gen AI is good.md"
+    },
+    {
+      "basename": "question",
+      "path": "templates/question.md"
     },
     {
       "basename": "LLM",
@@ -93,112 +109,96 @@
       "path": "index.md"
     },
     {
-      "basename": "Kaggle Abalone regression example",
-      "path": "uncleaned/Kaggle Abalone regression example.md"
+      "basename": "0 README",
+      "path": "plugins/0 README.md"
     },
     {
-      "basename": "Scikit-learn",
-      "path": "uncleaned/Scikit-learn.md"
+      "basename": "2024-09-26",
+      "path": "uncleaned/2024-09-26.md"
     },
     {
-      "basename": "Transformed Target Regressor",
-      "path": "uncleaned/Transformed Target Regressor.md"
+      "basename": "Q-Learning",
+      "path": "standardised/Q-Learning.md"
     },
     {
-      "basename": "Why use isolation forest ([[Random Forests",
-      "path": "uncleaned/Why use isolation forest ([[Random Forests.md"
+      "basename": "Sarsa",
+      "path": "standardised/Sarsa.md"
     },
     {
-      "basename": "Model training",
-      "path": "uncleaned/Model training.md"
+      "basename": "Core Algorithms in Reinforcement Learning",
+      "path": "uncleaned/Core Algorithms in Reinforcement Learning.md"
     },
     {
-      "basename": "Cross validation",
-      "path": "uncleaned/Cross validation.md"
+      "basename": "Single agent reinforcement learning",
+      "path": "uncleaned/Single agent reinforcement learning.md"
     },
     {
-      "basename": "Classifier",
-      "path": "uncleaned/Classifier.md"
+      "basename": "Tag Wrangler",
+      "path": "plugins/Tag Wrangler.md"
     },
     {
-      "basename": "Sklearn Pipiline",
-      "path": "uncleaned/Sklearn Pipiline.md"
+      "basename": "Dataview Inbox",
+      "path": "plugins/Dataview Inbox.md"
     },
     {
-      "basename": "Logistic Regression",
-      "path": "uncleaned/Logistic Regression.md"
+      "basename": "Why use isolation forest (Random Forests) for outliers detection",
+      "path": "uncleaned/Why use isolation forest (Random Forests) for outliers detection.md"
     },
     {
-      "basename": "Pasted image 20240922201606",
-      "path": "images/Pasted image 20240922201606.png"
+      "basename": "Why do we do feature importance",
+      "path": "uncleaned/Why do we do feature importance.md"
     },
     {
-      "basename": "jinja template",
-      "path": "standardised/jinja template.md"
+      "basename": "How to reduce the need for Gen AI responses",
+      "path": "uncleaned/How to reduce the need for Gen AI responses.md"
     },
     {
-      "basename": "Flask",
-      "path": "standardised/Flask.md"
+      "basename": "How do we control a generative AI in business through the use of guardrails",
+      "path": "uncleaned/How do we control a generative AI in business through the use of guardrails.md"
     },
     {
-      "basename": "granularity",
-      "path": "uncleaned/granularity.md"
+      "basename": "How do businesses use Gen AI",
+      "path": "standardised/How do businesses use Gen AI.md"
     },
     {
-      "basename": "Groupby",
-      "path": "standardised/Groupby.md"
+      "basename": "For other classifiers is there a similar process like regularisation in linear regression",
+      "path": "uncleaned/For other classifiers is there a similar process like regularisation in linear regression.md"
     },
     {
-      "basename": "Filtering rows",
-      "path": "standardised/Filtering rows.md"
+      "basename": "quartz general",
+      "path": "plugins/quartz general.md"
     },
     {
-      "basename": "PowerBI",
-      "path": "uncleaned/PowerBI.md"
+      "basename": "Quick Switcher ++",
+      "path": "plugins/Quick Switcher ++.md"
     },
     {
-      "basename": "reverse etl",
-      "path": "uncleaned/reverse etl.md"
+      "basename": "Note Dump",
+      "path": "uncleaned/Note Dump.md"
     },
     {
-      "basename": "Standardisation",
-      "path": "uncleaned/Standardisation.md"
+      "basename": "Activation atlases",
+      "path": "uncleaned/Activation atlases.md"
     },
     {
-      "basename": "data lineage",
-      "path": "standardised/data lineage.md"
+      "basename": "Knowledge Graphs with Obsidian",
+      "path": "uncleaned/Knowledge Graphs with Obsidian.md"
     },
     {
-      "basename": "data mesh",
-      "path": "uncleaned/data mesh.md"
+      "basename": "Generative AI From Theory to Practice",
+      "path": "uncleaned/Generative AI From Theory to Practice.md"
     },
     {
-      "basename": "Data Analysis",
-      "path": "uncleaned/Data Analysis.md"
+      "basename": "ExcaliBrain",
+      "path": "plugins/ExcaliBrain.md"
     },
     {
-      "basename": "PCA",
-      "path": "uncleaned/PCA.md"
+      "basename": "Attention mechanism",
+      "path": "uncleaned/Attention mechanism.md"
     },
     {
-      "basename": "Data Engineering",
-      "path": "uncleaned/Data Engineering.md"
-    },
-    {
-      "basename": "data engineering guides",
-      "path": "uncleaned/data engineering guides.md"
-    },
-    {
-      "basename": "Data Warehouse",
-      "path": "uncleaned/Data Warehouse.md"
-    },
-    {
-      "basename": "data lake 1",
-      "path": "uncleaned/data lake 1.md"
-    },
-    {
-      "basename": "data lakehouse",
-      "path": "uncleaned/data lakehouse.md"
+      "basename": "reinforcement learning",
+      "path": "uncleaned/reinforcement learning.md"
     }
   ],
   "omittedPaths": [],

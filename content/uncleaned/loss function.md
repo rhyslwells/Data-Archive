@@ -33,5 +33,5 @@ What would be a loss function in the following types of problems:
 
 ## Questions and answers
 
-What is a [[loss function]]?;; Function the measures how well a neural network's predictions match the actual target values, which we want to minimize and used in training and evaluation.
+What is a [[loss function]]?;; Function the measures how well a [[What is a neural network|neural network]]'s predictions match the actual target values, which we want to minimize and used in training and evaluation.
 <!--SR:!2024-04-14,3,250-->

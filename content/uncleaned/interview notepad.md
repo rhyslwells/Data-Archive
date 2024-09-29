@@ -3,7 +3,7 @@
 # Interview questions
 ### Technical data science questions
 
-Are you familiar with neural networks / deep learning and what kind?;; Yes, heard of [[Neural networks]], [[Recurrent Neural networks (RNN)]], deep learning is used in image recognition.
+Are you familiar with neural networks / deep learning and what kind?;; Yes, heard of [[What is a neural network]], [[Recurrent Neural networks (RNN)]], deep learning is used in image recognition.
 
 What is an issue with [[Random Forests]];; susceptible to overfitting, especially when dealing with noisy or high-dimensional data. Proper tuning of hyperparameters like the number of trees and maximum depth is crucial to mitigate this.
 

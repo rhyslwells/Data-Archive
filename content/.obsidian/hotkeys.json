@@ -17,33 +17,8 @@
       "key": "]"
     }
   ],
-  "editor:fold-all": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "ArrowUp"
-    }
-  ],
   "editor:toggle-fold": [],
   "editor:unfold-all": [],
-  "editor:fold-more": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "ArrowUp"
-    }
-  ],
-  "editor:fold-less": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
   "templater-obsidian:jump-to-next-cursor-location": [],
   "templater-obsidian:insert-templater": [
     {
@@ -70,15 +45,6 @@
         "Shift"
       ],
       "key": "H"
-    }
-  ],
-  "vim-toggle:toggle-vim": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "O"
     }
   ],
   "graph:open": [],
@@ -185,6 +151,51 @@
         "Shift"
       ],
       "key": "P"
+    }
+  ],
+  "workspace:goto-tab-1": [],
+  "darlal-switcher-plus:switcher-plus:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Backspace"
+    }
+  ],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "editor:fold-less": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:fold-more": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowUp"
     }
   ]
 }
