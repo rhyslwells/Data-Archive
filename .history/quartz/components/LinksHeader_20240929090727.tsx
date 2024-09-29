@@ -28,5 +28,3 @@ export default (() => {
   LinksHeader.css = style
   return LinksHeader
 }) satisfies QuartzComponentConstructor
-
-
