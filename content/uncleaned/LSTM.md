@@ -1,8 +1,6 @@
 ---
 title: 
 tags: 
-aliases:
-  - Transformer
 ---
 
 
@@ -12,4 +10,5 @@ aliases:
 >[!Example]
 >
 
-
+ 
+ long short-term memory 

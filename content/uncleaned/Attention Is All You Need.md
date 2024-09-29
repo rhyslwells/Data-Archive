@@ -1,8 +1,7 @@
 ---
 title: 
 tags: 
-aliases:
-  - Transformer
+category: paper
 ---
 
 
@@ -11,5 +10,3 @@ aliases:
 
 >[!Example]
 >
-
-

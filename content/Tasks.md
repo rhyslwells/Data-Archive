@@ -11,3 +11,4 @@
 - [ ] Link Goals with to blog.   
 - [ ] Use notes from attended talks to get [[Questions]] and generate starting answers with GPT.
 - [ ] Apply tags to answered [[Questions]].
+- [ ] Introduced yaml alaises, and category (paper)

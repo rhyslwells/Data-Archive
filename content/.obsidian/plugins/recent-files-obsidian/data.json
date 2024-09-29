@@ -5,8 +5,32 @@
       "path": "pages/Questions.md"
     },
     {
+      "basename": "LSTM",
+      "path": "uncleaned/LSTM.md"
+    },
+    {
+      "basename": "Transformer Network",
+      "path": "uncleaned/Transformer Network.md"
+    },
+    {
+      "basename": "What is the Attention mechanism",
+      "path": "uncleaned/What is the Attention mechanism.md"
+    },
+    {
+      "basename": "Recurrent Neural networks (RNN)",
+      "path": "uncleaned/Recurrent Neural networks (RNN).md"
+    },
+    {
       "basename": "Tasks",
       "path": "Tasks.md"
+    },
+    {
+      "basename": "Attention Is All You Need",
+      "path": "uncleaned/Attention Is All You Need.md"
+    },
+    {
+      "basename": "What does observability mean in terms of machine learning",
+      "path": "standardised/What does observability mean in terms of machine learning.md"
     },
     {
       "basename": "RAG",
@@ -73,20 +97,12 @@
       "path": "standardised/What is a neural network.md"
     },
     {
-      "basename": "Transformer Network",
-      "path": "uncleaned/Transformer Network.md"
-    },
-    {
       "basename": "Forward Propagation",
       "path": "uncleaned/Forward Propagation.md"
     },
     {
       "basename": "machine_learning",
       "path": "uncleaned/machine_learning.md"
-    },
-    {
-      "basename": "What does observability mean in terms of machine learning",
-      "path": "standardised/What does observability mean in terms of machine learning.md"
     },
     {
       "basename": "Chain of thought",
@@ -179,26 +195,6 @@
     {
       "basename": "Activation atlases",
       "path": "uncleaned/Activation atlases.md"
-    },
-    {
-      "basename": "Knowledge Graphs with Obsidian",
-      "path": "uncleaned/Knowledge Graphs with Obsidian.md"
-    },
-    {
-      "basename": "Generative AI From Theory to Practice",
-      "path": "uncleaned/Generative AI From Theory to Practice.md"
-    },
-    {
-      "basename": "ExcaliBrain",
-      "path": "plugins/ExcaliBrain.md"
-    },
-    {
-      "basename": "Attention mechanism",
-      "path": "uncleaned/Attention mechanism.md"
-    },
-    {
-      "basename": "reinforcement learning",
-      "path": "uncleaned/reinforcement learning.md"
     }
   ],
   "omittedPaths": [],
