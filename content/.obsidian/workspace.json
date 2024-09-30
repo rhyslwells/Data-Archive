@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ad99cfc66c56582",
+            "id": "ed7b0a68b66bd5d5",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,38 +23,27 @@
             }
           },
           {
-            "id": "bfcbf53daa4ac9c6",
+            "id": "2aeee3b7cdc0f4fd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Questions.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "d7503b55048a3fe8",
+            "id": "d19134e216cc69a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uncleaned/LSTM.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed7b0a68b66bd5d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uncleaned/Transformer Network.md",
+                "file": "Monthly Review/Goals.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5092239379883,
-    "collapsed": true
+    "width": 210.50198364257812
   },
   "right": {
     "id": "5b13eed461f71e5a",
@@ -157,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/Questions.md",
+                "file": "Monthly Review/Goals.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "#question",
@@ -223,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Questions.md",
+                "file": "Monthly Review/Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Questions.md"
+                "file": "Monthly Review/Goals.md"
               }
             }
           },
@@ -253,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Questions.md",
+                "file": "Monthly Review/Goals.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,15 +282,23 @@
       "darlal-switcher-plus:Open Symbols for the active editor": true
     }
   },
-  "active": "bfcbf53daa4ac9c6",
+  "active": "d19134e216cc69a0",
   "lastOpenFiles": [
-    "uncleaned/LSTM.md",
+    "Monthly Review/October 2024.md",
+    "Monthly Review/Goals.md",
     "pages/Questions.md",
+    "uncleaned/Untitled.md",
+    "standardised/Chain of thought.md",
+    "standardised/Json to Yaml.md",
+    "standardised/Json.md",
+    "uncleaned/yaml.md",
+    "Tasks.md",
+    "uncleaned/Industries of interest.md",
+    "uncleaned/LSTM.md",
     "uncleaned/Transformer Network.md",
     "uncleaned/What is the Attention mechanism.md",
     "uncleaned/Recurrent Neural networks (RNN).md",
     "uncleaned/Transformer.md",
-    "Tasks.md",
     "uncleaned/Attention Is All You Need.md",
     "standardised/What does observability mean in terms of machine learning.md",
     "standardised/RAG.md",
@@ -311,18 +307,10 @@
     "uncleaned/How does chain of thought work.md",
     "uncleaned/How do we we access Gen AI generated content.md",
     "uncleaned/BERTScore.md",
-    "Monthly Review/October 2024.md",
     "uncleaned/Summary table creation.md",
     "uncleaned/inferencing in Gen AI versus prediction in machine learning.md",
     "standardised/Is a knowledge graph the same a RAG setup.md",
     "standardised/What is a Digital twin.md",
-    "Monthly Review/Goals.md",
-    "standardised/Knowledge Graph.md",
-    "uncleaned/Knowledge Graph.md",
-    "uncleaned/Retrieval-Augmented Generation (RAG).md",
-    "uncleaned/How does backpropagation work.md",
-    "uncleaned/Gradient Descent.md",
-    "uncleaned/Backpropagation.md",
     "images/Pasted image 20240922201606.png",
     "images/Pasted image 20240922202938.png",
     "images/Pasted image 20240922202345.png",

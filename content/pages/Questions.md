@@ -27,7 +27,7 @@
 | [[How can data science tools and models be better integrated into decision-making processes in businesses]] |          |
 | [[Why is LSTM worse then using transformers]]                                                               |          |
 |                                                                                                             |          |
-
+[[Industries of interest]]
 ### Dataview
 
 ```dataview

@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Goals",
+      "path": "Monthly Review/Goals.md"
+    },
+    {
+      "basename": "October 2024",
+      "path": "Monthly Review/October 2024.md"
+    },
+    {
       "basename": "Questions",
       "path": "pages/Questions.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "uncleaned/Untitled.md"
+    },
+    {
+      "basename": "Chain of thought",
+      "path": "standardised/Chain of thought.md"
+    },
+    {
+      "basename": "Json to Yaml",
+      "path": "standardised/Json to Yaml.md"
+    },
+    {
+      "basename": "Json",
+      "path": "standardised/Json.md"
+    },
+    {
+      "basename": "yaml",
+      "path": "uncleaned/yaml.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "Industries of interest",
+      "path": "uncleaned/Industries of interest.md"
     },
     {
       "basename": "LSTM",
@@ -19,10 +55,6 @@
     {
       "basename": "Recurrent Neural networks (RNN)",
       "path": "uncleaned/Recurrent Neural networks (RNN).md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Tasks.md"
     },
     {
       "basename": "Attention Is All You Need",
@@ -53,10 +85,6 @@
       "path": "uncleaned/BERTScore.md"
     },
     {
-      "basename": "October 2024",
-      "path": "Monthly Review/October 2024.md"
-    },
-    {
       "basename": "Summary table creation",
       "path": "uncleaned/Summary table creation.md"
     },
@@ -71,10 +99,6 @@
     {
       "basename": "What is a Digital twin",
       "path": "standardised/What is a Digital twin.md"
-    },
-    {
-      "basename": "Goals",
-      "path": "Monthly Review/Goals.md"
     },
     {
       "basename": "Knowledge Graph",
@@ -103,10 +127,6 @@
     {
       "basename": "machine_learning",
       "path": "uncleaned/machine_learning.md"
-    },
-    {
-      "basename": "Chain of thought",
-      "path": "uncleaned/Chain of thought.md"
     },
     {
       "basename": "What common techniques are used to determine if a Gen AI is good",
@@ -179,22 +199,6 @@
     {
       "basename": "For other classifiers is there a similar process like regularisation in linear regression",
       "path": "uncleaned/For other classifiers is there a similar process like regularisation in linear regression.md"
-    },
-    {
-      "basename": "quartz general",
-      "path": "plugins/quartz general.md"
-    },
-    {
-      "basename": "Quick Switcher ++",
-      "path": "plugins/Quick Switcher ++.md"
-    },
-    {
-      "basename": "Note Dump",
-      "path": "uncleaned/Note Dump.md"
-    },
-    {
-      "basename": "Activation atlases",
-      "path": "uncleaned/Activation atlases.md"
     }
   ],
   "omittedPaths": [],
