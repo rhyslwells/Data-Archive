@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed7b0a68b66bd5d5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "2aeee3b7cdc0f4fd",
             "type": "leaf",
             "pinned": true,
@@ -38,12 +23,12 @@
             }
           },
           {
-            "id": "d19134e216cc69a0",
+            "id": "fdae3f270a8bc88d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly Review/Goals.md",
+                "file": "standardised/What is the Attention mechanism.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -51,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Monthly Review/Goals.md",
+                "file": "standardised/What is the Attention mechanism.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "#question",
@@ -211,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monthly Review/Goals.md",
+                "file": "standardised/What is the Attention mechanism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly Review/Goals.md"
+                "file": "standardised/What is the Attention mechanism.md"
               }
             }
           },
@@ -241,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monthly Review/Goals.md",
+                "file": "standardised/What is the Attention mechanism.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,35 +267,35 @@
       "darlal-switcher-plus:Open Symbols for the active editor": true
     }
   },
-  "active": "d19134e216cc69a0",
+  "active": "fdae3f270a8bc88d",
   "lastOpenFiles": [
-    "Monthly Review/October 2024.md",
-    "Monthly Review/Goals.md",
-    "pages/Questions.md",
-    "uncleaned/Untitled.md",
-    "standardised/Chain of thought.md",
-    "standardised/Json to Yaml.md",
-    "standardised/Json.md",
-    "uncleaned/yaml.md",
     "Tasks.md",
+    "standardised/What is the Attention mechanism.md",
+    "uncleaned/AI Engineer.md",
+    "uncleaned/Attention mechanism.md",
+    "uncleaned/Adjusted R squared.md",
+    "uncleaned/Ada boosting.md",
+    "standardised/Activation Function.md",
+    "uncleaned/Activation atlases.md",
+    "uncleaned/Accuracy score.md",
+    "pages/Questions.md",
+    "uncleaned/2024-09-26.md",
+    "Monthly Review/Goals.md",
+    "uncleaned/Reinforcement Learning Policy.md",
+    "standardised/Reinforcement learning.md",
     "uncleaned/Industries of interest.md",
-    "uncleaned/LSTM.md",
-    "uncleaned/Transformer Network.md",
-    "uncleaned/What is the Attention mechanism.md",
-    "uncleaned/Recurrent Neural networks (RNN).md",
-    "uncleaned/Transformer.md",
-    "uncleaned/Attention Is All You Need.md",
-    "standardised/What does observability mean in terms of machine learning.md",
-    "standardised/RAG.md",
-    "images/Pasted image 20240928194559.png",
-    "templates/note.md",
+    "uncleaned/Energy.md",
+    "uncleaned/Telecommunications.md",
+    "uncleaned/Education and Training.md",
+    "uncleaned/Mathematical Reasoning in Transformers.md",
+    "uncleaned/Reasoning tokens.md",
+    "standardised/Symbolic computation.md",
+    "uncleaned/Untitled 2.md",
+    "uncleaned/Untitled 1.md",
     "uncleaned/How does chain of thought work.md",
-    "uncleaned/How do we we access Gen AI generated content.md",
-    "uncleaned/BERTScore.md",
-    "uncleaned/Summary table creation.md",
-    "uncleaned/inferencing in Gen AI versus prediction in machine learning.md",
-    "standardised/Is a knowledge graph the same a RAG setup.md",
-    "standardised/What is a Digital twin.md",
+    "Monthly Review/October 2024.md",
+    "uncleaned/Untitled.md",
+    "images/Pasted image 20240928194559.png",
     "images/Pasted image 20240922201606.png",
     "images/Pasted image 20240922202938.png",
     "images/Pasted image 20240922202345.png",

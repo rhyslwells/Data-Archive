@@ -9,24 +9,32 @@
 
 ### Unanswered
 
-| Question                                                                                                    | Interest |
-| ----------------------------------------------------------------------------------------------------------- | -------- |
-| [[What is a transformer and how do they work]]                                                              | 10       |
-| [[How does chain of thought work]]                                                                          | 10       |
-| [[Why use isolation forest (Random Forests) for outliers detection]]                                        | 6        |
-| [[What is Sarsa in terms of single agent reinforcement learning]]                                           | 6        |
-| [[How does backpropagation work]]                                                                           | 5        |
-| [[How do multi-agents interact in reinforcement learning]]                                                  | 4        |
-| [[Why do we do feature importance]]                                                                         | 2        |
-| [[How does backpropagation work]]                                                                           | 2        |
-| [[For other classifiers is there a similar process like regularisation in linear regression]]               | 0        |
-| [[What is ExcaliBrain]]                                                                                     | 0        |
-| [[How can machine learning models be made more interpretable to non-technical stakeholders]]                |          |
-| [[How can we ensure that models generalize well to new, unseen data, especially in dynamic environments]]   |          |
-| [[What techniques can help models remain robust to noisy data]]                                             |          |
-| [[How can data science tools and models be better integrated into decision-making processes in businesses]] |          |
-| [[Why is LSTM worse then using transformers]]                                                               |          |
-|                                                                                                             |          |
+| Question                                                                                                                       | Interest |
+| ------------------------------------------------------------------------------------------------------------------------------ | -------- |
+| [[What is a transformer and how do they work]]                                                                                 | 10       |
+|                                                                                                                                |          |
+| [[Why use isolation forest (Random Forests) for outliers detection]]                                                           | 6        |
+| [[What is Sarsa in terms of single agent reinforcement learning]]                                                              | 6        |
+| [[How does backpropagation work]]                                                                                              | 5        |
+| [[How do multi-agents interact in reinforcement learning]]                                                                     | 4        |
+| [[Why do we do feature importance]]                                                                                            | 2        |
+| [[How does backpropagation work]]                                                                                              | 2        |
+| [[For other classifiers is there a similar process like regularisation in linear regression]]                                  | 0        |
+| [[What is ExcaliBrain]]                                                                                                        | 0        |
+| [[How can machine learning models be made more interpretable to non-technical stakeholders]]                                   |          |
+| [[How can we ensure that models generalize well to new, unseen data, especially in dynamic environments]]                      |          |
+| [[What techniques can help models remain robust to noisy data]]                                                                |          |
+| [[How can data science tools and models be better integrated into decision-making processes in businesses]]                    |          |
+| [[Why is LSTM worse then using transformers]]                                                                                  |          |
+| [[How do transformer models represent and manipulate mathematical structures to solve problems accurately?]]                   |          |
+| Current challenges withing the energy sector, related to reinforcement learning?                                               |          |
+| Current challenges withing the telecommunications sector, related to reinforcement learning?                                   |          |
+| What algorithms are popular within the energy sector?                                                                          |          |
+| What challenges face the energy sector, that can be progressed with recent technological advances?                             |          |
+| What techniques from information theory can be used to measure and optimize the amount of information conveyed by an AI model? |          |
+| What current methods are being used to improve interpretability on AI models?                                                  |          |
+| How do AI system provide formal mathematical models/frameworks to questions?                                                   |          |
+|                                                                                                                                |          |
 [[Industries of interest]]
 ### Dataview
 

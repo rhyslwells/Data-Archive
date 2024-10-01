@@ -6,8 +6,9 @@ tags:
 importance: 9
 engagement: 9
 recency_of_interest: 2024-09-29
+aliases:
+  - Attention mechanism
 ---
-
 >[!intuition]
 > Think of attention like human reading behavior: when reading a complex sentence, we don't process all the words equally at every moment. Instead, we might "attend" more to certain words based on the context of what we’ve read so far and what we're trying to understand. This is similar to what the attention mechanism does in neural networks.
 
@@ -17,7 +18,7 @@ recency_of_interest: 2024-09-29
 
 ### Core Idea of Attention
 
-The  [[Transformer Network|Transformer]] architecture, introduced by Vaswani et al. in 2017 ("[[Attention Is All You Need]]"), is the most popular use of the attention mechanism. The key innovation of Transformers is the **self-attention mechanism**, which ==allows each token in a sequence to attend to all other tokens==, making the model more efficient and scalable for parallel processing. ==Transformers replaced traditional RNN-based== models and have become the foundation of models like BERT, GPT, and T5.
+The  [[Transformer Network|Transformer]] architecture, introduced by Vaswani et al. in 2017 ("[[Attention Is All You Need]]"), is the most popular use of the attention mechanism. The key innovation of Transformers is the ==**self-attention mechanism**==, which ==allows each token in a sequence to attend to all other tokens==, making the model more efficient and scalable for parallel processing. ==Transformers replaced traditional RNN-based== models and have become the foundation of models like BERT, GPT, and T5.
 
 The attention mechanism allows a model to focus on different parts of an input sequence when making predictions, rather than relying on a fixed-size hidden state to encode all information. This selective "focus" can greatly enhance the model's ability to handle long-range dependencies.
 
@@ -60,3 +61,4 @@ Where:
 3. **Scaled Dot-Product Attention**: A variant of dot-product attention, used in the Transformer architecture, where the dot product is divided by the square root of the dimension of the key vectors to avoid excessively large gradients.
 
 4. **Self-Attention**: In this mechanism, the model applies attention to itself. This means each word in the input sequence attends to all other words in the sequence, including itself. Self-attention is used in models like Transformers to capture dependencies within a sentence.
+

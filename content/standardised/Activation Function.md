@@ -2,8 +2,6 @@
 tags:
   - deep_learning
 ---
-
-
 Used in [[What is a neural network]] for non-linearity
 
 - **Sigmoid:** S-shaped curve (0 to 1) often used in binary classification. Image of Sigmoid activation function: [https://en.wikipedia.org/wiki/Sigmoid_function](https://en.wikipedia.org/wiki/Sigmoid_function)

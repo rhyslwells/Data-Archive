@@ -1,16 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "Goals",
-      "path": "Monthly Review/Goals.md"
+      "basename": "What is the Attention mechanism",
+      "path": "standardised/What is the Attention mechanism.md"
     },
     {
-      "basename": "October 2024",
-      "path": "Monthly Review/October 2024.md"
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "AI Engineer",
+      "path": "uncleaned/AI Engineer.md"
+    },
+    {
+      "basename": "Adjusted R squared",
+      "path": "uncleaned/Adjusted R squared.md"
+    },
+    {
+      "basename": "Ada boosting",
+      "path": "uncleaned/Ada boosting.md"
+    },
+    {
+      "basename": "Activation Function",
+      "path": "standardised/Activation Function.md"
+    },
+    {
+      "basename": "Activation atlases",
+      "path": "uncleaned/Activation atlases.md"
+    },
+    {
+      "basename": "Accuracy score",
+      "path": "uncleaned/Accuracy score.md"
     },
     {
       "basename": "Questions",
       "path": "pages/Questions.md"
+    },
+    {
+      "basename": "Goals",
+      "path": "Monthly Review/Goals.md"
+    },
+    {
+      "basename": "Reinforcement Learning Policy",
+      "path": "uncleaned/Reinforcement Learning Policy.md"
+    },
+    {
+      "basename": "Reinforcement learning",
+      "path": "standardised/Reinforcement learning.md"
+    },
+    {
+      "basename": "Industries of interest",
+      "path": "uncleaned/Industries of interest.md"
+    },
+    {
+      "basename": "Energy",
+      "path": "uncleaned/Energy.md"
+    },
+    {
+      "basename": "Telecommunications",
+      "path": "uncleaned/Telecommunications.md"
+    },
+    {
+      "basename": "Education and Training",
+      "path": "uncleaned/Education and Training.md"
+    },
+    {
+      "basename": "Mathematical Reasoning in Transformers",
+      "path": "uncleaned/Mathematical Reasoning in Transformers.md"
+    },
+    {
+      "basename": "Reasoning tokens",
+      "path": "uncleaned/Reasoning tokens.md"
+    },
+    {
+      "basename": "Symbolic computation",
+      "path": "standardised/Symbolic computation.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "uncleaned/Untitled 2.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "uncleaned/Untitled 1.md"
+    },
+    {
+      "basename": "October 2024",
+      "path": "Monthly Review/October 2024.md"
     },
     {
       "basename": "Untitled",
@@ -33,24 +109,12 @@
       "path": "uncleaned/yaml.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Tasks.md"
-    },
-    {
-      "basename": "Industries of interest",
-      "path": "uncleaned/Industries of interest.md"
-    },
-    {
       "basename": "LSTM",
       "path": "uncleaned/LSTM.md"
     },
     {
       "basename": "Transformer Network",
       "path": "uncleaned/Transformer Network.md"
-    },
-    {
-      "basename": "What is the Attention mechanism",
-      "path": "uncleaned/What is the Attention mechanism.md"
     },
     {
       "basename": "Recurrent Neural networks (RNN)",
@@ -71,10 +135,6 @@
     {
       "basename": "note",
       "path": "templates/note.md"
-    },
-    {
-      "basename": "How does chain of thought work",
-      "path": "uncleaned/How does chain of thought work.md"
     },
     {
       "basename": "How do we we access Gen AI generated content",
@@ -135,70 +195,6 @@
     {
       "basename": "question",
       "path": "templates/question.md"
-    },
-    {
-      "basename": "LLM",
-      "path": "uncleaned/LLM.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
-      "basename": "0 README",
-      "path": "plugins/0 README.md"
-    },
-    {
-      "basename": "2024-09-26",
-      "path": "uncleaned/2024-09-26.md"
-    },
-    {
-      "basename": "Q-Learning",
-      "path": "standardised/Q-Learning.md"
-    },
-    {
-      "basename": "Sarsa",
-      "path": "standardised/Sarsa.md"
-    },
-    {
-      "basename": "Core Algorithms in Reinforcement Learning",
-      "path": "uncleaned/Core Algorithms in Reinforcement Learning.md"
-    },
-    {
-      "basename": "Single agent reinforcement learning",
-      "path": "uncleaned/Single agent reinforcement learning.md"
-    },
-    {
-      "basename": "Tag Wrangler",
-      "path": "plugins/Tag Wrangler.md"
-    },
-    {
-      "basename": "Dataview Inbox",
-      "path": "plugins/Dataview Inbox.md"
-    },
-    {
-      "basename": "Why use isolation forest (Random Forests) for outliers detection",
-      "path": "uncleaned/Why use isolation forest (Random Forests) for outliers detection.md"
-    },
-    {
-      "basename": "Why do we do feature importance",
-      "path": "uncleaned/Why do we do feature importance.md"
-    },
-    {
-      "basename": "How to reduce the need for Gen AI responses",
-      "path": "uncleaned/How to reduce the need for Gen AI responses.md"
-    },
-    {
-      "basename": "How do we control a generative AI in business through the use of guardrails",
-      "path": "uncleaned/How do we control a generative AI in business through the use of guardrails.md"
-    },
-    {
-      "basename": "How do businesses use Gen AI",
-      "path": "standardised/How do businesses use Gen AI.md"
-    },
-    {
-      "basename": "For other classifiers is there a similar process like regularisation in linear regression",
-      "path": "uncleaned/For other classifiers is there a similar process like regularisation in linear regression.md"
     }
   ],
   "omittedPaths": [],
