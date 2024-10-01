@@ -11,10 +11,10 @@ export default (() => {
       <div>
         <div id="links-header">
           <span>
-            <a href="/pages/Data_Archive">Data Archive</a>
+            <a href="/Data_Archive">Data Archive</a>
           </span>
           <span>
-            <a href="/pages/Questions">Questions</a>
+            <a href="/Questions">Questions</a>
           </span>
           <span>
             <a href="/Monthly_Review/Goals">Goals</a>
