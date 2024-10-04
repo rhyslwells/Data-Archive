@@ -13,3 +13,6 @@
 - [ ] Apply tags to answered [[Questions]].
 - [ ] Introduced yaml alaises, and category (paper)
 - [ ] Investigate [[Industries of interest]]
+- [ ] Finish [Stepping Forward](https://docs.google.com/document/d/1XA0Yz3QsmzvsasLehr2GcoZuc5e8lITEUxx00-FyNQA/edit?usp=drive_link)
+- [ ] Finish [Strategic Planning](https://docs.google.com/document/d/1EHHTpy2vgrY87Feu22rd_bc_z0bSCz9OZjSuL7Sce1k/edit?usp=drive_link)
+- [ ] 

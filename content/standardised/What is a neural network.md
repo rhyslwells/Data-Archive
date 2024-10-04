@@ -59,7 +59,7 @@ aliases:
 2. **Convolutional Neural Network (CNN)**:
    - Primarily used in image recognition and processing tasks. CNNs use convolutional layers to automatically detect spatial patterns in images, like edges and textures.
 
-3. **Recurrent Neural Network (RNN)**: [[Recurrent Neural networks (RNN)]]
+3. **Recurrent Neural Network (RNN)**: [[Recurrent Neural networks]]
    - Suitable for sequence-based tasks like time series forecasting and natural language processing. RNNs maintain information about previous inputs through feedback loops, making them effective for tasks where past information is important.
 
 4. **Generative Adversarial Networks (GANs)**:

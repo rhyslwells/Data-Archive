@@ -4,6 +4,8 @@ tags:
 ---
 Rag is a framework the help [[LLM]] be more up to date.
 
+RAG grounds the Gen AI in external data.
+
 >[!Summary]
 > Given a question sometimes the answer given is wrong, issue with [[LLM]] is no source of data and is out of date.  **RAG** is a specific architecture used in natural language processing ([[NLP]]), where a **retrieval mechanism** is combined with a **generative model** ([[Generative]]) (often a [[Transformer Network]] like GPT). RAG systems are designed to ==enhance the ability of a generative model to answer questions or generate content by incorporating factual knowledge retrieved from external data sources== (such as documents, databases, or knowledge repositories). RAG is the connection of [[LLM]]'s with external databases. 
 

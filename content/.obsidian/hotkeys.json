@@ -197,5 +197,13 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "vim-toggle:toggle-vim": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
   ]
 }

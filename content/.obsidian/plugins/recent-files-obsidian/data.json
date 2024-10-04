@@ -1,12 +1,184 @@
 {
   "recentFiles": [
     {
-      "basename": "What is the Attention mechanism",
-      "path": "standardised/What is the Attention mechanism.md"
+      "basename": "Fabric",
+      "path": "uncleaned/Fabric.md"
+    },
+    {
+      "basename": "PowerBI",
+      "path": "uncleaned/PowerBI.md"
+    },
+    {
+      "basename": "Data engineer",
+      "path": "uncleaned/Data engineer.md"
+    },
+    {
+      "basename": "Random Forests",
+      "path": "uncleaned/Random Forests.md"
+    },
+    {
+      "basename": "interview notepad",
+      "path": "uncleaned/interview notepad.md"
+    },
+    {
+      "basename": "How do you evaluate the performance of a machine learning model",
+      "path": "standardised/How do you evaluate the performance of a machine learning model.md"
+    },
+    {
+      "basename": "metrics layer",
+      "path": "uncleaned/metrics layer.md"
+    },
+    {
+      "basename": "What is Regression",
+      "path": "uncleaned/What is Regression.md"
+    },
+    {
+      "basename": "How do you handle Finding missing data",
+      "path": "uncleaned/How do you handle Finding missing data.md"
+    },
+    {
+      "basename": "how do you do the data selection",
+      "path": "uncleaned/how do you do the data selection.md"
+    },
+    {
+      "basename": "data selection",
+      "path": "uncleaned/data selection.md"
+    },
+    {
+      "basename": "Recurrent Neural networks",
+      "path": "uncleaned/Recurrent Neural networks.md"
+    },
+    {
+      "basename": "Energy",
+      "path": "standardised/Energy.md"
+    },
+    {
+      "basename": "What is a Digital twin",
+      "path": "standardised/What is a Digital twin.md"
+    },
+    {
+      "basename": "Questions",
+      "path": "pages/Questions.md"
+    },
+    {
+      "basename": "Policy",
+      "path": "standardised/Policy.md"
+    },
+    {
+      "basename": "In reinforcement learning how do we optimise policies",
+      "path": "uncleaned/In reinforcement learning how do we optimise policies.md"
+    },
+    {
+      "basename": "Reinforcement learning",
+      "path": "standardised/Reinforcement learning.md"
+    },
+    {
+      "basename": "Bellman Equations",
+      "path": "uncleaned/Bellman Equations.md"
+    },
+    {
+      "basename": "Multi-Agent Reinforcement Learning",
+      "path": "uncleaned/Multi-Agent Reinforcement Learning.md"
+    },
+    {
+      "basename": "Markov Decision Processes",
+      "path": "standardised/Markov Decision Processes.md"
+    },
+    {
+      "basename": "Industries of interest",
+      "path": "uncleaned/Industries of interest.md"
     },
     {
       "basename": "Tasks",
       "path": "Tasks.md"
+    },
+    {
+      "basename": "October 2024",
+      "path": "Monthly_Review/October 2024.md"
+    },
+    {
+      "basename": "Excel & Sheets",
+      "path": "Excel & Sheets.md"
+    },
+    {
+      "basename": "Interacting with datasets and there different formats",
+      "path": "uncleaned/Interacting with datasets and there different formats.md"
+    },
+    {
+      "basename": "0_note",
+      "path": "templates/0_note.md"
+    },
+    {
+      "basename": "Exploration vs. Exploitation",
+      "path": "uncleaned/Exploration vs. Exploitation.md"
+    },
+    {
+      "basename": "Exploration vs Exploitation",
+      "path": "uncleaned/Exploration vs Exploitation.md"
+    },
+    {
+      "basename": "Sarsa",
+      "path": "standardised/Sarsa.md"
+    },
+    {
+      "basename": "Education and Training",
+      "path": "uncleaned/Education and Training.md"
+    },
+    {
+      "basename": "November 2024",
+      "path": "Monthly_Review/November 2024.md"
+    },
+    {
+      "basename": "Goals",
+      "path": "Monthly_Review/Goals.md"
+    },
+    {
+      "basename": "monthly review",
+      "path": "templates/monthly review.md"
+    },
+    {
+      "basename": "Graph database",
+      "path": "uncleaned/Graph database.md"
+    },
+    {
+      "basename": "RAG",
+      "path": "standardised/RAG.md"
+    },
+    {
+      "basename": "Vector embedding",
+      "path": "uncleaned/Vector embedding.md"
+    },
+    {
+      "basename": "Model Interpretability Tools",
+      "path": "uncleaned/Model Interpretability Tools.md"
+    },
+    {
+      "basename": "Edge Machine Learning Models",
+      "path": "uncleaned/Edge Machine Learning Models.md"
+    },
+    {
+      "basename": "Machine Learning Operations",
+      "path": "uncleaned/Machine Learning Operations.md"
+    },
+    {
+      "basename": "Telecommunications",
+      "path": "uncleaned/Telecommunications.md"
+    },
+    {
+      "basename": "Digital Transformation",
+      "path": "standardised/Digital Transformation.md"
+    },
+    {
+      "basename": "Xournal++",
+      "path": "uncleaned/Xournal++.md"
+    },
+    {
+      "basename": "Data Mining - CRISP",
+      "path": "standardised/Data Mining - CRISP.md"
+    },
+    {
+      "basename": "What is the Attention mechanism",
+      "path": "standardised/What is the Attention mechanism.md"
     },
     {
       "basename": "AI Engineer",
@@ -27,174 +199,6 @@
     {
       "basename": "Activation atlases",
       "path": "uncleaned/Activation atlases.md"
-    },
-    {
-      "basename": "Accuracy score",
-      "path": "uncleaned/Accuracy score.md"
-    },
-    {
-      "basename": "Questions",
-      "path": "pages/Questions.md"
-    },
-    {
-      "basename": "Goals",
-      "path": "Monthly Review/Goals.md"
-    },
-    {
-      "basename": "Reinforcement Learning Policy",
-      "path": "uncleaned/Reinforcement Learning Policy.md"
-    },
-    {
-      "basename": "Reinforcement learning",
-      "path": "standardised/Reinforcement learning.md"
-    },
-    {
-      "basename": "Industries of interest",
-      "path": "uncleaned/Industries of interest.md"
-    },
-    {
-      "basename": "Energy",
-      "path": "uncleaned/Energy.md"
-    },
-    {
-      "basename": "Telecommunications",
-      "path": "uncleaned/Telecommunications.md"
-    },
-    {
-      "basename": "Education and Training",
-      "path": "uncleaned/Education and Training.md"
-    },
-    {
-      "basename": "Mathematical Reasoning in Transformers",
-      "path": "uncleaned/Mathematical Reasoning in Transformers.md"
-    },
-    {
-      "basename": "Reasoning tokens",
-      "path": "uncleaned/Reasoning tokens.md"
-    },
-    {
-      "basename": "Symbolic computation",
-      "path": "standardised/Symbolic computation.md"
-    },
-    {
-      "basename": "Untitled 2",
-      "path": "uncleaned/Untitled 2.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "uncleaned/Untitled 1.md"
-    },
-    {
-      "basename": "October 2024",
-      "path": "Monthly Review/October 2024.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "uncleaned/Untitled.md"
-    },
-    {
-      "basename": "Chain of thought",
-      "path": "standardised/Chain of thought.md"
-    },
-    {
-      "basename": "Json to Yaml",
-      "path": "standardised/Json to Yaml.md"
-    },
-    {
-      "basename": "Json",
-      "path": "standardised/Json.md"
-    },
-    {
-      "basename": "yaml",
-      "path": "uncleaned/yaml.md"
-    },
-    {
-      "basename": "LSTM",
-      "path": "uncleaned/LSTM.md"
-    },
-    {
-      "basename": "Transformer Network",
-      "path": "uncleaned/Transformer Network.md"
-    },
-    {
-      "basename": "Recurrent Neural networks (RNN)",
-      "path": "uncleaned/Recurrent Neural networks (RNN).md"
-    },
-    {
-      "basename": "Attention Is All You Need",
-      "path": "uncleaned/Attention Is All You Need.md"
-    },
-    {
-      "basename": "What does observability mean in terms of machine learning",
-      "path": "standardised/What does observability mean in terms of machine learning.md"
-    },
-    {
-      "basename": "RAG",
-      "path": "standardised/RAG.md"
-    },
-    {
-      "basename": "note",
-      "path": "templates/note.md"
-    },
-    {
-      "basename": "How do we we access Gen AI generated content",
-      "path": "uncleaned/How do we we access Gen AI generated content.md"
-    },
-    {
-      "basename": "BERTScore",
-      "path": "uncleaned/BERTScore.md"
-    },
-    {
-      "basename": "Summary table creation",
-      "path": "uncleaned/Summary table creation.md"
-    },
-    {
-      "basename": "inferencing in Gen AI versus prediction in machine learning",
-      "path": "uncleaned/inferencing in Gen AI versus prediction in machine learning.md"
-    },
-    {
-      "basename": "Is a knowledge graph the same a RAG setup",
-      "path": "standardised/Is a knowledge graph the same a RAG setup.md"
-    },
-    {
-      "basename": "What is a Digital twin",
-      "path": "standardised/What is a Digital twin.md"
-    },
-    {
-      "basename": "Knowledge Graph",
-      "path": "standardised/Knowledge Graph.md"
-    },
-    {
-      "basename": "How does backpropagation work",
-      "path": "uncleaned/How does backpropagation work.md"
-    },
-    {
-      "basename": "Gradient Descent",
-      "path": "uncleaned/Gradient Descent.md"
-    },
-    {
-      "basename": "Backpropagation",
-      "path": "uncleaned/Backpropagation.md"
-    },
-    {
-      "basename": "What is a neural network",
-      "path": "standardised/What is a neural network.md"
-    },
-    {
-      "basename": "Forward Propagation",
-      "path": "uncleaned/Forward Propagation.md"
-    },
-    {
-      "basename": "machine_learning",
-      "path": "uncleaned/machine_learning.md"
-    },
-    {
-      "basename": "What common techniques are used to determine if a Gen AI is good",
-      "path": "uncleaned/What common techniques are used to determine if a Gen AI is good.md"
-    },
-    {
-      "basename": "question",
-      "path": "templates/question.md"
     }
   ],
   "omittedPaths": [],

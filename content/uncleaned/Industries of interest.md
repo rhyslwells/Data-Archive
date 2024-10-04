@@ -10,8 +10,6 @@ Industries to investigate:
 - [[Telecommunications]]
 - [[Education and Training]]
 
-
-
 Both Reinforcement Learning and Explainable AI offer exciting opportunities for mathematicians to contribute significantly. Your deep mathematical understanding allows you to tackle complex problems, develop new methodologies, and provide theoretical foundations for emerging techniques.
 
 Exploratory Questions
@@ -20,16 +18,8 @@ Exploratory Questions
 - What types of practical applications do you find most compelling for your research?
 ### [[Reinforcement learning]]
 
-- **Stochastic Processes**: Your background will allow you to delve into the mathematical properties of MDPs, optimizing transition dynamics, and improving algorithms based on theoretical insights.
+- **Stochastic Processes**: Your background will allow you to delve into the mathematical properties of [[Markov Decision Processes]] MDPs, optimizing transition dynamics, and improving algorithms based on theoretical insights.
 - **Theoretical Analysis**: You can contribute to the development of new algorithms by providing theoretical proofs of convergence and performance guarantees, applying concepts from real analysis and optimization.
 - **Complexity Analysis**: Understanding the computational complexity of various RL algorithms and contributing to the design of more efficient algorithms will leverage your mathematical skills.
-
-
-
-
-
-
-
-
 
 

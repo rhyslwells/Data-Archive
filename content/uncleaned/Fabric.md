@@ -20,7 +20,6 @@ Fabric - open data storage [[data lake]]
 
 [[T-SQL]] for [[uncleaned/Data Warehouse]] 
 
-
 OneLake - workspaces
 
 For different department can have shortcuts within OneLake between workspaces.

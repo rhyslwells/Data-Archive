@@ -13,7 +13,7 @@ aliases:
 > Think of attention like human reading behavior: when reading a complex sentence, we don't process all the words equally at every moment. Instead, we might "attend" more to certain words based on the context of what we’ve read so far and what we're trying to understand. This is similar to what the attention mechanism does in neural networks.
 
 >[!Summary]
->The **attention mechanism** is a key concept in modern [[ML]] particularly in natural language processing ([[NLP]]/[[LLM]]) and sequence-based models like neural machine translation (NMT). It was introduced to address the limitations of earlier models, like [[Recurrent Neural networks (RNN)|RNN]] and [[LSTM]] network), in handling long sequences and capturing important dependencies within data.
+>The **attention mechanism** is a key concept in modern [[ML]] particularly in natural language processing ([[NLP]]/[[LLM]]) and sequence-based models like neural machine translation (NMT). It was introduced to address the limitations of earlier models, like [[Recurrent Neural networks|RNN]] and [[LSTM]] network), in handling long sequences and capturing important dependencies within data.
 >The attention mechanism improves a model's ability to focus on important parts of the input data, helping it manage long-range dependencies, which is especially useful in tasks like machine translation, text generation, and various NLP tasks.
 
 ### Core Idea of Attention

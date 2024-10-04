@@ -33,11 +33,11 @@ What is an [[Activation Function]]?;; It is a non-linearity function at  a node 
 
 What is [[Backpropagation]] and whats it used for?;; Used for training and involves iteratively adjusting the network's weights and biases to minimize the difference between the predicted output and the actual target values [[Optimisation function]].
 
-What are some types of [[What is a neural network]]?;; Convolutional Neural Networks (CNNs), [[Recurrent Neural networks (RNN)]]
+What are some types of [[What is a neural network]]?;; Convolutional Neural Networks (CNNs), [[Recurrent Neural networks]]
 
 [[Convolutional Neural Networks]] (CNNs) are used for;; used for image and video analysis, object recognition, and computer vision tasks.
 
-[[Recurrent Neural networks (RNN)]] are used for?;; ideal for sequence data, like natural language processing, time series analysis, and speech recognition.
+[[Recurrent Neural networks]] are used for?;; ideal for sequence data, like natural language processing, time series analysis, and speech recognition.
 
 
 

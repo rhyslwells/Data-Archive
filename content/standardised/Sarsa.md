@@ -1,6 +1,19 @@
+---
+title: 
+tags: 
+aliases: 
+category:
+---
+>[!Summary]
+>
+
+>[!Example]
+>
+
+
 (State-Action-Reward-State-Action)
 
-SARSA is another value-based RL algorithm, differing from Q-learning in that it updates the Q-values based on the action actually taken by the policy.
+SARSA is another value-based [[Reinforcement learning]] algorithm, differing from Q-learning in that it updates the Q-values based on the action actually taken by the policy.
 
 **SARSA update rule:**
 

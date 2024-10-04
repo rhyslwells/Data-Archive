@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c6671c58b502f554",
+        "id": "45f8e770cebf52cc",
         "type": "tabs",
         "children": [
           {
-            "id": "2aeee3b7cdc0f4fd",
+            "id": "5ec4632a01428c5b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,25 @@
             }
           },
           {
-            "id": "fdae3f270a8bc88d",
+            "id": "6847d5e5d16aad66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "standardised/What is the Attention mechanism.md",
+                "file": "standardised/Policy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48833a0f963a52b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uncleaned/TF-IDF.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,18 +96,18 @@
             }
           },
           {
-            "id": "866e316afbba8c7b",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
             "id": "31c0ee9704fa582b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac5043f9f52388f7",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
               "state": {}
             }
           }
@@ -102,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.50198364257812
+    "width": 267.5092239379883,
+    "collapsed": true
   },
   "right": {
     "id": "5b13eed461f71e5a",
@@ -111,7 +125,7 @@
       {
         "id": "9454b722f578abbd",
         "type": "tabs",
-        "dimension": 54.68940316686967,
+        "dimension": 42.752740560292324,
         "children": [
           {
             "id": "ff3901bb682c970e",
@@ -130,10 +144,10 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "standardised/What is the Attention mechanism.md",
+                "file": "uncleaned/TF-IDF.md",
                 "options": {
-                  "collapse-filter": true,
-                  "search": "#question",
+                  "collapse-filter": false,
+                  "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
@@ -158,28 +172,20 @@
                       }
                     }
                   ],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "lineSizeMultiplier": 2.90374485596708,
+                  "collapse-forces": false,
+                  "centerStrength": 0.500646678424456,
+                  "repelStrength": 14.9053497942387,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6904633602123104,
+                  "scale": 0.6368108027762339,
                   "close": true
                 }
               }
-            }
-          },
-          {
-            "id": "ac5043f9f52388f7",
-            "type": "leaf",
-            "state": {
-              "type": "Strange New Worlds",
-              "state": {}
             }
           },
           {
@@ -196,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "standardised/What is the Attention mechanism.md",
+                "file": "uncleaned/TF-IDF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +214,7 @@
       {
         "id": "71bdd913dd026b43",
         "type": "tabs",
-        "dimension": 45.31059683313033,
+        "dimension": 57.247259439707676,
         "children": [
           {
             "id": "023b75570ad2cd68",
@@ -216,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "standardised/What is the Attention mechanism.md"
+                "file": "uncleaned/TF-IDF.md"
               }
             }
           },
@@ -226,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "standardised/What is the Attention mechanism.md",
+                "file": "uncleaned/TF-IDF.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,8 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5,
-    "collapsed": true
+    "width": 534.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,34 +272,35 @@
       "darlal-switcher-plus:Open Symbols for the active editor": true
     }
   },
-  "active": "fdae3f270a8bc88d",
+  "active": "48833a0f963a52b6",
   "lastOpenFiles": [
     "Tasks.md",
-    "standardised/What is the Attention mechanism.md",
-    "uncleaned/AI Engineer.md",
-    "uncleaned/Attention mechanism.md",
-    "uncleaned/Adjusted R squared.md",
-    "uncleaned/Ada boosting.md",
-    "standardised/Activation Function.md",
-    "uncleaned/Activation atlases.md",
-    "uncleaned/Accuracy score.md",
-    "pages/Questions.md",
-    "uncleaned/2024-09-26.md",
-    "Monthly Review/Goals.md",
-    "uncleaned/Reinforcement Learning Policy.md",
-    "standardised/Reinforcement learning.md",
-    "uncleaned/Industries of interest.md",
-    "uncleaned/Energy.md",
-    "uncleaned/Telecommunications.md",
-    "uncleaned/Education and Training.md",
-    "uncleaned/Mathematical Reasoning in Transformers.md",
-    "uncleaned/Reasoning tokens.md",
-    "standardised/Symbolic computation.md",
-    "uncleaned/Untitled 2.md",
-    "uncleaned/Untitled 1.md",
-    "uncleaned/How does chain of thought work.md",
-    "Monthly Review/October 2024.md",
-    "uncleaned/Untitled.md",
+    "standardised/Energy.md",
+    "uncleaned/Edge Machine Learning Models.md",
+    "uncleaned/What can ABM solve within the energy sector.md",
+    "uncleaned/How can we model the effects of energy consumption patterns on demand forecasting.md",
+    "standardised/Agent-based modelling.md",
+    "uncleaned/agen.md",
+    "uncleaned/Database.md",
+    "standardised/Policy.md",
+    "uncleaned/Principles of Agent-Based Modeling.md",
+    "uncleaned/data lake.md",
+    "standardised/What is a Digital twin.md",
+    "uncleaned/interview notepad.md",
+    "uncleaned/Storage solutions.md",
+    "uncleaned/Fabric.md",
+    "uncleaned/Databricks.md",
+    "uncleaned/Data Warehouse.md",
+    "uncleaned/PowerBI.md",
+    "uncleaned/Data engineer.md",
+    "uncleaned/Random Forests.md",
+    "standardised/How do you evaluate the performance of a machine learning model.md",
+    "uncleaned/metrics layer.md",
+    "uncleaned/What is Regression.md",
+    "uncleaned/How do you handle Finding missing data.md",
+    "uncleaned/how do you do the data selection.md",
+    "uncleaned/data selection.md",
+    "images/Pasted image 20241004074458.png",
     "images/Pasted image 20240928194559.png",
     "images/Pasted image 20240922201606.png",
     "images/Pasted image 20240922202938.png",
@@ -310,7 +316,6 @@
     "pages/Learning repo canvas.canvas",
     "plugins",
     "images/Pasted image 20240916075439.png",
-    "images/Pasted image 20240916075433.png",
     "standardised",
     "notes/done",
     "uncleaned notes",

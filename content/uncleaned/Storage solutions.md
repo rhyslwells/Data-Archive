@@ -2,10 +2,7 @@
 tags:
   - database
 ---
-
-
 [link](https://www.youtube.com/watch?v=-bSkREem8dM)
-
 ### [[Database]]:
 - **Definition**: A database, typically relational, captures and stores data through online transactional processing (==OLTP==).
 - **Structure**: Data is organized into tables with columns and rows, offering detailed, real-time information.
