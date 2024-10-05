@@ -8,12 +8,12 @@ Some core concepts we are going to explore:
 
 | Data Engineering Topics                                                                                                 |
 |--------------------------------------------------------------------------------------------------------|
-| [Data Warehouse](term/data%20warehouse.md), [Data Lake](term/data%20lake.md), [Data Lakehouse](term/data%20lakehouse.md) |
+| [Data Warehouse](Data%20Warehouse.md), [Data Lake](Data%20Lake.md), [Data Lakehouse](term/data%20lakehouse.md) |
 | [Storage Layer](term/storage%20layer%20object%20store.md), [Data Lake File Format](term/data%20lake%20file%20format.md), [Data Lake Table Format](term/data%20lake%20table%20format.md) |
 | [Data Catalog](term/data%20catalog.md)                                                                |
 | [Modern Data Stack](term/modern%20data%20stack.md), [Open Data Stack](term/open%20data%20stack.md)    |
 | [Data Engineering Lifecycle](term/data%20engineering%20lifecycle.md)                                  |
-| [ELT](term/elt.md), [ETL](term/etl.md), [EtLT](term/etlt.md)                                          |
+| [ELT](term/elt.md), [ETL](ETL.md), [EtLT](term/etlt.md)                                          |
 | [Functional Data Engineering](term/functional%20data%20engineering.md), [Software-Defined Assets](term/software-defined%20assets.md) |
 | [Metrics Layer](term/metrics%20layer.md), [Semantic Warehouse](term/semantic%20warehouse.md), [Data Virtualization](term/data%20virtualization.md) |
 | [Metrics](term/metric.md), [Key Performance Indicator (KPI)](term/key%20performance%20indicator%20(kpi).md) |
@@ -35,4 +35,4 @@ Some core concepts we are going to explore:
 - [[Relational Database]] vs [[NoSQL Database]]
 -->
 
-See also [What is Data Engineering](Data%20Engineering.md).
+See also [What is Data Engineering](Data%20Engineer.md).

@@ -16,7 +16,7 @@ Like office for data analysis.
 
 [[Synapse]] - [[relation database]]?  [[uncleaned/Data Warehouse]] 
 
-Fabric - open data storage [[data lake]]
+Fabric - open data storage [[Data Lake]]
 
 [[T-SQL]] for [[uncleaned/Data Warehouse]] 
 
@@ -25,7 +25,7 @@ OneLake - workspaces
 For different department can have shortcuts within OneLake between workspaces.
 Can reference data (no copy) in another provider.
 
-[[Scala]] [[PySpark]] - for [[data lake]]
+[[Scala]] [[PySpark]] - for [[Data Lake]]
 
 [[PowerBI]] within [[Fabric]]  faster querying.
 

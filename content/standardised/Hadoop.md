@@ -1,3 +1,11 @@
+---
+title: 
+tags:
+  - software
+aliases: 
+category:
+---
+   Hadoop provides the backbone for distributed storage and computation. It uses HDFS (Hadoop Distributed File System) to split large datasets across clusters of servers, while MapReduce enables parallel processing. It’s well-suited for [[Batch Processing]]asks, though newer tools like [[Apache Spark|Spark]] often outperform Hadoop in terms of speed and ease of use.
 
 1. **Architecture**:
    - **Open-Source Framework**: Hadoop is an open-source framework for distributed storage and processing of large datasets using clusters of commodity hardware.
@@ -16,5 +24,6 @@
    - **Latency**: Higher latency for query processing compared to Snowflake, particularly for complex analytical queries.
 
 5. **Use Cases**:
-   - **Big Data Processing**: Ideal for large-scale data processing tasks, including ETL (Extract, Transform, Load), data mining, and large-scale machine learning.
-   - **Data Lake**: Commonly used as a data lake to store vast amounts of raw data.
+   - **[[Big Data]] Processing**: Ideal for large-scale data processing tasks, including ETL (Extract, Transform, Load), data mining, and large-scale machine learning.
+   - **[[Data Lake]]**: Commonly used as a data lake to store vast amounts of raw data.
+

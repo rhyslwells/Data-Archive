@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "45f8e770cebf52cc",
+        "id": "47897fc4c74f1257",
         "type": "tabs",
         "children": [
           {
-            "id": "5ec4632a01428c5b",
+            "id": "4adad84e411f8e6e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,33 +23,19 @@
             }
           },
           {
-            "id": "6847d5e5d16aad66",
+            "id": "9dfd2ae32121b0b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "standardised/Policy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48833a0f963a52b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uncleaned/TF-IDF.md",
+                "file": "uncleaned/Microsoft Access.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#drafting",
+                "query": "tag:#devops",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -111,7 +97,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -144,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "uncleaned/TF-IDF.md",
+                "file": "Tasks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,27 +176,18 @@
             }
           },
           {
-            "id": "783bc148f60a6d6d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
             "id": "e2850395f208fa3e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uncleaned/TF-IDF.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "71bdd913dd026b43",
@@ -222,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uncleaned/TF-IDF.md"
+                "file": "Tasks.md"
               }
             }
           },
@@ -232,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uncleaned/TF-IDF.md",
+                "file": "Tasks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 534.5
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,44 +247,47 @@
       "templater-obsidian:Templater": true,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "darlal-switcher-plus:Open in Headings Mode": true,
-      "darlal-switcher-plus:Open Symbols for the active editor": true
+      "darlal-switcher-plus:Open Symbols for the active editor": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48833a0f963a52b6",
+  "active": "4adad84e411f8e6e",
   "lastOpenFiles": [
+    "uncleaned/Microsoft Access.md",
     "Tasks.md",
-    "standardised/Energy.md",
-    "uncleaned/Edge Machine Learning Models.md",
-    "uncleaned/What can ABM solve within the energy sector.md",
-    "uncleaned/How can we model the effects of energy consumption patterns on demand forecasting.md",
-    "standardised/Agent-based modelling.md",
-    "uncleaned/agen.md",
-    "uncleaned/Database.md",
-    "standardised/Policy.md",
-    "uncleaned/Principles of Agent-Based Modeling.md",
-    "uncleaned/data lake.md",
-    "standardised/What is a Digital twin.md",
-    "uncleaned/interview notepad.md",
-    "uncleaned/Storage solutions.md",
-    "uncleaned/Fabric.md",
-    "uncleaned/Databricks.md",
+    "standardised/Data Lake.md",
+    "standardised/reverse etl.md",
+    "term/master data management (mdm).md",
     "uncleaned/Data Warehouse.md",
-    "uncleaned/PowerBI.md",
-    "uncleaned/Data engineer.md",
-    "uncleaned/Random Forests.md",
-    "standardised/How do you evaluate the performance of a machine learning model.md",
-    "uncleaned/metrics layer.md",
-    "uncleaned/What is Regression.md",
-    "uncleaned/How do you handle Finding missing data.md",
-    "uncleaned/how do you do the data selection.md",
-    "uncleaned/data selection.md",
+    "standardised/Databricks.md",
+    "standardised/What is the difference between Databricks vs. Snowflake.md",
+    "uncleaned/API.md",
+    "uncleaned/API explained.md",
+    "standardised/Database.md",
+    "index.md",
+    "standardised/Storage solutions.md",
+    "uncleaned/Data Lake.md",
+    "standardised/Data Lakehouse.md",
+    "uncleaned/delta lake.md",
+    "term/data lake.md",
+    "term/data asset.md",
+    "uncleaned/master data management (mdm).md",
+    "uncleaned/Data Management.md",
+    "uncleaned/duckdb.md",
+    "standardised/ACID Transaction.md",
+    "uncleaned/Database schema.md",
+    "uncleaned/data lake 1.md",
+    "uncleaned/ACID Transactions.md",
+    "standardised/Scala.md",
+    "images/Pasted image 20241005170237.png",
+    "term",
+    "Monthly_Review/Archive",
     "images/Pasted image 20241004074458.png",
     "images/Pasted image 20240928194559.png",
     "images/Pasted image 20240922201606.png",
     "images/Pasted image 20240922202938.png",
     "images/Pasted image 20240922202345.png",
     "images/Pasted image 20240922202323.png",
-    "term",
     "Pasted Image 20240921184050_291.png",
     "Excalidraw/Drawing 2024-09-21 18.34.33.excalidraw.png",
     "Excalidraw",
@@ -315,12 +296,10 @@
     "Monthly Review",
     "pages/Learning repo canvas.canvas",
     "plugins",
-    "images/Pasted image 20240916075439.png",
     "standardised",
     "notes/done",
     "uncleaned notes",
     "New folder",
-    "pages",
     "3_Projects/AIS/AIS ideas.canvas",
     "4_veolia/Veolia.canvas",
     "0_Archive/Learning_repo/Learning repo canvas.canvas",

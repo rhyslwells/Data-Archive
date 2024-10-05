@@ -6,4 +6,4 @@ dat architect:
 Data analyst: senory and passing data to managingment 
 tableau
 
-data engineer:
+[[Data Engineer]]:

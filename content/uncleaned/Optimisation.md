@@ -63,7 +63,7 @@ optimising the space used: partial index: includes only a subset of the data use
 - **Transactions:** Ensure atomicity, consistency, isolation, and durability (==ACID== properties). Transactions can be committed to save changes or rolled back to revert to the previous state.
 - **Race Conditions:** Occur when concurrent transactions access and modify shared data, potentially leading to inconsistencies. Transactions and locking mechanisms prevent these issues by ensuring sequential execution.
 
-[[ACID of Transactions]]
+[[ACID Transaction]]
 - Atomicity: can be broken down: dont see middle parts.
 - Consistency: dones invalid a constraint: otherwise goes back to stable state.
 - Isolation: muliple queries wont interfere with database

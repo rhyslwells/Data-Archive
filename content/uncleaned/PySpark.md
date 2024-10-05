@@ -9,7 +9,7 @@ created:
 
 <mark style="background: #FF5582A6;">Python API </mark>for [[Apache Spark]], a ==distributed processing framework== for big data analysis and machine learning on clusters.
 
-Part of [[Spark]]
+Part of [[Apache Spark]]
 
 [[Directed Acyclic Graph (DAG)]]
 

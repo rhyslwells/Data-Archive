@@ -12,7 +12,7 @@ Whereas[[Databricks]] ( [Databrick](https://www.databricks.com/)) and [Snowflake
 
 and 
 
-[[data lakehouse|Lakehouse]]
+[[Data Lakehouse|Lakehouse]]
 
 [Lakehouse](term/data%20lakehouse.md) solutions.
 

@@ -25,7 +25,7 @@ In contrast with unstructured data, [structured data](term/structured%20data.md)
 
 ## Structuring of unstructured data
 
-Extracting structured data from unstructured data is often done during the [data transformation](term/data%20transformation.md) stage in an [ETL](term/etl.md) or [ELT](term/elt.md) process.  
+Extracting structured data from unstructured data is often done during the [data transformation](term/data%20transformation.md) stage in an [ETL](ETL.md) or [ELT](term/elt.md) process.  
 
 For example, in order to efficiently make use of the unstructured data given in the previous example, it may desirable to transform it into structured data such as the following:
 

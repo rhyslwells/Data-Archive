@@ -19,7 +19,7 @@ In contrast to semi-structured data,  [structured data](term/structured%20data.m
 
 ## Structuring of semi-structured data
 
-It is often relatively straightforward to convert semi-structured data into structured data. Converting semi-structured data into structured data is often done during the [data transformation](term/data%20transformation.md) stage in an [ETL](term/etl.md) or [ELT](term/elt.md) process.  
+It is often relatively straightforward to convert semi-structured data into structured data. Converting semi-structured data into structured data is often done during the [data transformation](term/data%20transformation.md) stage in an [ETL](ETL.md) or [ELT](term/elt.md) process.  
 
 For example, if normalization is enabled then Airbyte will automatically convert the JSON stored in the `_airbyte_data` field in the table above,  into a table that looks as follows:  
 

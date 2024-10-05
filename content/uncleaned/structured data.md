@@ -4,8 +4,7 @@ tags:
   - data
   - engineering
 ---
-
-Structured data refers to data that has been formatted into a well-defined schema. An example would be data that is stored with precisely defined columns in a relational database or excel spreadsheet. Examples of structured fields could be age, name, phone number, credit card numbers or address. Storing data in a structured format allows it to be easily understood and queried by machines and with tools such as SQL.
+Structured data refers to data that has been formatted into a well-defined schema ([[Database schema]]). An example would be data that is stored with precisely defined columns in a relational [[database]] or excel spreadsheet. Examples of structured fields could be age, name, phone number, credit card numbers or address. Storing data in a structured format allows it to be easily understood and queried by machines and with tools such as SQL.
 
 ## Example of structure data
 
@@ -31,7 +30,7 @@ An simple example of unstructured data is a string that contains interesting inf
 
 ## Structuring of unstructured data
 
-Converting unstructured data into structured data can be done during the [data transformation](term/data%20transformation.md) stage in an [ETL](term/etl.md) or [ELT](term/elt.md) process.  
+Converting unstructured data into structured data can be done during the [data transformation](term/data%20transformation.md) stage in an [ETL](ETL.md) or [ELT](term/elt.md) process.  
 
 For example, in order to efficiently make use of the unstructured data given in the previous example, it may desirable to transform it into structured data such as the following:
 

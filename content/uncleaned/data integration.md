@@ -22,7 +22,7 @@ Another alternative data integration solution is to directly link multiple appli
 Application integration may result in many copies of the same data across multiple source systems, which may increase cost, and may cause a large amount of point-to-point traffic between various systems. Furthermore, as with the previous data integration types, executing analytics workloads directly on operational systems could interfere with their functioning.
 
 ## Moving data to a unified destination
-Sending data from across an enterprise into a centralized system such as a database, a data warehouse, a data lake, or a data lakehouse results in a **single unified location for accessing and analyzing all the information that is flowing through an organization**. At Airbyte we are advocates of this data integration methodology, and the next section of this article is dedicated to discussing its benefits in more detail. 
+Sending data from across an enterprise into a centralized system such as a database, a data [[Data Warehouse|warehouse]], a data lake, or a [[Data Lakehouse]] results in a **single unified location for accessing and analyzing all the information that is flowing through an organization**. At Airbyte we are advocates of this data integration methodology, and the next section of this article is dedicated to discussing its benefits in more detail. 
 
 Below is a high-level representation of [data replication](https://airbyte.com/blog/what-is-data-replication) from multiple sources into Google BigQuery. 
 

@@ -1,12 +1,11 @@
 ---
 tags:
   - SQL
+  - engineering
 ---
-
-
 [Link](https://www.youtube.com/watch?v=uqRRjcsUGgk)
 
-[Github](https://github.com/syalanuj/youtube/blob/main/de_fundamentals_python/etl.py)
+[Github](https://github.com/syalanuj/youtube/blob/main/de_fundamentals_python/etl.py
 
 #### 1.  Extract using a API
 
@@ -21,7 +20,6 @@ Put into a pandas df.
 Save df as a database. Save SQLite database. Save as table.
 
 Run functions
-
 
 
 ```python

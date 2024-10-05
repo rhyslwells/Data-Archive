@@ -1,4 +1,4 @@
-Snowflake and Hadoop are both data management systems, but they serve different purposes and have distinct architectures and functionalities. Here’s a detailed comparison:
+Snowflake and Hadoop are both [[data management]] systems, but they serve different purposes and have distinct architectures and functionalities. Here’s a detailed comparison:
 
 [[Snowflake]]
 

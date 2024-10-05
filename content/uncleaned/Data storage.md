@@ -1,4 +1,9 @@
-## Data Storage
+---
+title: 
+tags: 
+aliases: 
+category:
+---
 
 - Storage underpins every aspect of Data Engineering
     - ingestion, transformation, queries

@@ -3,20 +3,21 @@ tags:
   - database
   - engineering
 title: What is a Data Warehouse?
+aliases:
+  - Warehouse
+  - DWH
 ---
+##### Resources
 
-
-[Designing a datawarehouse](https://www.youtube.com/watch?v=patBYUGwsHE)
-
-[Why a data warehouse](https://www.youtube.com/watch?v=jmwGNhUXn_o)
+- [Designing a datawarehouse](https://www.youtube.com/watch?v=patBYUGwsHE)
+- [Why a data warehouse](https://www.youtube.com/watch?v=jmwGNhUXn_o)
 
 ==A data warehouse is for querying.==
 A database is for recording the data quickly.
 
-
 A data warehouse is a centralized repository that stores large volumes of ==structured data== from various sources within an organization. It is designed to facilitate reporting, analysis, and decision-making by providing a consolidated view of the data.
 
-### Key Features of a [[uncleaned/Data Warehouse]]
+### Key Features of a [[Data Warehouse]]
 
 1. **Integration**: Data from different sources (e.g., transactional databases, CRM systems, external data) is integrated into a single repository, ensuring consistency and reliability.
 
@@ -59,10 +60,20 @@ Consider a retail company that wants to analyze sales performance across differe
 
 In summary, a data warehouse is a powerful tool that supports strategic decision-making by providing a comprehensive and unified view of an organization’s data.
 
-A Data Warehouse, in short DWH, also known as an Enterprise Data Warehouse (EDW), is the traditional way of collecting data as we do [since 30+ years](https://tdwi.org/articles/2016/02/01/data-warehousing-30.aspx). The DWH serves to be the [data integration](term/data%20integration.md) from many different sources, the single point of truth and the data management, meaning cleaning, historizing, and data joined together. It provides greater executive insight into corporate performance with management Dashboards, Reports, or Ad-Hoc Analyses.
+A Data Warehouse, in short DWH, also known as an Enterprise Data Warehouse (EDW), is the traditional way of collecting data as we do [since 30+ years](https://tdwi.org/articles/2016/02/01/data-warehousing-30.aspx). The DWH serves to be the [data integration](term/data%20integration.md) from many different sources, the single point of truth and the [[data management]], meaning cleaning, historizing, and data joined together. It provides greater executive insight into corporate performance with management Dashboards, Reports, or Ad-Hoc Analyses.
 
 Various types of business data are analyzed with Data Warehouses. The need for it often becomes evident when analytic requirements run afoul of the ongoing performance of operational databases. Running a complex query on a database requires the database to enter a temporarily fixed state. It is often untenable for transactional databases. A data warehouse is employed to do the analytical work, leaving the transactional database free to focus on transactions.
 
-The other characteristic is analyzing data from multiple origins (e.g., your Google Analytics with your CRM data). It is highly [transformed](term/data%20transformation.md) and structured due to the [ETL (Extract Transform Load)](term/etl.md) process.
+The other characteristic is analyzing data from multiple origins (e.g., your Google Analytics with your CRM data). It is highly [transformed](term/data%20transformation.md) and structured due to the [ETL (Extract Transform Load)](ETL.md) process.
 
-If you wonder about the difference between a Data Warehouse, Data Lake, and a Lakehouse, read more on our [Data Lake and Lakehouse Guide](https://airbyte.com/blog/data-lake-lakehouse-guide-powered-by-table-formats-delta-lake-iceberg-hudi).
+If you wonder about the difference between a Data Warehouse, Data Lake, and a [[Data Lakehouse|Lakehouse]], read more on our [Data Lake and Lakehouse Guide](https://airbyte.com/blog/data-lake-lakehouse-guide-powered-by-table-formats-delta-lake-iceberg-hudi).
+
+
+As the ==data grows,== the team needs a data warehouse, a repository optimized for complex analytical queries rather than simple transactions (data base). Data is organized into tables and schemas to make it meaningful for analysis. This transition from a regular database to a data warehouse improves performance and enables better insights.
+
+
+- **Definition**: A specialized database optimized for analytical processing or online analytical processing (==OLAP==).
+- **Data Aggregation**: Aggregates data from multiple sources (databases) via an [[ETL]] (Extract, Transform, Load) process, summarizing it for analytical purposes.
+- **Historical Data**: Maintains historical data but may not always include the latest updates unless refreshed by the [[ETL]] process.
+- **Schema ==Rigidity==**: Features a rigid schema, necessitating careful planning for data integration.
+- **Use Case**: Ideal for analytics and reporting, offering fast query performance for large datasets, summarised data. Fast for queries.

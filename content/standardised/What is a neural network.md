@@ -42,7 +42,7 @@ aliases:
      - **Tanh**: Squashes the input to a range between -1 and 1.
 
 5. **Training**:
-   - Neural networks learn by adjusting weights and biases through a process called **[[backpropagation]]**, which works in conjunction with an optimization algorithm like **[[gradient descent]]**
+   - Neural networks learn by adjusting weights and biases through a process called **[[backpropagation]]**, which works in conjunction with an optimization algorithm like **[[Gradient Descent]]**
    - The process of training involves:
      - [[Forward Propagation]]: Input data flows through the network to produce a prediction.
      - **[[Loss Function]]**: The difference between the predicted output and the actual output (error) is calculated using a loss function (e.g., mean squared error for regression or cross-entropy loss for classification).
@@ -91,6 +91,10 @@ Methods to get parameters (weights biases) for NN using training data to reduce 
 	compared to targets to form the errors.
 	
 	[[Backpropagation]] of errors is an algorithm for neural networks using gradient descent. It consists of calculating
-	the contribution of each parameter to the errors. We backpropagate the errorsthrough the net and update the
+	the contribution of each parameter to the errors. We backpropagate the errors through the net and update the
 	parameters (weights and biases) accordingly.
+## To explore
 
+- **[[Multilayer Perceptrons]] (MLP)**: A basic fully connected network with multiple layers.
+- [[Convolutional Neural Networks]]: Designed for image data.
+- **Recurrent Neural Networks ([[Recurrent Neural networks|RNN]])**: Designed for sequence data (like time series or text).
