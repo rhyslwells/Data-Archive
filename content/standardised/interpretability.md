@@ -3,23 +3,9 @@ title: Interpretability
 tags:
   - ml
   - drafting
+aliases:
+  - explainability
 ---
-
->[!Summary]
->
-
->[!important] 
->
-
->[!attention] 
->
-
->[!Example]
->
-
->[!Todo]
->- [ ] 
-
 # Links
 1. [Interpretability Importance](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html)
 # Interpretability

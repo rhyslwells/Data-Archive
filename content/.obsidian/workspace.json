@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "392c6e530b1d333c",
+            "id": "8b1327316575dea9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uncleaned/Regression metrics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b26bc081e7838ef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uncleaned/Linear Regression.md",
+                "file": "Monthly_Review/Overview.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,12 +98,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300.5019836425781,
+    "width": 249.50198364257812,
     "collapsed": true
   },
   "right": {
@@ -145,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "uncleaned/Linear Regression.md",
+                "file": "Monthly_Review/Overview.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -195,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uncleaned/Linear Regression.md",
+                "file": "Monthly_Review/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uncleaned/Linear Regression.md"
+                "file": "Monthly_Review/Overview.md"
               }
             }
           },
@@ -225,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uncleaned/Linear Regression.md",
+                "file": "Monthly_Review/Overview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +227,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 673.5
+    "width": 283.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,12 +252,19 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "b533c6a45f780726",
+  "active": "8b1327316575dea9",
   "lastOpenFiles": [
+    "Tasks.md",
+    "Monthly_Review/Overview.md",
+    "standardised/interpretability.md",
+    "index.md",
+    "Monthly_Review/November 2024.md",
+    "pages/Questions.md",
+    "uncleaned/Data Validation.md",
+    "term/data catalog.md",
     "standardised/Gradient Descent.md",
     "uncleaned/Linear Regression.md",
     "uncleaned/Regression metrics.md",
-    "Tasks.md",
     "uncleaned/Machine Learning.md",
     "uncleaned/Naive Bayes.md",
     "uncleaned/Logistic Regression.md",
@@ -286,13 +280,6 @@
     "uncleaned/interview notepad.md",
     "uncleaned/Finding missing data.md",
     "uncleaned/data selection.md",
-    "uncleaned/Supervised Learning.md",
-    "uncleaned/hyperparameter.md",
-    "uncleaned/How to pick the best hyperparameters.md",
-    "standardised/Regularisation.md",
-    "uncleaned/K-nearest neighbours.md",
-    "uncleaned/Gradient Descent.md",
-    "uncleaned/F1 Score.md",
     "images/Pasted image 20241008215500.png",
     "images/grep.png",
     "images/Pasted image 20241006124829.png",

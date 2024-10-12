@@ -18,9 +18,6 @@ The Data Archive is continuously growing, here are some starting points.
 |                   |                                                                                                                                                                                                                               |
 
 
-#### Tag improvement
-
-
 ## Monthly Review
 
 See monthly review folder, for my current direction #MonthlyReview

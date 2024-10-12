@@ -2,7 +2,7 @@
   "accentColor": "#4e407d",
   "cssTheme": "Atom",
   "theme": "obsidian",
-  "baseFontSize": 24,
+  "baseFontSize": 16,
   "showViewHeader": true,
   "enabledCssSnippets": [
     "dashboard",
