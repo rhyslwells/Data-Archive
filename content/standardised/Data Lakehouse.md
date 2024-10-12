@@ -5,7 +5,7 @@ tags:
 aliases:
   - Lakehouse
 ---
-A Data Lakehouse open [[data management]] architecture that combines the flexibility, cost-efficiency, and scale of [Data Lake](Data%20Lake.md) with the data management and ACID transactions of [Data Warehouse](Data%20Warehouse.md) with Data Lake Table Formats ([Delta Lake](term/delta%20lake.md), [Apache Iceberg](term/apache%20iceberg.md) & [Apache Hudi](term/apache%20hudi.md)) that enable Business Intelligence (BI) and Machine Learning (ML) on all data.
+A Data Lakehouse open [[Data Management]] architecture that combines the flexibility, cost-efficiency, and scale of [Data Lake](Data%20Lake.md) with the data management and ACID transactions of [Data Warehouse](Data%20Warehouse.md) with Data Lake Table Formats ([Delta Lake](term/delta%20lake.md), [Apache Iceberg](term/apache%20iceberg.md) & [Apache Hudi](term/apache%20hudi.md)) that enable Business Intelligence (BI) and Machine Learning (ML) on all data.
 
 A **data lakehouse** is an emerging architectural approach that combines the best features of data lakes and data warehouses to provide a unified platform for storing, processing, and analyzing large volumes of structured and unstructured data. Here’s a breakdown of its key characteristics and benefits:
 

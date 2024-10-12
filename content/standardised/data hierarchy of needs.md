@@ -1,7 +1,9 @@
 ---
-title: "The Data Hierarchy of Needs"
+title: The Data Hierarchy of Needs
 tags:
-- data engineering
+  - engineering
+  - "#devops"
+  - "#business"
 ---
 ![[Pasted image 20241005170237.png|500]]
 

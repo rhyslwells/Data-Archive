@@ -5,7 +5,6 @@ tags:
 aliases:
   - RL
 ---
-
 # Overview
 
 Reinforcement Learning ( [[Reinforcement learning|RL]]) is a branch of machine learning where an agent learns to make decisions by interacting with an environment. The agent receives rewards or penalties based on its actions, and its goal is to ==maximize cumulative reward.==
@@ -37,3 +36,5 @@ Reinforcement Learning ( [[Reinforcement learning|RL]]) is a branch of machine l
 - **[[Markov Decision Processes]] ([[Markov Decision Processes|MDP]]s)**: The mathematical framework for modelling decision-making, characterized by states, actions, transition probabilities, and rewards. Your understanding of probability theory and stochastic processes will be crucial here.
 - **Dynamic Programming**: Techniques such as [[Bellman Equations]] equations are central to RL, as they provide a way to break down complex decision-making problems into simpler subproblems.
 - **Optimization Techniques**: Finding optimal [[Policy|polices]] often involves advanced optimization methods, including gradient ascent and policy iteration.
+
+What is reinforcement learning?;; A ML algorithm that learns through trial and error.

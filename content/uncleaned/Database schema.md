@@ -12,7 +12,7 @@ category:
 [link](https://www.youtube.com/watch?v=3BZz8R7mqu0)
 
 #### Summary
-Database schema are used in [[data management]]. Here are the main takeaways:
+Database schema are used in [[Data Management]]. Here are the main takeaways:
 
 1. **Definition and Components**: A database schema represents the ==structure== around the data, including tables, views, fields, relationships, and various other elements like indexes and triggers. It provides a framework for organizing and understanding data.
 

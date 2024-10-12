@@ -13,7 +13,7 @@ Practice with model and feature engineering ideas, create visualizations
 Questions 
 
 
-[[How to pick the best hyperparameters]]
+[[hyperparameter]]
 [[hyperparameter]] tuning can be done with [[hyperparameter optuna]]
 
 [[Cross validation]]

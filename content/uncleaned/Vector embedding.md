@@ -12,5 +12,5 @@ Euclidian similarisiong,
 
 cosine embedding
 
-[[What is the Attention mechanism|Attention mechanism]]
+[[Attention mechanism|Attention mechanism]]
 

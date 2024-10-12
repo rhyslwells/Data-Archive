@@ -1,14 +1,14 @@
 ---
 tags:
 ---
-Type: [[Classification]] [[Unsupervised]]
+Type: [[Classification]] [[Unsupervised learning]]
 
 ## Methods
 
 [[K-means]]
 [[DBScan]]
 [[Hierarchial]]
-## [[How to pick the best hyperparameters]]:
+## [[hyperparameter]]:
 
 [[WCSS and elbow method]]
 ## [[interpretability]]

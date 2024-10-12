@@ -8,3 +8,5 @@ An ACID transaction ==secures that either all changes are successfully committ
 
 ACID (Atomicity, Consistency, Isolation, Durability)** transaction capabilities,
 
+
+

@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "19e05f7c509d4913",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "47897fc4c74f1257",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "4adad84e411f8e6e",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,19 +23,33 @@
             }
           },
           {
-            "id": "9dfd2ae32121b0b1",
+            "id": "392c6e530b1d333c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uncleaned/Microsoft Access.md",
+                "file": "uncleaned/Regression metrics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b26bc081e7838ef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uncleaned/Linear Regression.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#devops",
+                "query": "tag:#data",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5092239379883,
+    "width": 300.5019836425781,
     "collapsed": true
   },
   "right": {
@@ -131,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tasks.md",
+                "file": "uncleaned/Linear Regression.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -169,7 +183,7 @@
                   "repelStrength": 14.9053497942387,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6368108027762339,
+                  "scale": 0.8689291902854355,
                   "close": true
                 }
               }
@@ -181,13 +195,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "uncleaned/Linear Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "71bdd913dd026b43",
@@ -200,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "uncleaned/Linear Regression.md"
               }
             }
           },
@@ -210,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "uncleaned/Linear Regression.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 673.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,7 +254,6 @@
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": true,
       "graph:Open graph view": false,
-      "obsidian-spaced-repetition:Review flashcards": true,
       "obsidian-kanban:Create new board": true,
       "obsidian-projects:Open projects": true,
       "vscode-editor:Create Code File": true,
@@ -248,37 +262,42 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "darlal-switcher-plus:Open in Headings Mode": true,
       "darlal-switcher-plus:Open Symbols for the active editor": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "4adad84e411f8e6e",
+  "active": "b533c6a45f780726",
   "lastOpenFiles": [
-    "uncleaned/Microsoft Access.md",
+    "standardised/Gradient Descent.md",
+    "uncleaned/Linear Regression.md",
+    "uncleaned/Regression metrics.md",
     "Tasks.md",
-    "standardised/Data Lake.md",
-    "standardised/reverse etl.md",
-    "term/master data management (mdm).md",
-    "uncleaned/Data Warehouse.md",
-    "standardised/Databricks.md",
-    "standardised/What is the difference between Databricks vs. Snowflake.md",
-    "uncleaned/API.md",
-    "uncleaned/API explained.md",
-    "standardised/Database.md",
-    "index.md",
-    "standardised/Storage solutions.md",
-    "uncleaned/Data Lake.md",
-    "standardised/Data Lakehouse.md",
-    "uncleaned/delta lake.md",
-    "term/data lake.md",
-    "term/data asset.md",
-    "uncleaned/master data management (mdm).md",
-    "uncleaned/Data Management.md",
-    "uncleaned/duckdb.md",
-    "standardised/ACID Transaction.md",
-    "uncleaned/Database schema.md",
-    "uncleaned/data lake 1.md",
-    "uncleaned/ACID Transactions.md",
-    "standardised/Scala.md",
+    "uncleaned/Machine Learning.md",
+    "uncleaned/Naive Bayes.md",
+    "uncleaned/Logistic Regression.md",
+    "uncleaned/Decision Tree.md",
+    "uncleaned/Confusion matrix.md",
+    "uncleaned/Support Vector Machines.md",
+    "uncleaned/Random Forests.md",
+    "uncleaned/Bagging.md",
+    "uncleaned/Boosting.md",
+    "standardised/Ensemble model.md",
+    "uncleaned/ROC and AUC.md",
+    "uncleaned/Regression.md",
+    "uncleaned/interview notepad.md",
+    "uncleaned/Finding missing data.md",
+    "uncleaned/data selection.md",
+    "uncleaned/Supervised Learning.md",
+    "uncleaned/hyperparameter.md",
+    "uncleaned/How to pick the best hyperparameters.md",
+    "standardised/Regularisation.md",
+    "uncleaned/K-nearest neighbours.md",
+    "uncleaned/Gradient Descent.md",
+    "uncleaned/F1 Score.md",
+    "images/Pasted image 20241008215500.png",
+    "images/grep.png",
+    "images/Pasted image 20241006124829.png",
+    "images/Pasted image 20241006124735.png",
+    "images/Pasted image 20241006124356.png",
     "images/Pasted image 20241005170237.png",
     "term",
     "Monthly_Review/Archive",
@@ -286,12 +305,7 @@
     "images/Pasted image 20240928194559.png",
     "images/Pasted image 20240922201606.png",
     "images/Pasted image 20240922202938.png",
-    "images/Pasted image 20240922202345.png",
-    "images/Pasted image 20240922202323.png",
-    "Pasted Image 20240921184050_291.png",
-    "Excalidraw/Drawing 2024-09-21 18.34.33.excalidraw.png",
     "Excalidraw",
-    "images/Pasted image 20240921154214.png",
     "Recording 20240917053412.webm",
     "Monthly Review",
     "pages/Learning repo canvas.canvas",

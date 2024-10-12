@@ -19,5 +19,5 @@ The learning rate is a [[hyperparameter]] that determines the ==step size at whi
    - Choosing an appropriate learning rate is crucial for achieving optimal performance and avoiding issues like slow convergence, oscillations, or divergence.
 ## **Tuning:**
    - The learning rate is a [[hyperparameter]] that needs to be tuned during the model training process.
-   - Typically, it's adjusted along with other hyperparameters through techniques like [[How to pick the best hyperparameters]] .
+   - Typically, it's adjusted along with other hyperparameters through techniques like [[hyperparameter]] .
    - Value depends on factors like the dataset, the complexity of the model, and the optimization algorithm used.

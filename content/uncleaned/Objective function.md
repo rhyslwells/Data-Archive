@@ -5,7 +5,7 @@ the measure used to evaluate how well the models predictions match the target va
 
 ### [[loss function]]
 
- Used in [[Supervised]]
+ Used in [[Unsupervised learning]]
 #### Examples 
 
 [[Regression]]: 

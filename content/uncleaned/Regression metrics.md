@@ -1,3 +1,9 @@
+---
+title: 
+tags: 
+aliases: 
+category:
+---
 Motivating question: How do you evaluate a regression classifier?
 
 Regression Metrics
@@ -50,3 +56,8 @@ from sklearn.metrics import explained_variance_score
 explained_var = explained_variance_score(y_true, y_pred)
 print("Explained Variance Score:", explained_var)
 ```
+
+
+
+[[Regression metrics]]
+**What metrics can be used to evaluate regression models?**;; Metrics for evaluating regression models include \(R^2\) (coefficient of determination), Mean Absolute Error (MAE), and Mean Squared Error (MSE).

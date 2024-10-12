@@ -1,28 +1,35 @@
 ---
-title: "What is Data Observability?"
+title: What is Data Observability?
 tags:
-- data engineering
+  - "#data_pipeline"
+aliases:
+  - monitoring
+  - observability
 ---
+**Data observability** refers to the continuous monitoring and collection of metrics about your data to ensure its quality, reliability, and availability. It covers various aspects, such as data quality, pipeline health, metadata management, and infrastructure performance. By tracking key metrics and anomalies, it helps detect issues like data freshness problems, schema changes, or pipeline failures before they impact downstream processes or users.
+### **Categories of Observability**
 
-Data observability, also known as monitoring, continuously collects metrics about your data. You can collect data about the number of rows, columns, and properties for each dataset. You can also manage metadata about the dataset, such as when it was last updated.
+**Auto-profiling Data**: **Purpose**: Automatically tracks data attributes, such as row count, column types, data distributions, and schema changes.
+     - **Bigeye**: Provides ML-driven threshold tests and automatic alerts when data drifts beyond expected ranges.
+     - **Datafold**: Integrates with GitHub to run data diffs between environments, offering insights into differences between datasets during development.
+     - **Monte Carlo**: Enterprise-focused with data lake integrations for comprehensive observability.
+     - **Metaplane**: Offers a high level of configuration and both out-of-the-box and custom tests.
 
-From the great article [Choosing a Data Quality Tool - by Sarah Krasnik](https://sarahsnewsletter.substack.com/p/choosing-a-data-quality-tool?s=r), there are also different categories for observability:
-- **Auto-profiling data**
-	- [Bigeye](https://www.bigeye.com/): unique in a wide range of ML-driven automatic threshold tests and alerts
-	- [Datafold](https://www.datafold.com/): unique Github integration presenting Data Diff between environments with custom tests
-	- [Monte Carlo](https://www.montecarlodata.com/): unique in being the most enterprise-ready enterprise-ready with many data lake integrations
-	- [Lightup](https://www.lightup.ai/): unique self-hosted deployment option, appealing to highly regulated industries
-	- [Metaplane](https://www.metaplane.dev/): unique in a high level of configuration for a hosted tool with both out-of-the-box and custom tests
-- **Pipeline Testing**
-	- [Great Expectations](https://greatexpectations.io/): unique in its data quality specific community and automatic documentation of tests
-	- [Soda](https://www.soda.io/): unique in its self-hosted cloud option
-	- [dbt tests](https://docs.getdbt.com/docs/building-a-dbt-project/tests): unique in integration with dbt core and dbt Cloud builds (naturally), but not as versatile outside of the dbt ecosystem
-- **Infrastructure monitoring**
-	- [DataDog](https://www.datadoghq.com/): unique agent implementation that can be deployed anywhere for monitoring, even at the container level, with custom Airflow metric reporting
-	- [New Relic](https://newrelic.com/): unique one-step integration with the big three cloud 	
-- **A little bit of everything**
-	- [Databand](https://databand.ai/): unique integration with Airflow and specific Airflow metric monitoring
-	- [Unravel](https://www.unraveldata.com/): unique support for other data sources like Spark, data lake, and NoSQL databases
-	- [Data Catalogs](term/data%20catalog.md): Helping observe existing data
+**Pipeline Testing**: **Purpose**: Ensures that data transformation pipelines are functioning correctly by verifying the quality and accuracy of data as it moves through different stages.
+     - **Great Expectations**: An open-source tool that allows you to define tests and automatically generate documentation for those tests, promoting transparency in data quality checks.
+     - **Soda**: Offers pipeline testing with the flexibility of a self-hosted option for more control over data quality monitoring.
+     - **dbt tests**: Integrated with [[dbt]] Core and dbt Cloud, allowing testing during the transformation process in a dbt project.
 
-Related terms are [Data Governance](term/data%20governance.md) and [Data Quality](term/data%20quality.md).
+ **Infrastructure Monitoring**: **Purpose**: Monitors the health and performance of the underlying data infrastructure, such as databases, pipelines, and servers, to prevent failures and bottlenecks.
+     - **DataDog**: Provides deep monitoring capabilities, including for Airflow, containers, and custom metrics, allowing visibility at various layers of the data stack.
+
+### **Managing Metadata about a Dataset**
+Managing metadata is critical for observability, as it provides context and lineage for your data. Metadata can include:
+- **Technical Metadata**: Information about the dataset’s structure, such as table schema, data types, and column descriptions.
+- **Operational Metadata**: Information about the dataset’s freshness, when it was last updated, and the number of records processed.
+- **Business Metadata**: Describes the meaning of data, such as field definitions and business rules, helping stakeholders understand the context and usage of the dataset.
+
+**How to Manage Metadata**:
+- **Manual Documentation**: Teams may manually document metadata, but this can be prone to human error and inconsistency.
+- **Automated Metadata Management**: Many modern data tools, such as data catalogs (e.g., Atlan, Alation), automatically track and manage metadata, offering insights into data lineage, schema changes, and data usage.
+- **Integration with Data Pipelines**: Tools like dbt also generate metadata about transformations, which can be included in downstream monitoring systems to ensure consistency and traceability.

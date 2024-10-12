@@ -3,7 +3,6 @@
   "obsidian-icon-folder",
   "url-into-selection",
   "obsidian-path-title",
-  "obsidian-spaced-repetition",
   "obsidian-pandoc",
   "recent-files-obsidian",
   "vim-toggle",
@@ -20,5 +19,7 @@
   "obsidian-tagfolder",
   "obsidian42-strange-new-worlds",
   "excalibrain",
-  "darlal-switcher-plus"
+  "darlal-switcher-plus",
+  "media-notes",
+  "soundscapes"
 ]

@@ -1,7 +1,5 @@
 ---
-projects:
-  - "[[Titanic]]"
-  - "[[Bag of words]]"
+projects: []
 tags:
   - ml
 ---
@@ -9,8 +7,6 @@ tags:
 Can values for X,y be categroical ? [[Encode categorical features]]
 
 BernoulliNB()
-## Notes:
-
 
 Why Naive Bayes?;;Order doesn't matter, features are independent. Treated it as a [[Bag of words]]. Which ==simplifies==  the above equation.
 
@@ -25,11 +21,6 @@ To avoid having 0 probability sometimes they add ==counts== $\alpha$ to do this.
 #### Links:
 
 https://youtu.be/PPeaRc-r1OI?t=169
-
-
-
-
-
 
 ## Formula
 $$P(A|B)=P(A) \times \frac{P(B|A)}{P(B)}$$
@@ -215,5 +206,13 @@ $P(B)=P(Summer)P(No-Raining)P(Night)P(Urban)$
 
 $P(B|A)=P(Summer|Accident)P(No-Raining|Accident)P(Night|Accident)P(Urban|Accident)$
 
+**What is the Bayes theorem?**;; The formula is P(A|B) = P(B|A) * P(A) / P(B).
 
+**What are the main advantages of Naive Bayes, and when is it commonly used?**;; simplicity, quick implementation, and scalability, used in text classification.
+<!--SR:!2024-04-07,3,250-->
 
+**When using Naive Bayes with numerical variables, what condition is assumed on the data?;; Naive Bayes assumes that numerical variables follow a normal distribution.
+
+**How does Naive Bayes perform with categorical variables?** makes no assumptions about the data distribution.
+
+**What is Naive Bayes, and why is it called "naive"?**;; Algo which uses Bayes theorem, used for classification problems. It is "naive" because it assumes that predictor variables are independent, which may not be the case in reality. The algorithm calculates the probability of an item belonging to each possible class and chooses the class with the highest probability as the output.

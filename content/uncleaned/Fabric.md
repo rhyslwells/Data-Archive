@@ -14,11 +14,11 @@ Like office for data analysis.
 
 [[Data factory]],[[Synapse]], power bi 
 
-[[Synapse]] - [[relation database]]?  [[uncleaned/Data Warehouse]] 
+[[Synapse]] - [[relation database]]?  [[Data Warehouse]] 
 
 Fabric - open data storage [[Data Lake]]
 
-[[T-SQL]] for [[uncleaned/Data Warehouse]] 
+[[T-SQL]] for [[Data Warehouse]] 
 
 OneLake - workspaces
 

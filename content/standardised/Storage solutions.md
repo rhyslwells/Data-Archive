@@ -12,6 +12,6 @@ Types of storage:
 
 Notes:
 - Each option serves distinct purposes, with no one-size-fits-all solution.
-- [[Databases]] are suited for transaction recording, while [[data warehouse]] excel in analytics and reporting.
+- [[Databases]] are suited for transaction recording, while [[Data Warehouse]] excel in analytics and reporting.
 - Data lakes offer versatility for storing raw data, particularly beneficial for advanced analytics applications.
-- Companies may leverage all three options simultaneously to meet diverse [[data management]] needs.
+- Companies may leverage all three options simultaneously to meet diverse [[Data Management]] needs.

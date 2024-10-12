@@ -1,13 +1,19 @@
-#ml
-
-
+---
+title: 
+tags:
+  - ml
+  - classifer
+  - drafting
+aliases: 
+category:
+---
 ## Description
 
 Logistic Regression uses a logistic function (also called a sigmoid function) to model the probability that a given input belongs to a particular category. This function squishes any input into a range between 0 and 1.
 
 Once the model is trained, it creates a ==decision boundary== that separates the two classes. In 2D space, this boundary is a line, but in higher dimensions, it's a hyperplane. The logistic function gives the probability that a point belongs to one class, and if that probability is above a certain threshold (usually 0.5), we classify it as belonging to that class.
 
-Logistic Regression determines the point at which the logistic function (sigmoid) transitions from predicting one class to predicting the other. This decision boundary is akin to the concept of a hyperplane in Support Vector Machines ([[SVM]]),
+Logistic Regression determines the point at which the logistic function (sigmoid) transitions from predicting one class to predicting the other. This decision boundary is akin to the concept of a hyperplane in Support Vector Machines ([[Support Vector Machines]]),
 # Notes
 
 - **Binary Classification Task**: ie Yes or No of target.
@@ -17,13 +23,11 @@ Logistic Regression determines the point at which the logistic function (sigmoid
 # Good for:
 
 If the decision boundary between the two classes in your feature space is approximately linear, logistic regression can perform well.
-
 # Example
 
 Using logistic regression in Breast Cancer dataset can be a suitable choice for binary classification tasks, such as predicting whether a tumor is malignant or benign. Or in the titanic dataset wrt survival 0 or 1.
 
 # Code set up of model
-
 
 ```python
 import statsmodels.api as sm
@@ -73,4 +77,10 @@ Specifically a graph such as,
 
 Need model in sklearn to use [[Confusion matrix]] or Classification report, where [[Accuracy score]] is general evaluator.
 
+A simple algorithm that models the probability of an example belonging to a particular class.
 
+**What is logistic regression, and what does it predict?**;; Used to binary predict an outcome.
+
+**Can you explain a real use case for logistic regression?**;; used to predict the probability that a customer will buy a product, making it valuable for marketing and sales predictions.
+
+**How can you turn logistic regression into a classifier?**;; Logistic regression can be turned into a classifier by using a threshold. If the predicted probability is above the threshold, it is classified as one class; otherwise, it is classified as the other class.

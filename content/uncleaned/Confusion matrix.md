@@ -1,6 +1,12 @@
-
-#evaluation #ml
-## code
+---
+title: 
+tags:
+  - evaluation
+  - ml
+aliases: 
+category:
+---
+# code
 
 from sklearn.metrics import classification_report
 
@@ -50,3 +56,7 @@ Overall, this confusion matrix suggests that the model is performing well on the
 ## Questions and answers
 
 **What is the purpose of a confusion matrix?**;; A [[Confusion matrix]] is a table that describes the performance of a [[Classification]] model.
+
+**Why is the confusion matrix called like that?**;; It helps where the classifier is confused.
+
+What does a confusion matrix do?;;The confusion matrix evaluates a classifier's performance, distinguishing correct and incorrect predictions.

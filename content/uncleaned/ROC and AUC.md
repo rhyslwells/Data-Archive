@@ -79,6 +79,10 @@ In a [[ROC and AUC]] , the threshold level is varied, and the true positive rate
 
 **If you want to evaluate the performance of a classifier with a curve what do you use?**;; Use [[ROC and AUC]]. It plots [[Sensitivity]] against 1-[[Specificity]] for different threshold values. A higher area under the ROC curve (AUC) indicates better classifier performance.
 
-What are the [[ROC and AUC]];;Curve is a graphical representation of a classifier's ([[Logistic Regression]],[[Decision Tree]],[[SVM]]) performance across different thresholds. It shows the tradeoff between [[Sensitivity]] and [[Specificity]].
+What are the [[ROC and AUC]];;Curve is a graphical representation of a classifier's ([[Logistic Regression]],[[Decision Tree]],[[Support Vector Machines]]) performance across different thresholds. It shows the tradeoff between [[Sensitivity]] and [[Specificity]].
 
 What is the [[ROC and AUC]] score;; is a metric for binary [[Classification]] problems. It represents the area under the ROC curve and ranges from 0 to 1, with a higher value indicating better performance.
+
+
+How do you evaluate the performance of your machine learning models, and what metrics do you prioritize? ;; I use metrics such as accuracy, precision, recall, F1-score, and area under the ROC curve (AUC-ROC) depending on the specific task and objectives of the model.
+<!--SR:!2024-04-15,4,270-->

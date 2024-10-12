@@ -1,4 +1,5 @@
 ## Plugins
 - [ ] Investigate excalidraw for here.
-- [x] We should also group/dataview questions into a questions page.
 - [ ] quick switcher ++
+- [ ] media notes
+- [ ] google sheets integration? cavas take url.

@@ -13,3 +13,6 @@ For example, think of operational metrics that represent your company's performa
 Calculated measures are part of metrics and apply to specific [dimensions](term/dimensions.md) traditionally mapped inside a [Bus Matrix](term/bus%20matrix.md). Dimensions are the categorical buckets that can be used to segment, filter, group, slice, and dice—such as sales amount, region, city, product, color, and distribution channel. Dimensions (and facts) are also known from the concept of [Dimensional Modeling](term/dimensional%20modeling.md). 
 
 See more on [Semantic Layer](term/semantic%20layer.md) or [Metrics Layer](term/metrics%20layer.md).
+
+
+[[Categorical metrics]]

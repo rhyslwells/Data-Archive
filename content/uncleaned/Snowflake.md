@@ -16,5 +16,5 @@
    - **High Performance**: Optimized for fast query performance, particularly for complex analytical queries. It uses advanced optimizations like automatic clustering and caching.
 
 5. **Use Cases**:
-   - **[[uncleaned/Data Warehouse]]: Ideal for enterprise data warehousing, business intelligence, and analytics.
+   - **[[Data Warehouse]]: Ideal for enterprise data warehousing, business intelligence, and analytics.
    - **Data Lake**: Can function as a data lake with support for semi-structured data.

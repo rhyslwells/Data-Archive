@@ -1,5 +1,10 @@
-#ml
-
+---
+title: 
+tags:
+  - ml
+aliases: 
+category:
+---
 # Summary
 
 1) What are we trying to predict?
@@ -7,7 +12,7 @@
 2) What feature (categorical) best gives this classification i,e splits to leaves with TRUE or FALSE.
 3) Calculate the total impurity for each branch, choose the one the gives the lowest number (ie best predictor).
 
-![[Pasted image 20240411093348.png]]
+![[Pasted image 20240411093348.png|700]]
 
 A node is pure if it gives a correct classification to its term (i.e no further splitting) We stop when pure.
 
@@ -43,3 +48,20 @@ Here's how a decision tree works:
 
 
 ![[Pasted image 20240404154526.png]]
+
+How can overfitting in a decision tree be reduced, and what are the two approaches to pruning?;;Overfitting in a decision tree can be reduced using pruning. 
+
+How do use prune a decision tree?;; Two approaches to pruning are ==Pre-pruning==, which stops tree growth based on certain criteria, and ==Post-pruning==, which allows the tree to grow and then prunes based on tree size and performance.
+
+
+
+[[Decision Tree]]
+**What is a decision tree?** ;;An algorithm that generates a flowchart from a dataset, representing a tree-like structure. It can also be seen as a series of if-else conditions where a feature is evaluated at each node.
+
+**How are decision trees built?**;; Built in a decision tree is a recursive process. At each step, the algorithm searches for the best feature to split the dataset while minimizing ==entropy==.  The process continues until the tree is sufficiently homogenous or another stopping criterion is met.
+
+What is Entropy in regards to Decision trees?;; Entropy describes dataset variety.
+
+**What are the main advantages of decision trees?**;; output simplicity, minimal data preparation requirements, and human readability, making them suitable for transparent decision-making.
+
+**What are some disadvantages of decision trees?**;;overfitting, instability to small changes in input data, and the potential for complex structures with datasets having many features.

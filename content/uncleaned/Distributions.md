@@ -1,6 +1,12 @@
-#statistics #data #analysis
-# Notes
-
+---
+title: 
+tags:
+  - statistics
+  - analysis
+  - drafting
+aliases: 
+category:
+---
 **Types of Distributions:**
 
 **Discrete Distributions:** Probability concentrated on specific values (e.g., coin flips, number of customers).
@@ -9,8 +15,6 @@
 - **Bernoulli:** Two possible outcomes (e.g., coin flip, true/false).
 - **Binomial:** Sequence of Bernoulli trials (e.g., number of heads in 10 coin flips).
 - **Poisson:** Frequency of events in a fixed interval (e.g., website visits per hour).
-    
-
 
 **Common Continuous Distributions:** Probability spread over a continuous range
 - **Normal (Gaussian):** Bell-shaped curve, symmetric, thin tails (e.g., heights, exam scores). 
@@ -18,9 +22,6 @@
 - **Chi-squared:** Asymmetric, non-negative, used in hypothesis testing. 
 - **Exponential:** Models time between events (e.g., website traffic, radioactive decay). 
 - **Logistic:** S-shaped curve, used in forecasting and modeling growth.
-
-
-
 
 ## Practical 
 
@@ -36,11 +37,6 @@ g.map(plt.hist, 'var1', bins=20)
 ```
 
 barplot,pointplot
-
-
-
-
-
 
 
 [[Distributions]]

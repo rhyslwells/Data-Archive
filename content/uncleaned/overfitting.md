@@ -1,5 +1,11 @@
-#ml
-
+---
+title: 
+tags:
+  - ml
+  - drafting
+aliases: 
+category:
+---
 Overfitting is when;; the model fits the training data too well can be generalised.
 
 [[overfitting]] is when a model memorises the training data.
@@ -18,3 +24,6 @@ How do you prevent [[overfitting]]?
 - Use [[Regularisation]] to penalise the Lose function (Lasso and Ridge), one way to simplfy the model. 
 - Use [[Cross validation]] (dividing data up for training & testing with different parts).
 - Use early stopping to halt training process before its begins capturing noise.
+
+**What are some techniques that you can use to prevent overfitting in machine learning?**;;
+Overfitting happens when your model works well with the training dataset but does not generalize well to new data. To prevent overfitting use ==[[regularization]]== and ==[[Cross validation]]==.

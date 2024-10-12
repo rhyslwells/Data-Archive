@@ -2,4 +2,4 @@ It involves grouping a set of data points into subsets or clusters based on the 
 
 The goal is to organize the data to cluster similar items.
 
-Clustering is an [[Unsupervised]] learning technique.
+Clustering is an [[Unsupervised learning]] learning technique.

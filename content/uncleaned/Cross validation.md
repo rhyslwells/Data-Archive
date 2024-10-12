@@ -1,11 +1,10 @@
 ---
-type: term
+type: 
 tags:
   - "#evaluation"
   - ml
 ---
 ## Description 
-
 
 **What it is:**
 
@@ -81,3 +80,11 @@ print("Mean CV Score:", cv_scores.mean())
 
 
 What is [[Cross validation]];; a technique used to assess the performance of a model by splitting the data into multiple subsets for training and testing.
+
+
+
+
+
+[[Cross validation]]
+**What is cross-validation?**;; plitting the dataset into subsets multiple times used to
+assesses performance and generalization. It helps detect overfitting, provides reliable performance estimates.

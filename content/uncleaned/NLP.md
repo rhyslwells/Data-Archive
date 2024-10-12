@@ -1,5 +1,10 @@
+---
+title: 
+tags: 
+aliases: 
+category:
+---
 
-- [ ] Make a project [[Alice in Wonderland]]
 
 ## Notes:
 
