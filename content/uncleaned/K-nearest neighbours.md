@@ -16,3 +16,4 @@ It is a [[non-parametric]] method used for classification and regression. A samp
 
 [[K-nearest neighbours]]
 **What is the K-nearest neighbor (KNN) algorithm, and for what is it used?**;; Used to find the K closest data points to a given point based on a chosen metric. Used for both classification and regression tasks, where classification involves assigning to the most common class among the K neighbors, and regression involves predicting the average value among the K neighbors.
+

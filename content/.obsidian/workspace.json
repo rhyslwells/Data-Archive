@@ -23,12 +23,90 @@
             }
           },
           {
-            "id": "8b1327316575dea9",
+            "id": "0062e9e53b069249",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly_Review/Overview.md",
+                "file": "standardised/Logistic Regression.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3231c426e9fb14f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uncleaned/Regression.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a69f98ea950129ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uncleaned/Linear Regression.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "162405c46794b76d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uncleaned/Decision Tree.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49186121c605d062",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uncleaned/Database schema.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22d529ea1b08dd44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uncleaned/Classification.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83187fffb43a499f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uncleaned/Querying.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -73,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#data",
+                "query": "crud",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -112,7 +190,7 @@
       {
         "id": "9454b722f578abbd",
         "type": "tabs",
-        "dimension": 42.752740560292324,
+        "dimension": 28.142380422691883,
         "children": [
           {
             "id": "ff3901bb682c970e",
@@ -131,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Monthly_Review/Overview.md",
+                "file": "uncleaned/Classification.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -169,21 +247,9 @@
                   "repelStrength": 14.9053497942387,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8689291902854355,
+                  "scale": 0.5848321999403268,
                   "close": true
                 }
-              }
-            }
-          },
-          {
-            "id": "e2850395f208fa3e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Monthly_Review/Overview.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
               }
             }
           }
@@ -193,7 +259,7 @@
       {
         "id": "71bdd913dd026b43",
         "type": "tabs",
-        "dimension": 57.247259439707676,
+        "dimension": 71.85761957730811,
         "children": [
           {
             "id": "023b75570ad2cd68",
@@ -201,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly_Review/Overview.md"
+                "file": "uncleaned/Classification.md"
               }
             }
           },
@@ -211,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monthly_Review/Overview.md",
+                "file": "uncleaned/Classification.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,13 +287,25 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "e2850395f208fa3e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "uncleaned/Classification.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
+    "width": 693.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -252,34 +330,35 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "8b1327316575dea9",
+  "active": "22d529ea1b08dd44",
   "lastOpenFiles": [
-    "Tasks.md",
-    "Monthly_Review/Overview.md",
-    "standardised/interpretability.md",
-    "index.md",
-    "Monthly_Review/November 2024.md",
-    "pages/Questions.md",
-    "uncleaned/Data Validation.md",
-    "term/data catalog.md",
-    "standardised/Gradient Descent.md",
+    "standardised/Logistic Regression.md",
     "uncleaned/Linear Regression.md",
-    "uncleaned/Regression metrics.md",
-    "uncleaned/Machine Learning.md",
-    "uncleaned/Naive Bayes.md",
-    "uncleaned/Logistic Regression.md",
+    "uncleaned/Model Evaluation.md",
+    "uncleaned/Classification.md",
+    "uncleaned/What is the difference between odds and probability.md",
+    "uncleaned/Querying.md",
     "uncleaned/Decision Tree.md",
-    "uncleaned/Confusion matrix.md",
-    "uncleaned/Support Vector Machines.md",
-    "uncleaned/Random Forests.md",
-    "uncleaned/Bagging.md",
-    "uncleaned/Boosting.md",
-    "standardised/Ensemble model.md",
-    "uncleaned/ROC and AUC.md",
+    "standardised/Manifold learning.md",
+    "uncleaned/K-means.md",
+    "uncleaned/Decision Trees.md",
+    "uncleaned/PCA.md",
+    "index.md",
+    "uncleaned/Machine learning algorithms.md",
+    "standardised/Support Vector Machines.md",
+    "uncleaned/Support Vector Machines (SVMs).md",
+    "uncleaned/Bias and variance.md",
+    "standardised/Feature Extraction.md",
+    "standardised/Reinforcement learning.md",
     "uncleaned/Regression.md",
-    "uncleaned/interview notepad.md",
-    "uncleaned/Finding missing data.md",
-    "uncleaned/data selection.md",
+    "uncleaned/Kmeans.md",
+    "uncleaned/Gaussian Mixture Models.md",
+    "uncleaned/Hierarchical Clustering.md",
+    "uncleaned/Dimensionality Reduction.md",
+    "uncleaned/Clustering.md",
+    "uncleaned/Random Forest Regression.md",
+    "uncleaned/Support Vector Regression.md",
+    "images/Pasted image 20241012152141.png",
     "images/Pasted image 20241008215500.png",
     "images/grep.png",
     "images/Pasted image 20241006124829.png",
@@ -291,7 +370,6 @@
     "images/Pasted image 20241004074458.png",
     "images/Pasted image 20240928194559.png",
     "images/Pasted image 20240922201606.png",
-    "images/Pasted image 20240922202938.png",
     "Excalidraw",
     "Recording 20240917053412.webm",
     "Monthly Review",

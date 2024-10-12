@@ -22,7 +22,7 @@ Data preparation begins with a clear definition of the problem to be solved with
 Data must be transformed into a format that is most suitable for the machine learning model. This includes several steps such as ==labeling, cleansing, and feature engineering.==
 
 **Labelling**
-- **Supervised Learning**: This involves annotating the dataset with the correct answers (labels) to teach the model. For example, labeling images of apples to distinguish them from other fruits.
+- **[[Supervised Learning]]**: This involves annotating the dataset with the correct answers (labels) to teach the model. For example, labeling images of apples to distinguish them from other fruits.
 - **Manual and Automated Labeling**: Manual labeling by humans or leveraging existing labeled data. Tools like Google’s reCAPTCHA help in building labeled datasets.
 
 **Data Reduction and Cleansing**

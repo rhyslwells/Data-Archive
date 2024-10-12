@@ -22,7 +22,7 @@ tags:
 [[LightGBM]] (LGBM), [[XGBoost]] (XGM), and [[CatBoost]] (CAT) are three popular [[Gradient boosting]] frameworks widely used in machine learning competitions and real-world applications. 
 
 ## **Benefits:**
-   - Gradient boosting often outperforms other machine learning algorithms in terms of predictive accuracy.
+   - Gradient boosting often outperforms other [[machine learning algorithms]] in terms of predictive accuracy.
    - It handles [[heterogeneous features]] well and automatically selects relevant features.
    - It is less prone to [[overfitting]] compared to other complex models.
 

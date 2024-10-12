@@ -1,15 +1,15 @@
 ---
 tags:
   - software
+  - analysis
 ---
 ### **Databricks Overview**
 
 >[!Summary]  
 Databricks is a cloud-based platform for [[big data]] processing built on [[Apache Spark]]. It provides an integrated workspace for collaboration among [[data engineer]]s, data scientists, and analysts. Databricks on Azure simplifies Spark deployment by offering auto-scaling clusters, real-time analytics, and integration with various Azure services, such as Azure [[Data Lake]] for large-scale data storage.
 
-### **Key Features**
 
-- **Cloud Platform Compatibility**: 
+**Cloud Platform Compatibility**: 
   - Supports the big three cloud providers (AWS, Azure, GCP).
 - **Integration with Other Technologies**: 
   - Combines capabilities of:
@@ -31,7 +31,5 @@ Core Components:
 
 Scalability
 - Leverages the scalability of **[[Hadoop]]** while integrating advanced features for big data processing.
-
-### Questions:
 
 [[What is the difference between Databricks vs. Snowflake]]

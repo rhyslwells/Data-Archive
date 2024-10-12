@@ -9,6 +9,8 @@ category:
 ---
 PCA - [[Unsupervised learning]]
 
+is a linear technique ,unlike [[Manifold learning]]
+
 [[What is Dimension reduction]]
 A: involves reducing the number of features in a dataset while retaining its essential information.
 
@@ -49,3 +51,11 @@ Apply Principal Component Analysis (PCA) to reduce the dimensionality of a datas
 
 ![[Pasted image 20240128194148.png|500]]
 
+
+
+
+
+[[PCA]]
+Principal Component Analysis ([[PCA]]): 
+
+PCA finds the principal components, which are linear combinations of the original features that capture the most variance.

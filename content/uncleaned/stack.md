@@ -70,7 +70,7 @@ In this example:
 
 ### When Not to Use `stack`
 
-- If your data analysis or processing requires a wide format (e.g., some machine learning algorithms).
+- If your data analysis or processing requires a wide format (e.g., some [[machine learning algorithms]]).
 - If stacking makes the data too complex to manage or understand.
 - When you do not have a multi-indexed DataFrame and the current structure suits your analysis needs.
 

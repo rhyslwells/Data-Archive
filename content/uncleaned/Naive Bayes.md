@@ -216,3 +216,8 @@ $P(B|A)=P(Summer|Accident)P(No-Raining|Accident)P(Night|Accident)P(Urban|Acciden
 **How does Naive Bayes perform with categorical variables?** makes no assumptions about the data distribution.
 
 **What is Naive Bayes, and why is it called "naive"?**;; Algo which uses Bayes theorem, used for classification problems. It is "naive" because it assumes that predictor variables are independent, which may not be the case in reality. The algorithm calculates the probability of an item belonging to each possible class and chooses the class with the highest probability as the output.
+
+
+
+Naive Bayes
+Naive Bayes classifiers are based on Bayes' theorem and assume that the features are conditionally independent given the class label.

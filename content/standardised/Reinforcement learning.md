@@ -2,6 +2,7 @@
 title: 
 tags:
   - ml
+  - paradigm
 aliases:
   - RL
 ---

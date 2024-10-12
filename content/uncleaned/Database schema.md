@@ -1,8 +1,8 @@
 ---
 title: 
 tags:
-  - SQL
   - drafting
+  - database
 aliases:
   - schema
 category:
@@ -224,3 +224,5 @@ row id is always created primary keys
       FOREIGN KEY("station_id") REFERENCES "stations"("id")
   );
   ```
+
+A **[[database schema|schema]]** is the structure that defines how data is organized in a database. It specifies the tables, columns, relationships, and constraints within the database. The schema is crucial for ensuring data is stored consistently and can be queried efficiently.

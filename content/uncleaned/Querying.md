@@ -6,24 +6,11 @@ tags:
 
 [LINK](https://cs50.harvard.edu/sql/2024/weeks/0/)
 
-FOCUS 26:10 lecture 0
-
-[[Subquerying]]
-
----
-
-Why not spreadsheets? Why databases? 
-A: Scale, frequency, speed
-
-Database: is a collection of data organised for creation,reading,updating and deleting.
-
-Database Management system: how you interact with database: [[MySql]], PostgresSQL,MongoDB.
+[[Database]]
 
 SQL: the language used to interact with a database. Structured Query Language.
 
 Querying: Asking questions of data.
-
-
 
 end note: All of these actually exists. (transcript)
 
@@ -41,7 +28,7 @@ end note: All of these actually exists. (transcript)
 
 #### Database Concepts
 - **Database Definition**:
-  - Organizes data to create, read, update, and delete (CRUD operations).
+  - Organizes data to create, read, update, and delete ([[CRUD]] operations).
 - **Database Management System (DBMS)**:
   - Software to interact with databases (e.g., MySQL, Oracle, PostgreSQL, SQLite).
   - DBMS Types:

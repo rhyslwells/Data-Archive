@@ -64,3 +64,14 @@ This equation reflects the decomposition of total variability into explained var
 When additional variables are introduced, it can impact the intercept (\( b_0 \)) in the linear regression model. The intercept is the value of \( y \) when all independent variables (\( x_1, x_2, \ldots, x_n \)) are zero. The presence of extra variables can affect the baseline value of the dependent variable.
 
 **What are the most common techniques for computing the coefficients in linear regression?**;; The most common techniques for computing coefficients in linear regression are Ordinary Least Squares, which minimizes the sum of squared residuals, and Gradient Descent, which iteratively updates coefficients to minimize error.
+
+
+
+Linear Regression
+: Linear regression assumes a linear relationship between the input features and the target variable.
+
+
+
+[[Linear Regression]]
+Limitations
+(e.g., Linear Regression, [[Logistic Regression]]): Limited ability to model complex nonlinear relationships.

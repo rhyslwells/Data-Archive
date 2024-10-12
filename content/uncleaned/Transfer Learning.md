@@ -22,7 +22,7 @@ This approach is particularly valuable when ==labelled data is scarce in the tar
 
 The sources mention several types of transfer learning, highlighting the flexibility of this approach:
 
-- **Unsupervised Pretraining for Supervised Learning:** The sources describe how unsupervised pretraining with models like denoising autoencoders can be used to learn useful representations that can be transferred to supervised learning tasks.
+- **Unsupervised Pretraining for [[Supervised Learning]]:** The sources describe how unsupervised pretraining with models like denoising autoencoders can be used to learn useful representations that can be transferred to supervised learning tasks.
 
 - **Cross-Domain Transfer Learning:** This involves transferring knowledge between domains with different input distributions but the same task. For example, a sentiment analysis model trained on customer reviews of books could be adapted to analyse reviews of electronic products.
 

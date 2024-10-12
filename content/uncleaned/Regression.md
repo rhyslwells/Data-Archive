@@ -12,12 +12,11 @@ type: problem
 
 ?;; aimed to estimate continuous variables, linear, multi linear[[Regression]]gression assumptions]]
 
-### [[linearity]]
+### [[linearity]] 
 [[Linear Regression]] assumes linearity
 does scatter plot of variables look like a line? 
 
 if not can apply a transformation. 
-
 ###  [[Normality]]
 
 ### no [[Multicollinearity]]
@@ -37,3 +36,10 @@ Types:
 
 
 What is Regression?;; aimed to estimate conious variables, linear, multi linear, used in prediction.
+
+
+
+Regression
+
+Predicting insurance claims: An individual's characteristics (age, health, driving history, etc.) can be used to predict the amount of insurance claims they are likely to make.
+Forecasting stock prices: Historical stock prices and other financial indicators can be used to predict future stock prices.

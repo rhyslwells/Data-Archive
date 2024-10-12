@@ -65,3 +65,10 @@ What is Entropy in regards to Decision trees?;; Entropy describes dataset variet
 **What are the main advantages of decision trees?**;; output simplicity, minimal data preparation requirements, and human readability, making them suitable for transparent decision-making.
 
 **What are some disadvantages of decision trees?**;;overfitting, instability to small changes in input data, and the potential for complex structures with datasets having many features.
+
+Decision Trees
+Decision trees create a hierarchical structure of decisions based on the features of the data.
+
+Decision Trees
+Limitations
+Prone to overfitting if not properly pruned or regularised.

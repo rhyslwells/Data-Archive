@@ -24,7 +24,7 @@ In summary, **unsupervised learning** is about discovering hidden patterns in da
    - Example: Customer segmentation in marketing. A clustering algorithm can divide customers into different groups based on purchasing behavior, demographics, or browsing history.
    - Popular Algorithms: 
      - [[K-means]] Divides the data into $k$ clusters, where each data point belongs to the nearest cluster.
-     - **Hierarchical clustering**: Builds a tree of clusters by progressively merging or splitting groups based on similarity.
+     - **[[Hierarchical clustering]]**: Builds a tree of clusters by progressively merging or splitting groups based on similarity.
      - **[[DBSCAN]] (Density-Based Spatial Clustering of Applications with Noise)**: Forms clusters based on data density, allowing it to find arbitrarily shaped clusters.
 
    **Example**: Clustering customers into distinct groups based on their purchasing patterns in an e-commerce business.
@@ -41,7 +41,7 @@ In summary, **unsupervised learning** is about discovering hidden patterns in da
    - Popular Algorithms:
      - [[**Isolation Forest**]]: Works by randomly partitioning the data and identifying anomalies as points that can be isolated quickly.
 
-**What is [[supervised learning]]?**;; Supervised learning is a process where learning algorithms are trained on labeled datasets, where each point is associated with a class or label. That is there is a y_train, then uses to get y_pred (from X_test) and compare against y_test.
+**What is [[Supervised Learning]]?**;; Supervised learning is a process where learning algorithms are trained on labeled datasets, where each point is associated with a class or label. That is there is a y_train, then uses to get y_pred (from X_test) and compare against y_test.
 
 A [[Supervised]] task that involves ;; assigning predefined categories to an input. The goal is to learn a mapping via training so one can predict categories/labels of unseen data.
 
