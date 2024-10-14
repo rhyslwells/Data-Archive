@@ -5,7 +5,7 @@ tags:
 aliases: 
 category:
 ---
-Machine learning algorithms are used to automate tasks, extract insights, and make more informed decisions.
+ Machine learning algorithms are used to automate tasks, extract insights, and make more informed decisions.
 
 Choosing the right algorithm for a specific problem involves understanding the task, the characteristics of the data, and the strengths and limitations of different algorithms.
 # [[Supervised Learning]]

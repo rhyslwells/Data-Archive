@@ -37,7 +37,7 @@ category: industries
 **Techniques:**
 - **Time Series Analysis**: Analyzing historical data to forecast future energy demand or production trends.
 - **[[Regression]] Analysis**: Used to model relationships between different variables, such as energy prices and consumption patterns.
-- [[What is a neural network|Neural Network]] Particularly deep learning, is applied for complex pattern recognition in large datasets, such as detecting anomalies in energy consumption or predicting equipment failures.
+- [[Neural network|Neural Network]] Particularly deep learning, is applied for complex pattern recognition in large datasets, such as detecting anomalies in energy consumption or predicting equipment failures.
 
 
 # Areas of interest

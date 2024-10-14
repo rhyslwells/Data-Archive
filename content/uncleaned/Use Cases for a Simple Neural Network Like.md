@@ -1,4 +1,4 @@
-Here are some scenarios where a simple [[What is a neural network|Neural Network]] work like this might be useful:
+Here are some scenarios where a simple [[Neural network|Neural Network]] work like this might be useful:
 
 **[[Regression]] with Multiple Features**
 If you have multiple input features and you want to predict a continuous output, this network can learn the appropriate weights for each feature. For instance:

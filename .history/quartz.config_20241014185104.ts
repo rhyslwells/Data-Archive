@@ -8,15 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    // pageTitle: "🪴RW",
+    pageTitle: "Data Archive",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    locale: "en-GB",
+    baseUrl: "rhyslwells.github.io",
+    ignorePatterns: ["private", "templates", ".obsidian","Excalidraw","plugins","templates","uncleaned"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

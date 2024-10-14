@@ -12,7 +12,7 @@ aliases:
 
 
 >[!Summary]
-> A [[What is a neural network|Neural Network]] **neural net**) is a computational model inspired by the way biological neural networks in the human brain work. It consists of layers of interconnected nodes (also called neurons) that process and transmit information. Neural networks are fundamental to [[Deep Learning]]a subset of machine learning, and are used to recognize patterns, make predictions, and solve complex problems.
+> A [[Neural network|Neural Network]] **neural net**) is a computational model inspired by the way biological neural networks in the human brain work. It consists of layers of interconnected nodes (also called neurons) that process and transmit information. Neural networks are fundamental to [[Deep Learning]]a subset of machine learning, and are used to recognize patterns, make predictions, and solve complex problems.
 
 >[!Example]
 >   neural network can be used for a task like image classification. For instance:

@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-GB",
     baseUrl: "rhyslwells.github.io",
-    ignorePatterns: ["private", "templates", ".obsidian","Excalidraw","images","plugins","templates","uncleaned"],
+    ignorePatterns: ["private", "templates", ".obsidian","Excalidraw","plugins","templates","uncleaned"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

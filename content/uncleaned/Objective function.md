@@ -1,5 +1,5 @@
 
-[[What is a neural network]]
+[[Neural network]]
 
 the measure used to evaluate how well the models predictions match the target values. Split into two types [[loss function]] and [[ reward function]] (opposite of cost).
 

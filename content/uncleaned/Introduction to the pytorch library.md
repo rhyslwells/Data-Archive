@@ -111,7 +111,7 @@ However, this total derivative is not what we are computing here. **We are compu
 In Summary:
 - **Gradient (`x.grad`)**: A vector of partial derivatives of `z` with respect to each element in `x`, giving us `[2.0, 4.0, 6.0]`.
 - **Sum of Gradients**: The sum of the elements of the gradient vector is `12`, but that’s not the gradient of `z` with respect to `x` as a whole—it's just a summation of the partial derivatives.
-### Basic [[What is a neural network|Neural Network]] Implementation 
+### Basic [[Neural network|Neural Network]] Implementation 
 
 A simple feedforward network using PyTorch.
 
@@ -201,7 +201,7 @@ print(list(model.parameters()))
 ### Moving Tensors to GPU  
 
 Summary:
-- speed up training e.g. of [[What is a neural network|Neural Network]]
+- speed up training e.g. of [[Neural network|Neural Network]]
 - use [[Parallelism]] for simultaneous calculations
 - GPU can do larger batches of computations, better on the memory, better for [[Gradient Descent]] estimations
 - 

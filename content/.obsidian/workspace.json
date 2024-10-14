@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "0062e9e53b069249",
+            "id": "6b9348e5cde0c4d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "standardised/Logistic Regression.md",
+                "file": "uncleaned/Transformer Network.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "3231c426e9fb14f8",
+            "id": "b5212a731d550e8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uncleaned/Regression.md",
+                "file": "standardised/Activation Function.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,12 +49,12 @@
             }
           },
           {
-            "id": "a69f98ea950129ac",
+            "id": "d58c14d99b742f0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uncleaned/Linear Regression.md",
+                "file": "uncleaned/Use of RNNs in energy sector.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,51 +62,12 @@
             }
           },
           {
-            "id": "162405c46794b76d",
+            "id": "d76978b4d58fe24a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uncleaned/Decision Tree.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49186121c605d062",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uncleaned/Database schema.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22d529ea1b08dd44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uncleaned/Classification.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83187fffb43a499f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uncleaned/Querying.md",
+                "file": "uncleaned/Attention Is All You Need.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "uncleaned/Classification.md",
+                "file": "uncleaned/Use of RNNs in energy sector.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -247,7 +208,7 @@
                   "repelStrength": 14.9053497942387,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5848321999403268,
+                  "scale": 0.47471431065350944,
                   "close": true
                 }
               }
@@ -267,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uncleaned/Classification.md"
+                "file": "uncleaned/Use of RNNs in energy sector.md"
               }
             }
           },
@@ -277,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uncleaned/Classification.md",
+                "file": "uncleaned/Use of RNNs in energy sector.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uncleaned/Classification.md",
+                "file": "uncleaned/Use of RNNs in energy sector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -330,34 +291,34 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "22d529ea1b08dd44",
+  "active": "d58c14d99b742f0e",
   "lastOpenFiles": [
+    "uncleaned/Recurrent Neural networks.md",
+    "uncleaned/Use of RNNs in energy sector.md",
+    "uncleaned/What are recurrent neural networks and how are they used for sequence data.md",
+    "uncleaned/LSTM.md",
+    "standardised/Activation Function.md",
+    "uncleaned/vanishing and exploding gradients problem.md",
+    "uncleaned/Feed Forward Neural Network.md",
+    "uncleaned/feedforward neural networks.md",
+    "uncleaned/Forward Propagation.md",
+    "uncleaned/loss function.md",
+    "uncleaned/Transformers vs RNNs.md",
+    "uncleaned/Transformer Network.md",
+    "standardised/Attention mechanism.md",
+    "uncleaned/Attention Is All You Need.md",
+    "Tasks.md",
+    "standardised/Classification.md",
+    "uncleaned/K-nearest neighbours.md",
+    "uncleaned/K-nearest neighbors.md",
+    "standardised/Neural network.md",
+    "uncleaned/K-means.md",
+    "uncleaned/Machine learning algorithms.md",
     "standardised/Logistic Regression.md",
     "uncleaned/Linear Regression.md",
     "uncleaned/Model Evaluation.md",
-    "uncleaned/Classification.md",
     "uncleaned/What is the difference between odds and probability.md",
     "uncleaned/Querying.md",
-    "uncleaned/Decision Tree.md",
-    "standardised/Manifold learning.md",
-    "uncleaned/K-means.md",
-    "uncleaned/Decision Trees.md",
-    "uncleaned/PCA.md",
-    "index.md",
-    "uncleaned/Machine learning algorithms.md",
-    "standardised/Support Vector Machines.md",
-    "uncleaned/Support Vector Machines (SVMs).md",
-    "uncleaned/Bias and variance.md",
-    "standardised/Feature Extraction.md",
-    "standardised/Reinforcement learning.md",
-    "uncleaned/Regression.md",
-    "uncleaned/Kmeans.md",
-    "uncleaned/Gaussian Mixture Models.md",
-    "uncleaned/Hierarchical Clustering.md",
-    "uncleaned/Dimensionality Reduction.md",
-    "uncleaned/Clustering.md",
-    "uncleaned/Random Forest Regression.md",
-    "uncleaned/Support Vector Regression.md",
     "images/Pasted image 20241012152141.png",
     "images/Pasted image 20241008215500.png",
     "images/grep.png",

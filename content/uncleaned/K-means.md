@@ -23,3 +23,8 @@ tags:
 [[K-means]]
 Limitations
 sensitive to the initialisation of cluster centroids and requires specifying the number of clusters beforehand.
+
+
+
+[[K-means]]
+- **How does the [[K-means]] algorithm work?**: It partitions a dataset into K clusters, assigning data points to the closest cluster mean. The means are updated iteratively until convergence.

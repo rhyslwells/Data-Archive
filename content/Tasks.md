@@ -10,11 +10,13 @@
 - [ ] See tags and clean and consolidate tags and related pages: Format those with #data to more specific tags.
 - [ ] Start work on Energy_Project
 
-#### PDF Investigations
-
-See:
-C:\Users\RhysL\OneDrive\Desktop\Focus
-for books of interest.
+#### Recents
+```dataview  
+LIST  
+WHERE  
+file.path != ""  
+SORT file.mtime DESC LIMIT 8
+```
 #### Drafting
 
 ```dataview
@@ -31,3 +33,8 @@ FROM ""
 WHERE contains(tags, "learning")
 ```
 
+#### PDF Investigations
+
+See:
+C:\Users\RhysL\OneDrive\Desktop\Focus
+for books of interest.

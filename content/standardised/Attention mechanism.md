@@ -5,8 +5,7 @@ tags:
 importance: 9
 engagement: 9
 recency_of_interest: 2024-09-29
-aliases:
-  - Attention mechanism
+aliases: []
 ---
 >[!intuition]
 > Think of attention like human reading behavior: when reading a complex sentence, we don't process all the words equally at every moment. Instead, we might "attend" more to certain words based on the context of what we’ve read so far and what we're trying to understand. This is similar to what the attention mechanism does in neural networks.
@@ -85,3 +84,6 @@ Multi-head attention: perform self attention in parallel.
 These have better understanding of the context.
 
 [[How multi-head attention capture more of the context]]
+
+- This allows the model to weigh the importance of different words in a sequence when making predictions. It captures relationships between words, even if they are far apart in the sequence.
+   - The model computes attention scores for each pair of words to determine how much focus one word should place on another in a sequence.

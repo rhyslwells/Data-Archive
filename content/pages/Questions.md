@@ -1,7 +1,7 @@
 
 | Top Questions                                                        | Interest | Recency of Interest |
 | -------------------------------------------------------------------- | -------- | ------------------- |
-| [[What is a neural network]]                                         | 42       | September 28, 2024  |
+| [[Neural network]]                                         | 42       | September 28, 2024  |
 | [[What does observability mean in terms of machine learning]]        | 22       | September 28, 2024  |
 | [[Why do we do feature importance]]<br>                              | 14       | September 26, 2024  |
 | [[What common techniques are used to determine if a Gen AI is good]] | 13       | September 26, 2024  |
