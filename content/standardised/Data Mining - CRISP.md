@@ -24,7 +24,7 @@ graph TD
    
 3. **Data Preparation**: This phase includes all activities needed to construct the final dataset, such as data cleaning, transformation, and feature selection.
    
-4. **Modeling**: Various modeling techniques are applied to the data, and parameters are tuned to improve performance. Models like decision trees, neural networks, or clustering may be used.
+4. **Modeling**: Various modeling techniques are applied to the data, and parameters are tuned to improve performance. Models like decision trees, neural networks, or [[clustering]] may be used.
    
 5. **Evaluation**: The model is thoroughly evaluated to ensure it meets the business objectives and provides actionable insights.
    

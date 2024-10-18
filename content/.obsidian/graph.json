@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "section: ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#question  ",
@@ -15,37 +15,30 @@
       }
     },
     {
-      "query": "tag: #ml  ",
+      "query": "tag:#learning",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path: uncleaned  ",
+      "query": "",
       "color": {
         "a": 1,
-        "rgb": 7566195
-      }
-    },
-    {
-      "query": "path: standardised  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
+        "rgb": 11657298
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.7,
-  "nodeSizeMultiplier": 1.90805516174765,
-  "lineSizeMultiplier": 2.29202216780513,
-  "collapse-forces": true,
-  "centerStrength": 0.360742363706663,
-  "repelStrength": 10,
-  "linkStrength": 0.760793916741848,
-  "linkDistance": 112,
-  "scale": 0.7745732366358565,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.02044722258023,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10.8506250805516,
+  "linkStrength": 0.352816084546978,
+  "linkDistance": 250,
+  "scale": 0.6431477199048026,
   "close": false
 }

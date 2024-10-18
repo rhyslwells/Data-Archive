@@ -1,8 +1,8 @@
 ---
 title: 
 tags:
-  - deep_learning
   - ml
+  - deep_learning
 aliases: 
 category:
 ---

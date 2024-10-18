@@ -1,22 +1,53 @@
 ---
-tags:
-  - ml
-  - ml_process
+title: Regularization in Machine Learning  
+tags: 
+- ml  
+- ml_process  
+- data_visualization  
+- statistics  
+aliases: [Regulation in ML, Regularisation techniques]  
+category: Machine Learning  
 ---
->[!Summary]
-Regularisation is a technique to prevent overfitting in a model by adding a penalty term to the cost function. Regularization is the process of adding a tuning parameter to a model to ==induce smoothness in order to prevent overfitting.== It helps in controlling the complexity of the model and reduces the chance of fitting noise in the training data.
 
-Used to prevent [[overfitting]] by penalising the [[loss function]] during training to reduce model complexity.
+>[!Summary]  
+>
+>Regularization is the process of adding a tuning parameter to a model to ==induce smoothness in order to prevent overfitting.== It helps in controlling the complexity of the model and reduces the chance of fitting noise in the training data.
+>
+>Regularization is a  technique in machine learning that reduces the risk of overfitting by adding a penalty to the [[loss function]] during model training. This penalty term restricts the magnitude of the model's parameters, thereby controlling the complexity of the model. 
+>
+>Common forms of regularization include $L_1$ regularization ([[Lasso]]) and $L_2$ regularization ([[Ridge]]). 
+>
+>Lasso results in sparse models by setting ==less important feature weights to zero==, while Ridge ==shrinks all feature coefficients==, reducing their impact without eliminating any features. 
+>
+>[[Dropout]] is another regularization technique specifically used in neural networks, randomly dropping units during training to encourage robust feature learning.
 
-This penalty term ==imposes constraints== on the weights or parameters of the model, encouraging simpler or smoother models that are less prone to overfitting.
+>[!Breakdown]  
+> Key Components:  
+> - $L_1$ regularization (Lasso): Adds the absolute value of the coefficients to the loss function, encouraging sparsity.  
+> - $L_2$ regularization (Ridge): Adds the square of the coefficients to the loss function, shrinking them toward zero.  
+> - Dropout: A neural network regularization method that drops units at random during training to prevent over-reliance on specific neurons.
 
-Types:
-1. L1 [[Lasso]] (Absolute value)
-2. L2: [[Ridge]] (Square)
+>[!important]  
+> - Regularization adds a penalty term to the loss function to avoid overfitting.  
+> - $L_1$ encourages feature sparsity, while $L_2$ reduces coefficient magnitudes.  
+> - Dropout enhances generalization by preventing unit co-adaptation in neural networks.
 
-Lasso tends to produce sparse models by ==eliminating less important features==, while Ridge tends to ==shrink the coefficients of all features== without eliminating any, making it more suitable for situations where retaining all features is desired but with reduced magnitudes to prevent overfitting.
+>[!attention]  
+> - Over-penalizing parameters can lead to underfitting, where the model becomes too simplistic.  
+> - Choosing the right penalty term (i.e., $\lambda$) is crucial for balancing bias and variance.
 
-**What is regularization
-used to prevent overfitting in machine learning models. It involves adding a penalty term to the loss function during training, discouraging the model from assigning too much importance to specific features. For example ==Lasso== and ==Ridge== regularization. By reducing the model's complexity, regularization promotes better generalization to new, unseen data.
+>[!Example]  
+Consider a linear regression model with $L_2$ regularization (Ridge). The cost function would be:  
+$$ J(\theta) = \frac{1}{2m} \sum_{i=1}^{m} (h_{\theta}(x^{(i)}) - y^{(i)})^2 + \lambda \sum_{j=1}^{n} \theta_j^2 $$  
+Here, $\lambda$ controls the strength of the regularization. Higher $\lambda$ values shrink the coefficients more.
 
-[[Dropout]] is a regularization technique that ==randomly drops units== (along with their connections) from the neural network during training. This prevents units from co-adapting too much and forces the network to learn more robust features. By averaging the predictions of multiple dropout networks, the model generalizes better and reduces overfitting.**
+>[!Follow up questions]  
+> - How does the balance between $L_1$ and $L_2$ regularization impact model performance in large feature spaces?  
+> - What are the best practices for tuning the $\lambda$ parameter in regularization?
+
+>[!Related Topics]  
+> - [[Feature Selection]] methods in machine learning  
+> - [[Model Selection]] techniques for high-dimensional data  
+
+
+

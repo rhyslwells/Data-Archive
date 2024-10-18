@@ -1,6 +1,7 @@
 ---
 title: 
 tags: 
+resources: https://www.youtube.com/watch?v=T-D1OfcDW1M
 ---
 Rag is a framework the help [[LLM]] be more up to date.
 
@@ -38,4 +39,21 @@ Model should be able to saay "I dont know" instead of [[hallucinating]]
 
 ### Resources
 
-[link](https://www.youtube.com/watch?v=T-D1OfcDW1M)
+
+
+[[RAG]]
+Problems
+1. LLMs struggle with memorization > "LLMs may struggle with
+tasks that require domain-specific expertise or up-to-date
+information.
+2. LLMs struggle with generating factually inaccurate content
+(hallucinations)
+Solution
+· A lightweight retriever (SM) to extract relevant document
+fragments from external knowledge bases, document collections,
+or other tools
+
+ Differnet RaG techinwuqs:
+ Spare retrievers, BM25, dense retrtivers. Use Bert for similarity matching:
+
+![[Pasted image 20241017165540.png]]

@@ -5,7 +5,7 @@ tags:
 ---
 # Description
 
-: Kmeans clustering partitions data into k clusters, with each data point assigned to the cluster with the nearest centroid.
+: Kmeans [[clustering]] partitions data into k clusters, with each data point assigned to the cluster with the nearest centroid.
 
 - [[K-means]] is an {{[[Unsupervised learning]]}} that organises unlabelled data into meaningful groups.
 - Initially have to pick a [[hyperparameter]] $k$ of the number of clusters. To choose the correct number of clusters in [[K-means]] we use a {{[[WCSS and elbow method]]}} diagram.

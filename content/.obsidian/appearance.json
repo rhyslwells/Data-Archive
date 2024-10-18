@@ -2,11 +2,12 @@
   "accentColor": "#4e407d",
   "cssTheme": "Atom",
   "theme": "obsidian",
-  "baseFontSize": 16,
+  "baseFontSize": 14,
   "showViewHeader": true,
   "enabledCssSnippets": [
     "dashboard",
     "properties"
   ],
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "nativeMenus": false
 }

@@ -72,7 +72,7 @@ def scatter_elbow(X, elbow_num, var1, var2):
     Returns:
     None (plots the scatter plot)
     """
-    # Apply clustering with elbow number
+    # Apply [[clustering]] with elbow number
     kmeans = KMeans(elbow_num)
     kmeans.fit(X)
 

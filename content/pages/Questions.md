@@ -14,10 +14,10 @@
 | [[What is a transformer and how do they work]]                                                                                               | 10       |
 | [[Why use isolation forest (Random Forests) for outliers detection]]                                                                         | 6        |
 | [[What is Sarsa in terms of single agent reinforcement learning]]                                                                            | 6        |
-| [[How does backpropagation work]]                                                                                                            | 5        |
+| [[Backpropagation]]                                                                                                            | 5        |
 | [[How do multi-agents interact in reinforcement learning]]                                                                                   | 4        |
 | [[Why do we do feature importance]]                                                                                                          | 2        |
-| [[How does backpropagation work]]                                                                                                            | 2        |
+| [[Backpropagation]]                                                                                                            | 2        |
 | [[For other classifiers is there a similar process like regularisation in linear regression]]                                                | 0        |
 | [[How can machine learning models be made more interpretable to non-technical stakeholders]]                                                 |          |
 | [[How can we ensure that models generalize well to new, unseen data, especially in dynamic environments]]                                    |          |
@@ -59,5 +59,5 @@ What does the [[Logistic Regression]] graph tell us, specifically the results?
 
 How to use [[Sklearn Pipiline]]? Give an example with an interesting dataset.
 
-How do you know if a [[Classification]] has been [[overfitting]]? For example with [[Random Forests]]
+How do you know if a [[Classification]] has been [[Overfitting]]? For example with [[Random Forests]]
 A: You can use [[Cross validation]]

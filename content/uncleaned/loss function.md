@@ -12,7 +12,7 @@ A loss function measures how well the model fits the data and guides the optimiz
 
 The loss function measures the disparity between the model's predictions and the actual target values.
 
-Evaluates how well it fits the training data, very close to the idea of [[overfitting]].
+Evaluates how well it fits the training data, very close to the idea of [[Overfitting]].
 
 The objective is to ==minimize this loss function==.
 

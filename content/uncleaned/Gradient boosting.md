@@ -24,7 +24,7 @@ tags:
 ## **Benefits:**
    - Gradient boosting often outperforms other [[machine learning algorithms]] in terms of predictive accuracy.
    - It handles [[heterogeneous features]] well and automatically selects relevant features.
-   - It is less prone to [[overfitting]] compared to other complex models.
+   - It is less prone to [[Overfitting]] compared to other complex models.
 
 ## **Implementation:**
    - Popular libraries for gradient boosting include [[XGBoost]], LightGBM, and CatBoost.

@@ -24,7 +24,7 @@ What assumption can we make based on the problem?
 **3. Feature Engineering and Model Selection:**
 
 - What are the key features or variables that might be predictive of the desired outcome?
-- What type of machine learning model might be best suited for this problem (e.g., classification, regression, clustering)?
+- What type of machine learning model might be best suited for this problem (e.g., classification, regression, [[clustering]])?
 
 **4. Evaluation and Deployment:**
 

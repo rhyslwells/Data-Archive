@@ -10,7 +10,7 @@ The multicollinearity assumption refers only to the idea that the **independent 
 
 Given a feature, f1 (say target), there may exist others that are correlated to it f2,f3,f4. Then you remove those that are strongly correlated.
 
-To see [[Correlation]] use [[heatmap]] or [[clustermap]]
+To see [[Correlation]] use [[heatmap]] or [[Clustering]]
 
 Multicollinearity occurs when two or more independent variables in a regression model are highly correlated
 

@@ -65,4 +65,4 @@ for doc_id in range(len(corpus)):
 
 ## Why are we interested in this method?
 
-TF-IDF helps in capturing the uniqueness of terms within each document, which can be useful in tasks like document clustering [[Clustering classification]], information retrieval[[Search]], and content recommendation.[[Recommender systems]]
+TF-IDF helps in capturing the uniqueness of terms within each document, which can be useful in tasks like document clustering [[Clustering]], information retrieval[[Search]], and content recommendation.[[Recommender systems]]

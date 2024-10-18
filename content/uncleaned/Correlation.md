@@ -35,4 +35,4 @@ One would want to:
 	Correlate categorical features
 ## Viewing
 
-Correlations between features can be viewed through [[heatmap]] or [[clustermap]].
+Correlations between features can be viewed through [[heatmap]] or [[Clustering]].

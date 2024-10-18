@@ -5,6 +5,7 @@ tags:
   - drafting
 aliases:
   - explainability
+  - interpretable
 ---
 # Links
 1. [Interpretability Importance](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html)

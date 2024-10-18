@@ -19,63 +19,12 @@
                 "backlinks": false,
                 "source": false
               },
-              "pinned": true
-            }
-          },
-          {
-            "id": "6b9348e5cde0c4d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uncleaned/Transformer Network.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5212a731d550e8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "standardised/Activation Function.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d58c14d99b742f0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uncleaned/Use of RNNs in energy sector.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d76978b4d58fe24a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uncleaned/Attention Is All You Need.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Tasks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +44,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -103,7 +54,9 @@
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
-              "state": {}
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
             }
           },
           {
@@ -112,13 +65,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crud",
+                "query": "tag:#ml",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -126,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -134,14 +91,27 @@
             "type": "leaf",
             "state": {
               "type": "Strange New Worlds",
-              "state": {}
+              "state": {},
+              "icon": "file-digit",
+              "title": "Strange New Worlds"
+            }
+          },
+          {
+            "id": "696ce67dd6004ff5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 249.50198364257812,
+    "width": 410.5001640319824,
     "collapsed": true
   },
   "right": {
@@ -161,7 +131,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -170,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "uncleaned/Use of RNNs in energy sector.md",
+                "file": "Tasks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -211,7 +183,9 @@
                   "scale": 0.47471431065350944,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Tasks"
             }
           }
         ],
@@ -228,8 +202,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uncleaned/Use of RNNs in energy sector.md"
-              }
+                "file": "Tasks.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tasks"
             }
           },
           {
@@ -238,15 +214,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uncleaned/Use of RNNs in energy sector.md",
+                "file": "Tasks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tasks"
             }
           },
           {
@@ -255,14 +233,16 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uncleaned/Use of RNNs in energy sector.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tasks"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -291,46 +271,46 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "d58c14d99b742f0e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "uncleaned/Recurrent Neural networks.md",
-    "uncleaned/Use of RNNs in energy sector.md",
-    "uncleaned/What are recurrent neural networks and how are they used for sequence data.md",
-    "uncleaned/LSTM.md",
-    "standardised/Activation Function.md",
-    "uncleaned/vanishing and exploding gradients problem.md",
-    "uncleaned/Feed Forward Neural Network.md",
-    "uncleaned/feedforward neural networks.md",
-    "uncleaned/Forward Propagation.md",
-    "uncleaned/loss function.md",
-    "uncleaned/Transformers vs RNNs.md",
-    "uncleaned/Transformer Network.md",
-    "standardised/Attention mechanism.md",
-    "uncleaned/Attention Is All You Need.md",
+    "uncleaned/Using SQLite to Process and Split Combined Data from Excel.md",
     "Tasks.md",
-    "standardised/Classification.md",
-    "uncleaned/K-nearest neighbours.md",
-    "uncleaned/K-nearest neighbors.md",
-    "standardised/Neural network.md",
-    "uncleaned/K-means.md",
-    "uncleaned/Machine learning algorithms.md",
-    "standardised/Logistic Regression.md",
+    "uncleaned/Transformers vs RNNs.md",
     "uncleaned/Linear Regression.md",
-    "uncleaned/Model Evaluation.md",
-    "uncleaned/What is the difference between odds and probability.md",
-    "uncleaned/Querying.md",
-    "images/Pasted image 20241012152141.png",
-    "images/Pasted image 20241008215500.png",
-    "images/grep.png",
-    "images/Pasted image 20241006124829.png",
-    "images/Pasted image 20241006124735.png",
-    "images/Pasted image 20241006124356.png",
-    "images/Pasted image 20241005170237.png",
+    "uncleaned/Transformer Network.md",
+    "uncleaned/Tensorflow.md",
+    "uncleaned/Recurrent Neural networks.md",
+    "uncleaned/LSTM.md",
+    "uncleaned/loss function.md",
+    "uncleaned/Get data.md",
+    "uncleaned/Feed Forward Neural Network.md",
+    "uncleaned/Deep learning frameworks.md",
+    "uncleaned/Backpropagation.md",
+    "standardised/Deep Learning.md",
+    "standardised/Activation Function.md",
+    "uncleaned/Untitled 4.md",
+    "standardised/inference versus prediction.md",
+    "standardised/inference.md",
+    "uncleaned/Small Language Models.md",
+    "uncleaned/Knowledge Distillation.md",
+    "uncleaned/Contrastive Decoding.md",
+    "uncleaned/Data Synthesis.md",
+    "standardised/interpretability.md",
+    "uncleaned/Model cascading.md",
+    "uncleaned/Edge Machine Learning Models.md",
+    "uncleaned/Language Models Large (LLMs) vs Small (SLMs).md",
+    "images/Pasted image 20241017170051.png",
+    "images/Pasted image 20241017170030.png",
+    "images/Pasted image 20241017165540.png",
+    "images/Pasted image 20241017074030.png",
+    "images/Pasted image 20241017073743.png",
+    "images/Pasted image 20241017072732.png",
+    "images/Pasted image 20241017072233.png",
     "term",
+    "images/Pasted image 20241015211934.png",
+    "images/Pasted image 20241015211844.png",
+    "images/Pasted image 20241015211424.png",
     "Monthly_Review/Archive",
-    "images/Pasted image 20241004074458.png",
-    "images/Pasted image 20240928194559.png",
-    "images/Pasted image 20240922201606.png",
     "Excalidraw",
     "Recording 20240917053412.webm",
     "Monthly Review",

@@ -9,7 +9,7 @@ Use same dataset, and dependant variables
 
 **- It's always less than or equal to [[R squared]], and values closer to 1 indicate a better fit.**
 
-**- Use adjusted R² to compare models with different numbers of predictors and avoid [[overfitting]].**
+**- Use adjusted R² to compare models with different numbers of predictors and avoid [[Overfitting]].**
 
 Use [[Adjusted R squared]] and [[R squared]]  if big difference then we are penalised for extra varaibles. If there is a big difference we can drop the extra variable.
 

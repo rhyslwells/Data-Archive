@@ -4,7 +4,6 @@
   "url-into-selection",
   "obsidian-path-title",
   "obsidian-pandoc",
-  "recent-files-obsidian",
   "vim-toggle",
   "note-refactor-obsidian",
   "obsidian-projects",
@@ -21,5 +20,7 @@
   "excalibrain",
   "darlal-switcher-plus",
   "media-notes",
-  "soundscapes"
+  "soundscapes",
+  "obsidian-mind-map",
+  "recent-files-obsidian"
 ]

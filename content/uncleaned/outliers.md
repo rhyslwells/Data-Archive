@@ -38,7 +38,7 @@ How can [[outliers]] be detected?
 - Use a [[Boxplot]] which displays the distribution (IQR),
 - visually determine a theresold in a plot,
 - Or use a Z-score stastistically.
-- Use clustering, outliers will be in small clusters.
+- Use [[clustering]], outliers will be in small clusters.
 
 
 ### Detection

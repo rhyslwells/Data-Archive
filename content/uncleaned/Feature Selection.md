@@ -32,7 +32,7 @@ After selecting features, it's essential to evaluate your model's performance wi
 
 ## How do you detect if a feature is noisy or redundant.
 
-- [[Correlation]] analysis: use a [[heatmap]]/[[clustermap]]. Features with low correlation to the target or high correlation with other features may be candidates for removal.
+- [[Correlation]] analysis: use a [[heatmap]]/[[Clustering]]. Features with low correlation to the target or high correlation with other features may be candidates for removal.
   
 - **Dimensionality Reduction Techniques**: Techniques like [[PCA]] or Singular Value Decomposition ([[SVD]]) can transform the features into a lower-dimensional space while preserving as much variance as possible. Features with low contribution to the principal components can be considered for removal.
   

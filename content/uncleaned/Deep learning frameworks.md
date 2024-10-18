@@ -2,10 +2,8 @@
 type: 
 tags:
   - deep_learning
-  - "#learning"
+  - drafting
 ---
-
-
 [Overview video](https://www.youtube.com/watch?v=MDP9FfsNx60)
 ## [[Tensorflow]]
 

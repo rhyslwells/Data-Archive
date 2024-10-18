@@ -16,7 +16,7 @@ What does the data look like [[continuous]] or [[categorical]]?
 
 [[Unsupervised learning]]
 	[[Dimension reduction]]
-	[[Clustering Problems]]
+	[[Clustering]]
 
 
 

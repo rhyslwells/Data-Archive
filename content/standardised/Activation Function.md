@@ -4,11 +4,18 @@ tags:
 ---
 Used in [[Neural network]] for non-linearity
 
-- **Sigmoid:** S-shaped curve (0 to 1) often used in binary classification. Image of Sigmoid activation function: [https://en.wikipedia.org/wiki/Sigmoid_function](https://en.wikipedia.org/wiki/Sigmoid_function)
-- **ReLU (Rectified Linear Unit):** Outputs input directly if positive, otherwise 0. Simple and efficient, often used in modern deep neural networks. Image of ReLU activation function: [https://en.wikipedia.org/wiki/Rectifier_(neural_networks](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))
-- **Tanh:** S-shaped curve (-1 to 1), similar to sigmoid but centered around 0.
-- **Softmax:** Used for multi-class classification, ensuring output probabilities sum to 1. Image of Softmax activation function:
+Activation functions play a crucial role in neural networks by introducing **non-linearity**, allowing models to learn from complex patterns and relationships in the data.
+### Key Uses of Activation Functions:
 
-- **ReLU (Rectified Linear Unit)**: $f(x) = \max(0, x)$
-     - **Sigmoid**: $f(x) = \frac{1}{1 + e^{-x}}$
-     - **Tanh**: $f(x) = \tanh(x)$
+1. **Non-linearity**: Without activation functions, neural networks would behave as linear models, unable to capture complex, non-linear patterns in the data
+2. **Data transformation**: Activation functions modify input signals from one layer to another, helping the model focus on important information while ignoring irrelevant data,
+3. **[[Backpropagation]]**: They enable gradient-based optimization by making the network differentiable, essential for efficient learning.
+### Common Activation Functions:
+- **Sigmoid**: Used for binary classification, outputting values between 0 and 1.
+- **ReLU (Rectified Linear Unit)**: Popular in deep networks, it outputs the input if positive and zero otherwise, improving training efficiency.
+- **Tanh**: Similar to sigmoid but ranges from -1 to 1, helping in zero-centered output.
+- **Softmax**: Used in multi-class classification to produce probabilities that sum to 1.
+
+- **ReLU (Rectified Linear Unit)**: $f(x) = \max(0, x)$
+- **Sigmoid**: $f(x) = \frac{1}{1 + e^{-x}}$
+- **Tanh**: $f(x) = \tanh(x)$

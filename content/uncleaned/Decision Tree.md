@@ -18,7 +18,7 @@ A node is pure if it gives a correct classification to its term (i.e no further 
 
 Output of leaf is the category with the most values.
 
-Decision trees can be [[overfitting]] if the leafs have a small number of values for a dataset, use [[pruning]]. 
+Decision trees can be [[Overfitting]] if the leafs have a small number of values for a dataset, use [[pruning]]. 
 
 Can put limit of tree depth.
 

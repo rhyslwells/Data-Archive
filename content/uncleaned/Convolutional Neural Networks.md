@@ -18,3 +18,5 @@ The idea of pooling in convolutional neural networks is to do two things:
 ●To make feature detection ([[Feature Extraction]]) more robust by making it more impervious to scale and orientation changes
 
 ![[Pasted image 20241006124829.png|500]]
+
+[[Convolutional Neural Networks]] (CNNs) are used for;; used for image and video analysis, object recognition, and computer vision tasks.

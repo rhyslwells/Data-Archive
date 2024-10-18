@@ -23,7 +23,7 @@ Classifiers are essential in **automated decision-making** and **predictive anal
 2. **[[Decision Tree]]**: A model that splits data recursively based on feature importance, forming a tree-like structure. It’s easy to interpret but can overfit on noisy data.
 3. **[[Support Vector Machines]]**: SVM finds a hyperplane that maximizes the margin between classes, making it robust in high-dimensional spaces like image and text classification.
 4. **[[K-nearest neighbours]] (KNN)**: This algorithm classifies a new data point based on the majority class of its k nearest neighbors. It's simple but can be computationally expensive for large datasets.
-5. [[Neural Network]]: A complex model that mimics the human brain. It's highly effective in tasks like image recognition and natural language processing but requires more computational power.
+5. [[Neural network]]: A complex model that mimics the human brain. It's highly effective in tasks like image recognition and natural language processing but requires more computational power.
 
 ### How Do I Choose a Classifier Algorithm?
 

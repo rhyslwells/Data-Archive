@@ -17,5 +17,6 @@
   "propertiesInDocument": "visible",
   "newFileLocation": "folder",
   "newFileFolderPath": "uncleaned",
-  "attachmentFolderPath": "images"
+  "attachmentFolderPath": "images",
+  "showRibbon": true
 }

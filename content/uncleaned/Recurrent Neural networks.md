@@ -14,6 +14,10 @@ aliases:
 
 [[Use of RNNs in energy sector]]
 
+RRS have loops
+
+![[Pasted image 20241015205137.png|100]]
+
 Recurrent neural networks, or RNNs, are designed for processing sequential data, such as text or time series. They have connections that form loops, allowing information to persist and be passed from one step in the sequence to the next. RNNs maintain an internal state or memory that captures information from previous time steps, enabling them to learn patterns and dependencies across time. They are widely used for natural language processing tasks like machine translation, speech recognition, and text generation.
 
 **Recurrent Neural Networks (RNNs)** are a class of neural networks specifically designed to ==handle sequential data== by ==maintaining a memory of previous inputs== throught the use of ==hidden states==. They are commonly used in tasks where the order of data is important, such as time series prediction, speech recognition, and natural language processing (NLP). 
@@ -108,6 +112,13 @@ print(output.shape)  # Expected output shape: (32, 2)
 - **Natural Language Processing (NLP)**: Used in tasks like machine translation, text generation, and sentiment analysis.
 - **Time Series Forecasting**: Applied in stock price prediction, weather forecasting, etc.
 - **Speech Recognition**: Used to recognize spoken words and phrases in speech-to-text models.
+
+# Notes
+
+https://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+**Inductive Reasoning, Memories and Attention.** Another extremely exciting direction of research is oriented towards addressing the limitations of vanilla recurrent networks. One problem is that RNNs are not inductive: They memorize sequences extremely well, but they don’t necessarily always show convincing signs of generalizing in the _correct_ way (I’ll provide pointers in a bit that make this more concrete). A second issue is they unnecessarily couple their representation size to the amount of computation per step. For instance, if you double the size of the hidden state vector you’d quadruple the amount of FLOPS at each step due to the matrix multiplication. Ideally, we’d like to maintain a huge representation/memory (e.g. containing all of Wikipedia or many intermediate state variables), while maintaining the ability to keep computation per time step fixed.
+
 
 
 

@@ -5,7 +5,7 @@ tags:
 aliases: 
 category:
 ---
-Related to [[overfitting]].
+Related to [[Overfitting]].
 
 Ways to reduce bias and variance
 [[Regularisation]]

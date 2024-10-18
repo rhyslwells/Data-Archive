@@ -1,15 +1,36 @@
 ---
 title: 
 tags:
-  - "#question"
   - "#deep_learning"
+  - drafting
 importance: 6
 engagement: 7
 recency_of_interest: 2024-09-28
 aliases:
   - Neural Network
 ---
+# My Notes
 
+Number of starting nodes depends on input parameter, similar for output.
+
+The width and the depth of the net are called [[hyperparameter]].
+
+Non linear functions at nodes are called [[Activation Function]]. Common activation functions:
+sigmoid, TanH, RELu,softmax. But how to choose them?
+
+Methods to get parameters (weights biases) for NN using training data to reduce the errors in predictions: 
+
+	[[Forward propagation]] is the process of pushing inputs through the net NN. At the end of each [[epoch]], the obtained outputs are
+	compared to targets to form the errors.
+	
+	[[Backpropagation]] 
+## To explore
+
+- **[[Multilayer Perceptrons]] (MLP)**: A basic fully connected network with multiple layers.
+- [[Convolutional Neural Networks]]: Designed for image data.
+- **Recurrent Neural Networks ([[Recurrent Neural networks|RNN]])**: Designed for sequence data (like time series or text).
+
+# Summary
 
 >[!Summary]
 > A [[Neural network|Neural Network]] **neural net**) is a computational model inspired by the way biological neural networks in the human brain work. It consists of layers of interconnected nodes (also called neurons) that process and transmit information. Neural networks are fundamental to [[Deep Learning]]a subset of machine learning, and are used to recognize patterns, make predictions, and solve complex problems.
@@ -76,25 +97,13 @@ aliases:
 - **Data-hungry**: Neural networks typically require large datasets to perform well.
 - **Computationally Intensive**: Training deep networks can require substantial computational resources.
 - **Black Box Nature**: The internal decision-making process is often difficult to interpret, although research into interpretability is addressing this.
-### My Notes
 
-Number of starting nodes depends on input parameter, similar for output.
 
-The width and the depth of the net are called [[hyperparameter]].
+[[Neural network]]
+What is a Node in a [[Neural network|Neural Network]]?;; Nodes in a [[Neural network|neural network]] are basic computational units that receive inputs, perform a weighted sum of those inputs, and apply an activation function to produce an output. 
 
-Non linear functions at nodes are called [[Activation Function]]. Common activation functions:
-sigmoid, TanH, RELu,softmax. But how to choose them?
+How are weights initialized in a [[Neural network|neural network]]?;; Initializing all weights randomly: the weights are assigned randomly by initializing them very close to 0. It gives better accuracy to the model since every neuron performs different computations.
 
-Methods to get parameters (weights biases) for NN using training data to reduce the errors in predictions: 
 
-	[[Forward propagation]] is the process of pushing inputs through the net NN. At the end of each [[epoch]], the obtained outputs are
-	compared to targets to form the errors.
-	
-	[[Backpropagation]] of errors is an algorithm for neural networks using gradient descent. It consists of calculating
-	the contribution of each parameter to the errors. We backpropagate the errors through the net and update the
-	parameters (weights and biases) accordingly.
-## To explore
 
-- **[[Multilayer Perceptrons]] (MLP)**: A basic fully connected network with multiple layers.
-- [[Convolutional Neural Networks]]: Designed for image data.
-- **Recurrent Neural Networks ([[Recurrent Neural networks|RNN]])**: Designed for sequence data (like time series or text).
+- Neural networks are structured as layers with input, hidden, and output layers, applying activation functions to learn patterns in data.

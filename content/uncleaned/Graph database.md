@@ -3,7 +3,7 @@ title:
 tags:
   - drafting
 ---
-
+[[word embedding]]
 
 >[!Summary]
 >

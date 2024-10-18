@@ -1,7 +1,7 @@
 ---
 type: process
 tags:
-  - learning
+  - ml
 ---
 # What is involved:
 

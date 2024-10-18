@@ -1,29 +1,41 @@
 ---
-title: 
-tags:
-  - ml
-  - drafting
-aliases: 
-category:
+title: Overfitting in Machine Learning  
+tags: 
+- ml 
+- analysis 
+- statistics 
+- data_quality  
+aliases: model overfitting, high variance models
 ---
-Overfitting is when;; the model fits the training data too well can be generalised.
 
-[[overfitting]] is when a model memorises the training data.
+>[!Summary]  
+> Overfitting in machine learning occurs when a model captures not only the underlying patterns in the training data ==but also the noise==, leading to poor performance on unseen data, and is unable to generalise.
+> 
+>Mathematically, overfitting results in a model with low bias but high variance, meaning it adapts too closely to the training data and fails to generalize well.
+>
+>Key methods to address overfitting include [[regularisation]] (such as $L_1$ and $L_2$ regularization), [[Cross validation]], and simpler models.
+>
+>In statistical terms, it indicates a model with high complexity and too many parameters relative to the amount of training data, which results in $f(x)$ poorly representing the population distribution.
 
-## Q&A's
+>[!Breakdown]  
+> Key Components:  
+> - Regularization (Lasso: $L_1$, Ridge: $L_2$) to penalize model complexity.  
+> - Cross-validation to ensure model generalization.  
+> - Early stopping in training to avoid learning noise.  
+> - Simplification of models to prevent fitting irrelevant patterns.
 
-What is [[overfitting]];; Overfitting is when model fits training data too well (low bias, high complexity). Underfitting is the oppiste and has high bias and fails to capture underlying patterns.
+>[!important]  
+> - Overfitting indicates high variance in the model’s performance, which can be ==identified by a significant drop in accuracy between training and test datasets.==  
+> - Regularization adds penalty terms to the cost function, reducing model complexity and mitigating overfitting.
 
-What does [[overfitting]] do;; Results in the model not being good with new data (high variance).
+>[!attention]  
+> - Overfitting is more common in models with high-dimensional datasets.  
+> - Excessive model tuning (hyperparameter optimization) may inadvertently increase overfitting.
 
-How do you know if a model is [[overfitting]] [[overfitting]]?;; Compare performance with different test data, look for large variance.
+>[!Follow up questions]  
+> - How does the choice of regularization type (e.g., $L_1$ vs. $L_2$) affect model generalization in overfitting scenarios?  
+> - What role does the size of the training dataset play in mitigating overfitting?
 
-How do you prevent [[overfitting]]?
-?
-- Use simpler models. 
-- Use [[Regularisation]] to penalise the Lose function (Lasso and Ridge), one way to simplfy the model. 
-- Use [[Cross validation]] (dividing data up for training & testing with different parts).
-- Use early stopping to halt training process before its begins capturing noise.
-
-**What are some techniques that you can use to prevent overfitting in machine learning?**;;
-Overfitting happens when your model works well with the training dataset but does not generalize well to new data. To prevent overfitting use ==[[regularization]]== and ==[[Cross validation]]==.
+>[!Related Topics]  
+> - [[Cross validation]] techniques (e.g., $k$-fold, Leave-One-Out cross-validation)  
+> - [[Bias and variance]]radeoff in machine learning models  

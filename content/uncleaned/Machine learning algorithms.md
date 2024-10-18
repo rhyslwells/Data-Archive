@@ -31,7 +31,7 @@ Common [[Clustering]] algorithms include:
 
 - [[K-means]]
 - [[Gaussian Mixture Models]]
-- [[Hierarchical Clustering]]
+- [[Clustering]]
 - [[Dimensionality Reduction]]
 
 Common [[Dimensionality Reduction]] algorithms include:

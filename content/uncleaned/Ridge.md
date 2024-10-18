@@ -6,7 +6,7 @@ Adds a ==penalty==.
 
 Given a [[Linear Regression]] example with a line fitted using using [[least squares]] ([[mean square error]]).
 
-If we have a [[overfitting]] line, we can correct it by making fitted line slightly bad to make the model better.
+If we have a [[Overfitting]] line, we can correct it by making fitted line slightly bad to make the model better.
 
 **L2 Regularization (Ridge)**: L2 regularization adds a penalty term proportional to the square of the weights to the loss function. This encourages smaller weights overall and tends to distribute the weight values more evenly across all features.
 

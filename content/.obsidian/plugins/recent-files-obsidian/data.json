@@ -1,6 +1,70 @@
 {
   "recentFiles": [
     {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "Using SQLite to Process and Split Combined Data from Excel",
+      "path": "uncleaned/Using SQLite to Process and Split Combined Data from Excel.md"
+    },
+    {
+      "basename": "Transformers vs RNNs",
+      "path": "uncleaned/Transformers vs RNNs.md"
+    },
+    {
+      "basename": "Linear Regression",
+      "path": "uncleaned/Linear Regression.md"
+    },
+    {
+      "basename": "Transformer Network",
+      "path": "uncleaned/Transformer Network.md"
+    },
+    {
+      "basename": "Tensorflow",
+      "path": "uncleaned/Tensorflow.md"
+    },
+    {
+      "basename": "Recurrent Neural networks",
+      "path": "uncleaned/Recurrent Neural networks.md"
+    },
+    {
+      "basename": "LSTM",
+      "path": "uncleaned/LSTM.md"
+    },
+    {
+      "basename": "loss function",
+      "path": "uncleaned/loss function.md"
+    },
+    {
+      "basename": "Get data",
+      "path": "uncleaned/Get data.md"
+    },
+    {
+      "basename": "Feed Forward Neural Network",
+      "path": "uncleaned/Feed Forward Neural Network.md"
+    },
+    {
+      "basename": "Deep learning frameworks",
+      "path": "uncleaned/Deep learning frameworks.md"
+    },
+    {
+      "basename": "Backpropagation",
+      "path": "uncleaned/Backpropagation.md"
+    },
+    {
+      "basename": "Deep Learning",
+      "path": "standardised/Deep Learning.md"
+    },
+    {
+      "basename": "Activation Function",
+      "path": "standardised/Activation Function.md"
+    },
+    {
+      "basename": "Untitled 4",
+      "path": "uncleaned/Untitled 4.md"
+    },
+    {
       "basename": "Fabric",
       "path": "uncleaned/Fabric.md"
     },
@@ -45,10 +109,6 @@
       "path": "uncleaned/data selection.md"
     },
     {
-      "basename": "Recurrent Neural networks",
-      "path": "uncleaned/Recurrent Neural networks.md"
-    },
-    {
       "basename": "Energy",
       "path": "standardised/Energy.md"
     },
@@ -87,10 +147,6 @@
     {
       "basename": "Industries of interest",
       "path": "uncleaned/Industries of interest.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Tasks.md"
     },
     {
       "basename": "October 2024",
@@ -143,65 +199,11 @@
     {
       "basename": "RAG",
       "path": "standardised/RAG.md"
-    },
-    {
-      "basename": "Vector embedding",
-      "path": "uncleaned/Vector embedding.md"
-    },
-    {
-      "basename": "Model Interpretability Tools",
-      "path": "uncleaned/Model Interpretability Tools.md"
-    },
-    {
-      "basename": "Edge Machine Learning Models",
-      "path": "uncleaned/Edge Machine Learning Models.md"
-    },
-    {
-      "basename": "Machine Learning Operations",
-      "path": "uncleaned/Machine Learning Operations.md"
-    },
-    {
-      "basename": "Telecommunications",
-      "path": "uncleaned/Telecommunications.md"
-    },
-    {
-      "basename": "Digital Transformation",
-      "path": "standardised/Digital Transformation.md"
-    },
-    {
-      "basename": "Xournal++",
-      "path": "uncleaned/Xournal++.md"
-    },
-    {
-      "basename": "Data Mining - CRISP",
-      "path": "standardised/Data Mining - CRISP.md"
-    },
-    {
-      "basename": "What is the Attention mechanism",
-      "path": "standardised/What is the Attention mechanism.md"
-    },
-    {
-      "basename": "AI Engineer",
-      "path": "uncleaned/AI Engineer.md"
-    },
-    {
-      "basename": "Adjusted R squared",
-      "path": "uncleaned/Adjusted R squared.md"
-    },
-    {
-      "basename": "Ada boosting",
-      "path": "uncleaned/Ada boosting.md"
-    },
-    {
-      "basename": "Activation Function",
-      "path": "standardised/Activation Function.md"
-    },
-    {
-      "basename": "Activation atlases",
-      "path": "uncleaned/Activation atlases.md"
     }
   ],
-  "omittedPaths": [],
-  "maxLength": null,
+  "omittedPaths": [
+    ""
+  ],
+  "maxLength": 50,
   "openType": "tab"
 }
