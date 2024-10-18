@@ -1,4 +1,4 @@
----
+`---
 title: [Insert specific topic here]  
 tags: 
 - ml 
@@ -7,7 +7,7 @@ tags:
 - statistics 
 - data_governance  
 aliases: [Insert alternate names or abbreviations]  
-category: [Insert category, e.g., "Data Science," Machine Learning"]
+category: [Insert category, e.g., "Data Science,"Machine Learning"]
 ---
 
 Persona:  
