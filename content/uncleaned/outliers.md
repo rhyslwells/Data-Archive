@@ -1,11 +1,14 @@
 ---
 tags:
-  - "#data"
   - "#analysis"
   - statistics
+aliases:
+  - anomalies
 ---
 
 ## Notes
+
+
 
 There are different ways to clip outliers:
 
@@ -98,4 +101,3 @@ Outlier handling is a technique for removing outliers from a data set. This meth
 
 1. **Removal**: Outlier-containing entries are deleted from the distribution. However, if there are outliers across numerous variables, this strategy may result in a big chunk of the datasheet being missed.
 2. **Replacing values**: Alternatively, the outliers could be handled as missing values and replaced with suitable imputation.
-3.

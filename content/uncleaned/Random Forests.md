@@ -2,7 +2,6 @@
 tags:
   - ml
   - classifer
-  - learning
   - drafting
 ---
 # Statquest notes:

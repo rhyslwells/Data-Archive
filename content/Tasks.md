@@ -3,6 +3,8 @@ Priority Tasks:
 - [ ] Link associated code to github in ML_learning repo
 - [ ] See tags and clean and consolidate tags and related pages: Format those with #data to more specific tags.
 - [ ] Start work on Energy_Project
+- [ ] Clean data archive better
+
 
 Drafting:
 ```dataview
@@ -17,4 +19,4 @@ Later:
 - [ ] Move relevant files from "uncleaned" to "standardised".
 - [ ] Check out plugin [[0 README]]
 
- 
+ ![[Pasted image 20241018133202.png]]

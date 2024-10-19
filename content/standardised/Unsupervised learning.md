@@ -9,7 +9,7 @@ aliases:
   - unsupervised
 category:
 ---
-In summary, **unsupervised learning** is about discovering hidden patterns in data without predefined labels, making it valuable for exploratory data analysis, [[clustering]], and [[Anomaly Detection]].
+In summary, **unsupervised learning** is about discovering hidden patterns in data without predefined labels, making it valuable for exploratory data analysis, [[clustering]], and [[Isolated Forests]].
 
 **Unsupervised learning** is a type of machine learning where the algorithm is ==trained on data without explicit labels or predefined outputs.== The goal of unsupervised learning is to find hidden patterns, relationships, or structures in the data. Unlike **supervised learning**, where the model learns from labeled input-output pairs, unsupervised learning only uses input data, and the algorithm attempts to uncover insights from the data by itself.
 ### Key Concepts of Unsupervised Learning:
@@ -38,7 +38,7 @@ In summary, **unsupervised learning** is about discovering hidden patterns in da
      - **Principal Component Analysis ([[PCA]])**: Transforms the data into a set of ==orthogonal components== that explain the maximum variance.
    **Example**: PCA used to reduce the dimensions of a dataset containing hundreds of features, such as a dataset of pixel values from images.
 
-3. [[Anomaly Detection]]
+3. [[Isolated Forests]]
    - Identifies [[outliers]] or unusual data points that don’t conform to the expected pattern in the dataset.
    - Example: Detecting fraudulent credit card transactions by identifying transactions that deviate significantly from typical spending patterns.
    - Popular Algorithms:
