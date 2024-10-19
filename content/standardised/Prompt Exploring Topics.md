@@ -5,9 +5,9 @@ tags:
 - data_visualization 
 - analysis 
 - statistics 
-- data_governance  
+- data_governance
 aliases: [Insert alternate names or abbreviations]  
-category: [Insert category, e.g., "Data Science,"Machine Learning"]
+category: [Insert category, e.g., "Data Science","Machine Learning"]
 ---
 
 Persona:  
@@ -66,7 +66,7 @@ category: [Insert category, e.g., analysis, data, energy]
 > - {{Related Topic 1: e.g., Predictive maintenance in energy systems}}  
 > - {{Related Topic 2: e.g., Feature selection in machine learning models}}  
 
-
 Do not use  anywhere in the response. If is provide a term in [[word]] ensure that the format persists.
 
 Topics of interest:
+

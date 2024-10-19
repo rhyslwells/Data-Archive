@@ -20,7 +20,7 @@ aliases: model overfitting, high variance models
 >[!Breakdown]  
 > Key Components:  
 > - Regularization (Lasso: $L_1$, Ridge: $L_2$) to penalize model complexity.  
-> - Cross-validation to ensure model generalization.  
+> - [[Cross validation]] to ensure model generalization.  
 > - Early stopping in training to avoid learning noise.  
 > - Simplification of models to prevent fitting irrelevant patterns.
 

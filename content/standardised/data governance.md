@@ -8,4 +8,4 @@ tags:
 
 It establishes the processes and responsibilities that ensure the [data quality](data%20quality.md) and security of the data used across a business or organization. Data governance defines who can take what action, upon what data, in what situations, and using what methods.
 
-**Data Governance**: Focuses on ensuring that data is managed consistently and adheres to policies, often working in tandem with [[observability]] to enforce quality standards.
+**Data Governance**: Focuses on ensuring that data is managed consistently and adheres to policies, often working in tandem with [[Observability]] to enforce quality standards.

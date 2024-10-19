@@ -14,7 +14,7 @@ Questions
 
 
 [[hyperparameter]]
-[[hyperparameter]] tuning can be done with [[hyperparameter optuna]]
+[[hyperparameter]] tuning can be done with [[hyperparameter]]
 
 [[Cross validation]]
 Both (sklearn)[`StratifiedKFold`](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedKFold.html) and [`RepeatedStratifiedKFold`](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RepeatedStratifiedKFold.html) can be very effective when used on classification problems with a severe class imbalance. They both _stratify_ the sampling by the class label; that is, they split the dataset in such a way that preserves approximately the same class distribution (i.e., the same percentage of samples of each class) in each subset/fold as in the original dataset. However, a single run of `StratifiedKFold` might result in a noisy estimate of the model's performance, as different splits of the data might result in very different results. That is where `RepeatedStratifiedKFold` comes into play.
