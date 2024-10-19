@@ -4,6 +4,7 @@ Priority Tasks:
 - [ ] See tags and clean and consolidate tags and related pages: Format those with #data to more specific tags.
 - [ ] Start work on Energy_Project
 - [ ] Clean data archive better
+- [ ] Use the graph view more to explore ideas
 
 
 Drafting:
@@ -14,9 +15,15 @@ WHERE contains(tags, "drafting")
 LIMIT 8
 ```
 
+Papers:
+```dataview
+TABLE
+FROM ""
+WHERE contains(category, "paper")
+LIMIT 8
+```
+
 Later:
 - [ ] Improve [[Prompt Exploring Topics]]
 - [ ] Move relevant files from "uncleaned" to "standardised".
 - [ ] Check out plugin [[0 README]]
-
- ![[Pasted image 20241018133202.png]]

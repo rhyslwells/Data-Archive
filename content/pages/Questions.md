@@ -11,7 +11,7 @@
 
 | Question                                                                                                                                     | Interest |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [[What is a transformer and how do they work]]                                                                                               | 10       |
+| [[Transformer]]                                                                                               | 10       |
 | [[Why use isolation forest (Random Forests) for outliers detection]]                                                                         | 6        |
 | [[What is Sarsa in terms of single agent reinforcement learning]]                                                                            | 6        |
 | [[Backpropagation]]                                                                                                            | 5        |

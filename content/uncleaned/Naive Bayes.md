@@ -4,7 +4,7 @@ tags:
   - ml
 ---
 
-Can values for X,y be categroical ? [[Encode categorical features]]
+Can values for X,y be categroical ? [[Encoding Categorical Variables]]
 
 BernoulliNB()
 

@@ -8,7 +8,7 @@ aliases:
   - RNN
   - RNNs
 ---
-[[Transformer Network|Transformer]]'s have replaced traditional RNN.
+[[Transformer|Transformer]]'s have replaced traditional RNN.
 
 [LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 

@@ -6,7 +6,7 @@ tags:
 aliases: 
 category:
 ---
-[[Transformer Network|Transformers]] and Recurrent Neural Networks ([[RNNs]]) are both deep learning architectures ==used for processing sequential data==, but they differ significantly in structure, operation, and performance.
+[[Transformer|Transformers]] and Recurrent Neural Networks ([[RNNs]]) are both deep learning architectures ==used for processing sequential data==, but they differ significantly in structure, operation, and performance.
 
 While RNNs have been essential for sequence modeling, transformers have become the dominant architecture in ML due to their ability to handle large-scale data and long-range dependencies more efficiently. 
 
@@ -28,7 +28,7 @@ RNNs still have use cases, especially for tasks where memory constraints are cri
   - RNNs ==process data sequentially,== one time step at a time. They maintain a ==hidden state== that is updated as the model processes each token in the sequence, making them suitable for time-dependent tasks.
   - Common variants include **[[LSTM]] (Long Short-Term Memory)** and **GRU ([[Gated Recurrent Units]])**, which are designed to capture ==long-term dependencies== more effectively.
 
-- **[[Transformer Network]]**:
+- **[[Transformer]]**:
   - Transformers do not process data sequentially. Instead, they ==process the entire sequence in parallel==, allowing them to ==model relationships between tokens regardless of their position==. This is achieved through the **self-attention mechanism**.
   - Transformers include **positional encodings** to account for the order of tokens, since their architecture doesn't have an inherent understanding of sequence order.
 
@@ -78,4 +78,4 @@ RNNs still have use cases, especially for tasks where memory constraints are cri
   - While effective in small-scale, low-latency tasks, RNNs often perform worse than transformers on complex tasks that involve large-scale data or long-range dependencies.
 
 - **Transformers**:
-  - Transformers have significantly outperformed RNNs in most tasks requiring sequential data processing, particularly in NLP. Pre-trained models like **BERT**, **GPT**, and **T5** are based on the transformer architecture and have set state-of-the-art results in many benchmarks.
+  - Transformers have significantly outperformed RNNs in most tasks requiring sequential data processing, particularly in NLP. Pre-trained models like **[[BERT]]**, **GPT**, and **T5** are based on the transformer architecture and have set state-of-the-art results in many benchmarks.

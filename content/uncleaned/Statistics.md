@@ -1,6 +1,7 @@
 ---
 tags:
   - statistics
+  - drafting
 ---
 
 # Notes
@@ -37,3 +38,9 @@ What is the difference between a parametric and a non-parametric test?
 
 
 
+
+
+
+
+[[Statistics]]
+What are some difference between a bar chart and a histogram?;; A bar chart shows the frequency of each value of a categorical variable. An <b>histogram</b> is used to represent the distribution of a <u>continuous</u> variable.

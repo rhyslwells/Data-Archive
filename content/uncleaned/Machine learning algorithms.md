@@ -36,7 +36,7 @@ Common [[Clustering]] algorithms include:
 
 Common [[Dimensionality Reduction]] algorithms include:
 
-- [[PCA]]
+- [[Principal Component Analysis]]
 - [[Manifold learning]]
 ## Strengths and Limitations of Machine Learning Algorithms
 

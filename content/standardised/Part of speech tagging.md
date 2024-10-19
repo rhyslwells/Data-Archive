@@ -1,4 +1,4 @@
-[[Part of speech tagging]] : assigning a specific part-of-speech category (such as noun, verb, adjective, etc.) to each word in a text
+Part of speech tagging : assigning a specific part-of-speech category (such as noun, verb, adjective, etc.) to each word in a text
 
 Part-of-speech tagging involves assigning a specific part-of-speech category (such as noun, verb, adjective, etc.) to each word in a text
 ```python

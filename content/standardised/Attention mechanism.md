@@ -16,7 +16,7 @@ aliases: []
 
 ### Core Idea of Attention
 
-The  [[Transformer Network|Transformer]] architecture, introduced by Vaswani et al. in 2017 ("[[Attention Is All You Need]]"), is the most popular use of the attention mechanism. The key innovation of Transformers is the ==**self-attention mechanism**==, which ==allows each token in a sequence to attend to all other tokens==, making the model more efficient and scalable for parallel processing. ==Transformers replaced traditional RNN-based== models and have become the foundation of models like BERT, GPT, and T5.
+The  [[Transformer|Transformer]] architecture, introduced by Vaswani et al. in 2017 ("[[Attention Is All You Need]]"), is the most popular use of the attention mechanism. The key innovation of Transformers is the ==**self-attention mechanism**==, which ==allows each token in a sequence to attend to all other tokens==, making the model more efficient and scalable for parallel processing. ==Transformers replaced traditional RNN-based== models and have become the foundation of models like [[BERT]], GPT, and T5.
 
 The attention mechanism allows a model to focus on different parts of an input sequence when making predictions, rather than relying on a fixed-size hidden state to encode all information. This selective "focus" can greatly enhance the model's ability to handle long-range dependencies.
 
@@ -83,7 +83,7 @@ Multi-head attention: perform self attention in parallel.
 
 These have better understanding of the context.
 
-[[How multi-head attention capture more of the context]]
+[[Multi-head attention]]
 
 - This allows the model to weigh the importance of different words in a sequence when making predictions. It captures relationships between words, even if they are far apart in the sequence.
    - The model computes attention scores for each pair of words to determine how much focus one word should place on another in a sequence.

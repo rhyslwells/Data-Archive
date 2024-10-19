@@ -6,17 +6,19 @@ tags:
 ---
 ## Description
 
+- [[Multicollinearity]] is instability of a model due to highly correlated independent variables. 
+
 The multicollinearity assumption refers only to the idea that the **independent variables** should not be collinear.
 
 Given a feature, f1 (say target), there may exist others that are correlated to it f2,f3,f4. Then you remove those that are strongly correlated.
 
-To see [[Correlation]] use [[heatmap]] or [[Clustering]]
+To see [[Correlation]] use [[Heatmap]] or [[Clustering]]
 
 Multicollinearity occurs when two or more independent variables in a regression model are highly correlated
 
 High VIF values (typically greater than 10) indicate a high degree of multicollinearity for the corresponding variable. you drop this feature.
 
-ensure [[Encode categorical features]]
+ensure [[Encoding Categorical Variables]]
 
 Now you see why we need to drop one of the dummy variables for each feature.
 else we get division by 0 when calcualting IVF

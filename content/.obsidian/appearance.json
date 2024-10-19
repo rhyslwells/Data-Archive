@@ -1,8 +1,8 @@
 {
   "accentColor": "#4e407d",
-  "cssTheme": "Atom",
-  "theme": "moonstone",
-  "baseFontSize": 14,
+  "cssTheme": "Obuntu",
+  "theme": "obsidian",
+  "baseFontSize": 18,
   "showViewHeader": true,
   "enabledCssSnippets": [
     "dashboard",

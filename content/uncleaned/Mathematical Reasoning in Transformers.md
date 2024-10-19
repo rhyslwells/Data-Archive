@@ -10,7 +10,7 @@ tags:
 >[!Example]
 >
 
-- **Challenges**: General-purpose transformers [[Transformer Network|Transformer]] are trained primarily on large corpora of text, which include mathematical problems but lack systematic and rigorous math-specific training. This results in limited capabilities for handling complex calculations or abstract algebraic problems.
+- **Challenges**: General-purpose transformers [[Transformer|Transformer]] are trained primarily on large corpora of text, which include mathematical problems but lack systematic and rigorous math-specific training. This results in limited capabilities for handling complex calculations or abstract algebraic problems.
 
 
 - **Grokking in Mathematical Reasoning**: This is an area of research where models are trained on small datasets of synthetic math problems to encourage **grokking**, a phenomenon where the model suddenly achieves near-perfect performance after extended training. Researchers are interested in how transformers might be able to **"[[grok]]"** math concepts after seeing many examples.

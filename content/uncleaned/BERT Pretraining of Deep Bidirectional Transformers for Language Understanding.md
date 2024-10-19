@@ -2,8 +2,5 @@
 title: 
 tags: 
 aliases: 
-category:
+category: paper
 ---
-[[PCA]]
-
-[[t-SNE]]

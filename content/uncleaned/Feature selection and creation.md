@@ -1,6 +1,6 @@
 [[Feature Selection]]
 
-[[Feature Creation]]
+[[Feature Engineering]]
 
 After the data is ready.
 

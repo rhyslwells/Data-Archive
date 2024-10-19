@@ -34,7 +34,7 @@ make initial guess for missing data and refine. Use [[Imputation]]. Remember whe
 
 [link part 2](https://www.youtube.com/watch?v=sQ870aTKqiM)
 
-[[Proximity matrix]] [[Finding missing data]]
+[[Proximity matrix]] [[Handling Missing Data]]
 
 ![[Pasted image 20240411095614.png|500]]
 

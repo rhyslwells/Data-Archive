@@ -2,9 +2,9 @@
 
 [[Distributions]]
 
-[[Standardisation]]
+[[Feature Scaling]]
 
-[[Encode categorical features]]
+[[Encoding Categorical Variables]]
 
 [[Correlation]]
 

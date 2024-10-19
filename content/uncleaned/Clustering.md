@@ -33,7 +33,7 @@ Type: [[Classification]] [[Unsupervised learning]]
 [[WCSS and elbow method]]
 ## [[interpretability]]
 
-[[Standardisation]] is usefull to bring features to the same scale, as clusters look crappy if you dont [[Standardisation]].
+[[Feature Scaling]] is usefull to bring features to the same scale, as clusters look crappy if you dont [[Feature Scaling]].
 ```python
 from sklearn.preprocessing import scale
 from sklearn.preprocessing import MinMaxScaler
@@ -58,7 +58,7 @@ In [[Clustering]] use a [[dendrogram]] to see relation of features.
 
 Can tell which ==features are the most similar== with [[Dendrograms]]
 
-Regions of colour show [[Clustering]], similar to [[heatmap]]
+Regions of colour show [[Clustering]], similar to [[Heatmap]]
 
 Clustermaps performs [[Clustering]] [[Clustering]] on both rows and columns.
 

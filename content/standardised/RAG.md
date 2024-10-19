@@ -8,7 +8,7 @@ Rag is a framework the help [[LLM]] be more up to date.
 RAG grounds the Gen AI in external data.
 
 >[!Summary]
-> Given a question sometimes the answer given is wrong, issue with [[LLM]] is no source of data and is out of date.  **RAG** is a specific architecture used in natural language processing ([[NLP]]), where a **retrieval mechanism** is combined with a **generative model** ([[Generative]]) (often a [[Transformer Network]] like GPT). RAG systems are designed to ==enhance the ability of a generative model to answer questions or generate content by incorporating factual knowledge retrieved from external data sources== (such as documents, databases, or knowledge repositories). RAG is the connection of [[LLM]]'s with external databases. 
+> Given a question sometimes the answer given is wrong, issue with [[LLM]] is no source of data and is out of date.  **RAG** is a specific architecture used in natural language processing ([[NLP]]), where a **retrieval mechanism** is combined with a **generative model** ([[Generative]]) (often a [[Transformer]] like GPT). RAG systems are designed to ==enhance the ability of a generative model to answer questions or generate content by incorporating factual knowledge retrieved from external data sources== (such as documents, databases, or knowledge repositories). RAG is the connection of [[LLM]]'s with external databases. 
 
 >[!Example]
 > **Example of a RAG System**:
@@ -30,7 +30,7 @@ Based on a [[prompting]].
    - Retriever should be good enough to give the most truthful information based on the store
    
 2. **Generative Component**:
-   - After retrieving relevant documents, the [[Generative]] model (such as GPT or BERT-based models) synthesizes the final response, integrating both the input query and the retrieved information to generate more accurate and contextually informed outputs.
+   - After retrieving relevant documents, the [[Generative]] model (such as GPT or [[BERT]]-based models) synthesizes the final response, integrating both the input query and the retrieved information to generate more accurate and contextually informed outputs.
    
 3. **Augmentation with External Knowledge**:
    - Instead of solely relying on pre-trained internal knowledge (as in traditional language models), RAG setups use the external knowledge source for augmenting generation, thus improving factual accuracy and reducing the risk of hallucinations (incorrect or fabricated responses).

@@ -1,7 +1,8 @@
 ---
 title: 
 tags:
-  - "#question"
+  - ml
+  - deep_learning
 importance: 
 engagement: 
 recency_of_interest: 2024-10-09

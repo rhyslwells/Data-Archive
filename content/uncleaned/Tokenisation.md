@@ -1,8 +1,9 @@
 ---
 tags:
   - NLP
+  - code_snippet
 ---
-[[Tokenisation]]: Used to separate words or sentences.
+Tokenisation is used to separate words or sentences.
 
 word tokenisation
 ```python

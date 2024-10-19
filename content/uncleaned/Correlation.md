@@ -35,4 +35,15 @@ One would want to:
 	Correlate categorical features
 ## Viewing
 
-Correlations between features can be viewed through [[heatmap]] or [[Clustering]].
+Correlations between features can be viewed through [[Heatmap]] or [[Clustering]].
+
+
+
+[[Correlation]]
+What is correlation?;;**Correlation** is a measure of the strength and direction of the relationship between two variables. 
+
+What is **Causation**?;; is the relationship between two variables where one variable causes the other variable to change. 
+
+What is the difference between correlation and causation?;; Just because two variables are correlated does not mean that there is a causal relationship between them. 
+
+What range of values can have [[Correlation]]? What values are significant?;;Correlation is a statistical value that quantifies the dependency between two variables. The correlation value ranges from -1 to +1. The -1 (+1) value represents a perfectly negative (positive) correlation. The closer the value to 0 is, the weaker the linear correlation is. As a rule of thumb, values < -0.5 or > +0.5 are considered to have a significant relationship.

@@ -32,10 +32,10 @@ In summary, **unsupervised learning** is about discovering hidden patterns in da
 
 **Example**: Clustering customers into distinct groups based on their purchasing patterns in an e-commerce business.
 
-**Dimensionality Reduction**:
+**[[Dimensionality Reduction]]**:
    - Reduces the number of input variables (features) while preserving as much information as possible. This is helpful when dealing with high-dimensional data, where visualization and analysis become challenging.
    - Popular Algorithms: 
-     - **Principal Component Analysis ([[PCA]])**: Transforms the data into a set of ==orthogonal components== that explain the maximum variance.
+     - **Principal Component Analysis ([[Principal Component Analysis]])**: Transforms the data into a set of ==orthogonal components== that explain the maximum variance.
    **Example**: PCA used to reduce the dimensions of a dataset containing hundreds of features, such as a dataset of pixel values from images.
 
 3. [[Isolated Forests]]
@@ -52,4 +52,7 @@ Examples:
 
 
 
-: Unsupervised learning algorithms learn from unlabelled data, where the goal is to discover the underlying structure of the data. These algorithms can be used for clustering and dimensionality reduction.
+: Unsupervised learning algorithms learn from unlabelled data, where the goal is to discover the underlying structure of the data. These algorithms can be used for clustering and [[Dimensionality Reduction]].
+
+[[Unsupervised learning]]
+Examples of unsupervised learning algorithms are;; [[clustering]] algorithms like K-means and [[Clustering]], dimension reduction algorithms like PCA

@@ -4,23 +4,24 @@ tags:
   - preprocessing
   - analysis
   - ml
-aliases: 
+  - drafting
+aliases:
+  - PCA
 category:
 ---
-PCA - [[Unsupervised learning]]
+### Overview
 
-is a linear technique ,unlike [[Manifold learning]]
+PCA is a powerful tool for [[Dimensionality Reduction]] in [[Unsupervised learning]] to reduce the dimensionality of data. 
 
-[[What is Dimension reduction]]
-A: involves reducing the number of features in a dataset while retaining its essential information.
+It transforms the original data into a new coordinate system defined by the principal components, which are ==orthogonal vectors== that capture the most variance in the data.
 
-[[Explain the curse of dimensionality]]
+It helps simplify models, enhances [[interpretability]], and improves computational efficiency by transforming data into a lower-dimensional space while ==retaining the most significant variance.==
+### How PCA Works
 
-Give an example of Dimension reduction
-[[PCA]] i.e. Principal Component Analysis (PCA) is a common technique that identifies orthogonal axes representing the most significant variance in the data.
+- ==Linear Technique==: PCA is a linear technique, meaning it assumes that the relationships between features are linear. This distinguishes it from methods like [[Manifold learning]] which can capture non-linear relationships.
 
-Apply Principal Component Analysis (PCA) to reduce the dimensionality of a dataset and then train a machine learning model on the reduced data. Compare the model's performance before and after dimensionality reduction.
-
+- Principal Components: PCA identifies principal components, which are linear combinations of the original features. These components are ordered by the amount of variance they capture from the data, with the first principal component capturing the most variance, the second capturing the second most, and so on.
+#### Code Implementation
   ```python
 
       import pandas as pd
@@ -48,14 +49,3 @@ Apply Principal Component Analysis (PCA) to reduce the dimensionality of a datas
       r2_score(y_test, y_pred)
       # you should get 0.9999
 ```
-
-![[Pasted image 20240128194148.png|500]]
-
-
-
-
-
-[[PCA]]
-Principal Component Analysis ([[PCA]]): 
-
-PCA finds the principal components, which are linear combinations of the original features that capture the most variance.

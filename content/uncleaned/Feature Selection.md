@@ -1,7 +1,7 @@
 ---
 tags:
-  - ml
   - ml_process
+  - drafting
 ---
 # Description
 
@@ -32,9 +32,9 @@ After selecting features, it's essential to evaluate your model's performance wi
 
 ## How do you detect if a feature is noisy or redundant.
 
-- [[Correlation]] analysis: use a [[heatmap]]/[[Clustering]]. Features with low correlation to the target or high correlation with other features may be candidates for removal.
+- [[Correlation]] analysis: use a [[Heatmap]]/[[Clustering]]. Features with low correlation to the target or high correlation with other features may be candidates for removal.
   
-- **Dimensionality Reduction Techniques**: Techniques like [[PCA]] or Singular Value Decomposition ([[SVD]]) can transform the features into a lower-dimensional space while preserving as much variance as possible. Features with low contribution to the principal components can be considered for removal.
+- **Dimensionality Reduction Techniques**: Techniques like [[Principal Component Analysis]] or Singular Value Decomposition ([[SVD]]) can transform the features into a lower-dimensional space while preserving as much variance as possible. Features with low contribution to the principal components can be considered for removal.
   
 - **Visualizations**: Plotting pairwise scatter plots or heatmaps of feature correlations can provide visual insights into redundant features. Clusters of highly correlated features or scatter plots showing no discernible pattern with the target variable can indicate noisy or redundant features.
   
@@ -48,11 +48,21 @@ After selecting features, it's essential to evaluate your model's performance wi
 
 ## Resources
 
-[[sklearn - Feature Selection through Feature Scaling (Standardization) - Part 2_with_comments.ipynb]]
-
-
 Combine feature increases feature importance.
-
-# [[Feature Selection]]
+# notes
 
 can be done per model you are training for.
+
+What are the main purposes of feature selection?;;Reducing the number of features increases understandability, reducing the training times, reducing dimensionality, removing noise.
+
+How can you use variance for ?;;Features with low variance can be dropped since (almost) constant features do not provide any information.
+
+What are the main techniques of ?;; [[Filter method]], [[wrapper methods]] and [[embedded methods]]
+
+[[Filter method]] in feature selection are?;; Statistical techniques are used to evaluate the relationship between individual features and the target features. 
+
+[[wrapper methods]] in feature selection are?;; adding/removing features so you can evaluate their effect on the model based on a certain scoring.
+
+ [[embedded methods]] in feature selection are?;;  The features are selected during the model training, and more important features are assigned a higher rank. Examples of such models are decision trees and lasso regression models.
+
+How can you use [[correlation]] for ?;; Use the correlation of each feature with the target. Keep features with a significant correlation, i.e., a correlation value < -0.5 or > +0.5. Use pairwise correlation between features. If two features are highly correlated, one can be dropped since they provide the same information.

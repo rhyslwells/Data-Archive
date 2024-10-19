@@ -86,7 +86,7 @@ Methods to get parameters (weights biases) for NN using training data to reduce 
 4. **Generative Adversarial Networks (GANs)**:
    - Composed of two neural networks, a generator, and a discriminator, that compete against each other. GANs are used for tasks like generating realistic images or videos.
 
-5. **Transformer Networks**: [[Transformer Network]]
+5. **Transformer Networks**: [[Transformer]]
    - Widely used in natural language processing [[NLP]] (e.g., GPT models), transformers excel at handling sequence-based data and are particularly known for their self-attention mechanisms, which allow them to process long-range dependencies in data.
 
 ### Advantages of Neural Networks:
