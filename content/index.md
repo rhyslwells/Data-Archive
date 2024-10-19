@@ -14,7 +14,7 @@ The Data Archive is continuously growing, here are some starting points.
 | Mathematics       | #statistics #probability_theory                                                                                                                                                                                               |
 | Career Interest   | #GenAI                                                                                                                                                                                                                        |
 | Devops            | #devops #software #data  #infrastructure_as_code #orchestration #excel #software #business #code_snippet                                                                                                                      |
-| Investigating     | #learning  #drafting #question #career #field #paradigm                                                                                                                                                                       |
+| Investigating     |  #drafting #question #career #field #paradigm                                                                                                                                                                                 |
 |                   |                                                                                                                                                                                                                               |
 
 

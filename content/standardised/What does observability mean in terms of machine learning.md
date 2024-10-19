@@ -10,7 +10,7 @@ recency_of_interest: 2024-09-28
 ---
 ## What observability means
 
-In the context of machine learning (ML), **[[observability]]** refers to the ability to ==monitor, understand, and diagnose the performance and behaviour of ML models== in production. 
+In the context of machine learning (ML), **[[Observability]]** refers to the ability to ==monitor, understand, and diagnose the performance and behaviour of ML models== in production. 
 
 It encompasses the processes, tools, and techniques that help practitioners ensure models are functioning as expected and identify when they deviate from desired outcomes. 
 
@@ -24,7 +24,7 @@ Observability is a process in ML, and is usually achieved through logging, metri
    - Tracking key metrics such as [[Accuracy score]], [[Precision score]],[[Recall score]],[[F1 Score]],[[ROC and AUC]]d other relevant KPIs over time to identify performance degradation or improvements.
    - Monitoring [[performance drift]] in model inputs (features) and outputs (predictions) to detect when the model no longer performs well due to changes in data distribution ([[data drift]]) or changes in relationships between variables ([[concept drift]]).
 
-2. **Error and [[Anomaly Detection]]**:
+2. **Error and [[Isolated Forests]]**:
    - Identifying when predictions are out of the expected range or when the model behaves abnormally, such as high error rates on specific subsets of data or excessive latency in prediction generation.
    
 3. **[[Interpretability]]**:

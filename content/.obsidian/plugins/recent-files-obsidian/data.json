@@ -1,8 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "Data Warehouse",
+      "path": "standardised/Data Warehouse.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "Tasks",
       "path": "Tasks.md"
+    },
+    {
+      "basename": "interpretability",
+      "path": "standardised/interpretability.md"
+    },
+    {
+      "basename": "excalibrain",
+      "path": "excalibrain.md"
+    },
+    {
+      "basename": "Clustering",
+      "path": "uncleaned/Clustering.md"
+    },
+    {
+      "basename": "outliers",
+      "path": "uncleaned/outliers.md"
+    },
+    {
+      "basename": "Boxplot",
+      "path": "uncleaned/Boxplot.md"
+    },
+    {
+      "basename": "Violin plot",
+      "path": "uncleaned/Violin plot.md"
+    },
+    {
+      "basename": "metric",
+      "path": "term/metric.md"
+    },
+    {
+      "basename": "Specificity",
+      "path": "uncleaned/Specificity.md"
+    },
+    {
+      "basename": "Json to Yaml",
+      "path": "standardised/Json to Yaml.md"
+    },
+    {
+      "basename": "Filter method",
+      "path": "uncleaned/Filter method.md"
+    },
+    {
+      "basename": "ETL",
+      "path": "standardised/ETL.md"
+    },
+    {
+      "basename": "inference",
+      "path": "standardised/inference.md"
+    },
+    {
+      "basename": "inference versus prediction",
+      "path": "standardised/inference versus prediction.md"
+    },
+    {
+      "basename": "Regression metrics",
+      "path": "uncleaned/Regression metrics.md"
     },
     {
       "basename": "Using SQLite to Process and Split Combined Data from Excel",
@@ -135,70 +199,6 @@
     {
       "basename": "Bellman Equations",
       "path": "uncleaned/Bellman Equations.md"
-    },
-    {
-      "basename": "Multi-Agent Reinforcement Learning",
-      "path": "uncleaned/Multi-Agent Reinforcement Learning.md"
-    },
-    {
-      "basename": "Markov Decision Processes",
-      "path": "standardised/Markov Decision Processes.md"
-    },
-    {
-      "basename": "Industries of interest",
-      "path": "uncleaned/Industries of interest.md"
-    },
-    {
-      "basename": "October 2024",
-      "path": "Monthly_Review/October 2024.md"
-    },
-    {
-      "basename": "Excel & Sheets",
-      "path": "Excel & Sheets.md"
-    },
-    {
-      "basename": "Interacting with datasets and there different formats",
-      "path": "uncleaned/Interacting with datasets and there different formats.md"
-    },
-    {
-      "basename": "0_note",
-      "path": "templates/0_note.md"
-    },
-    {
-      "basename": "Exploration vs. Exploitation",
-      "path": "uncleaned/Exploration vs. Exploitation.md"
-    },
-    {
-      "basename": "Exploration vs Exploitation",
-      "path": "uncleaned/Exploration vs Exploitation.md"
-    },
-    {
-      "basename": "Sarsa",
-      "path": "standardised/Sarsa.md"
-    },
-    {
-      "basename": "Education and Training",
-      "path": "uncleaned/Education and Training.md"
-    },
-    {
-      "basename": "November 2024",
-      "path": "Monthly_Review/November 2024.md"
-    },
-    {
-      "basename": "Goals",
-      "path": "Monthly_Review/Goals.md"
-    },
-    {
-      "basename": "monthly review",
-      "path": "templates/monthly review.md"
-    },
-    {
-      "basename": "Graph database",
-      "path": "uncleaned/Graph database.md"
-    },
-    {
-      "basename": "RAG",
-      "path": "standardised/RAG.md"
     }
   ],
   "omittedPaths": [

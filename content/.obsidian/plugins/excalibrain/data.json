@@ -87,14 +87,14 @@
   "nodeTitleScript": "",
   "backgroundColor": "#0c3e6aff",
   "excludeFilepaths": [],
-  "autoOpenCentralDocument": true,
+  "autoOpenCentralDocument": false,
   "toggleEmbedTogglesAutoOpen": true,
   "showInferredNodes": true,
   "showAttachments": true,
   "showURLNodes": true,
   "showVirtualNodes": true,
   "showFolderNodes": false,
-  "showTagNodes": false,
+  "showTagNodes": true,
   "showPageNodes": true,
   "showNeighborCount": true,
   "showFullTagName": false,
@@ -227,6 +227,9 @@
     "Next": {}
   },
   "navigationHistory": [
+    "standardised/interpretability.md",
+    "https://youtu.be/crQkHHhY7aY?t=149",
+    "uncleaned/Clustering.md",
     "Tasks.md"
   ],
   "allowOntologySuggester": true,
