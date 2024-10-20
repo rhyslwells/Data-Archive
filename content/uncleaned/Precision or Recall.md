@@ -1,4 +1,4 @@
-
+** How are precision and recall in binary classification, related?**;; They are related through a trade-off: increasing one may decrease the other. 
 
 Cant have both.
 

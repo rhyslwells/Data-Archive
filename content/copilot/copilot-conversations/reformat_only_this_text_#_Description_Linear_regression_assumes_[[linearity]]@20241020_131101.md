@@ -11,7 +11,7 @@ tags:
 
 Linear regression assumes [[linearity]] between the input features and the target variable. Assumes that the relationship between the independent variable(s) and the dependent variable is linear.
 
-During the training phase, the algorithm adjusts the slope (m) and the intercept (b) of the line to minimize the [[loss function]].
+During the training phase, the algorithm adjusts the slope (m) and the intercept (b) of the line to minimize the [[Loss function]].
 
 The linear regression model is represented as:
 
@@ -30,7 +30,7 @@ You ==evaluate== the performance of your model by comparing its predictions to t
 
 The goal of linear regression is to find the values of coefficients $$b_0, b_1, b_2, \ldots, b_n$$ that ==minimize the sum of squared errors (SSE),== also known as the residual sum of squares (RSS) or (MSE - mean square error).
 
-Mathematically, SSE is a [[loss function]] given by:
+Mathematically, SSE is a [[Loss function]] given by:
 
 $$SSE = \sum_{i=1}^{N} (y_i - \hat{y}_i)^2$$
 
@@ -62,7 +62,7 @@ It ==iteratively== updates coefficients to minimize error.
 
 Linear regression assumes [[linearity]] between the input features and the target variable. It assumes that the relationship between the independent variable(s) and the dependent variable is linear.
 
-During the training phase, the algorithm adjusts the slope (m) and the intercept (b) of the line to minimize the [[loss function]].
+During the training phase, the algorithm adjusts the slope (m) and the intercept (b) of the line to minimize the [[Loss function]].
 
 The linear regression model is represented as:
 
@@ -81,7 +81,7 @@ You **evaluate** the performance of your model by comparing its predictions to t
 
 The goal of linear regression is to find the values of coefficients \( b_0, b_1, b_2, \ldots, b_n \) that **minimize the sum of squared errors (SSE),** also known as the residual sum of squares (RSS) or (MSE - mean square error).
 
-Mathematically, SSE is a [[loss function]] given by:
+Mathematically, SSE is a [[Loss function]] given by:
 
 \[ SSE = \sum_{i=1}^{N} (y_i - \hat{y}_i)^2 \]
 
@@ -143,7 +143,7 @@ What would be a loss function in the following types of problems:
 
 ## Questions and Answers
 
-What is a [[loss function]]?;; Function that measures how well a [[Neural network|neural network]]'s predictions match the actual target values, which we want to minimize and use in training and evaluation.
+What is a [[Loss function]]?;; Function that measures how well a [[Neural network|neural network]]'s predictions match the actual target values, which we want to minimize and use in training and evaluation.
 
 <!--SR:!2024-04-14,3,250-->
 
@@ -168,7 +168,7 @@ Generally, a higher r-squared indicates more variability is explained by the mod
 
 [[Ordinary Least Squares]]:
 
-[[loss function]]
+[[Loss function]]
 
 Sum of squares error
 

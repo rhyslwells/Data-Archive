@@ -13,7 +13,7 @@ category: Machine Learning
 >
 >Regularization is the process of adding a tuning parameter to a model to ==induce smoothness in order to prevent overfitting.== It helps in controlling the complexity of the model and reduces the chance of fitting noise in the training data.
 >
->Regularization is a  technique in machine learning that reduces the risk of overfitting by adding a penalty to the [[loss function]] during model training. This penalty term restricts the magnitude of the model's parameters, thereby controlling the complexity of the model. 
+>Regularization is a  technique in machine learning that reduces the risk of overfitting by adding a penalty to the [[Loss function]] during model training. This penalty term restricts the magnitude of the model's parameters, thereby controlling the complexity of the model. 
 >
 >Common forms of regularization include $L_1$ regularization ([[Lasso]]) and $L_2$ regularization ([[Ridge]]). 
 >

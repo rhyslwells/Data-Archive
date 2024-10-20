@@ -75,7 +75,7 @@ By following this structured approach, you can systematically tackle data scienc
 
 Linear regression assumes [[linearity]] between the input features and the target variable. Assumes that the relationship between the independent variable(s) and the dependent variable is linear.
 
-During the training phase, the algorithm adjusts the slope (m) and the intercept (b) of the line to minimize the [[loss function]].
+During the training phase, the algorithm adjusts the slope (m) and the intercept (b) of the line to minimize the [[Loss function]].
 
 The linear regression model is represented as:
 
@@ -94,7 +94,7 @@ You ==evaluate== the performance of your model by comparing its predictions to t
 
 The goal of linear regression is to find the values of coefficients $$b_0, b_1, b_2, \ldots, b_n$$ that ==minimize the sum of squared errors (SSE),== also known as the residual sum of squares (RSS) or (MSE - mean square error).
 
-Mathematically, SSE is a [[loss function]] given by:
+Mathematically, SSE is a [[Loss function]] given by:
 
 $$SSE = \sum_{i=1}^{N} (y_i - \hat{y}_i)^2$$
 
@@ -139,7 +139,7 @@ Linear regression is a statistical method that assumes a linear relationship bet
 - **\( b_0, b_1, b_2, \ldots, b_n \)**: Coefficients (weights) associated with each independent variable.
 - **\( b_0 \)**: Intercept term.
 
-During the training phase, the algorithm adjusts the slope (\( m \)) and the intercept (\( b \)) of the line to minimize the [[loss function]].
+During the training phase, the algorithm adjusts the slope (\( m \)) and the intercept (\( b \)) of the line to minimize the [[Loss function]].
 
 ## Model Evaluation
 
@@ -153,7 +153,7 @@ The goal of linear regression is to find the values of coefficients \( b_0, b_1,
 
 ### Loss Function
 
-The SSE is a [[loss function]] given by:
+The SSE is a [[Loss function]] given by:
 
 \[ SSE = \sum_{i=1}^{N} (y_i - \hat{y}_i)^2 \]
 
@@ -176,7 +176,7 @@ The Ordinary Least Squares method is used to minimize SSE. It achieves this by f
 
 ## Gradient Descent
 
-Gradient descent is an optimization algorithm used to minimize errors in a model by iteratively updating its parameters. It works by moving in the direction of the steepest decrease of the [[loss function]].
+Gradient descent is an optimization algorithm used to minimize errors in a model by iteratively updating its parameters. It works by moving in the direction of the steepest decrease of the [[Loss function]].
 
 - **Stochastic Gradient Descent**: Updates model parameters based on the gradient of a single randomly chosen data point.
 - **Batch Gradient Descent**: Computes the gradient of the entire dataset.
@@ -195,7 +195,7 @@ A loss function measures how well the model fits the data and guides the optimiz
 
 ## Questions and Answers
 
-- **What is a [[loss function]]?**: A function that measures how well a [[Neural network|neural network]]'s predictions match the actual target values, which we want to minimize and use in training and evaluation.
+- **What is a [[Loss function]]?**: A function that measures how well a [[Neural network|neural network]]'s predictions match the actual target values, which we want to minimize and use in training and evaluation.
 
 ---
 
@@ -214,7 +214,7 @@ This structured format should help in understanding the concepts and relationshi
 
 Linear regression assumes [[linearity]] between the input features and the target variable. Assumes that the relationship between the independent variable(s) and the dependent variable is linear.
 
-During the training phase, the algorithm adjusts the slope (m) and the intercept (b) of the line to minimize the [[loss function]].
+During the training phase, the algorithm adjusts the slope (m) and the intercept (b) of the line to minimize the [[Loss function]].
 
 The linear regression model is represented as:
 
@@ -233,7 +233,7 @@ You ==evaluate== the performance of your model by comparing its predictions to t
 
 The goal of linear regression is to find the values of coefficients $$b_0, b_1, b_2, \ldots, b_n$$ that ==minimize the sum of squared errors (SSE),== also known as the residual sum of squares (RSS) or (MSE - mean square error).
 
-Mathematically, SSE is a [[loss function]] given by:
+Mathematically, SSE is a [[Loss function]] given by:
 
 $$SSE = \sum_{i=1}^{N} (y_i - \hat{y}_i)^2$$
 
@@ -278,7 +278,7 @@ Linear regression is a statistical method that assumes a linear relationship bet
 - **\( b_0, b_1, b_2, \ldots, b_n \)**: Coefficients (weights) associated with each independent variable.
 - **\( b_0 \)**: Intercept term.
 
-During the training phase, the algorithm adjusts the slope (\( m \)) and the intercept (\( b \)) of the line to minimize the [[loss function]].
+During the training phase, the algorithm adjusts the slope (\( m \)) and the intercept (\( b \)) of the line to minimize the [[Loss function]].
 
 ## Model Evaluation
 
@@ -292,7 +292,7 @@ The goal of linear regression is to find the values of coefficients \( b_0, b_1,
 
 ### Loss Function
 
-The SSE is a [[loss function]] given by:
+The SSE is a [[Loss function]] given by:
 
 \[ SSE = \sum_{i=1}^{N} (y_i - \hat{y}_i)^2 \]
 
@@ -315,7 +315,7 @@ The Ordinary Least Squares method is used to minimize SSE. It achieves this by f
 
 ## Gradient Descent
 
-Gradient descent is an optimization algorithm used to minimize errors in a model by iteratively updating its parameters. It works by moving in the direction of the steepest decrease of the [[loss function]].
+Gradient descent is an optimization algorithm used to minimize errors in a model by iteratively updating its parameters. It works by moving in the direction of the steepest decrease of the [[Loss function]].
 
 - **Stochastic Gradient Descent**: Updates model parameters based on the gradient of a single randomly chosen data point.
 - **Batch Gradient Descent**: Computes the gradient of the entire dataset.
@@ -334,7 +334,7 @@ A loss function measures how well the model fits the data and guides the optimiz
 
 ## Questions and Answers
 
-- **What is a [[loss function]]?**: A function that measures how well a [[Neural network|neural network]]'s predictions match the actual target values, which we want to minimize and use in training and evaluation.
+- **What is a [[Loss function]]?**: A function that measures how well a [[Neural network|neural network]]'s predictions match the actual target values, which we want to minimize and use in training and evaluation.
 
 ---
 

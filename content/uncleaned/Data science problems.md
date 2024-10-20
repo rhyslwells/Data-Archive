@@ -3,6 +3,7 @@ tags:
   - ml_process
   - paradigm
   - data_science
+  - drafting
 aliases: 
 category:
 ---

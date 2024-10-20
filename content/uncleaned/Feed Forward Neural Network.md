@@ -17,7 +17,7 @@ In this model, information moves in ==one direction==—from the input layer, th
 This straightforward design is primarily used for [[supervised learning]] tasks.
 
 - **Structure**: Information flows in one direction (input → hidden layers → output).
-- **Learning**: FFNNs learn by adjusting weights and biases during training to minimize the [[loss function]].
+- **Learning**: FFNNs learn by adjusting weights and biases during training to minimize the [[Loss function]].
 - **Limitations**: ==Cannot handle sequential data== and may struggle with complex data without deeper architectures.
 
 ### Key Features of a Feedforward Neural Network:

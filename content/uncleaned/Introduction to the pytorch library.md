@@ -160,7 +160,7 @@ The output of the network is a tensor from the linear layer, which corresponds t
 An example of training a linear model with
 
 - [[Gradient Descent]]:
-- [[loss function]]: [[Ordinary Least Squares]]
+- [[Loss function]]: [[Ordinary Least Squares]]
 - [[Stochastic Gradient Descent|SGD]]:
 
 Training of [[Linear Regression]] model. This model find best w,b in $y=wx+b$.

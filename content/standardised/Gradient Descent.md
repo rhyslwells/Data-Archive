@@ -6,7 +6,7 @@ aliases:
   - GD
 ---
 >[!Summary]
-> Gradient descent is an optimization algorithm used to minimize errors in a model by adjusting its parameters iteratively. It works by moving in the direction of the steepest decrease of the [[loss function]].
+> Gradient descent is an optimization algorithm used to minimize errors in a model by adjusting its parameters iteratively. It works by moving in the direction of the steepest decrease of the [[Loss function]].
 ### Gradient Descent
 
 Uses the difference quotient.

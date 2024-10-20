@@ -21,7 +21,7 @@ Theorical results guiding experiemental - saving compute time.
 
 ![[Pasted image 20241017072732.png|500]]
 
-During training we know next value, hence we have a [[loss function]] to help learning.
+During training we know next value, hence we have a [[Loss function]] to help learning.
 
 L1 - loss functions
 

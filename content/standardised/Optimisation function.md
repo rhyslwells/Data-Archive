@@ -4,11 +4,11 @@ tags:
 aliases: 
 category:
 ---
-Optimisation functions vary the parameters of the model to minimize the [[loss function]].
+Optimisation functions vary the parameters of the model to minimize the [[Loss function]].
 
 In short, the **loss function** defines the objective (minimizing error), while the **optimization function** determines how the model's parameters are adjusted to achieve this goal.
 
-An **optimization function** and a **[[loss function]]** are related but not the same. Here's a breakdown of the difference:
+An **optimization function** and a **[[Loss function]]** are related but not the same. Here's a breakdown of the difference:
 
 - **Loss Function**: This function measures how well a model's predictions match the actual target values. It ==quantifies the error between the predicted output and the true output==. Examples include [[Mean Squared Error]] (MSE) for regression and [[Cross-Entropy]] for classification. The loss function is what the model aims to minimize during training.
   

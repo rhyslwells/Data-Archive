@@ -6,6 +6,8 @@ tags:
 aliases: 
 category:
 ---
+**What matrix can you use to evaluate the performance of a classifier? How does an ideal matrix look like?**;; The [[Confusion matrix]]
+
 # code
 
 from sklearn.metrics import classification_report

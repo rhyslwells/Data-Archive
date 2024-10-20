@@ -24,7 +24,7 @@ How to know if random forest is good ?
 
 Use data that was not in boot strap data set - measure the accuracy based on these classiifcations.
 
-Refine the random forest by qweaking the [[hyperparameter]] of number of features used per step.
+Refine the random forest by qweaking the [[Hyperparameter]] of number of features used per step.
 
 ---
 missing data

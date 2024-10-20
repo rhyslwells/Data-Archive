@@ -30,7 +30,7 @@ Areas of Deep Learning:
 - [[Neural network|Neural Network]]
 
  Improving the response:
- - [[Backpropagation]] works by determining the [[loss function]]/loss (or error) at the output and then propagating it back into the network. The weights are updated to minimize the error resulting from each neuron.
+ - [[Backpropagation]] works by determining the [[Loss function]]/loss (or error) at the output and then propagating it back into the network. The weights are updated to minimize the error resulting from each neuron.
   - [[Regularisation]] techniques are used to remove/ignore nodes in the network and reduce [[Overfitting]].
 
 >[!attention]

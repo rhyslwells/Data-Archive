@@ -15,7 +15,7 @@ tags:
 - **High Performance**: Each framework is known for its high performance and efficiency in terms of speed and memory usage.
 ## **Key Components:**
    - [[Weak Learners]]
-   - [[loss function]] 
+   - [[Loss function]] 
    - [[learning rate]] 
 ## Examples
 

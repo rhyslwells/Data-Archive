@@ -4,7 +4,7 @@ Embedded methods for [[Feature Selection]] ==integrate feature selection directl
 
 2. **Regularization Techniques**: Embedded methods commonly use [[Regularisation]] techniques to penalize the inclusion of unnecessary features during model training. 
 
-3. **Automatic Feature Selection**: Embedded methods automatically select the most relevant features by learning feature importance during the training process. The model adjusts the importance of features iteratively based on their contribution to minimizing the [[loss function]].
+3. **Automatic Feature Selection**: Embedded methods automatically select the most relevant features by learning feature importance during the training process. The model adjusts the importance of features iteratively based on their contribution to minimizing the [[Loss function]].
 
 4. **Examples of Embedded Methods**:
    - **[[Lasso]] (L1 Regularization)**:

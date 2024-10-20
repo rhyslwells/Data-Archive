@@ -4,25 +4,17 @@ tags:
   - "#evaluation"
   - ml
 ---
-
-# Summary
-
-What is [[Cross validation]];; a technique used to assess the performance of a model by splitting the data into multiple subsets for training and testing to
-assesses performance and generalization. It helps detect [[overfitting]], provides reliable performance estimates.
 ## Description 
-
-**What it is:**
 
 - A technique used in machine learning and statistics to evaluate the performance of a predictive model.
 - ==It involves dividing the dataset into k equal-sized subsets (called "folds") and using each fold as a validation set once, while the remaining k-1 folds are used for training.==
-- The model's performance is averaged across all k folds to provide a more robust estimate of its generalization performance.
+- The model's ==performance is averaged== across all k folds to provide a more robust estimate of its generalization performance.
 
 **Advantages:**
 
 - **Reduced bias:** More reliable performance estimate compared to using a single validation set.
 - **More efficient use of data:** All data is used for both training and validation.
 - **Helps prevent overfitting:** By evaluating on multiple folds, it can detect if the model is [[Overfitting]] to the training data.
-- **Aids in model selection and [[hyperparameter]] tuning:** Helps choose the best model and tune its parameters.
 
 **Common variations:**
 
@@ -35,7 +27,7 @@ assesses performance and generalization. It helps detect [[overfitting]], provid
 - Common values: 5 or 10
 - Higher k leads to more accurate estimates but increases computation time.
 - Consider dataset size and complexity when choosing k.
-## Implementation:
+# Code Implementation:
 
 ```python
 from sklearn.model_selection import cross_val_score
@@ -64,7 +56,6 @@ cross_val_score(model,X_train, y_train, cv=5)
       # print the mean score
       print(scores.mean())
 ```
-## [[Model Evaluation]] with cross-validation
 
 If close to 1 (average 0.96) then, the model appears to perform consistently well across most folds, with an average accuracy of approximately 96%
 

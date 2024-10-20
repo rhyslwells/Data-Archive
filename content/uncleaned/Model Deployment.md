@@ -1,4 +1,8 @@
-#ml
+---
+tags:
+  - ml
+---
+
 
 [[Sklearn Pipiline]]
 

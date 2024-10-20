@@ -28,7 +28,7 @@ Type: [[Classification]] [[Unsupervised learning]]
 [[K-means]]
 [[DBScan]]
 [[Clustering]]
-## [[hyperparameter]]:
+## [[Hyperparameter]]:
 
 [[WCSS and elbow method]]
 ## [[interpretability]]
