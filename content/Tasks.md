@@ -6,7 +6,6 @@ Priority Tasks:
 - [ ] Clean data archive better
 - [ ] Use the graph view more to explore ideas
 
-
 Drafting:
 ```dataview
 TABLE

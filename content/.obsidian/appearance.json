@@ -2,12 +2,9 @@
   "accentColor": "#4e407d",
   "cssTheme": "Obuntu",
   "theme": "obsidian",
-  "baseFontSize": 18,
+  "baseFontSize": 22,
   "showViewHeader": true,
-  "enabledCssSnippets": [
-    "dashboard",
-    "properties"
-  ],
+  "enabledCssSnippets": [],
   "baseFontSizeAction": true,
   "nativeMenus": false
 }

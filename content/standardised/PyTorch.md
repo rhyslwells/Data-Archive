@@ -14,6 +14,6 @@ Open-source [[Deep Learning]] framework with dynamic computational graphs, empha
 Framework pieces:
 - torch: a general purpose array library similar to [[Numpy]] that can do computations on GPU when the tensor type is cast to (torch.cuda.TensorFloat)
 - torch.autograd: a package for building a computational graph and automatically obtaining gradients
-- torch.nn: a [[Neural network|Neural Network]] library with common layers and [[cost functions]]
+- torch.nn: a [[Neural network|Neural Network]] library with common layers and [[loss function]]
 - torch.optim: an optimization package with common optimization algorithms like [[Stochastic Gradient Descent]]
 

@@ -10,7 +10,7 @@ the measure used to evaluate how well the models predictions match the target va
 
 [[Regression]]: 
 
-L2-norm : uses OLS method [[mean square error]]
+L2-norm : uses OLS method [[Ordinary Least Squares]]
 
 [[Classification]]:
 

@@ -1,2 +1,2 @@
-[[mean square error]]
+[[Ordinary Least Squares]]
 

@@ -4,7 +4,7 @@ Adds a ==penalty==.
 
 [LINK](https://www.youtube.com/watch?v=Q81RR3yKn30)
 
-Given a [[Linear Regression]] example with a line fitted using using [[least squares]] ([[mean square error]]).
+Given a [[Linear Regression]] example with a line fitted using using [[least squares]] ([[Ordinary Least Squares]]).
 
 If we have a [[Overfitting]] line, we can correct it by making fitted line slightly bad to make the model better.
 

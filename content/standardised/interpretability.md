@@ -11,43 +11,28 @@ aliases:
 1. [Interpretability Importance](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html)
 # Interpretability
 
-We want to know the **WHAT** and more importantly the **WHY** of a prediction.
+Interpretability in machine learning (ML) is about understanding the reasoning behind a model's predictions. It involves making the model's decision-making process comprehensible to humans, which is crucial for trust, debugging, and ensuring fairness and reliability. 
 
-**Definition of Interpretability**: Interpretability is the extent to which a human can comprehend the reasoning behind a model's decision.
+Importance of Interpretability
+- **Trust**: Stakeholders are more likely to trust models they understand.
+- **Debugging**: Easier to identify and fix issues in interpretable models.
+- **Bias Detection**: Helps identify biases in data and model predictions.
+- **Social Acceptance**: Models that can explain their decisions are more socially acceptable.
+- **Fairness and Reliability**: Ensures models are fair and reliable, especially in high-impact areas.
 
-Interpretability in machine learning encompasses various dimensions, from understanding the algorithm’s workings to comprehending complex model behaviours. 
-
- **Importance**:
-   - **Trust**: Stakeholders trust models they understand. Do we know why it made a decision?
-   - **Debugging**: Easier issue identification in interpretable models.
-
-Interpretability:
-- makes it possible to extract this additional knowledge captured by the model.
-- can detect bias within a dataset.
-- allows for social acceptance of models.
-- allows to check the model for fairness, privacy, reliability, causality and trust.
-- is not needed if the model **has no significant impact** or **problem is well studied**.
-
-# Levels of Interpretability
-
+Levels of Interpretability
 - **Global, Holistic Model Interpretability**: Involves comprehending the entire model at once, including feature importance and interactions. This level of interpretability is challenging, especially for models with many parameters.
-    
 - **Global Model Interpretability on a Modular Level**: Focuses on understanding parts of the model (e.g., weights in linear models or splits in decision trees). While individual parameters may be interpretable, their interdependence complicates interpretation.
-    
 - **Local Interpretability for a Single Prediction**: Allows for detailed examination of why a model made a specific prediction for an individual instance. This can provide clearer insights as local predictions may exhibit simpler relationships than the global model.
-    
-- **Local Interpretability for a Group of Predictions**: Involves explaining model predictions for multiple instances, using either global methods applied to the group or aggregating individual explanations.
-# Challenges in Achieving Interpretability
 
-Models with high dimensionality or complex structures (e.g., deep learning) are often difficult for humans to interpret comprehensively.
-
-- Effective interpretation requires **context**; for instance, understanding the significance of weights in linear models is often conditional on other feature values.
+Challenges in Achieving Interpretability
+- Effective interpretation requires **==context==**; for instance, understanding the significance of weights in linear models is often conditional on other feature values.
 - **Trade-offs**: Users must weigh the need for predictions against the need for understanding the rationale, particularly in contexts where decisions have significant consequences.
 - **Human Learning**: Interpretability supports human curiosity, facilitating updates to mental models based on new information.
 - **Safety and Bias Detection**: Essential for high-risk applications (e.g., self-driving cars) and for identifying biases in decision-making.
 - **Social Acceptance**: Machines that explain their decisions tend to be more accepted.
-- **When Not Needed**: Less critical in low-risk environments or well-studied problems, though essential in high-impact contexts.
 
+---
 # Properties of Explanations
 
 These properties provide a framework for evaluating and comparing explanation methods in interpretable machine learning, ensuring they are effective and useful for understanding model predictions. 

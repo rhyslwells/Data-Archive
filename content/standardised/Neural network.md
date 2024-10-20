@@ -66,7 +66,7 @@ Methods to get parameters (weights biases) for NN using training data to reduce 
    - Neural networks learn by adjusting weights and biases through a process called **[[backpropagation]]**, which works in conjunction with an optimization algorithm like **[[Gradient Descent]]**
    - The process of training involves:
      - [[Forward Propagation]]: Input data flows through the network to produce a prediction.
-     - **[[Loss Function]]**: The difference between the predicted output and the actual output (error) is calculated using a loss function (e.g., mean squared error for regression or cross-entropy loss for classification).
+     - **[[loss function]]**: The difference between the predicted output and the actual output (error) is calculated using a loss function (e.g., mean squared error for regression or cross-entropy loss for classification).
      - **[[Backpropagation]]**: The error is propagated backward through the network, updating the weights and biases to reduce the error in future iterations.
 
 6. **Optimization**:

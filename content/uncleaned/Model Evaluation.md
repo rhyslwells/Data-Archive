@@ -17,13 +17,5 @@ For regression tasks: [[Regression metrics]]
 
 [[hyperparameter]]
 
-## Questions and answers
-
-
-
-
-
-
-[[Model Evaluation]]
 **To evaluate a generic machine learning model what metrics do you typically use?**
 The choice of metrics for model evaluation depends on the problem type. Common metrics include misclassification error and accuracy. Accuracy suits balanced datasets where all classes are equally important.
