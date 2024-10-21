@@ -65,3 +65,28 @@ dataset['var1'] = dataset['var1'].map({'A': 0, 'B': 1, 'C': 2}).astype(int)
 ### Related Topics
 - **[[Regression]]**: Understanding how regression models utilize encoded variables.
 - **[[Feature Engineering]]**: Techniques to enhance model performance through better feature representation.
+### Overview
+
+- Categorical variables need to be converted into numerical representations for use in models. This is essential for transforming categorical data into a format that algorithms can interpret.
+
+### Methods
+
+- Label Encoding: Assigns a unique integer to each category.
+- One-Hot Encoding: Creates a binary column for each category, allowing the model to treat each category as a separate feature.
+
+### Example Code
+
+```python
+from sklearn.preprocessing import LabelEncoder, OneHotEncoder
+import pandas as pd
+
+# Label Encoding
+label_encoder = LabelEncoder()
+var1_encoded = label_encoder.fit_transform(df['var1'])
+
+# One-Hot Encoding
+binary_encoder = OneHotEncoder(categories='auto')
+var1_1hot = binary_encoder.fit_transform(var1_encoded.reshape(-1, 1))
+var1_1hot_mat = var1_1hot.toarray()
+var1_DF = pd.DataFrame(var1_1hot_mat, columns=['cat1', 'cat2', 'cat3'])
+```

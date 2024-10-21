@@ -5,6 +5,7 @@ Priority Tasks:
 - [ ] Start work on Energy_Project
 - [ ] Clean data archive better
 - [ ] Use the graph view more to explore ideas
+- [ ] Understand [[Model Building]]
 
 Drafting:
 ```dataview

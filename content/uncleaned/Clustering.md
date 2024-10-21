@@ -6,6 +6,7 @@ tags:
 aliases: 
 category:
 ---
+- Clustering involves grouping a set of data points into subsets or clusters based on inherent patterns or similarities. It is an unsupervised learning technique used for tasks like customer segmentation and anomaly detection.
 
 What is the goal of clustering;; to group items in a way that similar items such as grouping documents by topic.
 

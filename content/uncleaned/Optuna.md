@@ -1,6 +1,4 @@
-[[Optuna]]
-
-Optuna is a hyperparameter optimization framework used to automatically tune hyperparameters for machine learning models. 
+Optuna is a [[hyperparameter]] optimization framework used to automatically tune hyperparameters for machine learning models. 
 
 ## Steps to Use Optuna
 1. **Define Objective Functions**: 

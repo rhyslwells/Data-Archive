@@ -39,3 +39,8 @@ A **Database Management System** (DBMS) is software that allows you to interact 
 - [[MongoDB]]
 
 These systems enable users to perform [[CRUD]] operations while maintaining data integrity and providing tools for backup, security, and optimization.
+
+[[Database]]
+[[Fact table]] in main table that [[Dimension table]] connect to.
+
+![[Obsidian_CSP0FnAVD1.png]]

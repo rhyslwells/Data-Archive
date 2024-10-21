@@ -23,7 +23,7 @@ Model selection typically involves the following steps:
 5. Test on unseen data: Finally, test the selected model on a test set to ensure that it generalizes well and has not been overfitted to the validation data.
 
 Common approaches for model selection include:
-- [[GridSeachCv]] and Random Search for hyperparameter tuning.
+- [[GridSeachCv]] and [[Random Search]] for hyperparameter tuning.
 - [[Cross validation]] to ensure robustness by evaluating model performance on different subsets of the data.
 - Bayesian Optimization, which can be used to efficiently search the hyperparameter space.
 

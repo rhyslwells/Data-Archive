@@ -3,7 +3,7 @@
 | -------------------------------------------------------------------- | -------- | ------------------- |
 | [[Neural network]]                                         | 42       | September 28, 2024  |
 | [[What does observability mean in terms of machine learning]]        | 22       | September 28, 2024  |
-| [[Feature importance]]<br>                              | 14       | September 26, 2024  |
+| [[Feature Importance]]<br>                              | 14       | September 26, 2024  |
 | [[What common techniques are used to determine if a Gen AI is good]] | 13       | September 26, 2024  |
 |                                                                      |          |                     |
 
@@ -16,7 +16,7 @@
 | [[What is Sarsa in terms of single agent reinforcement learning]]                                                                            | 6        |
 | [[Backpropagation]]                                                                                                            | 5        |
 | [[How do multi-agents interact in reinforcement learning]]                                                                                   | 4        |
-| [[Feature importance]]                                                                                                          | 2        |
+| [[Feature Importance]]                                                                                                          | 2        |
 | [[Backpropagation]]                                                                                                            | 2        |
 | [[For other classifiers is there a similar process like regularisation in linear regression]]                                                | 0        |
 | [[How can machine learning models be made more interpretable to non-technical stakeholders]]                                                 |          |
