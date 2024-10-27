@@ -2,7 +2,6 @@
 title: 
 tags:
   - transformation
-  - data_cleaning
   - preprocessing
   - data_collection
 aliases: 
@@ -13,6 +12,8 @@ Data Preprocessing refers to the overall process of cleaning and transforming r
 Understanding the problem to be solved:
 
 [[Data Collection]]
+
+[[EDA]]
 
 [[Data Cleansing]]
 

@@ -2,7 +2,6 @@
 title: 
 tags:
   - deep_learning
-  - ml
   - time_series
 aliases:
   - RNN

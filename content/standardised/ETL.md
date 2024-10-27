@@ -1,13 +1,12 @@
 ---
 title: What is ETL?
 tags:
-  - engineering
   - data_pipeline
 ---
-- [[ETL Pipeline example]]
+- [[ETL Pipeline Example]]
 - [[etl vs elt]]
 
-This automated process reduces manual labor and enables continuous data flow into a database. Pipelines will be build using continuous deployment and integration. And be build so that they are scaleable.
+This automated process reduces manual labor and enables continuous data flow into a [[database]]. Pipelines will be build using continuous deployment and integration. And be build so that they are scaleable.
 
 **ETL Process (Extract, Transform, Load):**
   - **Extract:** Collecting data from different sources such as databases, APIs, or flat files. Set up API connections to pull data from multiple sources.
@@ -25,9 +24,11 @@ During the [[ETL]] process necessary to:
 
 However in recent years, the preferred data movement paradigm has shifted to [ELT](term/elt.md) (Extract, Load, and Transform). The ELT philosophy dictates that data should be untouched – apart from minor cleaning and filtering – as it moves through the extraction and loading stages so that the raw data is always accessible in the destination [Data Warehouse](Data%20Warehouse.md). See [ETL vs ELT](term/etl%20vs%20elt.md) for a comparison of these approaches.
 ## ETL is Changing
+
 ETL is done with [[Apache Airflow]], [[dagster]], and [Temporal](term/temporal.md). 
 
 Historically **ETL was once preferred** over [[ELT]] for the following **no-longer-valid reasons**: 
+
 - ETL could achieve cost savings by removing unwanted data before sending it to the destination –  however, with the plummeting cost of cloud-based computation and storage the value of this proposition is greatly reduced. 
 - Because ETL transforms data ==before it is stored==, it avoids the complexity of transforming data _after_ sending it to the destination – however, new tools such as [[dbt]] (data build tool) make it preferable and easy to transform data in the destination.
 

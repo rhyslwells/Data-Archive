@@ -1,7 +1,6 @@
 ---
 title: 
 tags:
-  - ml
   - transformation
 aliases: 
 category:

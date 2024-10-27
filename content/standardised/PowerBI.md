@@ -1,7 +1,6 @@
 ---
 tags:
   - "#analysis"
-  - engineering
   - software
 ---
 

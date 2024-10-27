@@ -1,7 +1,6 @@
 ---
 title: 
-tags:
-  - engineering
+tags: []
 aliases: 
 category:
 ---

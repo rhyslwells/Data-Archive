@@ -1,8 +1,9 @@
 ---
 title: 
 tags:
-  - ml
   - code_snippet
+  - regression
+  - data_cleaning
 aliases: 
 category:
 ---

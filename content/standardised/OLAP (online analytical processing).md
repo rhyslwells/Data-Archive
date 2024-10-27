@@ -1,17 +1,17 @@
 ---
 title: What is OLAP (Online Analytical Processing)?
 tags:
-  - "#preprocessing"
   - database
-  - engineering
-  - data engineering
+  - data_processing
 aliases:
   - OLAP
 category:
 ---
-It refers to a category of database processing that enables users to interactively analyze large amounts of data from multiple perspectives. OLAP systems are designed to handle complex queries and support multidimensional analysis, making it easier to explore, summarize, and analyze data for decision-making and reporting purposes.
+It refers to a category of ==database processing== that enables users to interactively analyze large amounts of data from multiple perspectives. 
 
-In summary, OLAP provides powerful tools for **data exploration** and **decision support**, enabling organizations to gain deeper insights by analyzing data from various dimensions.
+OLAP systems are designed to handle complex queries and support multidimensional analysis, making it easier to explore, summarize, and analyze data for decision-making and reporting purposes.
+
+OLAP provides powerful tools for **[[EDA]]** and **decision support**, enabling organizations to gain deeper insights by analyzing data from various dimensions.
 
 ### Key Features of OLAP:
 1. **Multidimensional Data Model**: OLAP is built around a multidimensional data structure, often represented as a **cube**, where data can be viewed along different dimensions (e.g., time, product, region). For example, sales data might be analyzed by region, product category, and time period.
@@ -123,7 +123,7 @@ In this OLAP setup:
 
 OLAP is an acronym for **Online Analytical Processing**. OLAP performs multidimensional analysis of business data and provides the capability for complex calculations, trend analysis, and sophisticated [data modeling](term/data%20modeling.md). An **OLAP cube** is a multidimensional database that is optimized for [Data Warehouse](Data%20Warehouse.md) and online analytical processing (OLAP) applications. 
 
-An OLAP cube is a method of storing data in a multidimensional form, generally for reporting purposes. In OLAP cubes, data ([Measures](term/metric.md)) are categorized by [dimensions](term/dimensions.md). 
+An OLAP cube is a method of storing data in a multidimensional form, generally for reporting purposes. In OLAP cubes, data ([Measures](term/metric.md)) are categorized by [dimensions](dimensions.md). 
 
 In order to manage and perform processes with an OLAP cube, Microsoft developed a query language, known as [multidimensional expressions (MDX)](https://learn.microsoft.com/en-us/analysis-services/multidimensional-models/mdx/), in the late 1990s.  Many other vendors of multidimensional databases have adopted MDX for querying data, but with this specific language, management of the cube requires personnel with the skill set.
 

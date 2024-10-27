@@ -1,8 +1,8 @@
 ---
 title: Interpretability
 tags:
-  - ml
   - drafting
+  - model_explainability
 aliases:
   - explainability
   - interpretable

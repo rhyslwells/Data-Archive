@@ -1,7 +1,8 @@
 ---
 title: 
 tags:
-  - ml
+  - classifer
+  - regression
 aliases: 
 category:
 ---

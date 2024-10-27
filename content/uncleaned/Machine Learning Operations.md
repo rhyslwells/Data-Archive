@@ -40,9 +40,8 @@ We want models;
    - Choose the best-performing model based on evaluation metrics and optimization results.
    - [[Cross Validation]]: Evaluate the model more robustly by splitting the training data into smaller chunks and training the model multiple times.
 
-5. Model Optimization
-   - [[Model Optimisation]]: Fine-tune the model parameters to enhance performance and efficiency.
-   - Use [[Regularisation]]
+[[Model Optimisation]]
+
 
 Model Refinement:
 - [[Model Interpretability]]: Utilize tools to understand and interpret the model's predictions, ensuring transparency and trustworthiness.

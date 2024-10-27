@@ -1,7 +1,14 @@
-#ml 
+---
+tags:
+  - data_pipeline
+  - code_snippet
+aliases: 
+category:
+---
 
 
 
+## code snippet
 ```python
 # Naivebayesfor email prediction
 from sklearn.pipeline import Pipeline

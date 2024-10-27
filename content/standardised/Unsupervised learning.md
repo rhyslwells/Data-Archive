@@ -1,7 +1,6 @@
 ---
 title: 
 tags:
-  - ml
   - "#clustering"
   - drafting
   - paradigm

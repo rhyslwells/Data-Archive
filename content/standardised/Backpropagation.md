@@ -1,11 +1,13 @@
 ---
-title: Backpropagation in Neural Networks  
-tags: 
-- ml 
-- deep_learning 
-- ml_optimisation 
-- statistics 
-aliases: [Backprop, BP, backward propagation]  
+title: Backpropagation in Neural Networks
+tags:
+  - deep_learning
+  - ml_optimisation
+  - statistics
+aliases:
+  - Backprop
+  - BP
+  - backward propagation
 category: Machine Learning
 ---
 

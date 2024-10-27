@@ -1,7 +1,6 @@
 ---
 title: 
 tags:
-  - engineering
   - career
 aliases:
   - Data Engineering

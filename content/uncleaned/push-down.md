@@ -1,9 +1,9 @@
 ---
-title: "What is a Push-Down?"
+title: What is a Push-Down?
 tags:
-- data engineering
+  - database
 aliases:
-- Query Pushdown
+  - Query Pushdown
 ---
 Query pushdown aims to execute as much work as possible in the source databases. 
 

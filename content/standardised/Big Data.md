@@ -1,7 +1,6 @@
 ---
 title: 
 tags:
-  - engineering
   - data_storage
 aliases: 
 category:

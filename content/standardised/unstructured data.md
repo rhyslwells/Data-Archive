@@ -1,7 +1,6 @@
 ---
 title: 
 tags:
-  - engineering
   - data_modeling
   - data_storage
 ---

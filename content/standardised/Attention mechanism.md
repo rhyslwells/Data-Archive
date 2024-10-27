@@ -1,11 +1,11 @@
 ---
 title: 
 tags:
-  - ml
+  - language_models
 importance: 9
 engagement: 9
 recency_of_interest: 2024-09-29
-aliases: []
+aliases:
 ---
 >[!intuition]
 > Think of attention like human reading behavior: when reading a complex sentence, we don't process all the words equally at every moment. Instead, we might "attend" more to certain words based on the context of what we’ve read so far and what we're trying to understand. This is similar to what the attention mechanism does in neural networks.

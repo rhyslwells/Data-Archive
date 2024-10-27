@@ -3,7 +3,6 @@ title:
 tags:
   - ml
   - classifer
-  - linear
 aliases: 
 category:
 ---

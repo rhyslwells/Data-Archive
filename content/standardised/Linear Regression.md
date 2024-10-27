@@ -2,7 +2,6 @@
 model: 
 tags:
   - ml
-  - linear
   - model
 ---
 # Description

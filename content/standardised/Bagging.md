@@ -1,7 +1,6 @@
 ---
 tags:
   - drafting
-  - ml
   - model
 aliases: 
 category:

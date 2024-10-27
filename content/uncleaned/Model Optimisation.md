@@ -8,6 +8,8 @@ How do you make a model better?
 - Use techniques like grid search or random search.
 - Assess model performance on the testing set using relevant metrics (e.g., accuracy, precision, recall, F1-score).
 - Evaluate generalization ability and potential biases.
+
+### [[Regularisation]]
 ### Hyperparameter Tuning
 
 [[Hyperparameter]]

@@ -1,7 +1,7 @@
 ---
 title: What is the Big-O Notation?
 tags:
-  - engineering
+  - math
 ---
 
 Big-O Notation is an analysis of the algorithm using [Big – O asymptotic notation](https://www.geeksforgeeks.org/analysis-of-algorithms-set-3asymptotic-notations/).  

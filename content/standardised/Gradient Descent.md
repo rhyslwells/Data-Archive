@@ -1,7 +1,7 @@
 ---
 title: 
 tags:
-  - ml
+  - ml_optimisation
 aliases:
   - GD
 ---

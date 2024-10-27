@@ -1,6 +1,5 @@
 ---
 tags:
-  - ml
   - drafting
   - model
   - model_explainability

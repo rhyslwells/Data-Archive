@@ -1,3 +1,15 @@
+---
+tags:
+  - data_quality
+  - data_cleaning
+  - data_exploration
+aliases: 
+category:
+---
+
+
+[[Data Cleansing]]
+
 Example: Amazon's imbalanced dataset of mostly male resumes.
 
 Handling Imbalanced Data (If Relevant)
@@ -12,7 +24,7 @@ Handling Imbalanced Data (If Relevant)
 
 - Weighted Loss Functions: Assign higher weights to the minority class.
 
-- Term: #data_preprocessing #ml_optimisation
+
 
 
 python

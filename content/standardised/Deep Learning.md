@@ -1,7 +1,6 @@
 ---
 title: Deep Learning Overview
 tags:
-  - ml
   - deep_learning
 aliases:
   - DL

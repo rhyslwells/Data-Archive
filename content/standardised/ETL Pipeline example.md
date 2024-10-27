@@ -1,7 +1,6 @@
 ---
 tags:
-  - SQL
-  - engineering
+  - data_pipeline
 ---
 [Link](https://www.youtube.com/watch?v=uqRRjcsUGgk)
 

@@ -1,7 +1,6 @@
 ---
 title: What is a Jinja Template?
 tags:
-  - engineering
   - software
 ---
 ### Resources

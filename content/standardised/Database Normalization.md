@@ -18,5 +18,5 @@ This is achieved by applying formal rules during the synthesis (creation of a ne
 [See here for an example](https://youtu.be/rcrsqyFtJ_4?t=885)
 ## Denormalization
 
-**Denormalization**, on the other hand, is the process of intentionally introducing redundancy into a database design by combining tables or adding redundant data, aiming to improve query performance or simplify the database structure. Denormalization is the **opposite of normalization**. Please consider the trade-offs between data integrity and query performance. This technique is used with [Dimensional Modeling](term/dimensional%20modeling.md) in [OLAP](standardised/OLAP%20(online%20analytical%20processing).md) cubes, for example.
+**Denormalization**, on the other hand, is the process of intentionally introducing redundancy into a database design by combining tables or adding redundant data, aiming to improve query performance or simplify the database structure. Denormalization is the **opposite of normalization**. Please consider the trade-offs between data integrity and query performance. This technique is used with [Dimensional Modeling](dimensional%20modeling.md) in [OLAP](standardised/OLAP%20(online%20analytical%20processing).md) cubes, for example.
 

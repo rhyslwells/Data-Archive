@@ -1,7 +1,7 @@
 ---
 tags:
   - database
-  - engineering
+  - data_storage
 title: What is a Data Warehouse?
 aliases:
   - Warehouse

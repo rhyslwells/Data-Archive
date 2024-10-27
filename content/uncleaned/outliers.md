@@ -3,6 +3,7 @@ tags:
   - "#analysis"
   - statistics
   - drafting
+  - anomaly_detection
 aliases:
   - anomalies
 ---

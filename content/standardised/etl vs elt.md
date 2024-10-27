@@ -1,7 +1,6 @@
 ---
 title: ETL vs. ELT
 tags:
-  - engineering
   - data_pipeline
   - data_orchestration
 ---

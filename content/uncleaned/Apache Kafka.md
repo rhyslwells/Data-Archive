@@ -1,7 +1,8 @@
 ---
 title: 
 tags:
-  - engineering
+  - software
+  - devops
 aliases:
   - Kafka
 category:

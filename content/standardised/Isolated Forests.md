@@ -1,10 +1,8 @@
 ---
 title: Isolation Forest and Its Use in Anomaly Detection
 tags:
-  - ml
   - anomaly_detection
   - data_quality
-  - analysis
 aliases:
   - iForest
   - anomaly isolation

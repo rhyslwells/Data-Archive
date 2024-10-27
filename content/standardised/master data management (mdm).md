@@ -1,8 +1,6 @@
 ---
 title: What is Master Data Management (MDM)?
 tags:
-  - data
-  - engineering
   - data_storage
   - data_governance
   - data_management

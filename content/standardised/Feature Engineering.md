@@ -1,7 +1,6 @@
 ---
 type: 
 tags:
-  - "#ml"
   - "#ml_process"
   - "#ml_optimisation"
 ---

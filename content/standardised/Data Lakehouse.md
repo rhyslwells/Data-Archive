@@ -1,7 +1,7 @@
 ---
 title: What is a Data Lakehouse?
 tags:
-  - engineering
+  - data_storage
 aliases:
   - Lakehouse
 ---

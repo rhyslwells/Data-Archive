@@ -1,12 +1,12 @@
 ---
-title: Forward Propagation in Neural Networks  
-tags: 
-- ml 
-- deep_learning  
-- statistics  
-- analysis  
-aliases: feedforward pass, forward pass
-category: Deep Learning  
+title: Forward Propagation in Neural Networks
+tags:
+  - deep_learning
+  - statistics
+aliases:
+  - feedforward pass
+  - forward pass
+category: Deep Learning
 ---
 
 >[!Summary]  

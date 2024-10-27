@@ -1,7 +1,6 @@
 ---
 title: What is Data Quality?
 tags:
-  - engineering
   - "#data_quality"
 ---
 Data quality is the process of ==ensuring data meets expectations.==

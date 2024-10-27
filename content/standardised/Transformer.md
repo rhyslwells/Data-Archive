@@ -3,7 +3,6 @@ title:
 tags:
   - deep_learning
   - NLP
-  - ml
 aliases:
   - Transformers
 ---

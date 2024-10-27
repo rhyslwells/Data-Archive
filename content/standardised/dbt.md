@@ -8,6 +8,8 @@ category:
 ---
 https://www.getdbt.com/blog/what-exactly-is-dbt
 
+[dbt](https://docs.getdbt.com/docs/introduction) 
+
 data build tool s an open-source framework designed for [[Data Transformation]] within a modern data stack. It enables analysts and engineers to transform, model, and manage data using [[SQL]] while ==adhering to software engineering best practices== like version control, testing, and documentation. 
 
 ### Key Concepts of dbt:

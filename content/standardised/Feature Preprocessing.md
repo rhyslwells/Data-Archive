@@ -1,7 +1,6 @@
 ---
 type: 
 tags:
-  - "#ml"
   - "#ml_optimisation"
   - transformation
 title: 

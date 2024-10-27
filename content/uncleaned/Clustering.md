@@ -1,7 +1,6 @@
 ---
 title: 
 tags:
-  - ml
   - clustering
 aliases: 
 category:

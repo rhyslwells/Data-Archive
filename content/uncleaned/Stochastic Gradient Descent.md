@@ -1,8 +1,8 @@
 ---
 title: 
-tags:
-  - ml
+tags: []
 aliases:
   - SGD
 category:
 ---
+[[Gradient Descent]]

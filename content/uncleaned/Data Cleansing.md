@@ -3,13 +3,13 @@ tags:
   - pandas
   - "#analysis"
   - code_snippet
-  - drafting
-  - "#data"
 title: 
 importance: 
 engagement: 
 recency_of_interest: 
 type: term
+aliases: 
+category:
 ---
 
 ## Handling corrupt data
@@ -18,7 +18,7 @@ type: term
 
 ## Handling Missing Data
 
-How do you handle [[Handling Missing Data]]? The missing data can give you insights into the data collection process.
+How do you handleHandling Missing Data? The missing data can give you insights into the data collection process.
 Is the missing data randomly distributed or is it specific to a given feature.
 
 
@@ -96,3 +96,20 @@ test.loc[test['LotFrontage'].isnull(), 'LotFrontage'] = test['LotFrontage'].mean
 ```python
 from sklearn.impute import KNNImputer
 ```
+
+#pandas
+
+How to dropping rows with NA values
+?
+```python
+df.dropna(inplace=True)
+df.reset_index(inplace=True, drop=True)
+```
+
+First drop unnecessary columns from the ==target variable.==Go through each and evaluate whether relevant.
+
+Drop columns with a lot of missing data `df = df.drop(['var1', 'var2'], axis=1)` with respect to the total number of rows.
+
+
+
+
