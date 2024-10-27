@@ -16,7 +16,7 @@ The **curse of dimensionality** refers to the various phenomena that arise when 
 
 ### Examples of the Curse of Dimensionality
 
-**Vulnerability of [[Ngrams]] [[Language models]]:** 
+**Vulnerability of [[Ngrams]] [[Language Models]]:** 
 
 Classical n-gram language models in [[NLP]], which rely on counting the occurrences of word sequences, are particularly vulnerable to the curse of dimensionality. As the vocabulary size and the value of 'n' increase, the number of possible n-grams grows exponentially, making it impossible to observe most of them in even a massive training set.
 ### Addressing the Curse of Dimensionality

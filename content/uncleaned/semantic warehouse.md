@@ -23,6 +23,6 @@ The semantic warehouse tries to solve the following problems:
 5. Data modeling was not a first-class citizen. Modeling was challenging to do (because of #4) and, in some cases, impossible, thanks to data simply being missing.  
 6. Our [Data Warehouse](Data%20Warehouse.md) did not reflect the real world. Instead, it was a dumping ground for production services and 3rd party APIs.  
 7. A lack of interoperability due to tools not 'speaking the same language.' We have multiple products which each require their distinct modeling environment and no shared understanding of business concepts  
-8. [Data Governance](data%20governance.md) is critical, but businesses will reject it if it becomes a bottleneck. We cannot scale our data team horizontally with the complexity  
+8. [Data Governance](Data%20Governance.md) is critical, but businesses will reject it if it becomes a bottleneck. We cannot scale our data team horizontally with the complexity  
   
 See also [[metrics layer|Semantic Layer]] and [[data contract]].

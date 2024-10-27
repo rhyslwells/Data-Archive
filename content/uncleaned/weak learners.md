@@ -1,4 +1,4 @@
-[[Ensemble model]]
+[[Model Ensembling]]
 
 These are typically [[Decision Tree]], which are simple models that split the data based on certain features.
 

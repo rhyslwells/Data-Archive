@@ -1,12 +1,11 @@
 ---
-
-title: Deep Learning Overview  
-tags: 
-- ml 
-- deep_learning 
-- neural_networks 
-- backpropagation 
-aliases: [DL, Neural Networks]  
+title: Deep Learning Overview
+tags:
+  - ml
+  - deep_learning
+aliases:
+  - DL
+  - Neural Networks
 category: Machine Learning
 ---
 

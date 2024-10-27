@@ -6,6 +6,11 @@ tags:
 
 Data transformation is the process of converting data from one format into a different format. Reasons for doing this could be to optimize the data for a different use case than it was originally intended for, or to meet the requirements for storing data in a different system. Data transformation may involve steps such as cleansing, normalizing, [structuring](term/structured%20data.md), validation, sorting, joining, or [enriching](term/data%20enrichment.md) data. 
 
+
+- Data Transformation: Normalizing or scaling numerical values, encoding categorical variables, and converting data types.
+
+[[Encoding Categorical Variables]]
+
 ## How is data transformation done
 Data is often transformed as part of an [ETL (Extract, Transform, Load)](ETL.md) or [ELT (Extract, Load, Transform)](term/elt.md) approach to [data integration](term/data%20integration.md). 
 
@@ -41,3 +46,33 @@ Storing the data in this manner makes it much more efficient to analyze with ope
 ```sql
 SELECT * FROM X where Age=29
 ```
+
+
+
+### Data Wrangling 
+Transform raw data into a format that best describes the problem to the model. This includes formatting and normalization.
+
+**Formatting**
+- Convert data into the required format, e.g., from .xls to .csv.
+
+ [[Database Normalization]]
+- Ensure consistent data representation and scale features appropriately.
+  - Example: Normalize monetary values and quantities to a common scale using methods like min-max normalization.
+
+
+Data must be transformed into a format that is most suitable for the machine learning model. This includes several steps such as ==labeling, cleansing, and feature engineering.==
+
+**Labelling**
+- **[[Supervised Learning]]**: This involves annotating the dataset with the correct answers (labels) to teach the model. For example, labeling images of apples to distinguish them from other fruits.
+- **Manual and Automated Labeling**: Manual labeling by humans or leveraging existing labeled data. Tools like Google’s reCAPTCHA help in building labeled datasets.
+
+
+
+Transform raw data into a format that best describes the problem to the model. This includes formatting and normalization.
+
+Formatting
+- Convert data into the required format, e.g., from .xls to .csv.
+
+ [[Database Normalization]]
+- Ensure consistent data representation and scale features appropriately.
+  - Example: Normalize monetary values and quantities to a common scale using methods like min-max normalization.

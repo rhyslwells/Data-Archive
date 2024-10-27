@@ -56,3 +56,4 @@ df_scaled = preprocessing.scale(df)  # Scales each variable (column) with respec
 
 This will return an array where each feature has been standardized.
 
+Apply normalization or standardization to ensure that features have a similar scale (this is important for algorithms sensitive to scaling, though linear regression can handle unscaled features in some cases).

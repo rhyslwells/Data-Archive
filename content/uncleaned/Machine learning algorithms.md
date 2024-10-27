@@ -52,7 +52,7 @@ Knowledge Discovery: Machine learning algorithms can help discover hidden patter
 
 ##### Limitations:
 
-Data Dependence: The performance of machine learning algorithms heavily depends on the [[data quality]] and quantity of the training data.
+Data Dependence: The performance of machine learning algorithms heavily depends on the [[Data Quality]] and quantity of the training data.
 
 [[Overfitting]] occurs when the model learns the training data too well and fails to generalise to new, unseen data.
 

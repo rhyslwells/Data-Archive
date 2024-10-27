@@ -2,7 +2,7 @@
 
 What is data normalization and why do we need it? ;; Data [[Database Normalization]] is used in [[Feature Preprocessing]] for preprocessing as it rescales values to fit within a specific range.
    
-Explain [[Dimensionality Reduction]], where it’s used, and its benefits? ;; [[Dimension reduction]] involves reducing the number of feature variables by obtaining a set of principal variables, reducing storage space, speeding up computation, removing redundant features, and enabling data visualization to identify patterns.
+Explain [[Dimensionality Reduction]], where it’s used, and its benefits? ;; [[Dimensionality Reduction]] involves reducing the number of feature variables by obtaining a set of principal variables, reducing storage space, speeding up computation, removing redundant features, and enabling data visualization to identify patterns.
    
 How do you handle missing or corrupted data in a dataset? ;; Missing or corrupted data can be handled by dropping affected rows or columns, replacing them with another value, or filling them with a placeholder value using methods like isnull(), dropna(), or fillna() in Pandas.
 <!--SR:!2024-04-15,4,270-->

@@ -12,7 +12,7 @@ recency_of_interest: 2024-09-26
 
 Feature importance refers to ==techniques that assign scores to input features== (predictors) in a machine learning model to ==indicate their relative impact on the model's predictions.==
 
-Feature importance is typically assessed ==after== [[model training]]. It involves analyzing the trained model to determine the impact of each feature on the predictions.
+Feature importance is typically assessed ==after== [[Model Training]]. It involves analyzing the trained model to determine the impact of each feature on the predictions.
 
 Feature importance helps in:
 

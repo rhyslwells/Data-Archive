@@ -1,11 +1,13 @@
 ---
-title: Regression Analysis and its Applications  
-tags: 
-- regression 
-- ml 
-- statistics 
-- analysis  
-aliases: regressive models, predictive regression, linear models  
+title: Regression Analysis and its Applications
+tags:
+  - ml
+  - statistics
+  - analysis
+aliases:
+  - regressive models
+  - predictive regression
+  - linear models
 category: Data Science, Machine Learning
 ---
 

@@ -1,7 +1,7 @@
 ---
 tags:
   - ml
-  - optimisation
+  - ml_optimisation
 ---
 ### Description
 
@@ -23,4 +23,4 @@ The learning rate is a  [[Hyperparameter]] in machine learning that ==determines
 
 3. **Practical Considerations**:
    - It's common to start with a moderate learning rate and adjust based on the model's performance during training.
-   - Techniques like learning rate schedules or adaptive learning rate methods (e.g., [[Adam optimizer]]) can dynamically adjust the learning rate during training to improve convergence.
+   - Techniques like learning rate schedules or adaptive learning rate methods (e.g., [[Adam Optimizer]]) can dynamically adjust the learning rate during training to improve convergence.

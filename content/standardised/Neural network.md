@@ -63,7 +63,7 @@ Methods to get parameters (weights biases) for NN using training data to reduce 
      - **Tanh**: Squashes the input to a range between -1 and 1.
 
 5. **Training**:
-   - Neural networks learn by adjusting weights and biases through a process called **[[backpropagation]]**, which works in conjunction with an optimization algorithm like **[[Gradient Descent]]**
+   - Neural networks learn by adjusting weights and biases through a process called **[[Backpropagation]]**, which works in conjunction with an optimization algorithm like **[[Gradient Descent]]**
    - The process of training involves:
      - [[Forward Propagation]]: Input data flows through the network to produce a prediction.
      - **[[Loss function]]**: The difference between the predicted output and the actual output (error) is calculated using a loss function (e.g., mean squared error for regression or cross-entropy loss for classification).

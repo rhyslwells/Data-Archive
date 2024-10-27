@@ -32,4 +32,4 @@ Core Components:
 Scalability
 - Leverages the scalability of **[[Hadoop]]** while integrating advanced features for big data processing.
 
-[[What is the difference between Databricks vs. Snowflake]]
+[[Difference between Databricks vs. Snowflake]]

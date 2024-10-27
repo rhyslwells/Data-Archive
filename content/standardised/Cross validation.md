@@ -7,6 +7,7 @@ tags:
 ## Description 
 
 - A technique used in machine learning and statistics to evaluate the performance of a predictive model.
+-  It evaluates the model more robustly by splitting the training data into smaller chunks and training the model multiple times. 
 - ==It involves dividing the dataset into k equal-sized subsets (called "folds") and using each fold as a validation set once, while the remaining k-1 folds are used for training.==
 - The model's ==performance is averaged== across all k folds to provide a more robust estimate of its generalization performance.
 
@@ -18,6 +19,7 @@ tags:
 
 **Common variations:**
 
+- K-Fold Cross-Validation: The most common method, where the data is split into $k$ folds and the model is trained $k$ times, each time using a different fold as the validation set.
 - **Stratified k-fold:** Ensures each fold has a similar proportion of class labels (important for imbalanced datasets).
 - **Repeated k-fold:** Repeats the process multiple times with different random splits for more robust results.
 - Leave one out.
@@ -69,3 +71,4 @@ cv_scores = cross_val_score(model_2, X, y, cv=5)  # Use 5-fold cross-validation
 print("Cross-Validation Scores:", cv_scores)
 print("Mean CV Score:", cv_scores.mean())
 ```
+

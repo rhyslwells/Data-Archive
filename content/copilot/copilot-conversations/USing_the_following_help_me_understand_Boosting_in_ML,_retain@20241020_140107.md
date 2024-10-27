@@ -10,7 +10,7 @@ tags:
 
 
 
-is an [[Ensemble model]] which builds a ==sequence== of base models iteratively, where each subsequent model focuses on correcting the errors made by the previous ones.   It combines weak learners (models that are slightly better than random guessing) to create a strong learner. Examples include ==AdaBoost, Gradient Boosting, and [[XGBoost]].==
+is an [[Model Ensembling]] which builds a ==sequence== of base models iteratively, where each subsequent model focuses on correcting the errors made by the previous ones.   It combines weak learners (models that are slightly better than random guessing) to create a strong learner. Examples include ==AdaBoost, Gradient Boosting, and [[XGBoost]].==
 
 What are boosting algorithims?;;  these work sequentially by giving more focus to misclassified data.
 
@@ -20,7 +20,7 @@ What are boosting algorithims?;;  these work sequentially by giving more focus t
    - **Examples**: [[Ada boosting]], Gradient Boosting, and [[XGBoost]] are well-known boosting algorithms.
 [Timestamp: 2024/10/20 14:01:07]
 
-**ai**: Boosting is a type of [[Ensemble model]] in machine learning that focuses on improving the accuracy of predictions by building a sequence of models. Here's a breakdown of the key concepts related to boosting:
+**ai**: Boosting is a type of [[Model Ensembling]] in machine learning that focuses on improving the accuracy of predictions by building a sequence of models. Here's a breakdown of the key concepts related to boosting:
 
 ### Key Concepts of Boosting:
 
@@ -134,11 +134,11 @@ In summary, [[Ada boosting]] is a powerful ensemble technique that improves mode
 
 **user**: similarly for the notion of bagging:
 
-An [[Ensemble model]] technique used to improves performance.
+An [[Model Ensembling]] technique used to improves performance.
 
 The main idea behind bagging is to train multiple instances (parallelised) of the same learning algorithm on ==different subsets of the training data== and then ==combine== their predictions.
 
-What is [[Bagging]]?;; is an [[Ensemble model]] which train multiple instances of the same base learning algorithm on different subsets of the training data, then ==combining== their predictions through averaging or voting.
+What is [[Bagging]]?;; is an [[Model Ensembling]] which train multiple instances of the same base learning algorithm on different subsets of the training data, then ==combining== their predictions through averaging or voting.
 
 What is a Bagging technique?;; these work in parallel by building models on randomized samples and combining their outputs.
 
@@ -156,11 +156,11 @@ ensemble of randomized decision trees is known as a random forest.
    - **Example**: Random Forest is a popular bagging technique that uses decision trees as base models.
 [Timestamp: 2024/10/20 14:14:38]
 
-**ai**: Here's an explanation of [[Bagging]] and how it fits into the broader concept of [[Ensemble model]] techniques:
+**ai**: Here's an explanation of [[Bagging]] and how it fits into the broader concept of [[Model Ensembling]] techniques:
 
 ### Bagging Overview:
 
-[[Bagging]], short for Bootstrap Aggregating, is an [[Ensemble model]] technique designed to improve the stability and accuracy of machine learning algorithms. It works by training multiple instances of the same learning algorithm on different subsets of the training data and then combining their predictions.
+[[Bagging]], short for Bootstrap Aggregating, is an [[Model Ensembling]] technique designed to improve the stability and accuracy of machine learning algorithms. It works by training multiple instances of the same learning algorithm on different subsets of the training data and then combining their predictions.
 
 ### How Bagging Works:
 

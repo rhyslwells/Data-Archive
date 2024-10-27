@@ -1,8 +1,8 @@
 {
-  "accentColor": "#4e407d",
-  "cssTheme": "Obuntu",
+  "accentColor": "#46376d",
+  "cssTheme": "Everforest",
   "theme": "obsidian",
-  "baseFontSize": 19,
+  "baseFontSize": 16,
   "showViewHeader": true,
   "enabledCssSnippets": [],
   "baseFontSizeAction": true,

@@ -6,7 +6,7 @@ tags:
 aliases: 
 category:
 ---
-Model selection is an integral part of building a [[Machine learning pipeline]] to ensure that the best performing model is chosen for a given task, avoiding issues like overfitting or underfitting.
+Model selection is an integral part of building a [[Machine Learning Operations]] to ensure that the best performing model is chosen for a given task, avoiding issues like overfitting or underfitting.
 
 This is a crucial step because the model's ability to ==generalize== to unseen data depends on selecting the right one.
 
@@ -24,7 +24,7 @@ Model selection typically involves the following steps:
 
 Common approaches for model selection include:
 - [[GridSeachCv]] and [[Random Search]] for hyperparameter tuning.
-- [[Cross validation]] to ensure robustness by evaluating model performance on different subsets of the data.
+- [[Cross Validation]] to ensure robustness by evaluating model performance on different subsets of the data.
 - Bayesian Optimization, which can be used to efficiently search the hyperparameter space.
 
 

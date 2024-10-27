@@ -8,7 +8,7 @@ category:
 ---
 # Overview:
 
-Bagging, short for Bootstrap Aggregating, is an [[Ensemble model]] technique designed to improve the stability and accuracy of machine learning algorithms. 
+Bagging, short for Bootstrap Aggregating, is an [[Model Ensembling]] technique designed to improve the stability and accuracy of machine learning algorithms. 
 
 It works by ==training multiple instances of the same learning algorithm on different subsets of the training data== and then ==combining their predictions.==
 

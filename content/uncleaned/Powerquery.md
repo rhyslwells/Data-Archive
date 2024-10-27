@@ -1,7 +1,6 @@
 ---
 tags:
   - software
-  - excel
 aliases: 
 category:
 ---

@@ -5,7 +5,7 @@ tags:
   - ml_process
   - data_visualization
   - statistics
-  - optimisation
+  - ml_optimisation
   - model_explainability
 aliases:
   - Regulation in ML

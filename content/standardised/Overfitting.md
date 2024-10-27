@@ -13,14 +13,14 @@ aliases: model overfitting, high variance models
 > 
 >Mathematically, overfitting results in a model with low bias but high variance, meaning it adapts too closely to the training data and fails to generalize well.
 >
->Key methods to address overfitting include [[regularisation]] (such as $L_1$ and $L_2$ regularization), [[Cross validation]], and simpler models.
+>Key methods to address overfitting include [[regularisation]] (such as $L_1$ and $L_2$ regularization), [[Cross Validation]], and simpler models.
 >
 >In statistical terms, it indicates a model with high complexity and too many parameters relative to the amount of training data, which results in $f(x)$ poorly representing the population distribution.
 
 >[!Breakdown]  
 > Key Components:  
 > - Regularization (Lasso: $L_1$, Ridge: $L_2$) to penalize model complexity.  
-> - [[Cross validation]] to ensure model generalization.  
+> - [[Cross Validation]] to ensure model generalization.  
 > - Early stopping in training to avoid learning noise.  
 > - Simplification of models to prevent fitting irrelevant patterns.
 
@@ -37,5 +37,5 @@ aliases: model overfitting, high variance models
 > - What role does the size of the training dataset play in mitigating overfitting?
 
 >[!Related Topics]  
-> - [[Cross validation]] techniques (e.g., $k$-fold, Leave-One-Out cross-validation)  
+> - [[Cross Validation]] techniques (e.g., $k$-fold, Leave-One-Out cross-validation)  
 > - [[Bias and variance]]radeoff in machine learning models  

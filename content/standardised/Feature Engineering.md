@@ -19,4 +19,7 @@ What does it involve
 Example:
 Predicting house prices. Raw features might be square footage, number of bedrooms, and location. Feature engineering could involve: Combining square footage and bedrooms into a "living space" feature.
 
+**Example**:
+- Decompose datetime information into separate features for date and time to capture their respective predictive powers.
+
 

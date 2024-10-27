@@ -39,7 +39,7 @@ In summary, **unsupervised learning** is about discovering hidden patterns in da
    **Example**: PCA used to reduce the dimensions of a dataset containing hundreds of features, such as a dataset of pixel values from images.
 
 3. [[Isolated Forests]]
-   - Identifies [[outliers]] or unusual data points that don’t conform to the expected pattern in the dataset.
+   - Identifies [[Outliers]] or unusual data points that don’t conform to the expected pattern in the dataset.
    - Example: Detecting fraudulent credit card transactions by identifying transactions that deviate significantly from typical spending patterns.
    - Works by randomly partitioning the data and identifying anomalies as points that can be isolated quickly.
 

@@ -2,12 +2,7 @@
 title: 
 tags: 
 ---
->[!Summary]
->
-
->[!Example]
->
-
+[[Mathematical Reasoning in Transformers]]
 ### Summary of Wolfram Alpha’s Approach:
 1. **Uses symbolic computation** with precise algorithms.
 2. **Leverages predefined mathematical rules** for various domains.

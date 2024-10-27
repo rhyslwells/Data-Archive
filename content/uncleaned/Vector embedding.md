@@ -1,7 +1,8 @@
 ---
 title: 
 tags:
-  - GenAI
+  - math
+  - language_models
 aliases:
   - embedding
 ---

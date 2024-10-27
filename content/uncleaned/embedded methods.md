@@ -1,5 +1,7 @@
 Embedded methods for [[Feature Selection]] ==integrate feature selection directly into the model training process.==
 
+Embedded methods provide a convenient and efficient approach to feature selection by seamlessly integrating it into the model training process, ultimately leading to models that are more parsimonious and potentially more interpretable.
+
 1. **Incorporated into Model Training**: Unlike [[Filter method]] and [[wrapper methods]], which involve feature selection as a separate step from model training, embedded methods perform feature selection simultaneously with model training. This means that feature importance or relevance is determined within the context of the model itself.
 
 2. **Regularization Techniques**: Embedded methods commonly use [[Regularisation]] techniques to penalize the inclusion of unnecessary features during model training. 
@@ -19,4 +21,3 @@ Embedded methods for [[Feature Selection]] ==integrate feature selection directl
    - Hyperparameter Tuning: Tuning regularization parameters or other model-specific parameters may be necessary to optimize feature selection performance.
    - Model [[interpretability]]: While embedded methods can automatically select features, interpreting the resulting model may be challenging, especially for complex models like ensemble methods.
 
-Embedded methods provide a convenient and efficient approach to feature selection by seamlessly integrating it into the model training process, ultimately leading to models that are more parsimonious and potentially more interpretable.

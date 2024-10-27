@@ -7,10 +7,6 @@ aliases:
   - anomalies
 ---
 
-## Notes
-
-
-
 There are different ways to clip outliers:
 
 1. **Trimming**: Removing data points that are identified as outliers based on some criteria, such as being beyond a certain number of standard deviations from the mean or falling outside a specified percentile range. This effectively "clips" the dataset by discarding the extreme values.
@@ -35,9 +31,9 @@ df.describe(include='all')
 
 ## Q&As
 
-What is the issue with [[outliers]] in [[Model Deployment]]?;;Can sway the generality of the model. Statistically the sway the mean and increase the standard deviation.
+What is the issue with [[Outliers]] in [[Model Deployment]]?;;Can sway the generality of the model. Statistically the sway the mean and increase the standard deviation.
 
-How can [[outliers]] be detected?
+How can [[Outliers]] be detected?
 ?
 - Use a [[Boxplot]] which displays the distribution (IQR),
 - visually determine a theresold in a plot,
@@ -94,8 +90,6 @@ def pca_anamolies(data):
     plt.show()
     return data_clean
 ```
-
-
 ### Handling outliers
 
 Outlier handling is a technique for removing outliers from a data set. This method can be used on a variety of scales to produce a more accurate data representation. This has an impact on the model’s performance. Depending on the model, the effect could be large or minimal. For example, [[Linear Regression]] is particularly susceptible to outliers. This procedure should be completed prior to model training. The various methods of handling outliers include:
@@ -104,7 +98,60 @@ Outlier handling is a technique for removing outliers from a data set. This meth
 2. **Replacing values**: Alternatively, the outliers could be handled as missing values and replaced with suitable imputation.
 
 
-
-
 outliers
 How to find outliers in a dataset?;; Use scatter plot, boxplot, IQR
+
+- Objective: Identify and handle outliers in the dataset that could disproportionately affect the model's predictions. Outliers can lead to skewed predictions, especially in linear models.
+    
+- Techniques:
+    
+    - Outlier Removal: Detect and remove extreme outliers.
+        
+    - Robust Scaler: Use robust scaling methods that are less sensitive to outliers (e.g., scaling based on interquartile range).
+        
+    - Term: 
+        
+    
+    python
+    
+    Copy code
+    
+    `from sklearn.preprocessing import RobustScaler scaler = RobustScaler() X_train_scaled = scaler.fit_transform(X_train)`
+
+
+
+#### [[Outliers]]
+
+- Objective: Identify and handle outliers in the dataset that could disproportionately affect the model's predictions. Outliers can lead to skewed predictions, especially in linear models.
+    
+- Techniques:
+    
+    - Outlier Removal: Detect and remove extreme outliers.
+        
+    - Robust Scaler: Use robust scaling methods that are less sensitive to outliers (e.g., scaling based on interquartile range).
+        
+    - Term: #data_cleaning #preprocessing
+        
+    
+    python
+    
+    Copy code
+    
+    `from sklearn.preprocessing import RobustScaler scaler = RobustScaler() X_train_scaled = scaler.fit_transform(X_train)`
+
+- Objective: Identify and handle outliers in the dataset that could disproportionately affect the model's predictions. Outliers can lead to skewed predictions, especially in linear models.
+    
+- Techniques:
+    
+    - Outlier Removal: Detect and remove extreme outliers.
+        
+    - Robust Scaler: Use robust scaling methods that are less sensitive to outliers (e.g., scaling based on interquartile range).
+        
+    - Term: #data_cleaning #preprocessing
+        
+    
+    python
+    
+    Copy code
+    
+    `from sklearn.preprocessing import RobustScaler scaler = RobustScaler() X_train_scaled = scaler.fit_transform(X_train)`

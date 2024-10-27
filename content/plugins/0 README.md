@@ -1,3 +1,7 @@
+### Graph Analysis
+
+[Graph Analysis - Co Citations](https://www.youtube.com/watch?v=rK6JVDrGERA)
+
 ### Copilot
 
 https://www.youtube.com/watch?v=NSoKRYNlOls
@@ -15,6 +19,7 @@ prompts:
 - quizzes
 
 Set note context for chat mode.
+
 
 ### Excalidraw
 

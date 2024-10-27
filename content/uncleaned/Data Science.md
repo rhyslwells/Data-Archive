@@ -1,4 +1,6 @@
-[[Implementation of Prediction Algorithms]]
-
-[[Data science problems]]
+---
+tags:
+  - field
+---
+[[Scientific Method]]
 

@@ -17,11 +17,11 @@ MDM is especially important in large organizations where data is often siloed ac
 
 Key aspects of MDM include:
 
-1. [[data governance]]: Establishing policies, rules, and standards for how master data is managed, who is responsible for it, and how data quality is monitored.
+1. [[Data Governance]]: Establishing policies, rules, and standards for how master data is managed, who is responsible for it, and how data quality is monitored.
 
 2. **Data Integration**: Consolidating and harmonizing data from various sources (e.g., databases, applications) to create a unified, consistent view of master data.
 
-3. [[data quality]]: Ensuring that the data is complete, accurate, valid, and consistent across the organization.
+3. [[Data Quality]]: Ensuring that the data is complete, accurate, valid, and consistent across the organization.
 
 4. **Data Stewardship**: Assigning roles and responsibilities for managing the master data and ensuring that it complies with the established governance policies.
 

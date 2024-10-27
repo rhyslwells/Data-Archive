@@ -29,18 +29,18 @@ Refine the random forest by qweaking the [[Hyperparameter]] of number of feature
 ---
 missing data
 
-make initial guess for missing data and refine. Use [[Imputation]]. Remember where missing data was.
+make initial guess for missing data and refine. Use [[Data Cleansing]]. Remember where missing data was.
 
 
 [link part 2](https://www.youtube.com/watch?v=sQ870aTKqiM)
 
-[[Proximity matrix]] [[Handling Missing Data]]
+[[Proximity matrix]] [[Data Cleansing]]
 
 ![[Pasted image 20240411095614.png|500]]
 
 
 # Description:
-A random forest is an [[Ensemble model]] of [[Decision Tree]]s. Take many decision trees decisions to get better result.
+A random forest is an [[Model Ensembling]] of [[Decision Tree]]s. Take many decision trees decisions to get better result.
 
 ![[Pasted image 20240128194716.png|500]]
 ![[Pasted image 20240118145117.png|500]]
@@ -74,7 +74,7 @@ import numpy as np
     # you should get 0.8049
 ```
 
-Train the RandomForestClassifier on a dataset and evaluate it with [[Cross validation]].
+Train the RandomForestClassifier on a dataset and evaluate it with [[Cross Validation]].
 
 ```python
     import numpy as np

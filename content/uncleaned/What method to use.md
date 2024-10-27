@@ -15,7 +15,7 @@ What does the data look like [[continuous]] or [[categorical]]?
 	 [[Classification]]
 
 [[Unsupervised learning]]
-	[[Dimension reduction]]
+	[[Dimensionality Reduction]]
 	[[Clustering]]
 
 

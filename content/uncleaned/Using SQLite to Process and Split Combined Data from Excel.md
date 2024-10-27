@@ -1,7 +1,6 @@
 ---
 tags:
   - SQL
-  - "#excel"
 ---
 
 ## Summary:

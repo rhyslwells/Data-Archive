@@ -21,7 +21,7 @@ A key feature of ETL is that data is transformed before being sent to the destin
 ![](images/etl-tool.png)
 
 During the [[ETL]] process necessary to:
-- **[[data quality]] Assurance:** Ensure data passes quality checks and is standardized for use.
+- **[[Data Quality]] Assurance:** Ensure data passes quality checks and is standardized for use.
 
 However in recent years, the preferred data movement paradigm has shifted to [ELT](term/elt.md) (Extract, Load, and Transform). The ELT philosophy dictates that data should be untouched – apart from minor cleaning and filtering – as it moves through the extraction and loading stages so that the raw data is always accessible in the destination [Data Warehouse](Data%20Warehouse.md). See [ETL vs ELT](term/etl%20vs%20elt.md) for a comparison of these approaches.
 ## ETL is Changing

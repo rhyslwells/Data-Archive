@@ -1,6 +1,10 @@
 ---
 title: 
-tags: 
+tags:
+  - "#question"
+category: LANG
+engagement: 
+recency_of_interest:
 ---
 **transformer-based models** that address mathematical reasoning either through pretraining, hybrid systems, or fine-tuning on specific mathematical tasks
 
@@ -13,4 +17,7 @@ math data sets: MATH dataset,Aristo
 Pretrained transformers on math specific data.
 
 [[GPT-f]] represents a significant advancement in the use of **transformer-based models for mathematical reasoning**,
+
+
+
 

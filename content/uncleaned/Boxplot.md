@@ -6,7 +6,7 @@ tags:
 ---
 # When to use:
 
-To check for [[outliers]]. Need to remove then in order to do [[Imputation]].
+To check for [[Outliers]]. Need to remove then in order to do [[Data Cleansing]].
 
 # Code
 

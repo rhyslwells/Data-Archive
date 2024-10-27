@@ -1,7 +1,6 @@
 ---
 title: 
 tags:
-  - question
   - GenAI
   - business
 importance: 5
@@ -9,7 +8,7 @@ engagement: 5
 recency_of_interest: 2024-09
 ---
 
-Reducing the need for frequent Generative AI (Gen AI) responses can be done by leveraging techniques such as [[caching]] and setting up predefined [[transactional journeys]]. Here's a breakdown:
+Reducing the need for frequent [[Generative AI]] (Gen AI) responses can be done by leveraging techniques such as [[caching]] and setting up predefined [[transactional journeys]]. Here's a breakdown:
 
 1. **Caching AI Responses**: Caching allows storing frequently requested AI responses and reusing them. This reduces the number of queries to the AI model, thus lowering both response time and cost. For example, common queries like "How do I reset my password?" can be cached for quick reuse without engaging the AI model each time (1).
 

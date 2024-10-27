@@ -1,7 +1,6 @@
 ---
 title: 
 tags:
-  - dimensionality_reduction
   - data_visualization
   - drafting
 aliases: 

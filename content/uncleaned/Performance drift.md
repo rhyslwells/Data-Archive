@@ -20,7 +20,7 @@ category: Model Evaluation
 > Key Components:  
 > - **Concept drift**: Changes in the relationship between inputs and outputs, $P(Y|X)$.  
 > - **Covariate shift**: ==Change in the input data distribution, $P(X)$.==  
-> - **Model monitoring** [[Observability|monitoring]]: Continuous assessment of a model’s accuracy over time to detect drift.  
+> - **Model monitoring** [[Data Observability|monitoring]]: Continuous assessment of a model’s accuracy over time to detect drift.  
 > - **Retraining**: Updating the model with new data to restore performance.
 
 >[!important]  

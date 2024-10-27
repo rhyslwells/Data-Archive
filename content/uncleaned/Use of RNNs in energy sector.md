@@ -1,17 +1,13 @@
 ---
 title: 
 tags:
-  - "#question"
   - ml
-  - interpretable_ml
-  - energy
   - time_series
-  - classification
-  - prediction
   - drafting
-importance: 
+importance: -3
 engagement: 
 recency_of_interest: 2024-10-14
+category: CAREER
 ---
 
 For energy data problems, many **interpretable machine learning algorithms** can be applied in place of or alongside RNNs. These models offer transparency, making it easier to understand the relationships between features and predictions, which is critical in areas like energy management, where interpretability can be as important as accuracy.
@@ -25,7 +21,7 @@ Here is a breakdown of alternative **interpretable ML algorithms** for each of t
      - **Linear Regression**: Can model simple linear relationships between energy consumption and time (e.g., daily/seasonal trends).
      - **Decision Trees**: Provides clear if-then rules for predicting future energy usage based on historical consumption, time of day, and other factors.
      - **Random Forests**: An ensemble of decision trees that provides better accuracy than individual trees while still being interpretable using feature importance.
-     - **Gradient Boosting Machines (GBM)**: Can be used with feature importance or SHAP values to understand which factors (e.g., time, weather) drive energy demand.
+     - **Gradient Boosting Machines (GBM)**: Can be used with feature importance or [[SHapley Additive exPlanations|SHAP]] values to understand which factors (e.g., time, weather) drive energy demand.
    
    - **Why**: These models allow for clear interpretation of how factors like temperature, time of day, and previous energy use contribute to predictions.
 

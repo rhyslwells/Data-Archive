@@ -2,7 +2,7 @@
 tags:
   - ml
   - ml_process
-  - optimisation
+  - ml_optimisation
   - evaluation
   - model_explainability
 ---
@@ -16,7 +16,7 @@ In tree models, [[Regularisation]] is done by controlling the growth of the tree
 
 These hyperparameters restrict the growth of the tree, preventing it from becoming too complex.
 
-For [[Ensemble model]] methods like Random Forests and Gradient Boosting, additional regularization techniques like 
+For [[Model Ensembling]] methods like Random Forests and Gradient Boosting, additional regularization techniques like 
 
 - subsampling, 
 - bootstrap sampling, 
