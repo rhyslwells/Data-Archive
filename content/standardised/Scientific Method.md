@@ -3,11 +3,10 @@ tags:
   - ml_process
   - paradigm
   - drafting
+  - career
 aliases: 
 category:
 ---
-Here's a refined and detailed framework to handle data science problems:
-
 ### Step 1: Start with Data
 
 - **Collect Data**: Gather all relevant data sources that might be useful for your analysis.

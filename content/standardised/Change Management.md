@@ -1,10 +1,21 @@
 ---
 tags:
   - business
-aliases: 
+aliases:
+  - Change Program
 category:
 ---
-Change management is a structured approach to transitioning individuals, teams, and organizations from a current state to a desired future state. It involves preparing, supporting, and helping people to adopt change in order to drive organizational success and outcomes. The process typically includes:
+Change management is a structured approach to transitioning individuals, teams, and organizations from a current state to a desired future state. It involves
+- preparing, 
+- supporting,
+- and helping people to adopt change in order to drive organizational success and outcomes. 
+
+Effective change management helps
+- minimize resistance, 
+- improves engagement, 
+- and increases the likelihood of successful outcomes.
+
+The process typically includes:
 
 1. **Planning**: Identifying the need for change, defining the change, and developing a strategy to implement it.
 
@@ -18,4 +29,11 @@ Change management is a structured approach to transitioning individuals, teams, 
 
 6. **Sustainability**: Ensuring that the change is maintained over time and becomes integrated into the organization's culture and operations.
 
-Effective change management helps minimize resistance, improves engagement, and increases the likelihood of successful outcomes.
+Why change fails:
+- Change is hard, identify the pain points.  
+- Resistance is why change fails, due to loss aversion, uncertainty, unexpected change when not bought in.  
+
+How we can accomplish change:
+- Story telling will help.  
+- Introduce a hook i.e. can we reduce the processing time for tasks by X amount.
+- Put ourselves in a better position for tomorrow.

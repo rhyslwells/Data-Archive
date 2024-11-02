@@ -1,39 +1,29 @@
-## [[Data Science]]
 
+## [[Data Science]]
 ```dataview
 TABLE
 FROM ""
 WHERE contains(tags, "question") AND category = "DS"
 ```
 ## [[Machine Learning Operations]]
-
-
 ```dataview
 TABLE
 FROM ""
 WHERE contains(tags, "question") AND category = "MLOPS"
 ```
 ## [[Language Models]]
-
-
 ```dataview
 TABLE
 FROM ""
 WHERE contains(tags, "question") AND category = "LANG"
 ```
-
 ## [[DevOps]]
-
-
 ```dataview
 TABLE
 FROM ""
 WHERE contains(tags, "question") AND category = "DEVOPS"
 ```
-
 ### [[Career Interest]]
-
-
 ```dataview
 TABLE
 FROM ""

@@ -11,7 +11,7 @@ Areas of interest:
 - [[Energy ABM]]
 
 Questions:
-- How can machine learning models improve the accuracy of energy demand forecasting?[[Demand forecasting]]
+- [[How to model to improve demand forecasting]]
 - What patterns can be identified in consumer behavior data to inform energy pricing strategies?
 - How can predictive maintenance be implemented using data from smart sensors in energy infrastructure?
 
@@ -22,3 +22,11 @@ Questions:
 - **Time Series Analysis**: Analyzing historical data to forecast future energy demand or production trends.
 - **[[Regression]] Analysis**: Used to model relationships between different variables, such as energy prices and consumption patterns.
 - [[Neural network|Neural Network]] Particularly deep learning, is applied for complex pattern recognition in large datasets, such as detecting anomalies in energy consumption or predicting equipment failures.
+
+---
+
+[[Energy]]   
+
+Dymanic pricing, incentised load management, local generation 
+  
+Use green energy if on grid

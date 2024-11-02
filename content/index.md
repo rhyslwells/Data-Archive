@@ -7,8 +7,6 @@ category: DEVOPS
 
 The Data Archive is continuously growing, here are some starting points.
 
-Tags that are too general: #ml #engineering #drafting #data 
-
 | Categories                          | Related Tags                                                                                                                                                                                                                          | Category |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | [[Data Science]]                    | #classifer #regression #evaluation #clustering #deep_learning  #anomaly_detection #model  #transformation                                                                                                                             | DS       |
@@ -16,11 +14,7 @@ Tags that are too general: #ml #engineering #drafting #data
 | [[Language Models]]                 | #GenAI #language_models #NLP                                                                                                                                                                                                          | LANG     |
 | [[Data Engineer\|Data Engineering]] | #design #database #engineering #data_storage #data_quality #data_governance #data_integration #data_pipeline #data_orchestration #data_modeling #data_cleaning #data_management #data_architecture #data_processing #data_exploration | DE       |
 | [[Career Interest]]                 | #career #energy ([[Energy]])                                                                                                                                                                                                          | CAREER   |
-| [[Devops]]                          | #devops #software #data  #infrastructure_as_code #software #business #code_snippet #SQL                                                                                                                                               | DEVOPS   |
+| [[Devops]]                          | #devops #software  #infrastructure_as_code #software #business #code_snippet #SQL                                                                                                                                                     | DEVOPS   |
 | [[Data Analysis]]                   | #pandas #analysis #data_visualization                                                                                                                                                                                                 | DA       |
 | Mathematics                         | #statistics #math                                                                                                                                                                                                                     |          |
 | Investigating                       | #drafting #question #field #paradigm                                                                                                                                                                                                  |          |
-
-## Monthly Review
-
-See monthly review folder, for my current direction #MonthlyReview

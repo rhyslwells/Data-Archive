@@ -1,7 +1,7 @@
 ---
 type: process
 tags:
-  - ml
+  - data_collection
 ---
 # What is involved:
 

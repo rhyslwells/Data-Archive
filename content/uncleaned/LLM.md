@@ -1,6 +1,7 @@
 ---
 title: 
-tags: 
+tags:
+  - language_models
 aliases:
   - LLMs
 category:
@@ -14,3 +15,8 @@ LLMs represent words as long lists of numbers, known as *word vectors*.
 LLMs are built on a [[Neural network|neural network]] architecture known as the [[Transformer]].
 This architecture enables the model to identify relationships between words in a sentence, irrespective of their position in the sequence.
 LLMs are trained using a technique known as [[transfer learning]], where a pre-trained model is adapted to a specific task.
+
+[[LLM]]
+Llms are non deterministic threrefore the types of problems it can be applied to are of that form. 
+
+The data is what we can control.

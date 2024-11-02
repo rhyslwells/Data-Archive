@@ -3,7 +3,6 @@ title: The Data Hierarchy of Needs
 tags:
   - "#devops"
   - "#business"
-  - data
 ---
 ![[Pasted image 20241005170237.png|500]]
 
