@@ -3,7 +3,7 @@ title:
 tags:
   - "#clustering"
   - drafting
-  - paradigm
+  - field
 aliases:
   - unsupervised
 category:

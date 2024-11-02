@@ -1,6 +1,7 @@
 ---
 tags:
-  - engineering
+  - data_quality
+  - data_governance
 aliases: 
 category: DE
 ---

@@ -2,7 +2,6 @@
 title: 
 tags:
   - statistics
-  - analysis
   - drafting
 aliases: 
 category:
@@ -36,10 +35,7 @@ g = sns.FacetGrid(df, col='Survived')
 g.map(plt.hist, 'var1', bins=20)
 ```
 
-barplot,pointplot
 
-
-[[Distributions]]
 
 [[Violin plot]]
 

@@ -1,6 +1,5 @@
 ---
 tags:
-  - ml
   - classifer
   - drafting
 ---

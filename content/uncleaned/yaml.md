@@ -1,7 +1,7 @@
 ---
 title: "What is YAML?"
 tags:
-- devops
+- data_orchestration
 ---
 ## YAML
 

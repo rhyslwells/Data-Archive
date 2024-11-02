@@ -1,8 +1,8 @@
 ---
 type: 
 tags:
-  - "#analysis"
   - code_snippet
+  - statistics
 ---
 Multicollinearity refers to the ==instability== of a model due to ==highly correlated independent variables.==
 

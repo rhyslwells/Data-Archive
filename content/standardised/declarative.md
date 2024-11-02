@@ -1,8 +1,8 @@
 ---
 title: What is declarative?
 tags:
-  - data_pipeline
-  - paradigm
+  - data_orchestration
+  - field
 ---
 In a **declarative data pipeline**, the focus is on *what* needs to be achieved, not *how* it should be executed. You define the desired outcome or the data products, and the system takes care of the underlying execution details, such as the order in which tasks are performed. This is in contrast to an **imperative** pipeline, where the developer explicitly specifies the steps and the order in which they should be executed. Here's a breakdown of the key aspects:
 

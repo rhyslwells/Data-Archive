@@ -1,7 +1,7 @@
 ---
 title: What is imperative?
 tags:
-  - data_pipeline
+  - data_orchestration
 ---
 An **imperative** pipeline tells ==_how_ to proceed== at each step in a procedural manner. 
 

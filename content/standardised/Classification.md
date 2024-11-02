@@ -13,6 +13,8 @@ Various algorithms like [[Naive Bayes]], [[Decision Trees]], [[Support Vector Ma
 
 Classifiers are essential in **automated decision-making** and **predictive analytics**. They enable systems to make predictions or decisions based on data, reducing human intervention and improving efficiency.
 
+**Classifier**: This is a type of model used for classification tasks, where the goal is to predict discrete labels or categories. For example, a classifier might be used to determine whether an email is spam or not spam, or to identify the species of a flower based on its features. As apposed to a Regressor ([[Regression]])
+
 ### Examples of Classifiers:
 
 1. **[[Naive Bayes]]**: A probabilistic classifier based on Bayes' theorem. It's simple and fast, especially effective for text classification.

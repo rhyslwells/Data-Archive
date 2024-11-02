@@ -34,7 +34,7 @@ Follow this structure. Only return the output of the followed structure, Do not 
 ---
 
 title: [Insert summary title]  
-tags: [Include relevant tags, e.g., #ml, #statistics, #deep_learning]  
+tags: [Include relevant tags, e.g., #deleted, #statistics, #deep_learning]  
 aliases: [Insert any aliases]  
 category: [Insert category, e.g., analysis, data, energy]
 

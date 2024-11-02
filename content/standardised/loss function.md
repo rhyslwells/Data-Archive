@@ -1,8 +1,9 @@
 ---
 tags:
-  - ml
+  - deleted
   - deep_learning
-  - model
+  - model_architecture
+  - ml_optimisation
 ---
 
 A Loss functions guides model training by providing a measure of prediction accuracy. The ultimate aim is to ==minimize the loss==, ensuring the model makes accurate predictions on unseen data.

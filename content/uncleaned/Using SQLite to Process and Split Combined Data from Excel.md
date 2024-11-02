@@ -1,6 +1,6 @@
 ---
 tags:
-  - SQL
+  - database
 ---
 
 ## Summary:

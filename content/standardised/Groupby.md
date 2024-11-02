@@ -1,7 +1,8 @@
 ---
 type: grouping
 tags:
-  - pandas
+  - data_transformation
+  - data_transformation
 ---
 
 See [[Groupby vs crosstab]] too

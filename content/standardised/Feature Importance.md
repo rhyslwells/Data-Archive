@@ -4,7 +4,6 @@ tags:
   - ml_process
   - evaluation
   - model_explainability
-  - analysis
 importance: 
 engagement: 
 recency_of_interest: 2024-09-26
@@ -39,7 +38,7 @@ By understanding which features contribute the most to the predictions, you can 
 
 [[Local Interpretable Model-agnostic Explanations]]
 
-Tree-based algorithms like [[Random Forest]] or [[XGBoost]] automatically calculate feature importance. 
+Tree-based algorithms like [[Random Forests]] or [[XGBoost]] automatically calculate feature importance. 
 
 In Python, for example, after training a Random Forest model, you can access the feature importance scores using:
 

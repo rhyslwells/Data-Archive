@@ -1,7 +1,7 @@
 ---
 title: 
 tags:
-  - ml
+  - deleted
   - "#model_explainability"
 importance: 6
 engagement: 8
@@ -21,7 +21,7 @@ Observability is a process in ML, and is usually achieved through logging, metri
 
 1. **Monitoring Model Performance** ==(monitoring metrics)==:
    - Tracking key metrics such as [[Accuracy score]], [[Precision score]],[[Recall score]],[[F1 Score]],[[ROC and AUC]]d other relevant KPIs over time to identify performance degradation or improvements.
-   - Monitoring [[performance drift]] in model inputs (features) and outputs (predictions) to detect when the model no longer performs well due to changes in data distribution ([[data drift]]) or changes in relationships between variables ([[concept drift]]).
+   - Monitoring [[performance drift]] in model inputs (features) and outputs (predictions) to detect when the model no longer performs well due to changes in data distribution ([[data drift]]) or changes in relationships between variables ([[Performance drift]]).
 
 2. **Error and [[Isolated Forests]]**:
    - Identifying when predictions are out of the expected range or when the model behaves abnormally, such as high error rates on specific subsets of data or excessive latency in prediction generation.

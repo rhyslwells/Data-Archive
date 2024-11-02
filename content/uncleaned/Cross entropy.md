@@ -1,6 +1,6 @@
 ---
 tags:
-  - model
+  - model_architecture
   - ml_optimisation
 ---
 Cross entropy is a [[Loss function]] used in [[Classification]] tasks, particularly for [[categorical data]]. The cross entropy loss function is particularly effective for multi-class classification problems, where the goal is to assign an input to one of several categories. 

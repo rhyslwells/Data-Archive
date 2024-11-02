@@ -1,6 +1,7 @@
 ---
 tags:
-  - pandas
+  - data_transformation
+  - data_transformation
 aliases: 
 type: 
 created: 2024-06-21 15:32

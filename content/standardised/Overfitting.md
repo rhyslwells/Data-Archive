@@ -1,11 +1,10 @@
 ---
-title: Overfitting in Machine Learning  
-tags: 
-- ml 
-- analysis 
-- statistics 
-- data_quality  
-aliases: model overfitting, high variance models
+title: Overfitting in Machine Learning
+tags:
+  - model_architecture
+aliases:
+  - model overfitting
+  - high variance models
 ---
 
 >[!Summary]  

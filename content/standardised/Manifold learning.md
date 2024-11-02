@@ -1,7 +1,8 @@
 ---
 title: 
 tags:
-  - ml
+  - deleted
+  - data_exploration
 aliases: 
 category:
 ---

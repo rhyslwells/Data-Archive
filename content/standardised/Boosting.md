@@ -1,7 +1,7 @@
 ---
 tags:
   - drafting
-  - model
+  - model_architecture
   - model_explainability
 ---
 

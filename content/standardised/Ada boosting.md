@@ -1,6 +1,6 @@
 ---
 tags:
-  - model
+  - model_architecture
 ---
 Resources:
 [LINK](https://www.youtube.com/watch?v=LsK-xG1cLYA)

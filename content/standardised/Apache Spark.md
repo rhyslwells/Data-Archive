@@ -2,7 +2,6 @@
 title: What is Apache Spark?
 tags:
   - software
-  - data_processing
 aliases:
   - Spark
 ---

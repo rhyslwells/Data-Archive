@@ -1,7 +1,7 @@
 ---
 title: 
 tags:
-  - ml
+  - model_algorithm
 aliases: 
 category:
 ---
@@ -26,7 +26,7 @@ The sources mention several types of transfer learning, highlighting the flexibi
 
 - **Cross-Domain Transfer Learning:** This involves transferring knowledge between domains with different input distributions but the same task. For example, a sentiment analysis model trained on customer reviews of books could be adapted to analyse reviews of electronic products.
 
-- **[[Concept Drift]]:** This is a form of transfer learning where the data distribution changes gradually over time. The model needs to adapt to these changes to maintain good performance.
+- **[[Performance drift]]:** This is a form of transfer learning where the data distribution changes gradually over time. The model needs to adapt to these changes to maintain good performance.
 
 - **One-Shot and Zero-Shot Learning:** These are extreme forms of transfer learning where very few (one-shot) or no (zero-shot) labelled examples are available in the target domain. The model relies heavily on the learned representations from the source domain to generalise to the new task.
 

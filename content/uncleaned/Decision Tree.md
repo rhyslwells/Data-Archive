@@ -2,7 +2,7 @@
 title: 
 tags:
   - classifer
-  - regression
+  - regressor
 aliases: 
 category:
 ---
@@ -54,9 +54,6 @@ How can overfitting in a decision tree be reduced, and what are the two approach
 
 How do use prune a decision tree?;; Two approaches to pruning are ==Pre-pruning==, which stops tree growth based on certain criteria, and ==Post-pruning==, which allows the tree to grow and then prunes based on tree size and performance.
 
-
-
-[[Decision Tree]]
 **What is a decision tree?** ;;An algorithm that generates a flowchart from a dataset, representing a tree-like structure. It can also be seen as a series of if-else conditions where a feature is evaluated at each node.
 
 **How are decision trees built?**;; Built in a decision tree is a recursive process. At each step, the algorithm searches for the best feature to split the dataset while minimizing ==entropy==.  The process continues until the tree is sufficiently homogenous or another stopping criterion is met.
@@ -67,9 +64,7 @@ What is Entropy in regards to Decision trees?;; Entropy describes dataset variet
 
 **What are some disadvantages of decision trees?**;;overfitting, instability to small changes in input data, and the potential for complex structures with datasets having many features.
 
-Decision Trees
 Decision trees create a hierarchical structure of decisions based on the features of the data.
 
-Decision Trees
 Limitations
 Prone to overfitting if not properly pruned or regularised.

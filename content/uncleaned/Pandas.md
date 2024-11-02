@@ -1,7 +1,7 @@
 ---
 type: grouping
 tags:
-  - pandas
+  - data_transformation
 ---
 [[Filtering rows]]
 

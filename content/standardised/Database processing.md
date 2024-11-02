@@ -2,7 +2,7 @@
 title: What are Data Processing Techniques (row-based, columnar, vectorized)?
 tags:
   - database
-  - data_processing
+  - data_cleaning
 ---
 
 A collection of concepts and technologies that encompass various methods and optimizations for storing, retrieving, and processing data in database systems. 

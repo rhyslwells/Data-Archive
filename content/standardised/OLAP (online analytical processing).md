@@ -2,7 +2,7 @@
 title: What is OLAP (Online Analytical Processing)?
 tags:
   - database
-  - data_processing
+  - data_cleaning
 aliases:
   - OLAP
 category:

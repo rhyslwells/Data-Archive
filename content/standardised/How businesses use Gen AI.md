@@ -3,7 +3,7 @@ title:
 tags:
   - business
   - GenAI
-  - analysis
+  - deleted
 importance: 5
 engagement: 5
 recency_of_interest: 2024-09-26

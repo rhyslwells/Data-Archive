@@ -1,7 +1,7 @@
 ---
 title: The Data Hierarchy of Needs
 tags:
-  - "#devops"
+  - "#data_orchestration"
   - "#business"
 ---
 ![[Pasted image 20241005170237.png|500]]

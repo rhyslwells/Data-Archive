@@ -2,7 +2,7 @@
 title: 
 tags:
   - software
-  - devops
+  - data_orchestration
 aliases:
   - Kafka
 category:

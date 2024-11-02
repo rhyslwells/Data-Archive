@@ -1,12 +1,15 @@
 ---
-title: Performance Drift in Machine Learning  
-tags: 
-- ml 
-- data_quality 
-- analysis 
-- model_explainability 
-aliases: [model degradation, accuracy drift, concept drift]  
-category: Model Evaluation  
+title: Performance Drift in Machine Learning
+tags:
+  - deleted
+  - data_quality
+  - deleted
+  - model_explainability
+aliases:
+  - model degradation
+  - accuracy drift
+  - concept drift
+category: Model Evaluation
 ---
 
 >[!Summary]  

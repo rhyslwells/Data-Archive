@@ -1,9 +1,7 @@
 ---
 tags:
-  - ml_process
-  - paradigm
+  - field
   - drafting
-  - career
 aliases: 
 category:
 ---

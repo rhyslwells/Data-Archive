@@ -1,6 +1,5 @@
 ---
 tags:
-  - ml
   - ml_optimisation
 ---
 ### Description

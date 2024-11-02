@@ -180,7 +180,7 @@ ensemble of randomized decision trees is known as a random forest.
 
 ### Example of Bagging:
 
-- **Random Forest**: A well-known example of a bagging technique is the [[Random Forest]] algorithm. It uses decision trees as base models and combines their predictions to improve accuracy and robustness. Each tree in a random forest is trained on a different bootstrap sample of the data, and the final prediction is made by averaging the outputs (for regression) or majority voting (for classification).
+- **Random Forest**: A well-known example of a bagging technique is the [[Random Forests]] algorithm. It uses decision trees as base models and combines their predictions to improve accuracy and robustness. Each tree in a random forest is trained on a different bootstrap sample of the data, and the final prediction is made by averaging the outputs (for regression) or majority voting (for classification).
 
 ### Advantages of Bagging:
 

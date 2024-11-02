@@ -2,7 +2,7 @@
 title: 
 tags:
   - code_snippet
-  - regression
+  - regressor
   - data_cleaning
 aliases: 
 category:

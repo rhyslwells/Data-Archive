@@ -1,8 +1,8 @@
 ---
 tags:
-  - pandas
-  - "#analysis"
+  - data_transformation
   - code_snippet
+  - data_cleaning
 title: 
 importance: 
 engagement: 
@@ -97,10 +97,7 @@ test.loc[test['LotFrontage'].isnull(), 'LotFrontage'] = test['LotFrontage'].mean
 from sklearn.impute import KNNImputer
 ```
 
-#pandas
-
 How to dropping rows with NA values
-?
 ```python
 df.dropna(inplace=True)
 df.reset_index(inplace=True, drop=True)

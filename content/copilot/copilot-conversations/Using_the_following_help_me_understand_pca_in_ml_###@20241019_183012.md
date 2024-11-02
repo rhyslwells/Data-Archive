@@ -16,7 +16,7 @@ It transforms the original data into a new coordinate system defined by the prin
 It helps simplify models, enhances [[interpretability]], and improves computational efficiency by transforming data into a lower-dimensional space while ==retaining the most significant variance.==
 ### How PCA Works
 
-- ==Linear Technique==: PCA is a linear technique, meaning it assumes that the relationships between features are linear. This distinguishes it from methods like [[Manifold learning]] which can capture non-linear relationships.
+- ==Linear Technique==: PCA is a linear technique, meaning it assumes that the relationships between features are linear. This distinguishes it from methods like [[Manifold Learning]] which can capture non-linear relationships.
 
 - Principal Components: PCA identifies principal components, which are linear combinations of the original features. These components are ordered by the amount of variance they capture from the data, with the first principal component capturing the most variance, the second capturing the second most, and so on.
 [Timestamp: 2024/10/19 18:30:12]

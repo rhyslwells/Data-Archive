@@ -1,6 +1,6 @@
 ---
 tags:
-  - infrastructure_as_code
+  - data_orchestration
 ---
 API-driven microservices refer to a [[software architecture]] approach where [[microservices]] communicate with each other and with external systems primarily through well-defined [[API]] (Application Programming Interfaces). 
 

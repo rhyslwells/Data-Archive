@@ -1,8 +1,8 @@
 ---
 title: 
 tags:
-  - transformation
-  - preprocessing
+  - data_transformation
+  - data_cleaning
   - data_collection
 aliases: 
 category:

@@ -1,7 +1,7 @@
 ---
 title: What is Reverse ETL?
 tags:
-  - data_pipeline
+  - data_orchestration
 aliases:
   - Data Activation
   - Operational Analytics

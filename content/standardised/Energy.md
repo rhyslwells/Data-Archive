@@ -1,6 +1,7 @@
 ---
 title: 
-tags: 
+tags:
+  - energy
 category: industries
 ---
 Areas of interest:
@@ -23,9 +24,6 @@ Questions:
 - **[[Regression]] Analysis**: Used to model relationships between different variables, such as energy prices and consumption patterns.
 - [[Neural network|Neural Network]] Particularly deep learning, is applied for complex pattern recognition in large datasets, such as detecting anomalies in energy consumption or predicting equipment failures.
 
----
-
-[[Energy]]   
 
 Dymanic pricing, incentised load management, local generation 
   

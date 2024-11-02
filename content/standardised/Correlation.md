@@ -1,7 +1,6 @@
 ---
 tags:
   - statistics
-  - analysis
 ---
 Use in understanding relationships between variables in data analysis. 
 

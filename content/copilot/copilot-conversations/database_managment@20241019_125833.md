@@ -17,7 +17,7 @@ tags:
 **ai**: ---
 
 title: Database Management  
-tags: [#ml, #data_visualization, #analysis, #statistics, #data_governance]  
+tags: [#deleted, #data_visualization, #deleted, #statistics, #data_governance]  
 aliases: [DBMS, Database Systems]  
 category: Data Science
 

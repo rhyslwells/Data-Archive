@@ -1,8 +1,8 @@
 ---
 type: term
 tags:
-  - preprocessing
   - "#statistics"
+  - data_cleaning
 ---
 # When to use:
 

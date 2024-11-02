@@ -1,8 +1,7 @@
 ---
 title: 
 tags:
-  - ml
-  - paradigm
+  - field
 aliases:
   - RL
 ---

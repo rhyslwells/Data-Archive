@@ -1,9 +1,10 @@
 ---
 tags:
-  - "#analysis"
+  - "#deleted"
   - statistics
   - drafting
   - anomaly_detection
+  - data_cleaning
 aliases:
   - anomalies
 ---
@@ -131,7 +132,7 @@ How to find outliers in a dataset?;; Use scatter plot, boxplot, IQR
         
     - Robust Scaler: Use robust scaling methods that are less sensitive to outliers (e.g., scaling based on interquartile range).
         
-    - Term: #data_cleaning #preprocessing
+    - Term: #data_cleaning #data_cleaning
         
     
     python
@@ -148,7 +149,7 @@ How to find outliers in a dataset?;; Use scatter plot, boxplot, IQR
         
     - Robust Scaler: Use robust scaling methods that are less sensitive to outliers (e.g., scaling based on interquartile range).
         
-    - Term: #data_cleaning #preprocessing
+    - Term: #data_cleaning #data_cleaning
         
     
     python

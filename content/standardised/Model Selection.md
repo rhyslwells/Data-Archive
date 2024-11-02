@@ -1,7 +1,7 @@
 ---
 tags:
   - ml_process
-  - ml
+  - deleted
   - evaluation
 aliases: 
 category:

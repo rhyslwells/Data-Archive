@@ -1,7 +1,7 @@
 ---
 title: What is Data Observability?
 tags:
-  - "#data_pipeline"
+  - "#data_orchestration"
   - data_management
 aliases:
   - monitoring

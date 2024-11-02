@@ -1,7 +1,8 @@
 ---
 title: 
 tags:
-  - ml
+  - ml_process
+  - model_algorithm
 aliases: 
 category:
 ---
@@ -37,7 +38,7 @@ Common [[Clustering]] algorithms include:
 Common [[Dimensionality Reduction]] algorithms include:
 
 - [[Principal Component Analysis]]
-- [[Manifold learning]]
+- [[Manifold Learning]]
 ## Strengths and Limitations of Machine Learning Algorithms
 
 ##### Strengths:

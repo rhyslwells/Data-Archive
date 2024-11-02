@@ -1,6 +1,6 @@
 ---
 tags:
-  - SQL
+  - database
 aliases: 
 type: 
 created: 2024-06-21 16:04

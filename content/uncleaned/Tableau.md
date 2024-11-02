@@ -19,10 +19,7 @@ dimensions qualisativtive ,
 
 dims contol the level of aggregation of the measured
 
-
 can group fields into heierarchies think location, region,state ect.
-
-
 
 measures are quant
 

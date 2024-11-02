@@ -1,7 +1,6 @@
 ---
 tags:
   - software
-  - analysis
 ---
 ### **Databricks Overview**
 

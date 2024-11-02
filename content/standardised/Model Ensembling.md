@@ -1,7 +1,8 @@
 ---
 title: 
 tags:
-  - ml
+  - deleted
+  - model_architecture
 aliases: 
 category: 
 importance: 

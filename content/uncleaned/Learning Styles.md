@@ -1,6 +1,6 @@
 ---
 tags:
-  - model
+  - model_architecture
 ---
 What does the data look like [[continuous]] or [[categorical]]? 
 

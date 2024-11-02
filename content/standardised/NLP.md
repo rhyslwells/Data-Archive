@@ -2,8 +2,6 @@
 title: Natural Language Processing
 tags:
   - NLP
-  - ml
-  - preprocessing
 aliases:
   - Natural Language Processing
 category: Machine Learning

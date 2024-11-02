@@ -1,13 +1,7 @@
 ---
 title: 
 tags:
-  - ml
-  - evaluation
-  - model_explainability
-  - preprocessing
-  - data_cleaning
   - drafting
-  - ml_optimisation
 aliases:
   - MLOPs
 category: MLOPS

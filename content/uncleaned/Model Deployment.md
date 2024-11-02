@@ -1,6 +1,7 @@
 ---
 tags:
-  - ml
+  - deleted
+  - model_architecture
 ---
 
 After building and evaluating the model, you can deploy it into production to make predictions on new data. This step involves:

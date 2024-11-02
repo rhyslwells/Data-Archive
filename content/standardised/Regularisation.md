@@ -1,7 +1,7 @@
 ---
 title: Regularization in Machine Learning
 tags:
-  - ml
+  - deleted
   - ml_process
   - data_visualization
   - statistics

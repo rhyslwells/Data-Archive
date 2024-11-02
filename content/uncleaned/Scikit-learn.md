@@ -17,7 +17,7 @@ classifier score?
 -0.018 bad
 0.72 good 
 
-import #preprocessing (puts all values between -1 and 1)
+import #data_cleaning (puts all values between -1 and 1)
 
 skileanr.pipeline allows you to combine steps.
 

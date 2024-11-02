@@ -1,8 +1,7 @@
 ---
 model: 
 tags:
-  - ml
-  - model
+  - regressor
 ---
 # Description
 

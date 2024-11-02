@@ -2,12 +2,8 @@
 title: 
 tags:
   - deep_learning
-  - NLP
-  - ml
   - time_series
-  - ml_process
   - code_snippet
-  - analysis
   - drafting
 aliases:
   - LSTM vs. Transformer

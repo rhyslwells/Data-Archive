@@ -1,6 +1,6 @@
 ---
 tags:
-  - design
+  - data_modeling
 aliases: 
 category:
 ---

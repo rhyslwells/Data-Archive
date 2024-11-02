@@ -1,7 +1,7 @@
 ---
-projects: []
+projects: 
 tags:
-  - ml
+  - classifer
 ---
 
 Can values for X,y be categroical ? [[Encoding Categorical Variables]]

@@ -1,7 +1,7 @@
 ---
 title: 
 tags:
-  - ml
+  - deleted
   - deep_learning
 importance: 
 engagement: 

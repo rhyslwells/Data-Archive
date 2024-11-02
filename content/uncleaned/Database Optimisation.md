@@ -1,7 +1,6 @@
 ---
 tags:
   - database
-  - data_architecture
 ---
 **Introduction:**
 This lecture covers [[SQL]] query [[Querying]] optimization for ==time== (of queries) 
