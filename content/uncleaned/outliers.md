@@ -7,6 +7,7 @@ tags:
   - data_cleaning
 aliases:
   - anomalies
+  - Handling Outliers
 ---
 
 There are different ways to clip outliers:

@@ -3,8 +3,16 @@ type: grouping
 tags:
   - data_transformation
 ---
-[[Filtering rows]]
+Links:
+C:\Users\RhysL\Desktop\DE_Tools\pandas
 
-[[Joining dataframes together]]
+Areas:
+- [[Handling Missing Data]] 
+- [[Data Selection]]
+- [[Data Transformation]]
 
-[[Summary table creation]]
+
+
+
+
+

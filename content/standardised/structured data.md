@@ -30,7 +30,7 @@ An simple example of unstructured data is a string that contains interesting inf
 
 ## Structuring of unstructured data
 
-Converting unstructured data into structured data can be done during the [data transformation](term/data%20transformation.md) stage in an [ETL](ETL.md) or [ELT](term/elt.md) process.  
+Converting unstructured data into structured data can be done during the [Data Transformation](Data%20Transformation.md) stage in an [ETL](ETL.md) or [ELT](term/elt.md) process.  
 
 For example, in order to efficiently make use of the unstructured data given in the previous example, it may desirable to transform it into structured data such as the following:
 

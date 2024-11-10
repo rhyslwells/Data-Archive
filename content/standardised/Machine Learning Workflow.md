@@ -1,18 +1,3 @@
----
-title: 
-tags:
-  - drafting
-aliases:
-  - MLOPs
-category: MLOPS
----
-MLOPS focuses on streamline the development, deployment, and maintenance of machine learning models.
-
-We want models;
-- to generalize well to new, unseen data, especially in dynamic environments
-- remain robust to noisy data
-## Steps for Model Development and Deployment
-
 [[Scientific Method]]
 
 [[Data Preprocessing]]
@@ -36,7 +21,6 @@ We want models;
 
 [[Model Optimisation]]
 
-
 Model Refinement:
 - [[Model Interpretability]]: Utilize tools to understand and interpret the model's predictions, ensuring transparency and trustworthiness.
 - [[Model Ensembling]]: Combining models.
@@ -49,8 +33,3 @@ Model Refinement:
 [[Model Observability]]: Monitor the model's performance over time.
 
 [[Model Retraining]]: Retrain on new data.
-
-
-
-
-

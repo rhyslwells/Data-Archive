@@ -31,18 +31,3 @@ What assumption can we make based on the problem?
 - How will we evaluate the performance of the machine learning model?
 - What metrics will be used to measure success?
 
-
-
-# Example:
-
-# When are we done:
-
-# Ask Chatgpt:
-
-
-"""
-	# What is involved?
-	# Give an example:
-	# When are we done?
-"""
-

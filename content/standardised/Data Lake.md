@@ -18,7 +18,7 @@ Features:
 The data lake supports the following capabilities:
 -   To capture and store raw data at scale for a low cost
 -   To store many types of data in the same repository
--   To perform [data transformation](term/data%20transformation.md) on the data where the purpose may not be defined
+-   To perform [Data Transformation](Data%20Transformation.md) on the data where the purpose may not be defined
 -   To perform new types of data processing
 -   To perform single-subject analytics based on particular use cases
 

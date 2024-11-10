@@ -6,7 +6,7 @@ aliases:
 category:
 ---
 
-A [Semantic Layer](term/semantic%20layer.md) is much more flexible and makes the most sense on top of [transformed data](term/data%20transformation.md) in a [Data Warehouse](Data%20Warehouse.md).
+A [Semantic Layer](term/semantic%20layer.md) is much more flexible and makes the most sense on top of [transformed data](Data%20Transformation.md) in a [Data Warehouse](Data%20Warehouse.md).
 
 A semantic layer in the context of a data warehouse is an abstraction layer that sits between the raw data stored in the warehouse and the end users who need to access and analyze that data.
 

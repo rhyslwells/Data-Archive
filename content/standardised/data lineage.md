@@ -7,4 +7,4 @@ Data lineage uncovers the [[term/data engineering lifecycle]] life cycle of data
 
 Data lineage is the process of understanding, recording, and visualizing data as it flows from data sources to consumption. 
 
-This includes all [data transformation](term/data%20transformation.md) (what changed and why).
+This includes all [Data Transformation](Data%20Transformation.md) (what changed and why).

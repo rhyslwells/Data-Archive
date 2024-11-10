@@ -19,7 +19,7 @@ Examples of semi-structured data are JSON or [[XML]] files.
 | Record 2 | \"{'id': 2, 'name': 'John D'}\" |
 
 
-It is often relatively straightforward to convert semi-structured data into structured data. Converting semi-structured data into structured data is often done during the [data transformation](term/data%20transformation.md) stage in an [ETL](ETL.md) or [ELT](term/elt.md) process.  
+It is often relatively straightforward to convert semi-structured data into structured data. Converting semi-structured data into structured data is often done during the [Data Transformation](Data%20Transformation.md) stage in an [ETL](ETL.md) or [ELT](term/elt.md) process.  
 
 
 

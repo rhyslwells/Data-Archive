@@ -13,7 +13,7 @@ This automated process reduces manual labor and enables continuous data flow int
   - **Transform:** Cleaning and transforming the data into a usable format, including filtering, aggregating, and joining data. Combine data from different sources to create a unified dataset.
   - **Load:** Inserting the transformed data into a data warehouse (organised), database, or data lake(unorganised). Store data in a database like MySQL.
 
-ETL (Extract, [Transform](term/data%20transformation.md), and Load) is a paradigm for moving data from one system to another. It involves reading data (Extract) from one system, modifying the data (Transform), and then sending it (Load) to a destination system. The ETL paradigm emerged in the 1970s. 
+ETL (Extract, [Transform](Data%20Transformation.md), and Load) is a paradigm for moving data from one system to another. It involves reading data (Extract) from one system, modifying the data (Transform), and then sending it (Load) to a destination system. The ETL paradigm emerged in the 1970s. 
 
 A key feature of ETL is that data is transformed before being sent to the destination, as demonstrated in the following image:
 

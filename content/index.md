@@ -21,7 +21,7 @@ The Data Archive is continuously growing, here are some starting points.
 | [[Data Analysis]]                   | #data_visualization                                                                                                   | DA       |
 | [[Mathematics]]                     | #statistics #math                                                                                                     |          |
 | [[Tasks]]                           | #drafting #question                                                                                                   |          |
-| [[Data Terms]]                      | #data_quality #data_governance #data_management #field                                                                |          |
+| [[Data Terms]]                      | #data_quality #data_governance #data_management #field #communication                                                 |          |
 
 ## Tag Meanings
 

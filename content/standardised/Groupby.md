@@ -5,7 +5,7 @@ tags:
   - data_transformation
 ---
 
-See [[Groupby vs crosstab]] too
+See [[Groupby vs Crosstab]] too
 # What it is used for:
 
 ```python

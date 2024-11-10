@@ -3,6 +3,7 @@ Priority Tasks:
 - [ ] Link associated code to github in ML_learning repo
 - [ ] Start work on #energy 
 - [ ] Start answering [[Questions]]
+- [ ] [[Daily Notes 09112024]]
 
 Clean up #drafting via graph view.
 

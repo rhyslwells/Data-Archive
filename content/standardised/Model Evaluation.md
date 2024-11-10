@@ -8,7 +8,7 @@ importance:
 engagement: 
 recency_of_interest:
 ---
-Appropriate evaluation metrics are used based on the problem type (classification vs. regression).
+Appropriate evaluation metrics are used based on the problem type (classification vs. regression), to assess how well the model predicts.
 
 ==The aim is to improve accuracy but also to generalize and avoid biases== and [[Overfitting]].
 
@@ -19,7 +19,6 @@ For categorical classifiers: [[Categorical metrics]]:  Use metrics such as accur
 
 For regression tasks: [[Regression metrics]]: Metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R²) are used.
 
-[[Cross Validation]] is a technique used to assess the performance of a model by splitting the data into multiple subsets for training and testing to
-assesses performance and generalization. It helps detect [[Overfitting]], provides reliable performance estimates.
+[[Cross Validation]] is a technique used to assess the performance of a model by splitting the data into multiple subsets for training and testing to assesses performance and generalization. It helps detect [[Overfitting]], provides reliable performance estimates.
 
 

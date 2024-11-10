@@ -3,7 +3,7 @@ title: What is Business Intelligence
 tags:
   - business
 ---
-Business intelligence (BI) leverages software and services to [transform data](term/data%20transformation.md) into actionable insights that inform an organization’s business decisions. 
+Business intelligence (BI) leverages software and services to [transform data](Data%20Transformation.md) into actionable insights that inform an organization’s business decisions. 
 
 The new term is [Data Engineer](Data%20Engineer.md). The language of a BI engineer is [SQL](term/sql.md).
 
