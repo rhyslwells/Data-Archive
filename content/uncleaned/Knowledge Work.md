@@ -1,4 +1,0 @@
-Problem solving
-
-[[Scientific Method]]
-

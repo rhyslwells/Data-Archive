@@ -3,16 +3,6 @@ title:
 tags: 
 category: industries
 ---
-
-
->[!Summary]
->
-
->[!Example]
->
-
-
-
 Network Optimization
 
 - **Overview**: In telecommunications, RL is used to enhance network performance, optimize resource allocation, and manage traffic efficiently.

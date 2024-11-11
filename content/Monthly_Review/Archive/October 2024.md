@@ -16,7 +16,7 @@ tags:
   **Answer:** Interacting with small [[Generative AI]] and showcasing a useful tool. [[Interacting with datasets and there different formats]].
 
 - [x] What projects did I work on last month, and what did I accomplish?  
-  **Answer:** [[quartz]] predominantly and building my [[Data_Archive]].
+  **Answer:** [[Quartz]] predominantly and building my [[Data_Archive]].
 
 - [x] How did these projects showcase my technical skills?  
   **Answer:** Shows that I am exploring ideas.

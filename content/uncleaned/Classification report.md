@@ -24,8 +24,4 @@ print(classification_report(y_test, y_predicted_2))
 
 [link](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html)
 
-
-
-
-
-1. **Support**: Support is the number of actual occurrences of the class in the specified dataset.
+Support: Support is the number of actual occurrences of the class in the specified dataset.

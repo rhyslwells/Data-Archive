@@ -1,1 +1,1 @@
-[[Recurrent Neural networks|RNN]]
+[[Recurrent Neural Networks|RNN]]

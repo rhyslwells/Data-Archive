@@ -2,7 +2,7 @@
 title: 
 tags:
   - deep_learning
-  - classifer
+  - classifier
 aliases:
   - FFNN
 category:

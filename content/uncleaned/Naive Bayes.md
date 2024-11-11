@@ -1,7 +1,7 @@
 ---
 projects: 
 tags:
-  - classifer
+  - classifier
 ---
 
 Can values for X,y be categroical ? [[Encoding Categorical Variables]]

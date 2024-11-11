@@ -23,7 +23,7 @@ Questions:
 
 Areas of Deep Learning:
 - [[LLM]]
-- [[Recurrent Neural networks]]
+- [[Recurrent Neural Networks]]
 - [[Convolutional Neural Networks]]
 - [[Neural network|Neural Network]]
 

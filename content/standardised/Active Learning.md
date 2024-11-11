@@ -1,7 +1,7 @@
 ---
 title: 
 tags:
-  - classifer
+  - classifier
 ---
 Think captchas for training.
   

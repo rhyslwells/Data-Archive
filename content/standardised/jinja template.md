@@ -29,7 +29,7 @@ jinja used to manage web pages
 
 [[Flask]]
 
-makes me think about how [[quartz]] is constructed.
+makes me think about how [[Quartz]] is constructed.
 
 ### About
 

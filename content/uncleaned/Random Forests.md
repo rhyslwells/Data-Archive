@@ -1,6 +1,6 @@
 ---
 tags:
-  - classifer
+  - classifier
   - drafting
 ---
 

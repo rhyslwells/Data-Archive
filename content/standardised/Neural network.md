@@ -28,7 +28,7 @@ Methods to get parameters (weights biases) for NN using training data to reduce 
 
 - **[[Multilayer Perceptrons]] (MLP)**: A basic fully connected network with multiple layers.
 - [[Convolutional Neural Networks]]: Designed for image data.
-- **Recurrent Neural Networks ([[Recurrent Neural networks|RNN]])**: Designed for sequence data (like time series or text).
+- **Recurrent Neural Networks ([[Recurrent Neural Networks|RNN]])**: Designed for sequence data (like time series or text).
 
 # Summary
 
@@ -80,7 +80,7 @@ Methods to get parameters (weights biases) for NN using training data to reduce 
 2. **Convolutional Neural Network (CNN)**:
    - Primarily used in image recognition and processing tasks. CNNs use convolutional layers to automatically detect spatial patterns in images, like edges and textures.
 
-3. **Recurrent Neural Network (RNN)**: [[Recurrent Neural networks]]
+3. **Recurrent Neural Network (RNN)**: [[Recurrent Neural Networks]]
    - Suitable for sequence-based tasks like time series forecasting and natural language processing. RNNs maintain information about previous inputs through feedback loops, making them effective for tasks where past information is important.
 
 4. **Generative Adversarial Networks (GANs)**:

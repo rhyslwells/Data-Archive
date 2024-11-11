@@ -51,7 +51,7 @@ Think of [OLAP](standardised/OLAP%20(online%20analytical%20processing).md) cubes
 A semantic layer can be implemented using various tools and technologies, such as:
 
 - Business Intelligence (BI) Tools: Many BI platforms, like [[Tableau]], [[PowerBI]], and Looker, offer built-in semantic layer capabilities.
-- [[Data Virtualization]] Tools: Tools like Denodo or Dremio provide semantic layer functionality by creating virtual views of data.
+- [[data virtualization]] Tools: Tools like Denodo or Dremio provide semantic layer functionality by creating virtual views of data.
 - Custom Solutions: Organizations can build custom semantic layers using middleware or data modeling tools.
 
 

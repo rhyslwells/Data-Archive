@@ -12,7 +12,7 @@ In information theory, several techniques can be applied to measure and optimize
 
 1. Entropy: Entropy measures the uncertainty or unpredictability of a random variable. In the context of language models, it can be used to quantify the uncertainty in predicting the next word in a sequence. Lower entropy indicates more predictable and informative outputs.
 
-2. [[Cross entropy]]: This measures the difference between two probability distributions. For language models, cross-entropy can be used to evaluate how well the predicted distribution of words matches the actual distribution in the data. Minimizing cross-entropy during training helps optimize the model's predictions.
+2. [[Cross Entropy]]: This measures the difference between two probability distributions. For language models, cross-entropy can be used to evaluate how well the predicted distribution of words matches the actual distribution in the data. Minimizing cross-entropy during training helps optimize the model's predictions.
 
 3. Perplexity: Perplexity is a common metric for evaluating language models. It is the exponentiation of the cross-entropy and represents the model's uncertainty in predicting the next word. Lower perplexity indicates a better-performing model.
 

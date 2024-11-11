@@ -1,26 +1,39 @@
 ---
 title: 
 tags:
-  - classifer
+  - classifier
 aliases:
   - KNN
 category:
 ---
-It is a [[non-parametric]] method used for classification and regression. A sample is classified by a majority vote of its neighbors, with the sample being assigned to the class most common among its k nearest neighbors (k is a positive integer, typically small).
+K-nearest Neighbors is a non-parametric method used for both [[classification]] and [[regression]] tasks. It classifies a sample by a majority vote of its neighbors, assigning the sample to the class most common among its \(k\) nearest neighbors, where \(k\) is a small positive integer.
 
-[[K-nearest neighbours]] is a {{[[Unsupervised learning]]}} so requires labelled training.
-<!--SR:!2024-04-08,4,270-->
+### How It Works
 
-[[K-nearest neighbours]] works by;; When a new data point needs classification, KNN looks for its K nearest neighbors in the training data, based on their similarity in features. The algorithm examines the class labels of these neighbors and assigns the most common class to the new data point.
-<!--SR:!2024-04-08,4,270-->
+- **Classification:** When a new data point needs classification, KNN identifies its \(k\) nearest neighbors in the training data based on feature similarity. The class label most common among these neighbors is assigned to the new data point.
+- **Regression:** For regression tasks, KNN predicts the average value of the \(k\) nearest neighbors.
 
-[[K-nearest neighbours]]
-**What is the K-nearest neighbor (KNN) algorithm, and for what is it used?**;; Used to find the K closest data points to a given point based on a chosen metric. Used for both classification and regression tasks, where classification involves assigning to the most common class among the K neighbors, and regression involves predicting the average value among the K neighbors.
+### Applications
+
+  - [[Recommender systems]]
+  - Pattern recognition
+
+### Key Points
+
+- **Non-parametric:** KNN does not make any assumptions about the underlying data distribution.
+- **Supervised Learning:** Despite the note's mention of unsupervised learning, KNN is actually a supervised learning algorithm because it requires labeled training data.
+
+### Use Cases
+
+- KNN is useful for tasks where the decision boundary is irregular and not easily captured by parametric models ([[parametric vs non-parametric models]]). It is simple to implement and understand but can be computationally expensive with large datasets.
 
 
+### Understanding K-nearest Neighbors
 
+KNN is a straightforward algorithm that relies on the proximity of data points to make predictions. It is particularly effective in scenarios where the relationship between features and the target variable is complex and non-linear.
 
+- **Choice of \(k\):** The value of \(k\) is crucial. A small \(k\) can be sensitive to noise, while a large \(k\) can smooth out the decision boundary too much.
 
-[[K-nearest neighbours]]
-- **Describe the [[K-nearest neighbours]] algorithm and its applications**: KNN classifies a data point based on the majority class of its k nearest neighbors. It's often used in recommender systems and pattern recognition.
+- **Distance Metric:** The choice of distance metric (e.g., Euclidean, Manhattan) affects how neighbors are determined and can impact the algorithm's performance.
 
+KNN is best suited for smaller datasets due to its computational intensity, as it requires calculating the distance between the new data point and all existing data points.

@@ -2,7 +2,7 @@ Model [[interpretability]] tools are crucial in ensuring that machine learning m
 
 These tools are becoming standard for ensuring trustworthiness and transparency in ML models, enabling organizations to defend model predictions in regulated industries and maintain user trust.
 
-[[p values]] and [[Confidence interval]]: If statistical significance is needed, interpret these values to determine which features significantly contribute to the model.
+[[p values]] and [[Confidence Interval]]: If statistical significance is needed, interpret these values to determine which features significantly contribute to the model.
 
 [[SHapley Additive exPlanations]]
 

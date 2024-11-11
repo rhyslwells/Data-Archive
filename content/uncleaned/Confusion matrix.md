@@ -32,8 +32,8 @@ From this confusion matrix, we can calculate some common metrics to evaluate the
 [[Specificity]]
 [[Sensitivity]]
 [[Accuracy score]]
-[[Precision score]]
-[[Recall score]]
+[[Precision Score]]
+[[Recall Score]]
 [[F1 Score]]
 
 

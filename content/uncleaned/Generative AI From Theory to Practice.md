@@ -30,7 +30,7 @@ Building:
 
 ![[Pasted image 20240524130607.png]]
 
-### [[sdlc Software dev life cycle]]
+### [[Software Development Life Cycle]]
 
 For GenAI: Building an applicaiton with GenAi features
 

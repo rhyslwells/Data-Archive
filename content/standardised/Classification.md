@@ -1,6 +1,6 @@
 ---
 tags:
-  - classifer
+  - classifier
 type:
 ---
 **Classification** is a type of [[Supervised Learning]]in machine learning, where the algorithm learns from labeled data to predict which category or class a new, unlabeled data point belongs to.

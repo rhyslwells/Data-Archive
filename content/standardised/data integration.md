@@ -16,7 +16,7 @@ Manual integration as a data integration strategy has several disadvantages. In 
 
 Furthermore, analysts may run expensive analytics operations on systems that are not optimized for such workloads, which may interfere with the functioning of these systems. Finally, data in the source systems may frequently change which means that manually generated reports will quickly become outdated. 
 
-## [[Data virtualization]]
+## [[data virtualization]]
 
 Organizations may also consider adopting a data virtualization solution to integrate their data. 
 

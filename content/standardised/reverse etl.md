@@ -1,7 +1,7 @@
 ---
 title: What is Reverse ETL?
 tags:
-  - data_orchestration
+  - data_transformation
 aliases:
   - Data Activation
   - Operational Analytics

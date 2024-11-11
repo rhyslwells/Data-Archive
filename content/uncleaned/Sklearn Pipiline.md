@@ -1,14 +1,10 @@
 ---
 tags:
-  - data_orchestration
   - code_snippet
+  - data_transformation
 aliases: 
 category:
 ---
-
-
-
-## code snippet
 ```python
 # Naivebayesfor email prediction
 from sklearn.pipeline import Pipeline

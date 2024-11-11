@@ -1,1 +1,1 @@
-CI/CD, which stands for **continuous integration and continuous delivery/deployment**, aims to streamline and accelerate the [[sdlc Software dev life cycle]]. 
+CI/CD, which stands for **continuous integration and continuous delivery/deployment**, aims to streamline and accelerate the [[Software Development Life Cycle]]. 

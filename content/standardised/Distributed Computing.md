@@ -1,7 +1,8 @@
 ---
 title: 
 tags:
-  - data_orchestration
+  - data_management
+  - data_processing
 aliases: 
 category:
 ---
@@ -37,7 +38,7 @@ Distributed computing enables the processing of massive datasets and computation
 #### Cloud-Native Computing
 
 - **Cloud platforms** (e.g., AWS, Google Cloud, Azure) have made distributed computing accessible through services like **Amazon EMR** and **Google Dataproc**. These services simplify the deployment and management of distributed applications.
-- [[Kubernetes]] has become the standard for orchestrating distributed applications, managing containers and ensuring high availability across clusters.
+- [[kubernetes]] has become the standard for orchestrating distributed applications, managing containers and ensuring high availability across clusters.
 
 #### Trends and Challenges
 

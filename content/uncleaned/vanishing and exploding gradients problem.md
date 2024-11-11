@@ -5,7 +5,7 @@ tags:
 aliases: 
 category:
 ---
-[[Recurrent Neural networks|RNN]]
+[[Recurrent Neural Networks|RNN]]
 
 
 

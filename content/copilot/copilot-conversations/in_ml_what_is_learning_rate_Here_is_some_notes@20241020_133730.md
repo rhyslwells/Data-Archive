@@ -9,7 +9,7 @@ tags:
 
 
 
-This controls the contribution of each [[weak learners]] to the final ensemble. A lower learning rate makes the ==model more robust but requires more iterations==.
+This controls the contribution of each [[Weak Learners]] to the final ensemble. A lower learning rate makes the ==model more robust but requires more iterations==.
 ## Description
 
 The learning rate is a [[Hyperparameter]] that determines the ==step size at which the model parameters are updated during training.== :

@@ -25,7 +25,7 @@ By understanding which features contribute the most to the predictions, you can 
 ### Types of Feature Importance Methods
 
 1. Model-Specific Methods:
-    - Tree-based models: Models like Random Forests, Gradient Boosted Trees, and Decision Trees have built-in mechanisms for calculating feature importance. They do so based on the decrease in impurity (e.g., [[gini impurity]] in classification tasks or variance in regression tasks) or based on the reduction in error when the feature is used for splitting.
+    - Tree-based models: Models like Random Forests, Gradient Boosted Trees, and Decision Trees have built-in mechanisms for calculating feature importance. They do so based on the decrease in impurity (e.g., [[Gini Impurity]] in classification tasks or variance in regression tasks) or based on the reduction in error when the feature is used for splitting.
     - Linear models: In models like linear regression or logistic regression, feature importance can be derived from the absolute values of the model coefficients, assuming features are standardized.
    
 2. Model-Agnostic Methods:

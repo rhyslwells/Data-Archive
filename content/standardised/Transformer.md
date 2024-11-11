@@ -27,7 +27,7 @@ A transformer in machine learning (ML) refers to a deep learning model architect
 
 1. **Positional Encoding**:
     
-    - Since transformers do not inherently understand the order of words (unlike [[Recurrent Neural networks|RNNs]]), they use positional encoding to inject information about the position of each word in the sequence.
+    - Since transformers do not inherently understand the order of words (unlike [[Recurrent Neural Networks|RNNs]]), they use positional encoding to inject information about the position of each word in the sequence.
 5. **Feed-Forward Neural Network**:
     
     - After the attention mechanism, the output is passed through a feed-forward neural network, which is applied independently to each position.

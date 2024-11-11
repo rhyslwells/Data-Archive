@@ -1,1 +1,1 @@
-[[Dendrograms]] show **close** vectors is the data where taken as a vector.
+Dendrograms show **close** vectors is the data where taken as a vector.

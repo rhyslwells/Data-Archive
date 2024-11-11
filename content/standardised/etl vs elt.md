@@ -1,8 +1,7 @@
 ---
 title: ETL vs. ELT
 tags:
-  - data_orchestration
-  - data_orchestration
+  - data_transformation
 ---
 [ETL](ETL.md) (Extract, Transform, and Load) and [ELT](term/elt.md) (Extract, Load, and Transform) are two paradigms for moving data from one system to another.
 

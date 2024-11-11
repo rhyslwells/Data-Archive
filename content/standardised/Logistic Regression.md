@@ -1,7 +1,7 @@
 ---
 title: 
 tags:
-  - classifer
+  - classifier
   - regressor
 aliases: 
 category:
@@ -96,7 +96,7 @@ The summary will show the coefficients of the model, including the intercept, p-
 Another example is using logistic regression in Breast Cancer dataset can be a suitable choice for binary classification tasks, such as predicting whether a tumor is malignant or benign. Or in the titanic dataset wrt survival 0 or 1.
 ### [[Model Evaluation]]
 
-In machine learning, after training the logistic regression model, we evaluate its performance using metrics such as the **[[Confusion matrix]]** or the **Classification report**, which provide insight into the model's **accuracy**, **precision**, **recall**, and **[[F1 score]]**.
+In machine learning, after training the logistic regression model, we evaluate its performance using metrics such as the **[[Confusion matrix]]** or the **Classification report**, which provide insight into the model's **accuracy**, **precision**, **recall**, and **[[F1 Score]]**.
 
 In [[Scikit-learn]], logistic regression can be implemented as follows:
 

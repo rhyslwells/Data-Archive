@@ -191,7 +191,7 @@ A loss function measures how well the model fits the data and guides the optimiz
 ### Examples
 
 - **Regression**: Common loss functions include [[Ordinary Least Squares]], [[mean absolute error]], etc.
-- **Classification**: A typical loss function is [[Cross entropy]].
+- **Classification**: A typical loss function is [[Cross Entropy]].
 
 ## Questions and Answers
 
@@ -330,7 +330,7 @@ A loss function measures how well the model fits the data and guides the optimiz
 ## Examples
 
 - **Regression**: Common loss functions include [[Ordinary Least Squares]], [[mean absolute error]], etc.
-- **Classification**: A typical loss function is [[Cross entropy]].
+- **Classification**: A typical loss function is [[Cross Entropy]].
 
 ## Questions and Answers
 

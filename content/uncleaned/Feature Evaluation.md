@@ -29,12 +29,3 @@ Investigating correlations and redundancy,
 - **No further room for improvement
 - **Understanding the model's decision-making process
 
-# Ask Chatgpt:
-
-
-"""
-	# What is involved?
-	# Give an example:
-	# When are we done?
-"""
-

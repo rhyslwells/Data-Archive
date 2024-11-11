@@ -1,0 +1,34 @@
+---
+tags:
+  - clustering
+---
+
+K-means clustering is an [[Unsupervised learning]] algorithm that partitions data into \( k \) clusters. Each data point is assigned to the cluster with the nearest centroid.
+
+## Key Features
+
+- Unsupervised Learning: K-means organizes unlabeled data into meaningful groups without prior knowledge of the categories.
+- [[Hyperparameter]] \( k \): The number of clusters must be specified beforehand. The optimal number of clusters can be determined using [[WCSS and elbow method]].
+
+Algorithm Process:
+  1. Randomly choose \( k \) initial centroids.
+  2. Assign each data point to the nearest centroid.
+  3. Recalculate the centroids based on the current cluster assignments.
+  4. Repeat steps 2 and 3 until convergence (i.e., centroids no longer change significantly).
+
+Visualization: Scatterplots can be used to visualize clusters and their centroids.
+
+Adaptability: K-means can be updated with new data and allows for comparison of changes in centroids over time.
+
+## Limitations
+
+- Sensitivity to Initialization: The algorithm is sensitive to the initial placement of centroids, which can affect the final clustering outcome.
+- Predefined Number of Clusters: The number of clusters \( k \) must be specified in advance, which may not always be straightforward.
+
+## How K-means Works
+
+The algorithm partitions a dataset into \( k \) clusters by assigning data points to the closest cluster mean. The means are updated iteratively until convergence is achieved.
+
+## Resources
+- [Statquest Video on K-means](https://www.youtube.com/watch?v=4b5d3muPQmA)
+

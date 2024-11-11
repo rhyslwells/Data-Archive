@@ -7,8 +7,8 @@ tags:
 
 [[Confusion matrix]]
 [[Accuracy score]]
-[[Precision score]]
-[[Recall score]]
+[[Precision Score]]
+[[Recall Score]]
 [[Precision or Recall]]
 [[F1 Score]]
 [[Sensitivity]]

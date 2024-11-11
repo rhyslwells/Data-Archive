@@ -1,10 +1,10 @@
 ---
 tags:
   - "#data_orchestration"
+  - software
 aliases: 
 type: term
 created:
-  - 2024-06-20 16:13
 ---
 
 <mark style="background: #FF5582A6;">Python API </mark>for [[Apache Spark]], a ==distributed processing framework== for big data analysis and machine learning on clusters.

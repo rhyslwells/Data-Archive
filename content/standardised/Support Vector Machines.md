@@ -1,7 +1,7 @@
 ---
 title: 
 tags:
-  - classifer
+  - classifier
   - clustering
 aliases:
   - SVM

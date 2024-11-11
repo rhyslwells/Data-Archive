@@ -21,8 +21,6 @@ jt -l to list
 ```
 jt -t <theme-name>
 ```
-
-### [[ipynb]]
 - [ ] You can convert juyter notebooks with nbconvert:: Incase you want to read some on kobo
 	-  Multiple notebooks can be given at the command line in a couple of
 	            different ways:

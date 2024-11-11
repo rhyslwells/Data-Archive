@@ -1,7 +1,7 @@
 ---
 title: 
 tags:
-  - classifer
+  - classifier
   - regressor
 aliases: 
 category:
@@ -35,7 +35,7 @@ Here's how a decision tree works:
 
 **Splitting Criteria**: When building a decision tree, the algorithm considers various features to split the data at each node==. It selects the feature and the split point that minimize the Gini impurity in the resulting child nodes==. The split that reduces impurity the most is chosen.
 
-[[gini impurity]]
+[[Gini Impurity]]
 
 ==**Recursive Partitioning**==: After the first split, each subset becomes a child node of the root node. The algorithm then recursively applies the splitting process to each child node, creating further splits until certain stopping criteria are met. ==Stopping criteria== may include reaching a maximum tree depth, having nodes with minimum samples, or not improving the purity measure significantly with further splits.
 

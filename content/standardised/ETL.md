@@ -1,7 +1,7 @@
 ---
 title: What is ETL?
 tags:
-  - data_orchestration
+  - data_transformation
 ---
 - [[ETL Pipeline Example]]
 - [[etl vs elt]]

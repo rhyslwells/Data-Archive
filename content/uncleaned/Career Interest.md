@@ -1,1 +1,6 @@
-([[Energy]])
+---
+tags:
+  - career
+aliases: 
+category:
+---

@@ -1,3 +1,0 @@
----
-Aliases: [ "#deleted" ]
----

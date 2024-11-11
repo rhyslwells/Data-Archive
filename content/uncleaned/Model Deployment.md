@@ -20,4 +20,5 @@ After building and evaluating the model, you can deploy it into production to ma
 [[Sklearn Pipiline]]
 
 
-
+- **What is the issue with [[Outliers]] in [[Model Deployment]]?**
+  - Outliers can sway the generality of the model, skewing predictions and increasing the standard deviation.

@@ -139,7 +139,7 @@ What would be a loss function in the following types of problems:
   - loss function is [[Ordinary Least Squares]], [[mean absolute error]],...
 
 [[Classification]]
-- [[Cross entropy]]
+- [[Cross Entropy]]
 
 ## Questions and Answers
 

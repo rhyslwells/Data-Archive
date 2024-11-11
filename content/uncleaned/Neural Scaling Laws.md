@@ -25,7 +25,7 @@ During training we know next value, hence we have a [[Loss function]] to help le
 
 L1 - loss functions
 
-[[Cross entropy]]-loss function (uses negative log of probability).  Why is cross enropy used over L1?
+[[Cross Entropy]]-loss function (uses negative log of probability).  Why is cross enropy used over L1?
 
 unabigious next words. [[Entropy of natural language]] due to this will LLMs cannot drive [[Cross entropy loss]] to zero.
 
