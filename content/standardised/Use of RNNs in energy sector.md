@@ -13,7 +13,7 @@ category: CAREER
 
 For energy data problems, many **interpretable machine learning algorithms** can be applied in place of or alongside RNNs. These models offer transparency, making it easier to understand the relationships between features and predictions, which is critical in areas like energy management, where interpretability can be as important as accuracy.
 
-For each of the energy data questions that RNNs might solve, **interpretable alternatives** [[Machine learning algorithms]]: such as **linear regression**, **decision trees**, **random forests**, and **ARIMA** models can be employed. These models provide **transparency** by revealing which features (e.g., weather, demand) influence predictions the most, making them suitable for stakeholders who need clear explanations of the decisions made by the model.
+For each of the energy data questions that RNNs might solve, **interpretable alternatives** [[Machine Learning Algorithms]]: such as **linear regression**, **decision trees**, **random forests**, and **ARIMA** models can be employed. These models provide **transparency** by revealing which features (e.g., weather, demand) influence predictions the most, making them suitable for stakeholders who need clear explanations of the decisions made by the model.
 
 ### [[Demand forecasting]]
    - **Algorithms**:

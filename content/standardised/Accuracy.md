@@ -16,7 +16,7 @@ In the context of [[Classification]] problems, particularly binary classificatio
 - TP (True Positive): The number of instances that are correctly predicted as the positive class. For example, if the model predicts a positive outcome and it is indeed positive, it counts as a true positive.
 - TN (True Negative): The number of instances that are correctly predicted as the negative class. For example, if the model predicts a negative outcome and it is indeed negative, it counts as a true negative.
 
-The [[Confusion matrix]] also includes:
+The [[Confusion Matrix]] also includes:
 
 - FP (False Positive): The number of instances that are incorrectly predicted as the positive class. This is also known as a "Type I error."
 - FN (False Negative): The number of instances that are incorrectly predicted as the negative class. This is also known as a "Type II error."

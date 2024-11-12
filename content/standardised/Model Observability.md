@@ -20,7 +20,7 @@ Observability is particularly important because models often interact with dynam
 Observability is a process in ML, and is usually achieved through logging, metrics collection, real-time monitoring, and advanced diagnostic tools integrated into the ML pipeline.
 
 1. **Monitoring Model Performance** ==(monitoring metrics)==:
-   - Tracking key metrics such as [[Accuracy score]], [[Precision Score]],[[Recall Score]],[[F1 Score]],[[ROC and AUC]]d other relevant KPIs over time to identify performance degradation or improvements.
+   - Tracking key metrics such as [[Accuracy]], [[Precision]],[[Recall]],[[F1 Score]],[[ROC and AUC]]d other relevant KPIs over time to identify performance degradation or improvements.
    - Monitoring [[performance drift]] in model inputs (features) and outputs (predictions) to detect when the model no longer performs well due to changes in data distribution ([[data drift]]) or changes in relationships between variables ([[Performance drift]]).
 
 2. **Error and [[Isolated Forests]]**:

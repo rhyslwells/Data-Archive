@@ -5,10 +5,10 @@ tags:
 ---
 ## Description
 
-[[Confusion matrix]]
-[[Accuracy score]]
-[[Precision Score]]
-[[Recall Score]]
+[[Confusion Matrix]]
+[[Accuracy]]
+[[Precision]]
+[[Recall]]
 [[Precision or Recall]]
 [[F1 Score]]
 [[Sensitivity]]

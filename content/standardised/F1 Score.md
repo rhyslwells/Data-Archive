@@ -8,8 +8,8 @@ The formula for the F1 Score is:
 $$F1 = 2 \times \frac{{\text{Precision} \times \text{Recall}}}{{\text{Precision} + \text{Recall}}} $$
 
 Where:
-- [[Precision Score]] is calculated as $\frac{{\text{True Positives}}}{{\text{True Positives} + \text{False Positives}}}$.
-- [[Recall Score]] is calculated as $\frac{{\text{True Positives}}}{{\text{True Positives} + \text{False Negatives}}}$.
+- [[Precision]] is calculated as $\frac{{\text{True Positives}}}{{\text{True Positives} + \text{False Positives}}}$.
+- [[Recall]] is calculated as $\frac{{\text{True Positives}}}{{\text{True Positives} + \text{False Negatives}}}$.
 
 The F1 Score is the harmonic mean of precision and recall, which ensures that the score is high only when both precision and recall are high.
 

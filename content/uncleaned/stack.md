@@ -72,6 +72,6 @@ In this example:
 
 ## When Not to Use `stack`
 
-- **Wide Format Requirements**: If your analysis or processing requires a wide format, such as some [[machine learning algorithms]], stacking may not be appropriate.
+- **Wide Format Requirements**: If your analysis or processing requires a wide format, such as some [[Machine Learning Algorithms]], stacking may not be appropriate.
 - **Complexity**: If stacking makes the data too complex to manage or understand, it might be better to keep the original structure.
 - **Simplicity**: When the current structure of your DataFrame already suits your analysis needs, stacking may be unnecessary.

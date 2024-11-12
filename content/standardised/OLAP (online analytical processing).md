@@ -121,7 +121,7 @@ In this OLAP setup:
 - **Analysis Tools**: OLAP client tools such as Power BI or Excel for querying the cube and generating reports.
 
 
-OLAP is an acronym for **Online Analytical Processing**. OLAP performs multidimensional analysis of business data and provides the capability for complex calculations, trend analysis, and sophisticated [data modeling](data%20modeling.md). An **OLAP cube** is a multidimensional database that is optimized for [Data Warehouse](Data%20Warehouse.md) and online analytical processing (OLAP) applications. 
+OLAP is an acronym for **Online Analytical Processing**. OLAP performs multidimensional analysis of business data and provides the capability for complex calculations, trend analysis, and sophisticated [Data Modelling](Data%20Modelling.md). An **OLAP cube** is a multidimensional database that is optimized for [Data Warehouse](Data%20Warehouse.md) and online analytical processing (OLAP) applications. 
 
 An OLAP cube is a method of storing data in a multidimensional form, generally for reporting purposes. In OLAP cubes, data ([Measures](term/metric.md)) are categorized by [dimensions](dimensions.md). 
 

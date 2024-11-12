@@ -8,7 +8,7 @@
 - Pick a model
 - Develop and implement algorithms that can predict outcomes based on the selected features.
 - Do not think about refinement yet.
-- [[parametric vs non-parametric models]]
+- [[parametric vs non-parametric models]] &     [[Determining the right algorithm]]
 
 [[Model Training]]
 - Train the model using the prepared data to learn patterns and make predictions.

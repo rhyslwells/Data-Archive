@@ -20,4 +20,4 @@ Compared to existing roles it would be a **software engineering plus business in
 
 With that said more programmatic skills are needed similar to software engineering. **The emerging language at the moment is [Python](term/python.md)** which is used in engineering with tools alike [[Apache Airflow]], [dagster](dagster.md), [[Prefect]] as well as data science with powerful libraries.
 
-As a data engineer, you use mainly [SQL](term/sql.md) for almost everything except when using external data from an API. Here you'd use [ELT](term/elt.md) tools or write some [[data pipelines]] with the tools mentioned above.
+As a data engineer, you use mainly [SQL](term/sql.md) for almost everything except when using external data from an API. Here you'd use [ELT](term/elt.md) tools or write some [[Data Pipeline]] with the tools mentioned above.

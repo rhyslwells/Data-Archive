@@ -21,4 +21,4 @@ A Data Orchestrator models dependencies between different tasks in [complex he
 
 More Insights in [Data Orchestration Trends: The Shift from Data Pipelines to Data Products](https://airbyte.com/blog/data-orchestration-trends).
 
-[[Data pipelines vs data products]]
+[[Data Pipeline to Data Products]]

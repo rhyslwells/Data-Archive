@@ -58,7 +58,7 @@ print("Prediction accuracy: {:.2f}%".format(accuracy * 100.0))
 Make sure to replace `pred` and `y_test` with your actual prediction and test data variables.
 [Timestamp: 2024/11/11 18:42:37]
 
-**user**: reformat this note for readability [[Accuracy score]]
+**user**: reformat this note for readability [[Accuracy]]
 [Timestamp: 2024/11/11 18:43:46]
 
 **ai**: Here's a reformatted version of your note for improved readability:
@@ -70,7 +70,7 @@ tags:
 
 ---
 
-# [[Accuracy Score]]
+# [[Accuracy]]
 
 ## Definition
 
@@ -696,10 +696,10 @@ Weak learners are a crucial component of [[Model Ensembling]] techniques, such a
 This version organizes the information into clear sections, making it easy to read and understand the concept of weak learners and their role in model ensembling.
 [Timestamp: 2024/11/11 19:20:00]
 
-**user**: help me explore [[Precision Score]] and how to implement it in python
+**user**: help me explore [[Precision]] and how to implement it in python
 [Timestamp: 2024/11/11 19:28:54]
 
-**ai**: Here's a detailed note on [[Precision Score]] and how to implement it in Python:
+**ai**: Here's a detailed note on [[Precision]] and how to implement it in Python:
 
 ---
 
@@ -1114,10 +1114,10 @@ Fabric is a unified analytics platform that operates in the cloud, eliminating t
 This note provides an overview of Fabric, highlighting its features, components, technologies, and advantages in the realm of data analysis and management.
 [Timestamp: 2024/11/11 20:05:48]
 
-**user**: help me reformat [[F1 Score]] and how it interacts with [[Classification report]]
+**user**: help me reformat [[F1 Score]] and how it interacts with [[Classification Report]]
 [Timestamp: 2024/11/11 20:08:44]
 
-**ai**: Here's a reformatted version of your note on [[F1 Score]] and its interaction with the [[Classification report]]:
+**ai**: Here's a reformatted version of your note on [[F1 Score]] and its interaction with the [[Classification Report]]:
 
 ---
 
@@ -1141,7 +1141,7 @@ tags:
 
 ## Interaction with Classification Report
 
-The [[Classification report]] in machine learning provides a comprehensive overview of a model's performance, including precision, recall, F1 Score, and support for each class.
+The [[Classification Report]] in machine learning provides a comprehensive overview of a model's performance, including precision, recall, F1 Score, and support for each class.
 
 ### Example
 

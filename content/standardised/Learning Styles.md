@@ -16,5 +16,3 @@ What does the data look like [[continuous]] or [[categorical]]?
 
 
 
-
-

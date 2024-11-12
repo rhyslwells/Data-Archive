@@ -4,7 +4,7 @@ Optuna is a [[Hyperparameter]] optimization framework used to automatically tune
 1. **Define Objective Functions**: 
    - For each model (LightGBM, XGBoost, CatBoost), define an objective function.
    - The objective function takes trial parameters as input and returns a score to optimize.
-   - Specify hyperparameters to tune within each function, such as learning rate, number of leaves (for LightGBM), eta, max depth (for XGBoost), and learning rate, depth (for CatBoost).
+   - Specify hyperparameters to tune within each function, such as learning rate, number of leaves (for LightGBM), eta, max depth (for [[XGBoost]]), and learning rate, depth (for [[CatBoost]]).
 
 2. **Running Hyperparameter Optimization**:
    - Create a study object for each model using `optuna.create_study()`.

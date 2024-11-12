@@ -4,9 +4,9 @@ tags:
 aliases: 
 category:
 ---
-- **Precision Score** is a metric used to evaluate the [[Accuracy score]] of a [[Classification]] model, specifically focusing on the positive class.
+- **Precision Score** is a metric used to evaluate the [[Accuracy]] of a [[Classification]] model, specifically focusing on the positive class.
 - It is defined as the proportion of true positive predictions among all positive predictions made by the model.
-- [[Classification report]]
+- [[Classification Report]] & [[Precision or Recall]]
 - The formula for precision is:
   $$\text{Precision} = \frac{TP}{TP + FP}$$
   where:
@@ -15,7 +15,7 @@ category:
 
 Importance:
 
-- Precision is crucial in scenarios where the cost of false positives is high, such as in spam detection or medical diagnosis.
+- Precision is crucial in scenarios where the ==cost of false positives is high==, such as in spam detection or medical diagnosis.
 - It helps in understanding how many of the predicted positive instances are actually positive.
 
 ## Implementing Precision Score in Python

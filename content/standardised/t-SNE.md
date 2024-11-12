@@ -6,10 +6,7 @@ tags:
 aliases: 
 category:
 ---
-
-[[Dimensionality Reduction]]
-
-t-SNE (t-distributed Stochastic Neighbor Embedding) is a **dimensionality reduction** technique used primarily for visualizing high-dimensional data. Unlike methods such as **PCA** (Principal Component Analysis), which are linear, t-SNE is a **non-linear** method that excels at preserving the local structure of the data. 
+t-SNE (t-distributed Stochastic Neighbor Embedding) is a [[Dimensionality Reduction]] technique used primarily for visualizing high-dimensional data. Unlike methods such as **PCA** (Principal Component Analysis), which are linear, t-SNE is a **non-linear** method that excels at preserving the local structure of the data. 
 
 ### Key Characteristics of t-SNE:
 - **Non-linear Mapping**: It attempts to capture non-linear relationships in the data by embedding it in a lower-dimensional space (usually 2D or 3D).

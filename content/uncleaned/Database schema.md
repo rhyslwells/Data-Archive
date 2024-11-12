@@ -26,7 +26,7 @@ Database schema are used in [[Data Management]]. Here are the main takeaways:
 
 5. **Performance Impact**: A good schema can significantly ==improve query performance==, reducing processing ==time== and ==cost==, and simplifying query complexity.
 
-6. [[Data modelling]]Despite being considered an old concept, data modeling remains crucial for creating effective schemas, particularly in the context of big data and analytics.
+6. [[Data Modelling]]Despite being considered an old concept, data modeling remains crucial for creating effective schemas, particularly in the context of big data and analytics.
 
 7. **Iterative Process**: Developing a data warehouse schema involves iterative refinement, starting with interviews to create a conceptual data model, which is then tested and refined through multiple iterations before being implemented.
 

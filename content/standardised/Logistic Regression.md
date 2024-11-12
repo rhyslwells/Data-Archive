@@ -46,7 +46,7 @@ Logistic regression naturally outputs probabilities, but it can be converted int
 
 5. **No Residuals**:
 
-   - Unlike [[Linear Regression]], logistic regression does not have standard residuals. Instead, the model evaluates performance by comparing predicted probabilities with actual class labels using metrics like accuracy, precision, recall, and the [[Confusion matrix]].
+   - Unlike [[Linear Regression]], logistic regression does not have standard residuals. Instead, the model evaluates performance by comparing predicted probabilities with actual class labels using metrics like accuracy, precision, recall, and the [[Confusion Matrix]].
 
 ### Odds and Log-Odds:
 
@@ -96,7 +96,7 @@ The summary will show the coefficients of the model, including the intercept, p-
 Another example is using logistic regression in Breast Cancer dataset can be a suitable choice for binary classification tasks, such as predicting whether a tumor is malignant or benign. Or in the titanic dataset wrt survival 0 or 1.
 ### [[Model Evaluation]]
 
-In machine learning, after training the logistic regression model, we evaluate its performance using metrics such as the **[[Confusion matrix]]** or the **Classification report**, which provide insight into the model's **accuracy**, **precision**, **recall**, and **[[F1 Score]]**.
+In machine learning, after training the logistic regression model, we evaluate its performance using metrics such as the **[[Confusion Matrix]]** or the **Classification report**, which provide insight into the model's **accuracy**, **precision**, **recall**, and **[[F1 Score]]**.
 
 In [[Scikit-learn]], logistic regression can be implemented as follows:
 
@@ -116,7 +116,7 @@ print(confusion_matrix(y_test, y_pred))
 print(classification_report(y_test, y_pred))
 ```
 
-The [[confusion matrix]] and [[classification report]] help evaluate how well the model distinguishes between the two classes.
+The [[Confusion Matrix]] and [[Classification Report]] help evaluate how well the model distinguishes between the two classes.
 
 ### Statsmodel Summary table
 
