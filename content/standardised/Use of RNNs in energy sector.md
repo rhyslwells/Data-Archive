@@ -20,7 +20,7 @@ For each of the energy data questions that RNNs might solve, **interpretable alt
      - **Linear Regression**: Can model simple linear relationships between energy consumption and time (e.g., daily/seasonal trends).
      - **Decision Trees**: Provides clear if-then rules for predicting future energy usage based on historical consumption, time of day, and other factors.
      - **Random Forests**: An ensemble of decision trees that provides better accuracy than individual trees while still being interpretable using feature importance.
-     - **[[Gradient boosting]] (GBM)**: Can be used with feature importance or [[SHapley Additive exPlanations|SHAP]] values to understand which factors (e.g., time, weather) drive energy demand.
+     - **[[Gradient Boosting]] (GBM)**: Can be used with feature importance or [[SHapley Additive exPlanations|SHAP]] values to understand which factors (e.g., time, weather) drive energy demand.
    
    - **Why**: These models allow for clear interpretation of how factors like temperature, time of day, and previous energy use contribute to predictions.
 

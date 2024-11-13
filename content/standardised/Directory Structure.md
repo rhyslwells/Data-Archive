@@ -1,5 +1,9 @@
-## [[Directory Structure]]
-
+---
+tags:
+  - software
+aliases: 
+category:
+---
 [To make a file tree](https://faun.pub/create-a-repository-tree-and-print-it-to-a-file-f376f103f169)
 
 ├── README.md          <- The top-level README for developers using this project.

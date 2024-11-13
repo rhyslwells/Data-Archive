@@ -9,7 +9,7 @@ category:
 ---
 ### Overview
 
-PCA is a powerful tool for [[Dimensionality Reduction]] in [[Unsupervised learning]] to reduce the dimensionality of data. 
+PCA is a powerful tool for [[Dimensionality Reduction]] in [[Unsupervised Learning]] to reduce the dimensionality of data. 
 
 It transforms the original data into a new coordinate system defined by the principal components, which are ==orthogonal vectors== that capture the most variance in the data.
 

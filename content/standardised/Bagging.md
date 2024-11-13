@@ -1,6 +1,5 @@
 ---
 tags:
-  - drafting
   - model_architecture
 aliases: 
 category:

@@ -9,7 +9,7 @@ The goal is to assign the correct label (category) to input data based on the pa
 
 In machine learning, classification refers to the task of predicting the category or class of an input item based on labeled data. Once trained, the classifier can make predictions on **unlabeled data**.
 
-Various algorithms like [[Naive Bayes]], [[Decision Trees]], [[Support Vector Machines]], and [[K-nearest neighbours]] are available for classification, each suited to different data types and problem complexities. 
+Various algorithms like [[Naive Bayes]], [[Decision Tree]], [[Support Vector Machines]], and [[K-nearest neighbours]] are available for classification, each suited to different data types and problem complexities. 
 
 Classifiers are essential in **automated decision-making** and **predictive analytics**. They enable systems to make predictions or decisions based on data, reducing human intervention and improving efficiency.
 

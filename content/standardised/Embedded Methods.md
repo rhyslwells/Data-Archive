@@ -11,7 +11,7 @@ Embedded methods provide a convenient and efficient approach to feature selectio
 4. **Examples of Embedded Methods**:
    - **[[Lasso]] (L1 Regularization)**:
    - [[Elastic Net]]: Elastic Net combines L1 ([[Lasso]]) and L2 ([[Ridge]]) regularization .
-   - **Tree-based Methods**: [[Decision Tree]] and ensemble methods like [[Random Forests]] and [[Gradient boosting]] inherently perform feature selection during training by selecting the most informative features at each split node of the tree.
+   - **Tree-based Methods**: [[Decision Tree]] and ensemble methods like [[Random Forests]] and [[Gradient Boosting]] inherently perform feature selection during training by selecting the most informative features at each split node of the tree.
 
 5. **Advantages**:
    - Simplicity: Embedded methods simplify the feature selection process by integrating it into model training, reducing the need for additional preprocessing steps.

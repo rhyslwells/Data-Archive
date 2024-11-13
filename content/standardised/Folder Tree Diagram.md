@@ -2,14 +2,10 @@
 tags:
   - software
 ---
-
-
 ## Links 
 
 Simple method
 https://www.digitalcitizen.life/how-export-directory-tree-folder-windows/
-
-
 
 More general
 

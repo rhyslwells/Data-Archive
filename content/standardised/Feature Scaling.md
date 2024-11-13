@@ -2,10 +2,9 @@
 title: 
 tags:
   - data_cleaning
+  - data_processing
 category: Data Science
 ---
-### Overview
-
 Used in preparing data for machine learning models. 
 
 **Feature Scaling** is a preprocessing step in machine learning that involves adjusting the range and distribution of feature values. 

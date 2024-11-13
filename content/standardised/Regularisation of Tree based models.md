@@ -23,7 +23,7 @@ For [[Model Ensembling]] methods like Random Forests and Gradient Boosting, addi
 
 to help prevent overfitting. These techniques effectively restrict the model complexity, leading to better generalization .
 
-Below are the common regularization techniques used in tree models such as [[Decision Trees]], [[Random Forests]].
+Below are the common regularization techniques used in tree models such as [[Decision Tree]], [[Random Forests]].
 ### Regularization Techniques for Tree Models
 
 1. Limiting Tree Depth:

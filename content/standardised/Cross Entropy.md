@@ -9,11 +9,11 @@ Cross entropy works by measuring the (difference/loss) ==dissimilarity between t
 
 By minimizing cross entropy, the model learns to produce probability distributions that closely match the true class distributions, thereby improving its classification ==accuracy==.
 
-1. **Probability Distributions**: In a classification task, the model outputs a probability distribution over the possible classes for each input. For example, in a three-class problem, the model might output probabilities like [0.7, 0.2, 0.1] for classes A, B, and C, respectively.
+1. Probability Distributions: In a classification task, the model outputs a probability distribution over the possible classes for each input. For example, in a three-class problem, the model might output probabilities like [0.7, 0.2, 0.1] for classes A, B, and C, respectively.
 
-2. **True Labels**: The true class label is represented as a one-hot encoded vector. If the true class is A, the vector would be [1, 0, 0].
+2. True Labels: The true class label is represented as a one-hot encoded vector. If the true class is A, the vector would be [1, 0, 0].
 
-3. **Cross Entropy Calculation**: Cross entropy calculates the loss by comparing the predicted probabilities with the true labels. The formula for cross entropy loss $L$ for a single instance is:
+3. Cross Entropy Calculation calculates the loss by comparing the predicted probabilities with the true labels. The formula for cross entropy loss $L$ for a single instance is:
 
    $$ L = -\sum_{i=1}^{N} y_i \log(p_i)$$
 
@@ -22,9 +22,9 @@ By minimizing cross entropy, the model learns to produce probability distributio
    - $y_i$ is the true label (1 if the class is the true class, 0 otherwise).
    - $p_i$ is the predicted probability for class $i$.
 
-2. **Interpretation**: The cross entropy loss increases as the predicted probability diverges from the actual label. If the model assigns a high probability to the correct class, the loss is low. Conversely, if the model assigns a low probability to the correct class, the loss is high.
+2. Interpretation: The cross entropy loss increases as the predicted probability diverges from the actual label. If the model assigns a high probability to the correct class, the loss is low. Conversely, if the model assigns a low probability to the correct class, the loss is high.
 
-3. **Optimization**: During training, the model's parameters are adjusted to minimize the cross entropy loss across all training examples. This process helps the model improve its predictions over time.
+3. Optimization: During training, the model's parameters are adjusted to minimize the cross entropy loss across all training examples. This process helps the model improve its predictions over time.
 
 ## Example
 

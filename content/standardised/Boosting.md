@@ -1,10 +1,8 @@
 ---
 tags:
-  - drafting
   - model_architecture
   - model_explainability
 ---
-
 Boosting is a type of [[Model Ensembling]] in machine learning that focuses on improving the accuracy of predictions by building a ==sequence of models==.    Each subsequent model focuses on correcting the errors made by the previous ones.
 
 It combines [[Weak Learners]] (models that are slightly better than random guessing) to create a strong learner. 

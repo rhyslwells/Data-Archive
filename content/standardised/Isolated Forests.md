@@ -11,8 +11,6 @@ importance:
 engagement: 
 recency_of_interest: 2024-09-26
 ---
-
-
 >[!Summary]  
 > Isolation Forest (iForest) is an [[Model Ensembling]]-based method used for anomaly detection. It operates by isolating data points using a series of random binary splits.
 > 

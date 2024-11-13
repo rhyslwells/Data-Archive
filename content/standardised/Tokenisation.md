@@ -3,9 +3,9 @@ tags:
   - NLP
   - code_snippet
 ---
-Tokenisation is used to separate words or sentences.
+**Tokenisation** is a fundamental process in natural language processing ([[NLP]]) that involves breaking down text into smaller units called tokens. These tokens can be words, sentences, or ==subwords==, depending on the level of tokenization. 
 
-word tokenisation
+Word tokenisation
 ```python
 
 from nltk.tokenize import word_tokenize #keeps punctuation

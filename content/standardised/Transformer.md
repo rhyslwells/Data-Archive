@@ -36,7 +36,7 @@ A transformer in machine learning (ML) refers to a deep learning model architect
     - Transformers use layer normalization and residual connections to stabilize training and help with gradient flow, making it easier to train deep networks.
 7. **Training and Applications**:
     
-    - Transformers are trained on large corpora of text data using [[standardised/Unsupervised learning|unsupervised]] or semi-supervised learning techniques. They are used for a variety of NLP tasks, including translation, summarization, and question answering.
+    - Transformers are trained on large corpora of text data using [[Unsupervised Learning|unsupervised]] or semi-supervised learning techniques. They are used for a variety of NLP tasks, including translation, summarization, and question answering.
 
 ### Additional Concepts
 

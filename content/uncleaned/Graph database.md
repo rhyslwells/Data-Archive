@@ -3,7 +3,7 @@ title:
 tags:
   - drafting
 ---
-[[Word Embedding]]
+[[Vector Embedding]]
 
 >[!Summary]
 >
@@ -56,7 +56,7 @@ similar to [[graph embedding]]: node embeddings:
 
 ![[Pasted image 20241004074458.png]]
 
-[[Vector embedding]]
+[[Vector Embedding]]
 
  
 

@@ -26,7 +26,7 @@ Common [[Regression]] algorithms include:
 - [[Random Forest Regression]]
 
 ![[Pasted image 20241012152141.png]]
-# [[Unsupervised learning]]
+# [[Unsupervised Learning]]
 
 Common [[Clustering]] algorithms include:
 
