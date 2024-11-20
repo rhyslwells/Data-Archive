@@ -27,6 +27,19 @@ The threshold level is the probability value above which an instance is classifi
   - Lower Threshold: Increases sensitivity but may decrease specificity.
   - Higher Threshold: Increases specificity but may decrease sensitivity.
 
+#### Roc and Auc Score
+
+The `roc_auc_score` is a function from the `sklearn.metrics` module in Python that computes the Area Under the Receiver Operating Characteristic Curve (ROC AUC) from prediction scores. It is a widely used metric for evaluating the performance of binary classification models.
+
+Key Points about `roc_auc_score`:
+- **Purpose**: It quantifies the overall ability of the model to discriminate between the positive and negative classes across all possible classification thresholds.
+- **Range**: The score ranges from 0 to 1, where:
+    - 1 indicates perfect discrimination (the model perfectly distinguishes between the positive and negative classes).
+    - 0.5 suggests no discriminative power (equivalent to random guessing).
+    - Values below 0.5 indicate a model that performs worse than random guessing.
+- **Input**: The function takes the true binary labels and the predicted probabilities (or decision function scores) as inputs.
+- **Output**: It returns a single scalar value representing the AUC.
+
 ### Code Implementation
 
 #### Example Code

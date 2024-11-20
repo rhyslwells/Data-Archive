@@ -53,6 +53,22 @@ Pruning:
   - Pre-pruning: Stop tree growth early based on criteria like maximum depth or minimum impurity improvement.
   - Post-pruning: Allow the tree to grow fully, then prune back based on performance metrics.
 
+### [[Hyperparameter]]
+
+Can use [[GridSeachCv]] to pick the best paramaters.
+
+| **Parameter**       | **Purpose**                      | **Effect**                  | **Example**                                      |
+|---------------------|----------------------------------|-----------------------------|--------------------------------------------------|
+| `criterion`         | Splitting criteria               | Impacts decision logic.     | `criterion='gini'` or `criterion='entropy'`      |
+| `max_depth`         | Maximum tree depth               | Prevents overfitting.       | `max_depth=5` limits the tree depth to 5.        |
+| `min_samples_split` | Min samples to split a node      | Limits tree growth.         | `min_samples_split=10` requires at least 10 samples to split a node. |
+| `min_samples_leaf`  | Min samples at leaf node         | Reduces overfitting.        | `min_samples_leaf=5` ensures every leaf has at least 5 samples. |
+| `max_features`      | Features considered for splitting| Adds randomness.            | `max_features='sqrt'` or `max_features=3`.       |
+| `max_leaf_nodes`    | Max leaf nodes allowed           | Reduces overfitting.        | `max_leaf_nodes=20` caps the tree at 20 leaves.  |
+| `class_weight`      | Adjusts for imbalanced data      | Improves fairness.          | `class_weight='balanced'` or `class_weight={0:1, 1:2}`. |
+| `ccp_alpha`         | Pruning parameter                | Simplifies tree.            | `ccp_alpha=0.01` prunes weak splits based on complexity. |
+
+
 ### Advantages and Disadvantages of Decision Trees
 
 Advantages:

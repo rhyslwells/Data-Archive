@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-GB",
     baseUrl: "https://rhyslwells.github.io/Data-Archive/",
-    ignorePatterns: ["private","Monthly_Review", "templates", ".obsidian","Excalidraw","plugins","templates","uncleaned","copilot"],
+    ignorePatterns: ["private","Monthly_Review","Drafts", "templates", ".obsidian","Excalidraw","plugins","templates","uncleaned","copilot"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

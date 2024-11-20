@@ -4,8 +4,9 @@ Priority Tasks:
 - [ ] Start work on #energy 
 - [ ] Start answering [[Questions]]
 - [ ] [[Daily Notes 09112024]]
+- [ ] Revisit blog post idea on [GDrive](https://drive.google.com/drive/u/0/folders/189nOgUl1bFGX-fwYGE3ybkI_4JxalcCt) 
 
-Clean up #drafting via graph view.
+Clean up #drafting
 
 Papers:
 ```dataview

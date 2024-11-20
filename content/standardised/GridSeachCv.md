@@ -1,5 +1,3 @@
-[[GridSeachCv]]
-
 Used [[GridSeachCv]] to search through the [[Hyperparameter]] space
 
 ```python
