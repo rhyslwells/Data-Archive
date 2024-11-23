@@ -11,6 +11,6 @@ The shift from the ETL paradigm to the ELT paradigm has been made possible thank
 
 The following image demonstrates the ELT approach to [[Data Integration]] -- in this diagram ([[dbt]]) creates and manages the SQL that is used for transforming the data in the destination:
 
-![](images/elt-tool.png)
+![](elt-tool.png)
 
 

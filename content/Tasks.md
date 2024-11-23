@@ -1,9 +1,12 @@
 Priority Tasks:
-- [ ] Finish [[Stepping Forward]]
+
 - [ ] Link associated code to github in ML_learning repo
-- [ ] Start work on #energy 
+- [ ] Start work on #energy [[Energy project]]
 - [ ] Start answering [[Questions]]
-- [ ] [[Daily Notes 09112024]]
+
+
+Posts:
+- [ ] Finish [[Stepping Forward]]
 - [ ] Finish [[Interpretable Decision Trees]]
 
 Clean up #drafting

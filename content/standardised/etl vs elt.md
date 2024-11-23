@@ -11,11 +11,11 @@ The main difference between them is that when an ETL approach is used, data is t
 
 The image below demonstrates the ETL approach to [data integration](term/data%20integration.md):
 
-![](images/etl-tool.png)
+![](etl-tool.png)
 
 While the following image demonstrates the ELT approach to data integration:
 
-![](images/elt-tool.png)
+![](elt-tool.png)
 
 [[ETL]] was originally used for [Data Warehousing](Data%20Warehouse.md) and ELT for creating a [Data Lake](Data%20Lake.md). 
 

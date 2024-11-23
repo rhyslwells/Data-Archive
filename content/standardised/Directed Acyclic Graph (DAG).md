@@ -10,4 +10,4 @@ A DAG is a graph where information must travel along with a finite set of nodes 
 
 It's a popular way of building data pipelines in tools like [[Apache Airflow]], [[dagster]], [[Prefect]]. It clearly defines the data lineage. As well, it's made for a functional approach where you have the [idempotency](term/idempotency.md) to restart pipelines without side-effects.
 
-![](images/dag.png)
+![](dag.png)

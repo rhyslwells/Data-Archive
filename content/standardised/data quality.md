@@ -10,7 +10,7 @@ There are three main ways to detect a data quality issue: 
 -   A data test fails.
 -   Data monitoring raises an alert.
 
-![](images/data-quality.png)
+![](data-quality.png)
 
 
  How to handle [[Data Quality]] issues by detecting, understanding, fixing, and reduce

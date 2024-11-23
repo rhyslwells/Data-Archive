@@ -17,7 +17,7 @@ ETL (Extract, [Transform](Data%20Transformation.md), and Load) is a paradigm for
 
 A key feature of ETL is that data is transformed before being sent to the destination, as demonstrated in the following image:
 
-![](images/etl-tool.png)
+![](etl-tool.png)
 
 During the [[ETL]] process necessary to:
 - **[[Data Quality]] Assurance:** Ensure data passes quality checks and is standardized for use.
