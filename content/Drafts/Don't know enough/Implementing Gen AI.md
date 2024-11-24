@@ -26,8 +26,6 @@ AI bots typically perform three main functions: reading, contextualizing, and si
 
 When implementing AI, simplicity is crucial. The principle of "Keep It Simple, Stupid" (KISS) should guide the development and deployment process. Making the implementation straightforward ensures easier adoption and minimizes resistance from stakeholders. Ensuring that AI solutions are easy to integrate and use within existing systems is essential. This encourages adoption and reduces the learning curve for users and administrators alike. Additionally, considering how the AI will interact with various data types, including text, diagrams, and other formats, is critical. Effective data integration ensures that AI outputs are accurate and useful.
 
-  
-
 Leveraging existing AI tools can save significant time and resources. Many off-the-shelf AI models can be chained together to create effective solutions without the need for complex custom development. This approach not only accelerates deployment but also reduces the risk associated with building AI systems from scratch.
 
 #### Guardrails and Security
@@ -45,8 +43,6 @@ Continuous refinement of AI systems is essential for maintaining their effective
 #### Business Strategy
 
 When integrating LLMs, it's important to consider several strategic factors. Addressing ethical concerns and potential risks associated with AI, such as bias and privacy issues, is critical. Establishing clear governance frameworks to manage AI operations effectively ensures that AI is used responsibly and aligns with business objectives. Identifying and prioritizing use cases that will deliver the most significant business impact is essential. This prioritization ensures that AI initiatives are focused on areas where they can provide the greatest value.
-
-  
 
 Developing systems that utilize AI in sensible and effective ways is another key consideration. These systems should align with business goals and be designed to complement existing processes. Planning for the potential impact on jobs and ensuring measures are in place to manage this transition is also vital. Businesses must be prepared for the changes AI can bring to their workforce and have strategies in place to support affected employees. Establishing metrics to evaluate the AI's impact on the business and continuously monitoring its performance helps ensure that AI initiatives remain aligned with business objectives and deliver the desired outcomes.
 
@@ -104,10 +100,8 @@ Evaluation:
 
 What to consider when we use llms : Business strategy:
 
-  
 
 - Risks ethics
-    
 - Operating models and governance
     
 - Prioritising use cases
@@ -119,7 +113,3 @@ What to consider when we use llms : Business strategy:
 - Establish measures and evaluation to the buisness
     
 - Tech approach
-    
-
-  
-**

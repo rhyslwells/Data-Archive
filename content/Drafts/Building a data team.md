@@ -4,6 +4,11 @@ tags:
 aliases: 
 category:
 ---
+# Establishing a Data Culture
+
+Points I want to make:
+
+
 
 
 - Start building a data team once you understand why you need one in the first place.

@@ -6,7 +6,7 @@ Priority Tasks:
 
 
 Posts:
-- [ ] Finish [[Stepping Forward]]
+- [ ] Finish [[Unlocking the Value of Fresh Perspectives in Data-Driven Processes]]
 - [ ] Finish [[Interpretable Decision Trees]]
 
 Clean up #drafting
