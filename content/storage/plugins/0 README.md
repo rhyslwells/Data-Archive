@@ -2,6 +2,10 @@
 
 [Graph Analysis - Co Citations](https://www.youtube.com/watch?v=rK6JVDrGERA)
 
+### Annotator
+
+https://www.youtube.com/watch?v=lISOJeu7fgU
+
 ### Copilot
 
 https://www.youtube.com/watch?v=NSoKRYNlOls

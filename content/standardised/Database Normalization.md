@@ -4,7 +4,7 @@ tags:
   - database
 ---
 
-Database [[Normalisation]] is used in relational database design to reduce data redundancy and improve data integrity. Normalization involves organizing the columns (attributes) and tables (relations) in a database to ensure proper enforcement of dependencies through database integrity constraints. 
+Database [[Normalisation of data]] is used in relational database design to reduce data redundancy and improve data integrity. Normalization involves organizing the columns (attributes) and tables (relations) in a database to ensure proper enforcement of dependencies through database integrity constraints. 
 
 This is achieved by applying formal rules during the synthesis (creation of a new database design) or decomposition (improvement of an existing database design) process.
 

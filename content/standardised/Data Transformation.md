@@ -82,7 +82,7 @@ Transform raw data into a format that best describes the problem to the model.
 - [[Database Normalization]]:Ensure consistent data representation and scale features appropriately.
 - Convert data into the required format, e.g., from .xls to .csv.
 - [[Encoding Categorical Variables]]
-- Transform raw data into a format that best describes the problem to the model. This includes formatting and normalization/ [[Normalisation]]
+- Transform raw data into a format that best describes the problem to the model. This includes formatting and normalization/ [[Normalisation of data]]
 
 ## Transformation in Data Engineering
 Data is often transformed as part of an [ETL (Extract, Transform, Load)](ETL.md) or [ELT (Extract, Load, Transform)](term/elt.md) approach to [data integration](term/data%20integration.md). 

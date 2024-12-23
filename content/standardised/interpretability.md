@@ -9,6 +9,8 @@ aliases:
 ---
 # Links
 1. [Interpretability Importance](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html)
+2. https://christophm.github.io/interpretable-ml-book/index.html
+
 # Interpretability
 
 Interpretability in machine learning (ML) is about understanding the reasoning behind a model's predictions. It involves making the model's decision-making process comprehensible to humans, which is crucial for trust, debugging, and ensuring fairness and reliability. 

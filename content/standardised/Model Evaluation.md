@@ -15,7 +15,7 @@ Appropriate evaluation metrics are used based on the problem type (classificatio
 - **Performance Assessment**: Models are evaluated on a testing set using metrics relevant to the problem type.
 - **Generalization and Bias**: Evaluation includes assessing how well the model generalizes to new data and identifying any biases.
 
-For categorical classifiers: [[Classification Metrics]]:  Use metrics such as accuracy, precision, recall, F1-score, and confusion matrix to evaluate performance.
+For categorical classifiers: [[Evaluation Metrics]]:  Use metrics such as accuracy, precision, recall, F1-score, and confusion matrix to evaluate performance.
 
 For regression tasks: [[Regression metrics]]: Metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R²) are used.
 

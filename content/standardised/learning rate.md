@@ -23,3 +23,12 @@ The learning rate is a  [[Hyperparameter]] in machine learning that ==determines
 3. **Practical Considerations**:
    - It's common to start with a moderate learning rate and adjust based on the model's performance during training.
    - Techniques like learning rate schedules or adaptive learning rate methods (e.g., [[Adam Optimizer]]) can dynamically adjust the learning rate during training to improve convergence.
+
+
+This impacts the efficiency of [[Gradient Descent]]
+
+Effects occur if too small (takes long), or too large (over shoots missing the minima).
+
+What happens if you are at a local minima? Then no change.
+
+![[Pasted image 20241216204925.png]]

@@ -7,6 +7,8 @@ aliases:
 category:
 ---
 These metrics provide various ways to evaluate the performance of regression models, each with its strengths and weaknesses. The choice of metric often depends on the specific characteristics of the data and the goals of the analysis.
+
+[[Loss function]]
 ### Common Regression Metrics
 
 1. **Mean Absolute Error (MAE)**:

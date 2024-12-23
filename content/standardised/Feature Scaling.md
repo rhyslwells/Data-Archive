@@ -9,7 +9,7 @@ Used in preparing data for machine learning models.
 
 **Feature Scaling** is a preprocessing step in machine learning that involves adjusting the range and distribution of feature values. 
 
-This ensures that all features contribute equally to the model's performance, especially when they are measured on different scales, which is particularly important for distance-based algorithms, [[Principal Component Analysis]], and optimization techniques like [[gradient descent]]. 
+This ensures that all features contribute equally to the model's performance, especially when they are measured on different scales, which is particularly important for distance-based algorithms, [[Principal Component Analysis]], and optimization techniques like [[Gradient Descent]]. 
 
 By using methods like normalization and standardization, you can enhance the performance and accuracy of your models.
 

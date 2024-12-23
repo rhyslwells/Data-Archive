@@ -8,7 +8,7 @@ aliases:
 ---
 ## Transformers in Machine Learning
 
-A transformer in machine learning (ML) refers to a deep learning model architecture designed to process sequential data, such as natural language processing ([[NLP]]). It was introduced in the paper "[[Attention Is All You Need]]" and has since become a cornerstone in NLP tasks.
+A transformer in machine learning (ML) refers to a deep learning model architecture designed to process sequential data, such as natural language processing ([[NLP]]). It was introduced in the paper "[[standardised/Attention Is All You Need]]" and has since become a cornerstone in NLP tasks.
 
 ### Key Concepts of a Transformer
 

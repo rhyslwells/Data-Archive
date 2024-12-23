@@ -7,7 +7,6 @@ aliases:
   - Neural Networks
 category: Machine Learning
 ---
-
 >[!Summary]
 > Deep learning is a subset of machine learning that uses neural networks to process large-scale data for tasks like image and speech recognition, natural language processing, and recommendation systems. 
 > 
@@ -45,12 +44,11 @@ Areas of Deep Learning:
 >[!Related Topics]
 > - [[Transfer Learning]]: Applying pre-trained models to new tasks.
 
+# Notes:
 
+Deep Learning is taking off now because we have more data and faster computation speeds.
 
-
-
-
-
-
-
-
+Differences between [[Machine Learning]] (Traditional) and [[Deep Learning]]:
+- [[Feature Extraction]] required for ML, DL dont need or when this is hard to do.
+- DL needs more data
+- DL requires high comp power.

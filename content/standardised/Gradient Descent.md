@@ -7,7 +7,6 @@ aliases:
 ---
 >[!Summary]
 > Gradient descent is an optimization algorithm used to minimize errors in a model by adjusting its parameters iteratively. It works by moving in the direction of the steepest decrease of the [[Loss function]].
-### Gradient Descent
 
 Uses the difference quotient.
 
@@ -17,17 +16,29 @@ With Stochastic method we can don't need to the entire data set again, we can ju
 
 Gradient descent uses the entire data set.
 
+Used to find the min/max of [[Cost Function]].
+
+Given any point on the cost function surfaces. Then ask, "In what direction should I go to make the biggest change downhill or up hill, i.e. gradient descent"
+
+![[Obsidian_EPIqLAto5w.png|500]]
+
+![[Obsidian_FEGflF5RKQ.png|500]]
+
+How do you implement Gradient descent? You update the (direction) parameter by the small step by the [[learning rate]].
+
+![[Obsidian_M4mzGSAx7d.png|500]]
+
 ### [[Stochastic Gradient Descent]]
 Stochastic uses random entries to get derivative instead of the full dataset
 Why do we use [[Stochastic Gradient Descent]]?;; To find the derivative of discrete data so we can determine a straight line with the Least Square Error (LSE).
 What is [[Stochastic Gradient Descent]]?;; updates the model parameters based on the gradient of a single randomly chosen data point. 
-
 ### [[Batch gradient descent]]
 What is [[Batch gradient descent]]?;; computes the gradient of the entire dataset,
-
 ### [[Mini-batch gradient descent]]
 Stochastic Mini-batched descent is the fastest way (groups then does randomly).
 What is [[Mini-batch gradient descent]]?;; Is a compromise of [[Batch gradient descent]] and [[Stochastic Gradient Descent]].
 
-
 **What is the difference between batch gradient descent and stochastic gradient descent?**;; Batch gradient descent computes the gradient of the cost function using the entire training dataset in each iteration, while stochastic gradient descent updates the model's parameters based on the gradient of the cost function with respect to one training example at a time. Mini-batch gradient descent is a compromise, using a subset of the training data in each iteration.
+
+
+

@@ -95,7 +95,7 @@ This format organizes the information clearly, making it easier to understand th
 
 **user**: Format this text:
 
-A transformer in machine learning (ML) refers to a deep learning model architecture designed to process sequential data, such as natural language [[NLP]]. It was introduced in the paper [[Attention Is All You Need]] and has since become a cornerstone in Natural Language Processing ([[NLP]]) tasks.
+A transformer in machine learning (ML) refers to a deep learning model architecture designed to process sequential data, such as natural language [[NLP]]. It was introduced in the paper [[standardised/Attention Is All You Need]] and has since become a cornerstone in Natural Language Processing ([[NLP]]) tasks.
 
 [[Transformers vs RNNs]]
 

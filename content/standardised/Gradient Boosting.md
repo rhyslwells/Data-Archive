@@ -18,7 +18,7 @@ High Performance: Known for its high performance and efficiency in terms of spee
 
 - [[Weak Learners]]: Typically decision trees used in the ensemble.
 - [[Loss Function]]: Measures how well the model fits the data.
-- [[Learning Rate]]: Controls the contribution of each weak learner to the final model.
+- [[learning rate]]: Controls the contribution of each weak learner to the final model.
 
 ### Examples
 
