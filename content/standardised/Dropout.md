@@ -1,1 +1,0 @@
-Regularisation technique for [[Neural network]]

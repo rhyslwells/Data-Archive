@@ -15,3 +15,5 @@ https://superuser.com/questions/272699/how-do-i-draw-a-tree-file-structure
 [Graphviz](https://graphviz.org/)
 
 
+tree /a /f >output.doc
+

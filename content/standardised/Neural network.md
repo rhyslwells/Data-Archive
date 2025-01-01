@@ -20,10 +20,9 @@ sigmoid, TanH, RELu,softmax. But how to choose them?
 
 Methods to get parameters (weights biases) for NN using training data to reduce the errors in predictions: 
 
-	[[Forward propagation]] is the process of pushing inputs through the net NN. At the end of each [[epoch]], the obtained outputs are
-	compared to targets to form the errors.
-	
-	[[Backpropagation]] 
+[[Forward propagation]] is the process of pushing inputs through the net NN. At the end of each [[epoch]], the obtained outputs are compared to targets to form the errors.
+
+[[Backpropagation]] 
 ## To explore
 
 - **[[Multilayer Perceptrons]] (MLP)**: A basic fully connected network with multiple layers.
@@ -56,7 +55,7 @@ Methods to get parameters (weights biases) for NN using training data to reduce 
    - Each connection between neurons has a weight that determines how much influence one neuron has on another. Weights are adjusted during the learning process to minimize the error in predictions.
    - Biases allow the network to shift the output of the activation function and help it better fit the data.
 
-4. [[Activation Function]]:
+ [[Activation Function]]
    - An activation function introduces ==non-linearity== to the model, enabling the neural network to learn complex patterns. Popular activation functions include:
      - **[[ReLU]] (Rectified Linear Unit)** : Outputs zero for negative inputs and the input value itself for positive inputs.
      - **[[Sigmoid]]**: Squashes the input to a range between 0 and 1.
@@ -98,12 +97,30 @@ Methods to get parameters (weights biases) for NN using training data to reduce 
 - **Computationally Intensive**: Training deep networks can require substantial computational resources.
 - **Black Box Nature**: The internal decision-making process is often difficult to interpret, although research into interpretability is addressing this.
 
-
-[[Neural network]]
 What is a Node in a [[Neural network|Neural Network]]?;; Nodes in a [[Neural network|neural network]] are basic computational units that receive inputs, perform a weighted sum of those inputs, and apply an activation function to produce an output. 
 
 How are weights initialized in a [[Neural network|neural network]]?;; Initializing all weights randomly: the weights are assigned randomly by initializing them very close to 0. It gives better accuracy to the model since every neuron performs different computations.
 
+Neural networks are structured as layers with input, hidden, and output layers, applying activation functions to learn patterns in data.
 
+### Implementation
 
-- Neural networks are structured as layers with input, hidden, and output layers, applying activation functions to learn patterns in data.
+```python
+
+tf.random.set_seed(1234)
+model_r = Sequential(
+    [
+        ### START CODE HERE ### 
+        tf.keras.layers.Dense(120, activation="relu", kernel_regularizer=tf.keras.regularizers.l2(0.1)),
+        tf.keras.layers.Dense(40, activation="relu", kernel_regularizer=tf.keras.regularizers.l2(0.1)),
+        tf.keras.layers.Dense(6, activation="linear")
+        ### START CODE HERE ### 
+    ], name= None
+)
+model_r.compile(
+    ### START CODE HERE ### 
+    loss=SparseCategoricalCrossentropy(from_logits=True),
+    optimizer=tf.keras.optimizers.Adam(lr=0.01),
+    ### START CODE HERE ### 
+)
+```

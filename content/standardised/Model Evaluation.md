@@ -8,6 +8,8 @@ importance:
 engagement: 
 recency_of_interest:
 ---
+Assess the model's performance using various metrics to ensure it meets the desired accuracy and reliability.
+
 Appropriate evaluation metrics are used based on the problem type (classification vs. regression), to assess how well the model predicts.
 
 ==The aim is to improve accuracy but also to generalize and avoid biases== and [[Overfitting]].
@@ -21,4 +23,4 @@ For regression tasks: [[Regression metrics]]: Metrics like Mean Absolute Error (
 
 [[Cross Validation]] is a technique used to assess the performance of a model by splitting the data into multiple subsets for training and testing to assesses performance and generalization. It helps detect [[Overfitting]], provides reliable performance estimates.
 
-
+[[Feature Importance]]: After training, analyze which features have the most significant impact on the model's predictions.

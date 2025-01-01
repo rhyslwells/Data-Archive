@@ -5,8 +5,7 @@ tags:
 aliases:
   - GD
 ---
->[!Summary]
-> Gradient descent is an optimization algorithm used to minimize errors in a model by adjusting its parameters iteratively. It works by moving in the direction of the steepest decrease of the [[Loss function]].
+Gradient descent is an [[Optimisation function]] used to minimize errors in a model by adjusting its parameters iteratively. It works by moving in the direction of the steepest decrease of the [[Loss function]].
 
 Uses the difference quotient.
 
@@ -39,6 +38,27 @@ Stochastic Mini-batched descent is the fastest way (groups then does randomly).
 What is [[Mini-batch gradient descent]]?;; Is a compromise of [[Batch gradient descent]] and [[Stochastic Gradient Descent]].
 
 **What is the difference between batch gradient descent and stochastic gradient descent?**;; Batch gradient descent computes the gradient of the cost function using the entire training dataset in each iteration, while stochastic gradient descent updates the model's parameters based on the gradient of the cost function with respect to one training example at a time. Mini-batch gradient descent is a compromise, using a subset of the training data in each iteration.
+# [[Gradient Descent]]
 
+Gradient descent is commonly used in:
+- **Deep Learning**: Frameworks like TensorFlow and PyTorch use variations of gradient descent for training.
+- **Custom Implementations**: If you write logistic regression from scratch, gradient descent is a straightforward optimization method.
 
+### **How Gradient Descent Works**
 
+Gradient Descent, a common [[Optimisation techniques]], iteratively updates the [[Model Parameters]] by computing the gradient of the [[loss function]] with respect to the parameters. The update formula is:
+
+$\theta = \theta - \alpha \nabla_{\theta} \text{Cost}(\theta)$
+
+Where:
+- $\theta$ are the parameters (intercept and coefficients).
+- $\alpha$ is the learning rate (step size for updates).
+- $\nabla_{\theta} \text{Cost}(\theta)$ is the gradient of the [[cost function]] with respect to the parameters $\theta$.
+
+#### Process:
+
+1. Calculate the gradient of the loss function.
+2. Adjust the parameters in the direction of the negative gradient (to reduce loss).
+3. Repeat until either:
+    - The loss function converges (minimal change between updates), or
+    - The maximum number of iterations is reached.

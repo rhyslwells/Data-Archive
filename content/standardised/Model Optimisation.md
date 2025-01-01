@@ -9,6 +9,8 @@ Model optimization is a step in the machine learning workflow aimed at enhancing
 - Generalization: Enhance the model's ability to perform well on unseen data, avoiding overfitting.
 
 ### Process:
+0. [[Model Parameters]] tuning
+
 1. [[Hyperparameter|Hyperparameter tuning]]
    - Adjust hyperparameters such as learning rate, number of layers in a neural network, and regularization strength to find the optimal configuration.
    - Techniques like grid search, random search, or Bayesian optimization can be used for this purpose.
@@ -25,3 +27,5 @@ Model optimization is a step in the machine learning workflow aimed at enhancing
 4. [[Cross Validation]]
    - A technique to assess the model's performance by splitting the data into multiple subsets for training and testing.
    - Helps in detecting overfitting and provides reliable performance estimates.
+
+5. [[Model Ensembling]]: Combining models to get better performance

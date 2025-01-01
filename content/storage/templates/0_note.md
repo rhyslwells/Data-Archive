@@ -1,5 +1,8 @@
 ---
 tags: 
 aliases: 
-category:
+category: 
+phase: 
+topic: 
+filename:
 ---

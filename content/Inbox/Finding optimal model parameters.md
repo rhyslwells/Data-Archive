@@ -1,0 +1,20 @@
+To find optimal [[Model Parameters]]
+## Finding Optimal Model Parameters
+
+1. Parameter Space Exploration:
+   - It's useful to visualize slices of the parameter space by selecting two parameters at a time. This helps in understanding how different parameter values affect the model's performance.
+
+2. [[Cost Function]]
+   - The cost function is used to find the minimum error in predictions. It measures the difference between predicted and actual values, and the goal is to minimize this function to improve model accuracy.
+
+3. [[Optimisation function]]
+   - Ideal parameters are found using optimization functions, which adjust the model parameters to minimize the loss function. Common optimization algorithms include Gradient Descent, Adam Optimizer, and Stochastic Gradient Descent.
+
+4. Data Splitting:
+   - Split the data into training and cross-validation sets to evaluate model performance. Plot the parameter of interest on the x-axis and accuracy on the y-axis to visualize performance.
+
+[[Optimisation techniques]]
+
+
+
+![[Pasted image 20241231142918.png|500]]

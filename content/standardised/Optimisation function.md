@@ -1,16 +1,19 @@
 ---
 title: 
 tags: 
-aliases: 
+aliases:
+  - optimiser
 category:
 ---
-Optimisation functions vary the parameters of the model to minimize the [[Loss function]].
+Optimization functions adjust the [[Model Parameters]] to minimize the [[Loss function]], which measures how well the model performs. This is a fundamental step in training machine learning models.  
 
-In short, the **loss function** defines the objective (minimizing error), while the **optimization function** determines how the model's parameters are adjusted to achieve this goal.
+ General Optimization Process  
+The [[Optimisation function]] (e.g., LBFGS, Newton-CG) iteratively updates the [[Model Parameters]] by:  
+1. Calculating the gradient of the loss function with respect to the parameters.  
+2. Updating the parameters in the direction of the negative gradient (as described in [[Gradient Descent]]).  
 
-An **optimization function** and a **[[Loss function]]** are related but not the same. Here's a breakdown of the difference:
+This process is repeated until:  
+- The cost function converges (i.e., the change in the loss function becomes negligible), or  
+- The maximum number of iterations is reached.  
 
-- **Loss Function**: This function measures how well a model's predictions match the actual target values. It ==quantifies the error between the predicted output and the true output==. Examples include [[Mean Squared Error]] (MSE) for regression and [[Cross-Entropy]] for classification. The loss function is what the model aims to minimize during training.
-  
-- **Optimization Function**: This is the algorithm ==used to minimize the loss function== by adjusting the model's parameters (weights and biases). The most common optimization method is [[Gradient Descent]] where the optimization function computes the gradient of the loss function with respect to the model parameters and updates them accordingly. Other optimization algorithms include [[Adam Optimizer]], RMSprop, and [[Stochastic Gradient Descent]] (Stochastic Gradient Descent).
-
+See [[Optimisation techniques]]

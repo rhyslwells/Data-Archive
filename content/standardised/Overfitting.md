@@ -12,7 +12,7 @@ aliases:
 > 
 >Mathematically, overfitting results in a model with low bias but high variance, meaning it adapts too closely to the training data and fails to generalize well.
 >
->Key methods to address overfitting include [[regularisation]] (such as $L_1$ and $L_2$ regularization), [[Cross Validation]], and simpler models.
+>Key methods to address overfitting include [[Regularisation]] (such as $L_1$ and $L_2$ regularization), [[Cross Validation]], and simpler models.
 >
 >In statistical terms, it indicates a model with high complexity and too many parameters relative to the amount of training data, which results in $f(x)$ poorly representing the population distribution.
 

@@ -22,7 +22,7 @@ Transfer learning makes sense when:
 - Low level features from A could be helpful for learning B.
 - When labelled data is scarce.
 
-We can use pretrained models (i.e. from [[hugging face]], [[Keras]] applications, [[PyTorch]] pretrained models, model zoo).
+We can use pretrained models (i.e. from [[Hugging Face]], [[Keras]] applications, [[PyTorch]] pretrained models, model zoo).
 
 Examples of Transfer Learning
 - **Image Recognition:** A model trained on a large dataset of labelled images (e.g., ImageNet) can learn features like edges, shapes, and textures that are useful for recognising a wide variety of objects. These features can then be transferred to a different image recognition task with a smaller dataset, such as classifying medical images or identifying different species of plants.

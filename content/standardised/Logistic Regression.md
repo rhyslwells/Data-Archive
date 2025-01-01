@@ -98,7 +98,7 @@ Another example is using logistic regression in Breast Cancer dataset can be a s
 
 In machine learning, after training the logistic regression model, we evaluate its performance using metrics such as the **[[Confusion Matrix]]** or the **Classification report**, which provide insight into the model's **accuracy**, **precision**, **recall**, and **[[F1 Score]]**.
 
-In [[Scikit-learn]], logistic regression can be implemented as follows:
+In [[Sklearn]], logistic regression can be implemented as follows:
 
 ```python
 from sklearn.linear_model import LogisticRegression
@@ -120,7 +120,7 @@ The [[Confusion Matrix]] and [[Classification Report]] help evaluate how well th
 
 ### Statsmodel Summary table
 
-Statsmodel has this summary table unlike [[Scikit-learn]]
+Statsmodel has this summary table unlike [[Sklearn]]
 
 [Explanation of summary](https://youtu.be/JwUj5M8QY4U?t=658)
 
@@ -134,3 +134,6 @@ The dependent variable is 'duration'. The model used is a Logit regression (logi
 Specifically a graph such as,
 ![[Pasted image 20240124095916.png]]
 
+# [[Logistic Regression]]
+
+You can extend [[Logistic Regression]] to handle non-linear boundaries in the data space.

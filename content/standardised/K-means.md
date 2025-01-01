@@ -21,7 +21,15 @@ Visualization: Scatterplots can be used to visualize clusters and their centroid
 
 Adaptability: K-means can be updated with new data and allows for comparison of changes in centroids over time.
 
-![[Pasted image 20241113104036.png|500]]
+The initial centroids can effect the end results. 
+
+To correct this the algo is run multiple times with varying starting positions.
+
+The centroids are updated after each iteration.
+
+![[Pasted image 20241230200255.png]]
+
+
 ## Limitations
 
 - Sensitivity to Initialization: The algorithm is sensitive to the initial placement of centroids, which can affect the final clustering outcome.

@@ -5,6 +5,8 @@ tags:
   - evaluation
   - model_explainability
 ---
+Tree models, such as Random Forests and Gradient Boosting, can also be regularized, although they don’t use L1 or L2 regularization directly. Instead, they are regularized through hyperparameters like max depth, min samples split, and learning rate to control the complexity of the trees.
+
 In tree-based models, regularization is not applied in the same way as it is in linear models (i.e., using L1 or L2 penalties). 
 
 In tree models, [[Regularisation]] is done by controlling the growth of the trees using [[hyperparameters]] like 
@@ -24,6 +26,14 @@ For [[Model Ensembling]] methods like Random Forests and Gradient Boosting, addi
 to help prevent overfitting. These techniques effectively restrict the model complexity, leading to better generalization .
 
 Below are the common regularization techniques used in tree models such as [[Decision Tree]], [[Random Forests]].
+
+### Regularization in Different Tree Models
+
+- Decision Trees: Prone to overfitting when not regularized, since they tend to grow large and complex trees. Regularization through pruning, limiting tree depth, and controlling minimum samples per split or leaf is critical.
+
+- Random Forests: Regularization is mainly achieved through the use of multiple decision trees, random feature selection (`max_features`), and bootstrapping (`bootstrap`). Each tree learns a different part of the data, which reduces overfitting.
+
+- Gradient Boosting Models (GBMs): Regularized by tuning the `learning_rate`, `subsample`, and controlling the tree depth and other tree-based hyperparameters like `min_samples_split`. The slower learning process with a smaller learning rate combined with these hyperparameters helps prevent overfitting.
 ### Regularization Techniques for Tree Models
 
 1. Limiting Tree Depth:
@@ -102,14 +112,4 @@ Below are the common regularization techniques used in tree models such as [[Dec
     model = DecisionTreeClassifier(ccp_alpha=0.01)
     model.fit(X_train, y_train)
     ```
-
-### Regularization in Different Tree Models
-
-- Decision Trees: Prone to overfitting when not regularized, since they tend to grow large and complex trees. Regularization through pruning, limiting tree depth, and controlling minimum samples per split or leaf is critical.
-
-- Random Forests: Regularization is mainly achieved through the use of multiple decision trees, random feature selection (`max_features`), and bootstrapping (`bootstrap`). Each tree learns a different part of the data, which reduces overfitting.
-
-- Gradient Boosting Models (GBMs): Regularized by tuning the `learning_rate`, `subsample`, and controlling the tree depth and other tree-based hyperparameters like `min_samples_split`. The slower learning process with a smaller learning rate combined with these hyperparameters helps prevent overfitting.
-
-
 

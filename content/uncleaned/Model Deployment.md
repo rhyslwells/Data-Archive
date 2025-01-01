@@ -3,6 +3,8 @@ tags:
   - deleted
   - model_architecture
 ---
+ Deploy the model into a production environment where it can be used
+
 
 After building and evaluating the model, you can deploy it into production to make predictions on new data. This step involves:
      - Exporting the model (using tools like joblib or pickle in Python).

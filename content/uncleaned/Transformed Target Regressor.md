@@ -1,4 +1,4 @@
-[[Scikit-learn]]
+[[Sklearn]]
 
 The `TransformedTargetRegressor` is a utility class in `scikit-learn` that applies a transformation to the target values in a regression problem. This can be useful in several scenarios:
 

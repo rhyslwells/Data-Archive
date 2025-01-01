@@ -1,5 +1,3 @@
-# [[Firebase]]
-
 Googles version of [[AWS]]
 
 Setup basics 

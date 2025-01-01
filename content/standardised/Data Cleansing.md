@@ -17,5 +17,9 @@ category:
 
 [[Outliers|Handling Outliers]]
 
+[[One-hot encoding]]
+
+
+
 
 
