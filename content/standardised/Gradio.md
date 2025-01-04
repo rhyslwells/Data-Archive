@@ -10,4 +10,4 @@ Main uses:
 
 ### Related content
 
-[[0_Inbox/Project ideas]]
+[[1_Overview/Project ideas]]

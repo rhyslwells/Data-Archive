@@ -20,11 +20,11 @@ Welcome to the Data Archive, an archive of my data-related concepts. Inspired by
 The [[Data Archive]] is split into the following areas:
 
 > [!abstract]- Questions
-> The [[Questions]] page is the part of the Data Archive where I document questions which are relevant to me.
+> The [[1_Overview/Questions]] page is the part of the Data Archive where I document questions which are relevant to me.
 > 
 
 > [!abstract]- Standardised
-> This folder is the knowledge-oriented part of the Data Archive; it follows the [[Zettelkasten]] method. Here, each note deals with one (and only one) concept or thought, and they are all linked together. Think of it as a personal Wikipedia that contains everything I know. Use the tagging system or [[Questions]] to help navigate these notes.
+> This folder is the knowledge-oriented part of the Data Archive; it follows the [[Zettelkasten]] method. Here, each note deals with one (and only one) concept or thought, and they are all linked together. Think of it as a personal Wikipedia that contains everything I know. Use the tagging system or [[1_Overview/Questions]] to help navigate these notes.
 >
 
 > [!abstract]- Tasks

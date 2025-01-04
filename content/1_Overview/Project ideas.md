@@ -1,4 +1,4 @@
-# [[0_Inbox/Project ideas]]
+# [[1_Overview/Project ideas]]
 
 Host a project online using [[Gradio]] to showcase it.
 
