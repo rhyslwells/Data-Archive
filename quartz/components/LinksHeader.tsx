@@ -14,13 +14,13 @@ export default (() => {
             <a href="/Data-Archive/pages/Data_Archive">Data Archive</a>
           </span>
           <span>
-            <a href="/Data-Archive/pages/Questions">Questions</a>
+            <a href="/Data-Archive/0_Inbox/Questions">Questions</a>
           </span>
           <span>
-            <a href="/Data-Archive/pages/Overview">Overview</a>
+            <a href="/Data-Archive/0_Inbox/Overview">Overview</a>
           </span>
           <span>
-            <a href="/Data-Archive/Tasks">Tasks</a>
+            <a href="/Data-Archive/0_Inbox/Tasks">Tasks</a>
           </span>
         </div>
         <hr style={{ backgroundColor: 'var(--gray)', borderTop: '1px solid var(--gray)', marginTop: '1.3rem' }} />

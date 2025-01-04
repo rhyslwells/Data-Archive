@@ -11,16 +11,16 @@ export default (() => {
       <div>
         <div id="links-header">
           <span>
-            <a href="/pages/Data_Archive">Data Archive</a>
+            <a href="/Data-Archive/pages/Data_Archive">Data Archive</a>
           </span>
           <span>
-            <a href="/pages/Questions">Questions</a>
+            <a href="/Data-Archive/0_Inbox/Questions">Questions</a>
           </span>
           <span>
-            <a href="/Monthly_Review/Goals">Goals</a>
+            <a href="/Data-Archive/0_Inbox/Overview">Overview</a>
           </span>
           <span>
-            <a href="/Tasks">Tasks</a>
+            <a href="/Data-Archive/0_Inbox/Tasks">Tasks</a>
           </span>
         </div>
         <hr style={{ backgroundColor: 'var(--gray)', borderTop: '1px solid var(--gray)', marginTop: '1.3rem' }} />
