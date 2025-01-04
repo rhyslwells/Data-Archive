@@ -20,12 +20,10 @@ Common [[Classification]] algorithms include:
 - [[Random Forests]]
 
 Common [[Regression]] algorithms include:
-
 - [[Linear Regression]]
 - [[Support Vector Regression]]
 - [[Random Forest Regression]]
 
-![[Pasted image 20241012152141.png]]
 # [[Unsupervised Learning]]
 
 Common [[Clustering]] algorithms include:

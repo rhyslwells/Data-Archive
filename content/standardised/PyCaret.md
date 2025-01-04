@@ -5,7 +5,7 @@ See
 
 It allows users to build, evaluate, and deploy machine learning models with minimal coding and effort. 
 
-PyCaret provides an end-to-end solution for automating repetitive tasks in machine learning, such as [[data preprocessing]], model training, [[hyperparameter]] tuning, and deployment.
+PyCaret provides an end-to-end solution for automating repetitive tasks in machine learning, such as [[Preprocessing]], model training, [[hyperparameter]] tuning, and deployment.
 ### Key Features of PyCaret
 
 1. Ease of Use: PyCaret is designed to be beginner-friendly, enabling users to build models without deep expertise in coding.

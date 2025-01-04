@@ -5,7 +5,7 @@ tags:
 aliases: 
 category:
 ---
-Dimensionality reduction is a step in the [[Data Preprocessing]] phase of machine learning that helps simplify models, enhance interpretability, and improve computational efficiency.
+Dimensionality reduction is a step in the [[Preprocessing]] phase of machine learning that helps simplify models, enhance interpretability, and improve computational efficiency.
 
 Its a technique used to reduce the number of input variables (features) in a dataset while retaining as much information as possible. This process is essential for several reasons:
 

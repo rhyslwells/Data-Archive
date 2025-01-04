@@ -47,3 +47,6 @@ The model is trained on a dataset where the house prices are known (labeled data
 #### Code implementation
 
 That is there is a y_train, then uses to get y_pred (from X_test) and compare against y_test.
+
+
+![[Pasted image 20241012152141.png]]

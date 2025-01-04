@@ -6,22 +6,15 @@ tags:
 importance: 6
 engagement: 8
 recency_of_interest: 2024-09-28
-aliases: 
+aliases:
+  - Observability
 category:
 ---
-Monitor the model's performance over time.
+Monitor the model's performance over time (in production). Similar to [[Model Validation]].
 
-[[Model Validation]]
-
-[[Model Retraining]]: Retrain on new data.
-
----
-
-In the context of machine learning (ML), **[[Data Observability]]** refers to the ability to ==monitor, understand, and diagnose the performance and behaviour of ML models== in production. 
+In the context of machine learning (ML), **Observability** refers to the ability to ==monitor, understand, and diagnose the performance and behaviour of ML models== in production. 
 
 It encompasses the processes, tools, and techniques that help practitioners ensure models are functioning as expected and identify when they deviate from desired outcomes. 
-
-Observability is particularly important because models often interact with dynamic data environments and user behaviours, which can cause [[performance drift]], bias, or other unintended consequences.
 
 ## Key aspects of **observability in machine learning** include:
 
@@ -47,14 +40,14 @@ Observability is a process in ML, and is usually achieved through logging, metri
    - Setting up ==automated alerts== when certain thresholds are breached, such as a sudden drop in accuracy or an increase in response time. This allows for prompt interventions, whether retraining the model, adjusting the pipeline, or tuning hyperparameters.
 
 ## Why Observability Matters in Machine Learning:
+
 - **Ensures Reliability**: Observability provides insights into how models behave under different conditions, ensuring that they remain reliable and consistent in their performance.
-- **Prevents Model Drift**: With observability, teams can detect model drift early, enabling them to retrain or recalibrate the model before performance deteriorates.
+- **Prevents Model Drift** ([[Performance drift]]): With observability, teams can detect model drift early, enabling them to retrain or recalibrate the model before performance deteriorates.
 - **Improves Accountability**: Particularly in high-stakes applications, having observability in place allows organizations to understand and justify the model’s decisions.
 - **Supports Continuous Monitoring**: Observability is critical in ML systems that operate continuously in production, ensuring they are making accurate and meaningful predictions over time.
 
 Monitor the model's performance over time. If the data distribution changes (concept drift), or the model's accuracy declines, retraining or updating the model may be necessary.
 
-[[Performance drift]]
-
-Related to:
+## Related to:
 - [[Data Observability]]
+- [[Model Validation]]

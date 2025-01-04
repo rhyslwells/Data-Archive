@@ -18,7 +18,6 @@ category: Data Science, Machine Learning
 > **Regressor**: This is a type of model used for regression tasks, where the goal is to predict continuous values. For example, a regressor might be used to predict the price of a house based on its features, or to forecast future sales figures.
 
 
-
 >[!Breakdown]  
 > Key Components:  
 > - [[Linear Regression]]: Predicts $y = \beta_0 + \beta_1x_1 + \dots + \beta_nx_n + \epsilon$, where $\epsilon$ is the error term.  
@@ -40,10 +39,3 @@ category: Data Science, Machine Learning
 >[!Follow up questions]  
 > -  How can [[Polynomial Regression]] improve predictions in non-linear datasets?  
 > -  What are the benefits of combining [[Linear Regression]] with [[Feature Engineering]] for complex datasets?  
-
->[!Related Topics]  
-> - [[Non-linear Regression]] techniques  
-> - [[Dimensionality Reduction]] in high-dimensional datasets  
-
-
-

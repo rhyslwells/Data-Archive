@@ -4,6 +4,7 @@ tags:
   - data_cleaning
   - data_processing
 category: Data Science
+phase: preprocess
 ---
 Used in preparing data for machine learning models. 
 
@@ -13,6 +14,7 @@ This ensures that all features contribute equally to the model's performance, es
 
 By using methods like normalization and standardization, you can enhance the performance and accuracy of your models.
 
+Examples of algorithms not affected by feature scaling are [[Naive Bayes]], [[Decision Tree]], and [[Linear Discriminant Analysis]].
 ### Why Use Feature Scaling?
 Feature scaling is important for several reasons:
 
@@ -25,7 +27,7 @@ Feature scaling is important for several reasons:
 ### Common Scaling Methods
 The two most discussed methods for feature scaling are:
 
-- **Normalization**: ==Rescales the feature values== to a range of [0, 1]. This is useful when you want to ensure that all features contribute equally to the distance calculations.
+- **[[Normalisation]]**: ==Rescales the feature values== to a range of [0, 1]. This is useful when you want to ensure that all features contribute equally to the distance calculations.
 
     ```python
     from sklearn.preprocessing import MinMaxScaler
@@ -34,7 +36,7 @@ The two most discussed methods for feature scaling are:
     df_normalized = scaler.fit_transform(df)  # Rescales each feature to [0, 1]
     ```
 
-- **Standardization**: ==Rescales the data to have a mean of 0 and a standard deviation of 1== (unit variance). This method is particularly useful when the data follows a Gaussian distribution.
+- **[[Standardisation]]**: ==Rescales the data to have a mean of 0 and a standard deviation of 1== (unit variance). This method is particularly useful when the data follows a Gaussian distribution.
 
     ```python
     from sklearn.preprocessing import StandardScaler

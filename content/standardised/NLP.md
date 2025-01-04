@@ -13,7 +13,7 @@ Natural Language Processing (NLP) involves the interaction between computers and
 
 ## Key Concepts
 
-### [[Feature Preprocessing]]
+### [[Preprocessing]]
 - **[[Normalisation of Text]]**: The process of converting text into a standard format, which may include lowercasing, removing punctuation, and stemming or [[lemmatization]].
 - **[[Part of speech tagging]]**: Assigning a specific part-of-speech category (such as noun, verb, adjective, etc.) to each word in a text.
 

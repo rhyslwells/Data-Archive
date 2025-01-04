@@ -3,8 +3,10 @@ tags:
   - ml_process
   - deleted
   - evaluation
-aliases: 
-category:
+aliases:
+  - Selection
+category: 
+phase: Selection
 ---
 Model selection is an integral part of building a [[Machine Learning Operations]] to ensure that the best performing model is chosen for a given task, avoiding issues like overfitting or underfitting.
 
@@ -28,5 +30,4 @@ Common approaches for model selection include:
 - Bayesian Optimization, which can be used to efficiently search the hyperparameter space.
 - Choose the best-performing model based on [[Evaluation Metrics]] and optimization results.
 - [[Cross Validation]]: Evaluate the model more robustly by splitting the training data into smaller chunks and training the model multiple times.
-
 - [[Model Interpretability]]: Utilize tools to understand and interpret the model's predictions, ensuring transparency and trustworthiness.

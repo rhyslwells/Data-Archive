@@ -74,16 +74,16 @@ When selecting data for machine learning models, several important consideration
    - Consider the size of your dataset. More data can lead to better models, but it also requires more computational resources. Ensure you have enough data to train your model effectively.
 
 4. Balance: [[Imbalanced Datasets]]
-   - Check for class imbalance in classification problems. An imbalanced dataset can bias the model towards the majority class. Techniques like resampling, synthetic data generation, or using different evaluation metrics can help address this.
+   - Check for [[Imbalanced Datasets|class imbalance]] in classification problems. An imbalanced dataset can bias the model towards the majority class. Techniques like resampling, synthetic data generation, or using different evaluation metrics can help address this.
 
 5. Feature Distribution: [[Distributions]]
-   - Analyze the distribution of your features. Features with skewed distributions may need transformation ([[Data Transformation]]) (e.g., log transformation) to improve model performance.
+   - Analyze the distribution of your features. Features with skewed [[distributions]] may need transformation ([[Data Transformation]]) (e.g., log transformation) to improve model performance.
 
 6. [[Correlation]]:
    - Examine the correlation between features. Highly correlated features can lead to [[multicollinearity]], which can affect model stability and interpretability. Consider removing or combining correlated features.
 
 7. Dimensionality: [[Dimensionality Reduction]]
-   - High-dimensional data can lead to overfitting. Techniques like feature selection, dimensionality reduction (e.g., PCA), or regularization can help manage this.
+   - High-dimensional data can lead to overfitting. Techniques like [[feature selection]], dimensionality reduction (e.g., PCA), or regularization can help manage this.
 
 8. Temporal Considerations:
 - For time series data, ensure that the temporal order is maintained. Avoid data leakage by ensuring that future information is not used in training.
@@ -92,10 +92,8 @@ When selecting data for machine learning models, several important consideration
    - Leverage domain expertise to select features that are known to be important for the problem. This can guide feature engineering and selection.
 
 10. Data Leakage:
-  - Be cautious of data leakage, where information from the test set is inadvertently used in training. This can lead to overly optimistic performance estimates.
+  - Be cautious of [[Data Leakage]], where information from the test set is inadvertently used in training. This can lead to overly optimistic performance estimates.
 
 11. Scalability:
 - Consider the scalability of your data selection process. As datasets grow, ensure that your methods can handle larger volumes efficiently.
 
-12. Ethical and Legal Considerations:
-- Ensure that the data used complies with legal and ethical standards, such as data privacy regulations (e.g., GDPR). Avoid using biased or discriminatory data.

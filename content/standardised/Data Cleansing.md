@@ -19,7 +19,4 @@ category:
 
 [[One-hot encoding]]
 
-
-
-
-
+[[Handling Different Distributions]]
