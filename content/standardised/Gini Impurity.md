@@ -14,7 +14,7 @@ Gini impurity is a metric used in decision trees to measure the degree or probab
 
 ## Relationship to Other Metrics
 
-- Gini impurity is one of several [[Regression metrics]] used to evaluate the performance of decision trees, alongside others like entropy.
+- Gini impurity is one of several [[Regression Metrics]] used to evaluate the performance of decision trees, alongside others like entropy.
 
 ## Example
 

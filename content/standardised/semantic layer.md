@@ -28,7 +28,7 @@ Think of [OLAP](standardised/OLAP%20(online%20analytical%20processing).md) cubes
    - Hides the complexity of the underlying data model, such as joins, table structures, and data transformations.
    - Users can focus on business concepts rather than technical details.
 
-3. Consistent [[Metrics]] and Calculations:
+3. Consistent [[Metric]] and Calculations:
    - Provides a centralized definition of key metrics and calculations, ensuring consistency across reports and analyses.
    - For example, a metric like "Total Revenue" would be consistently calculated and presented, regardless of who is querying the data.
 

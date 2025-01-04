@@ -103,3 +103,5 @@ model.fit(X_train, y_train, epochs=10, batch_size=64)
 How to implement [[LSTM]] with [[PyTorch]]?
 https://lightning.ai/lightning-ai/studios/statquest-long-short-term-memory-lstm-with-pytorch-lightning?view=public&section=all
 without lightning - there is a script there
+
+[LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)

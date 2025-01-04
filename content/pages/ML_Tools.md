@@ -10,12 +10,13 @@ Using the [[0_note]] template we can get the paths for the associated files.
 The folder structure follows [[Machine Learning Workflow]] for phases.
 
 phase:
-- Preprocessing
-- Building
+- Preprocess
+- Build
 - Selection
 - Optimisation
 - Deployment
 - Observability
+- Data_Analysis
 
 topic: Dependant on the phase
 filename: Final name of script

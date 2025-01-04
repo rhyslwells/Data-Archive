@@ -28,13 +28,19 @@ category:
 
 --- 
 
-
 Revisit 
 
 [[Loss function]]
 
 [[Gradient Descent]]
 
+[[Precision-Recall Curve]]
+
+[[Cross Entropy]]
+
+[[Time Series]] <- look into
+
+[[PyCaret]]
 
 
 

@@ -3,7 +3,7 @@ tags:
   - statistics
   - evaluation
 ---
-Adjusted R-squared is a [[Regression metrics]]or assessing the quality of a regression model, ==especially when multiple predictors== are involved. It helps ensure that the model remains [[parsimonious]] while still providing a good fit to the data.
+Adjusted R-squared is a [[Regression Metrics]]or assessing the quality of a regression model, ==especially when multiple predictors== are involved. It helps ensure that the model remains [[parsimonious]] while still providing a good fit to the data.
 
 When evaluating a regression model, if you notice a ==large difference== between [[R squared]] and adjusted R², it indicates that the additional predictors may not be improving the model's performance.
 

@@ -2,6 +2,7 @@
 tags:
   - model_architecture
   - ml_optimisation
+filename: Cross_Entropy
 ---
 Cross entropy is a [[Loss function]] used in [[Classification]] tasks, particularly for [[categorical data]]. The cross entropy loss function is particularly effective for multi-class classification problems, where the goal is to assign an input to one of several categories. 
 
@@ -57,3 +58,9 @@ $L = -(\log(0.7))$
 $L \approx -(-0.3567) = 0.3567$
 
 So, the cross entropy loss for this example is approximately 0.3567. This value represents the penalty for the model's predicted probabilities not perfectly matching the true class distribution. The lower the loss, the better the model's predictions align with the true labels.
+### Implementation 
+
+See:
+Cross_Entropy.py
+
+

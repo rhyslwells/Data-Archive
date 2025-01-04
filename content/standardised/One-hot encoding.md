@@ -6,7 +6,6 @@ phase: preprocessing
 topic: 
 filename:
 ---
-
 One-hot encoding is a technique used to convert categorical data into a numerical format that can be used by machine learning algorithms. It is particularly useful when dealing with categorical variables that have no ordinal relationship. 
 
 In one-hot encoding, each category is transformed into a binary vector. If there are \( n \) unique categories, each category is represented by a vector of length \( n \) where one element is "hot" (set to 1) and the rest are "cold" (set to 0). For example, if you have a categorical variable with three categories: "red," "green," and "blue," one-hot encoding would represent them as:

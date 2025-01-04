@@ -4,7 +4,7 @@ Important Considerations:
 
 * [[Imbalanced Datasets|Class Imbalance]]: If the classes are imbalanced, the choice of threshold can be significantly affected. Techniques like oversampling, undersampling, or using weighted loss functions can help mitigate the impact of class imbalance.
 * [[Data Quality]]: The quality of the training data can also influence the choice of threshold. If the data is noisy or contains outliers, the chosen values may not be optimal.
-* Evaluation Metrics: Choose [[evaluation metrics]] that are appropriate for the specific problem and the desired trade-off between different types of errors.
+* Evaluation Metrics: Choose [[Evaluation Metrics]] that are appropriate for the specific problem and the desired trade-off between different types of errors.
 
 Here are common methods for determining the optimal threshold value:
 

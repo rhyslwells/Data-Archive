@@ -19,7 +19,7 @@ Appropriate evaluation metrics are used based on the problem type (classificatio
 
 For categorical classifiers: [[Evaluation Metrics]]:  Use metrics such as accuracy, precision, recall, F1-score, and confusion matrix to evaluate performance.
 
-For regression tasks: [[Regression metrics]]: Metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R²) are used.
+For regression tasks: [[Regression Metrics]]: Metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R²) are used.
 
 [[Cross Validation]] is a technique used to assess the performance of a model by splitting the data into multiple subsets for training and testing to assesses performance and generalization. It helps detect [[Overfitting]], provides reliable performance estimates.
 
