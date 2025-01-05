@@ -1,6 +1,6 @@
 ---
 tags: 
-aliases: 
+aliases: []
 category:
 ---
 Time series data is a sequence of data points collected or recorded at successive points in time, typically at uniform intervals. It captures the temporal ordering of data, which is crucial for analyzing trends, patterns, and changes over time.
@@ -14,8 +14,8 @@ In [[ML_Tools]] see: TimeSeries folder
 
 With time series data, you can:
 
-- [[TimeSeries Forecasting]]
-- [[TimeSeries Identify Trends and Patterns]]
+- [[Time Series Forecasting]]
+- [[Time Series Identify Trends and Patterns]]
 - [[Anomaly Detection]]
 
 

@@ -6,7 +6,7 @@ phase: optimisation
 topic: Adam
 filename:
 ---
-Adam (Adaptive Moment Estimation) is an advanced optimization algorithm that combines the benefits of both [[momentum]] and adaptive learning rates. It is widely used due to its efficiency and effectiveness in training [[deep learning]] models.
+Adam (Adaptive Moment Estimation) is an advanced optimization algorithm that combines the benefits of both [[Momentum]] and adaptive learning rates. It is widely used due to its efficiency and effectiveness in training [[deep learning]] models.
 
 Adam is particularly effective for large datasets and complex models, as it provides robust convergence and requires minimal tuning compared to other optimization algorithms. Its ability to ==dynamically adjust learning rates== makes it a popular choice in the deep learning community.
 #### Key Features of Adam:

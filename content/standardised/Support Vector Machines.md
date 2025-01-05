@@ -7,9 +7,10 @@ aliases:
   - SVM
 category:
 ---
-# Summary
-
 SVM is a type of [[supervised learning]] algorithm primarily used for classification tasks, although it can also be adapted for regression. The main idea behind SVM is to find an optimal ==hyperplane== that divides data into different classes by maximizing the margin between them. The support vectors are the data points closest to the hyperplane, and these points influence the position and orientation of the hyperplane.   It ==maximizes the margin== between the classes, with the support vectors being the closest points to the hyperplane that influence its position.
+
+   - Finds a hyperplane that maximizes the margin between classes.
+   - Robust in high-dimensional spaces like image and text classification.
 ####  Support Vector Classifier (SVC) vs. Support Vector Machine (SVM):
 
    - Support Vector Classifiers (SVCs) are the foundation of SVMs, where the goal is to place a hyperplane between datasets to separate them.
@@ -49,10 +50,6 @@ Soft margins are a measure of how the borders mix, softer more mixing
      - SVM is highly effective for high-dimensional data (datasets with many features).
      - It is useful for classification tasks where a clear margin of separation exists between classes.
    - Disadvantages: 
-     - SVM can be computationally expensive for large datasets.
+     - Can be computationally expensive for large datasets and sensitive to the choice of hyperparameters.
      - The performance of SVM is highly dependent on the ==Kernelling== choice, and selecting the right kernel requires careful tuning.
 
-
-Support Vector Machines (SVMs):
-Limitations
-Can be computationally expensive for large datasets and sensitive to the choice of hyperparameters.

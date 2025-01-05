@@ -10,6 +10,8 @@ They use convolutional layers with learnable filters to extract spatial features
 
 CNNs are particularly effective for image classification, object detection, and image segmentation tasks.
 
+Primarily used in image recognition and processing tasks. CNNs use convolutional layers to automatically detect spatial patterns in images, like edges and textures.
+
 Pooling:
 
 The idea of pooling in convolutional neural networks is to do two things:

@@ -21,5 +21,5 @@ Assumptions (controls for tuning):
 Avoid early stopping as effects network size, and training set size.
 
 Related links:
-- [[Deep Learning Strategy of Use]]
+- [[Optimising Neural Networks]]
 - [[Machine Learning Workflow]]

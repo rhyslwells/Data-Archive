@@ -221,3 +221,7 @@ $P(B|A)=P(Summer|Accident)P(No-Raining|Accident)P(Night|Accident)P(Urban|Acciden
 
 Naive Bayes
 Naive Bayes classifiers are based on Bayes' theorem and assume that the features are conditionally independent given the class label.
+
+[[Naive Bayes]]
+   - A probabilistic classifier based on Bayes' theorem.
+   - Simple and fast, especially effective for text classification.

@@ -11,3 +11,4 @@ Optimization Solvers in [[Sklearn]] : Scikit-learn solvers improve on Gradient D
 - Use second-order information, such as approximations to the Hessian matrix.  
 - Achieve faster and more reliable convergence compared to Gradient Descent.  
 - Automatically adapt step sizes, eliminating the need for manual tuning.
+

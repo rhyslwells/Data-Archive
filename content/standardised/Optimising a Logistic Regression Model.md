@@ -22,7 +22,7 @@ The goal is to minimize this [[cost function]] by finding the optimal $\theta$ v
 
 [[sklearn]] provides different [[Optimisation function]] to find the optimal [[Model Parameters]] for logistic regression. These solvers use optimization techniques like Gradient Descent or more advanced methods like Newton’s Method or Limited-memory Broyden–Fletcher–Goldfarb–Shanno (LBFGS). Here are the main solvers used in `sklearn`:
 
-- 'liblinear': This solver uses coordinate descent or regularized Newton's method and is a good choice for smaller datasets. It supports both L1 (lasso) and L2 ([[ridge]]) regularization.
+- 'liblinear': This solver uses coordinate descent or regularized Newton's method and is a good choice for smaller datasets. It supports both L1 (lasso) and L2 ([[Ridge]]) regularization.
   
 - 'lbfgs': This is a quasi-Newton method (Limited-memory BFGS), which approximates the Newton's method and is more efficient for larger datasets. It’s an iterative solver that converges faster and requires fewer iterations than simple gradient descent.
   
@@ -30,7 +30,7 @@ The goal is to minimize this [[cost function]] by finding the optimal $\theta$ v
   
 - 'saga': An efficient solver that can handle L1 regularization (for sparse solutions) and large datasets. It’s a variant of Stochastic Gradient Descent (SGD) and supports L1, L2, and ElasticNet regularization.
 
-- 'sgd': This is a solver for stochastic [[gradient descent]], which updates parameters iteratively using only a single data point (or a small batch) at a time. It can be slower but is useful for very large datasets.
+- 'sgd': This is a solver for stochastic [[Gradient Descent]], which updates parameters iteratively using only a single data point (or a small batch) at a time. It can be slower but is useful for very large datasets.
 
 ### 5. Convergence Criteria
 

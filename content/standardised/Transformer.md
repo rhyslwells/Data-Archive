@@ -6,9 +6,9 @@ tags:
 aliases:
   - Transformers
 ---
-## Transformers in Machine Learning
-
 A transformer in machine learning (ML) refers to a deep learning model architecture designed to process sequential data, such as natural language processing ([[NLP]]). It was introduced in the paper "[[standardised/Attention Is All You Need]]" and has since become a cornerstone in NLP tasks.
+
+ Transformers excel at handling sequence-based data and are particularly known for their self-attention mechanisms [[Attention mechanism]], which allow them to process long-range dependencies in data.
 
 ### Key Concepts of a Transformer
 
@@ -16,7 +16,7 @@ A transformer in machine learning (ML) refers to a deep learning model architect
     
     - A transformer model consists of an encoder and a decoder, although some models use only the **encoder** (like [[BERT]]) or only the **decoder** (like GPT). Each of these components is made up of layers that include mechanisms for attention and [[Feed Forward Neural Network]].
 
-1. **Self-Attention Mechanism**:
+1. **Self-[[Attention Mechanism]]**:
     
     - The core innovation of transformers is the self-attention mechanism, which allows the model to weigh the importance of different words in a sentence relative to each other. This is crucial for understanding context and relationships in language. See [Attention mechanism].
     - **Scaled Dot-Product Attention**: For each word in a sentence, the model computes attention scores with every other word. These scores are used to create a weighted representation of the input, emphasizing relevant words and de-emphasizing less relevant ones.

@@ -88,6 +88,6 @@ print("Mean CV Score:", cv_scores.mean())
 
 
 ## [[Cross Validation]]
-#### Cross-Validation Strategy in [[TimeSeries]]
+#### Cross-Validation Strategy in [[Time Series]]
 
 All notebooks use cross-validation based on `TimeSeriesSplit` to ensure proper evaluation of performance with no [[Data Leakage]]. This method ensures that training and test data are split while maintaining the chronological order of the data.

@@ -62,3 +62,10 @@ Where:
 3. Repeat until either:
     - The loss function converges (minimal change between updates), or
     - The maximum number of iterations is reached.
+
+[[Gradient Descent]]
+
+[[Cost Function]] value versus number of iterations of [[Gradient Descent]] should decrease
+
+Can use contour plots to show [[Gradient Descent#]] moving towards minima.
+![[Pasted image 20241224082847.png]]

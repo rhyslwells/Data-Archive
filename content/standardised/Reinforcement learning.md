@@ -5,8 +5,6 @@ tags:
 aliases:
   - RL
 ---
-# Overview
-
 Reinforcement Learning ( [[Reinforcement learning|RL]]) is a branch of machine learning where an agent learns to make decisions by interacting with an environment. The agent receives rewards or penalties based on its actions, and its goal is to ==maximize cumulative reward.==
 #### Current Research Problems
 
@@ -37,4 +35,32 @@ Reinforcement Learning ( [[Reinforcement learning|RL]]) is a branch of machine l
 - **Dynamic Programming**: Techniques such as [[Bellman Equations]] equations are central to RL, as they provide a way to break down complex decision-making problems into simpler subproblems.
 - **Optimization Techniques**: Finding optimal [[Policy|polices]] often involves advanced optimization methods, including gradient ascent and policy iteration.
 
-What is reinforcement learning?;; A ML algorithm that learns through trial and error.
+# Reinforcement Learning
+
+Use import gym
+
+Action Space: What actions are available to the agent?
+Observation Space: What information is available to the agent?
+Reward Envioronment: What rewards can be given to the agent?
+
+Loads the enviroemnt for examples
+env = gym.make('LunarLander-v2')
+
+Can step though the environment dynamics
+next_state, reward, done, info = env.step(action)
+
+```python
+# Select an action
+action = 0
+
+# Run a single time step of the environment's dynamics with the given action.
+next_state, reward, done, info = env.step(action)
+
+with np.printoptions(formatter={'float': '{:.3f}'.format}):
+    print("Initial State:", initial_state)
+    print("Action:", action)
+    print("Next State:", next_state)
+    print("Reward Received:", reward)
+    print("Episode Terminated:", done)
+    print("Info:", info)
+```

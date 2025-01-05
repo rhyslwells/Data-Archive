@@ -10,7 +10,9 @@ A Decision Tree is a type of [[Supervised Learning]] algorithm used to predict a
 
 Decision Tree Structure are a flowchart-like model where each internal node represents a decision based on a feature, branches represent outcomes, and leaf nodes represent final predictions.
 
-The decision tree algorithm calculates the Gini impurity for each possible split and selects the one with the lowest impurity. Use to make predictions on new data, the algorithm traverses the decision tree from the root node to a leaf node, following decision rules based on input features. Once it reaches a leaf node, it assigns the corresponding class label or prediction.
+Splits data recursively based on feature importance, forming a tree-like structure.
+
+The decision tree algorithm calculates the [[Gini impurity]] for each possible split and selects the one with the lowest impurity. Use to make predictions on new data, the algorithm traverses the decision tree from the root node to a leaf node, following decision rules based on input features. Once it reaches a leaf node, it assigns the corresponding class label or prediction.
 
 ![[Pasted image 20240404154526.png|500]]
 ### Key Concepts
@@ -35,7 +37,7 @@ Splitting Criteria:
 #### Building Process
 
 1. **Initial Splitting**:
-   - Begin at the root node and select the best feature to split the data. This selection is based on impurity measures such as Gini impurity or entropy for classification tasks, and variance reduction for regression tasks.
+   - Begin at the root node and select the best feature to split the data. This selection is based on impurity measures such as Gini impurity or entropy for [[classification]] tasks, and variance reduction for regression tasks.
    - The goal is to create subsets that are as homogeneous as possible with respect to the target variable.
 
 2. **Recursive Partitioning**:
@@ -72,7 +74,7 @@ Can use [[GridSeachCv]] to pick the best paramaters.
 ### Advantages and Disadvantages of Decision Trees
 
 Advantages:
-- Simple and interpretable model.
+- Simple and [[interpretability|interpretable]] model.
 - Minimal data preparation required.
 - Transparent decision-making process.
 
@@ -80,3 +82,6 @@ Disadvantages:
 - Prone to overfitting, especially with complex datasets.
 - Sensitive to small changes in data.
 - Can become complex with many features.
+
+[[Decision Tree]]
+

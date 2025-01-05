@@ -28,3 +28,5 @@ Predicting house prices. Raw features might be square footage, number of bedroom
 **Example**:
 - Decompose datetime information into separate features for date and time to capture their respective predictive powers.
 
+
+![[C1_W2_Lab07_FeatureEngLecture.png]]

@@ -32,7 +32,7 @@ Popular Algorithms:
   - Hierarchical Clustering
   - [[DBScan]]
   - [[Support Vector Machines]]
-  - [[K-nearest Neighbours]]
+  - [[K-nearest neighbours]]
 
 #### [[Dimensionality Reduction]]
 

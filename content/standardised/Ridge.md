@@ -61,3 +61,17 @@ model.fit(X_train, y_train)
 ### Understanding the Content
 
 - **L2 Regularization (Ridge)**: This technique is crucial for improving model generalization by penalizing large coefficients, which helps in reducing overfitting and handling multicollinearity. The regularization parameter $\lambda$ controls the trade-off between fitting the training data well and keeping the model coefficients small.
+
+[[Ridge]]
+### L2 Regularization (Ridge Regression): for [[Neural network]]
+
+
+
+Adds a penalty term to the loss: \( L_{\text{regularized}} = L + \lambda \cdot ||W||^2 \). This discourages overly complex models by penalizing large weights.
+
+Example:
+
+```python
+from tensorflow.keras.regularizers import l2
+Dense(25, activation="relu", kernel_regularizer=l2(0.01))
+```

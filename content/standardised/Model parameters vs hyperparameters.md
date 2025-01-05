@@ -6,7 +6,7 @@ Model parameters and hyperparameters serve different roles:
 	   - the weights and biases in a neural network,
 	   - the coefficients in a linear regression model,
 	   - or the support vectors in a support vector machine.
-   - Model parameters are directly influenced by the data and are optimized through algorithms like [[gradient descent]].
+   - Model parameters are directly influenced by the data and are optimized through algorithms like [[Gradient Descent]].
 
 [[Hyperparameter]]
    - These are external configurations set before the training process begins. They are not learned from the data but are used for controlling the learning process and the model's architecture.

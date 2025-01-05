@@ -1,4 +1,4 @@
-## [[Deep Learning Strategy of Use]]
+
 
 [[Deep Learning]]
 

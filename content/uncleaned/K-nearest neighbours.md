@@ -37,3 +37,7 @@ KNN is a straightforward algorithm that relies on the proximity of data points t
 - **Distance Metric:** The choice of distance metric (e.g., Euclidean, Manhattan) affects how neighbors are determined and can impact the algorithm's performance.
 
 KNN is best suited for smaller datasets due to its computational intensity, as it requires calculating the distance between the new data point and all existing data points.
+
+[[K-nearest neighbours]]
+   - Classifies a new data point based on the majority class of its k nearest neighbors.
+   - Simple but computationally expensive for large datasets.

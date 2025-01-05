@@ -4,4 +4,4 @@ Dataset: [Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fede
 Useful for:
 - .
 
-There is a dataset with seasonality, bikes, use this to explore [[TimeSeries]].
+There is a dataset with seasonality, bikes, use this to explore [[Time Series]].

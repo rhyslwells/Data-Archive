@@ -5,15 +5,21 @@ category:
 ---
 [[K-means]]
 
-[[Typical Output Formats in Neural Networks]]
-
-[[Activation Function]]
+[[Support Vector Machines|SVM]]
 
 [[Momentum]]
+
+[[Optuna]]
+
+[[Logistic Regression]]
 
 [[Adam Optimizer]]
 
 [[Why does the Adam Optimizer converge]]
+
+[[Reinforcement learning]]
+
+[[Epoch]]
 
 [[Determining Threshold Values]]
 
@@ -28,6 +34,8 @@ category:
 
 --- 
 
+[[Dropout]]
+
 Revisit 
 
 [[Loss function]]
@@ -38,8 +46,23 @@ Revisit
 
 [[Cross Entropy]]
 
+[[SparseCategorialCrossentropy or CategoricalCrossEntropy]]
+
 [[PyCaret]]
+
+[[Anomaly Detection]]
+
+[[Gradient Descent]]
+
+[[Backpropagation]]
+
+[[Feature Scaling]]
+
+[[Test loss when evaluating models]]
 
 [[Datasets]]
 
+Build script exploring the effectivenesss of different [[Model Ensembling]] techniques.
+
+[[Deep Q-Learning]]
 

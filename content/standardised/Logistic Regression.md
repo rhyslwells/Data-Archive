@@ -137,3 +137,19 @@ Specifically a graph such as,
 # [[Logistic Regression]]
 
 You can extend [[Logistic Regression]] to handle non-linear boundaries in the data space.
+
+
+
+Recall that for logistic regression, the model is represented as
+
+$$ f_{\mathbf{w},b}(x) = g(\mathbf{w}\cdot \mathbf{x} + b)$$
+where function $g$ is the sigmoid function. The sigmoid function is defined as:
+
+$$g(z) = \frac{1}{1+e^{-z}}$$
+
+Also see: 
+
+- Cost function for logistic regression
+- Gradient for logistic regression:
+- Regularized logistic regression:
+- Cost function for regularized logistic regression

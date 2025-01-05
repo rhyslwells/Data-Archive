@@ -1,5 +1,5 @@
 
-Exponential smoothing models are a set of [[TimeSeries Forecasting]] techniques that apply weighted averages of past observations, with the weights decaying exponentially over time. These methods are useful for capturing different components of time series data, such as level, trend, and seasonality.
+Exponential smoothing models are a set of [[Time Series Forecasting]] techniques that apply weighted averages of past observations, with the weights decaying exponentially over time. These methods are useful for capturing different components of time series data, such as level, trend, and seasonality.
 
 However, their effectiveness depends on the nature of the data. For [[datasets]] with simple patterns, these models can be quite effective, but for more complex series, alternative methods may be necessary.
 
