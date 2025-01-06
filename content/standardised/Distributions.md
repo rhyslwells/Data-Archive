@@ -16,7 +16,7 @@ Discrete Distributions: Probability concentrated on specific values (e.g., coin 
 - Poisson: Frequency of events in a fixed interval (e.g., website visits per hour).
 
 Common Continuous Distributions: Probability spread over a continuous range
-- Normal (Gaussian): Bell-shaped curve, symmetric, thin tails (e.g., heights, exam scores). 
+- [[Gaussian Distribution]]/Normal: Bell-shaped curve, symmetric, thin tails (e.g., heights, exam scores). 
 - T: Similar to normal but with fatter tails, used with limited data. 
 - Chi-squared: Asymmetric, non-negative, used in hypothesis testing. 
 - Exponential: Models time between events (e.g., website traffic, radioactive decay). 

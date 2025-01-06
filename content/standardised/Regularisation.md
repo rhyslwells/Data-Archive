@@ -52,7 +52,7 @@ Regularization is a technique in machine learning that reduces the risk of overf
 - **Tuning $\lambda$:** Choosing the right penalty term (i.e., $\lambda$) is crucial for balancing bias and variance.
 
 - How does the balance between $L_1$ and $L_2$ regularization impact model performance in large feature spaces?
-- What are the best practices for tuning the $\lambda$ parameter in regularization? [[Finding optimal model parameters]].
+- What are the best practices for tuning the $\lambda$ parameter in regularization? [[Model Parameters Tuning]].
 
 ### Example
 

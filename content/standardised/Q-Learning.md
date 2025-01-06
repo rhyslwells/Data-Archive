@@ -1,4 +1,4 @@
-Q-learning is a value-based, model-free RL algorithm where the agent learns the optimal policy by updating Q-values based on the rewards received. It is particularly useful in discrete environments like grids.
+Q-learning is a value-based, model-free RL algorithm where the agent learns the optimal [[policy]] by updating Q-values based on the rewards received. It is particularly useful in discrete environments like grids.
 
 **Q-learning update rule:**
 $$

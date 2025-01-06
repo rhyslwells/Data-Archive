@@ -1,4 +1,4 @@
-To find optimal [[Model Parameters]]
+To find optimal [[Model Parameters]].
 ## Finding Optimal Model Parameters
 
 1. Parameter Space Exploration:
@@ -14,7 +14,16 @@ To find optimal [[Model Parameters]]
    - Split the data into training and cross-validation sets to evaluate model performance. Plot the parameter of interest on the x-axis and accuracy on the y-axis to visualize performance.
 
 [[Optimisation techniques]]
+### Example
 
 
+![[Pasted image 20241231142918.png]]
 
-![[Pasted image 20241231142918.png|500]]
+
+To find optimial model paramaters, graph the parameter against error of the model.
+
+On the left plot, the solid lines represent the predictions from these models. A polynomial model with degree 1 produces a straight line that intersects very few data points, while the maximum degree hews very closely to every data point. 
+
+On the right:
+    - the error on the trained data (blue) decreases as the model complexity increases as expected
+    - the error of the cross-validation data decreases initially as the model starts to conform to the data, but then increases as the model starts to over-fit on the training data (fails to *generalize*).

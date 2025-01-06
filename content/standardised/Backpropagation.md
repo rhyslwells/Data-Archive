@@ -46,7 +46,7 @@ Each layer in the network computes a partial derivative that is used to adjust t
 > - [[vanishing and exploding gradients problem]]
 
 
-# Backpropgation
+# Backpropgation
 
 Backpropgation is used to calc the gradient of the loss function with respect to the model parameters, when there are a lot of parameters - i.e in a neural network.
 Simple example of backpropgation
@@ -66,3 +66,6 @@ The 'local derivative(s)' are the derivative(s) of the output of the current nod
 Example of using sympy to calculate derivatives for the loss function. Use `diff`, `subs`
 ```python
 from sympy import symbols, diff
+```
+
+## [[Sympy]]

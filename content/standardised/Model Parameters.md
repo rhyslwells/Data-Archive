@@ -1,6 +1,11 @@
 Model parameters are also called weights and biases.
 
-See also: [[Finding optimal model parameters]]
+These parameters are adjusted during the training process to optimize the model's performance on the given task.
+
+See also: 
+[[Model Parameters Tuning]]
+[[Optimisation techniques]]
+
 ### Examples
 
 1. **[[Linear Regression]]**: 
@@ -25,4 +30,3 @@ See also: [[Finding optimal model parameters]]
 6. **[[K-Means]] [[Clustering]]**:
    - Centroids: The center points of each cluster.
 
-These parameters are adjusted during the training process to optimize the model's performance on the given task.

@@ -3,9 +3,9 @@ In [[Model Building]] train the model using the prepared data to learn patterns 
 
 - Training Set: Used to fit the model. This is where the model learns the patterns and relationships within the data. The majority of the data is allocated here to ensure the model has enough information to learn effectively.
 
-- Development (Dev) Set: Also known as the validation set, it is used to tune the model's parameters and make decisions about model architecture. It helps in preventing overfitting by providing a separate dataset to evaluate the model's performance during training.
+- Development (Dev) Set: Also known as the validation set, it is used to tune the [[model parameters]] and make decisions about model architecture. It helps in preventing overfitting by providing a separate dataset to evaluate the model's performance during training.
 
-- Test Set: Used to evaluate the final model's performance. This set is not used during the training process and provides an unbiased evaluation of the model's ability to generalize to new, unseen data.
+- Test Set: Used to evaluate the final model's performance/ [[Model Evaluation]]. This set is not used during the training process and provides an unbiased evaluation of the model's ability to generalize to new, unseen data.
 
 Historical Suggestions
 - Train-Test Sets: 70% training, 30% testing.
@@ -24,3 +24,6 @@ Considerations
 - ==[[Distributions]]: Dev and test sets should be from the same distribution to ensure consistent [[evaluation metrics]]. Avoid having subsets that are biased, such as data from the same geographical area.==
 - [[Handling Different Distributions]]: Randomly shuffle the data before splitting to ensure that each subset is representative of the whole dataset.
 - [[Cross Validation]]: Consider using cross-validation techniques to make the most of your data, especially when the dataset is small.
+
+
+

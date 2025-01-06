@@ -69,7 +69,7 @@ many to many relationships. What tables needed
 one for each entity. To implement the relationship have another table.
 I.e. People, incidents. Then crew_on_board (person_id,incident_id)
 
-### [[Normalizing]] (first,second,.. normal forms)
+### [[Normalisation of data]] (first,second,.. normal forms)
 - **Purpose**: Reduce data ==redundancy== by separating entities into different tables.
 ![[Pasted image 20240524193844.png|500]]
 - **Example**:

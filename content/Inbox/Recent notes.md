@@ -9,17 +9,15 @@ category:
 
 [[Momentum]]
 
-[[Optuna]]
-
 [[Logistic Regression]]
 
 [[Adam Optimizer]]
 
+[[Distributions]]
+
 [[Why does the Adam Optimizer converge]]
 
 [[Reinforcement learning]]
-
-[[Epoch]]
 
 [[Determining Threshold Values]]
 
@@ -30,7 +28,7 @@ category:
 --- 
 [[Cost-Sensitive Analysis]] - to be cleaned.
 
-[[Finding optimal model parameters]]
+[[Model Parameters Tuning]]
 
 --- 
 
@@ -58,11 +56,9 @@ Revisit
 
 [[Feature Scaling]]
 
-[[Test loss when evaluating models]]
-
 [[Datasets]]
 
 Build script exploring the effectivenesss of different [[Model Ensembling]] techniques.
 
-[[Deep Q-Learning]]
+
 

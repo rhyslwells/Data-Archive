@@ -1,8 +1,8 @@
-[[Normalisation]] is compressing the values.
+Key Differences:
 
-[[Standardisation]] is compressing mathematically?
+[[Normalisation]] changes the range of the data, while standardisation changes the data distribution.
 
-We need [[Normalisation]] of values (inputs) here for feeding the network to have balanced weights at the nodes.
+Normalisation is preferred when the data does not follow a Gaussian distribution, whereas [[standardisation]] is used when the data is normally distributed.
 
 ![[Pasted image 20241219071120.png]]
 
