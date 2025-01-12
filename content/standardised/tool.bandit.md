@@ -1,7 +1,3 @@
-Here's a reformatted version of your [[tool.bandit]] note to make it more understandable:
-
----
-
 # Bandit: A Security Linter for Python
 
 ## Resources

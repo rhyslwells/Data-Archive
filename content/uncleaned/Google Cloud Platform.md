@@ -31,3 +31,22 @@ GCP CICD
 Resources:
 [Introduction to Google Cloud](https://www.youtube.com/watch?v=IeMYQ-qJeK4)
 
+[[Google Cloud Platform]]
+see youtube vid of what this is
+there is generic repo for this.
+
+For me at a later date: Setup up my own GCP example.
+
+When demand for compute increases: 
+- scaling horizontally (adding more servers) or vertically (adding memory or cpu)
+- scaling horizontally is preferable. 
+
+With many severs need to do [[load balancing]]:
+- there are many roles this can take and it does.
+
+[[Relational Database]]
+- uses In memory-cache: pre database
+
+Want to cache images/ local data near the user instead of accessing the service.
+
+There are cloud versions of all these based on the level of specifisity needed.

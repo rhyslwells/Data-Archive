@@ -11,13 +11,33 @@ tags:
 [[Recall]]
 [[Precision or Recall]]
 [[F1 Score]]
-[[Sensitivity]]
+[[Recall]]
 [[Specificity]]
+
 
 ![[Pasted image 20241222091831.png]]
 
-Resources:
+## Resources:
 [Link to good website describing these](https://txt.cohere.com/classification-eval-metrics/)
+
+In [[ML_Tools]] see: [[Evaluation_Metrics.py]]
+
+## Types of predictions
+
+Types of predictions in evaluating models
+
+**True Positive (TP)**:
+- This occurs when the model correctly predicts the positive class. For example, if the model predicts that an email is spam and it actually is spam, that's a true positive.
+
+**False Positive (FP)**:
+- Also known as a "Type I error," this occurs when the model incorrectly predicts the positive class. For example, if the model predicts that an email is spam but it is not, that's a false positive.
+
+**True Negative (TN)**:
+- This occurs when the model correctly predicts the negative class. For example, if the model predicts that an email is not spam and it actually is not spam, that's a true negative.
+
+**False Negative (FN)**:
+- Also known as a "Type II error," this occurs when the model incorrectly predicts the negative class. For example, if the model predicts that an email is not spam but it actually is spam, that's a false negative.
+
 ## Evaluation metrics in practice
 
 Having many evaluation metrics is hard to understand and optimise. Sometimes it is best to combine into one.

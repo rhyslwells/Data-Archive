@@ -30,7 +30,7 @@ category:
 - [[Recall]]: The ratio of true positives to all actual positive cases (including both TPs and FNs). In this case, the recall for class 0 is 80.6% and the recall for class 1 is 74.1%.
 - [[F1 Score]]: A harmonic average of precision and recall. In this case, the F1-score for class 0 is 83.0% and the F1-score for class 1 is 70.0%.
 - [[Specificity]]
-- [[Sensitivity]]
+- [[Recall]]
 
 ## Further Examples
 ![[Pasted image 20240116205937.png|500]]

@@ -30,28 +30,5 @@ This function measures how well a model's predictions match the actual target va
 #### Resources
 [LINK](https://www.youtube.com/watch?v=-qT8fJTP3Ks)
 
-
-
-
-Loss Function
-This function measures how well a model's predictions match the actual target values. It ==quantifies the error between the predicted output and the true output==. Examples include [[Mean Squared Error]] (MSE) for regression and [[Cross-Entropy]] for classification. The loss function is what the model aims to minimize during training.
-
-
-
-Loss Function
-This function measures how well a model's predictions match the actual target values. It ==quantifies the error between the predicted output and the true output==. Examples include [[Mean Squared Error]] (MSE) for regression and [[Cross-Entropy]] for classification. The loss function is what the model aims to minimize during training.
-
-
-
-Loss Function
-This function measures how well a model's predictions match the actual target values. It ==quantifies the error between the predicted output and the true output==. Examples include [[Mean Squared Error]] (MSE) for regression and [[Cross-Entropy]] for classification. The loss function is what the model aims to minimize during training.
-
-
-
-Loss Function
-This function measures how well a model's predictions match the actual target values. It ==quantifies the error between the predicted output and the true output==. Examples include [[Mean Squared Error]] (MSE) for regression and [[Cross-Entropy]] for classification. The loss function is what the model aims to minimize during training.
-
-
-
 Loss Function
 This function measures how well a model's predictions match the actual target values. It ==quantifies the error between the predicted output and the true output==. Examples include [[Mean Squared Error]] (MSE) for regression and [[Cross-Entropy]] for classification. The loss function is what the model aims to minimize during training.

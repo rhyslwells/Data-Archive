@@ -39,7 +39,7 @@ In ROC analysis, predicted probabilities (`y_probs`) are used instead of predict
 
 #### Threshold Level
 
-The threshold level is the probability value above which an instance is classified as the positive class. Adjusting the threshold affects [[Sensitivity]] and [[Specificity]]:
+The threshold level is the probability value above which an instance is classified as the positive class. Adjusting the threshold affects [[Recall]] and [[Specificity]]:
   - Lower Threshold: Increases sensitivity but may decrease specificity.
   - Higher Threshold: Increases specificity but may decrease sensitivity.
 

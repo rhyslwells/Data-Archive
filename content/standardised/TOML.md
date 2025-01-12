@@ -33,3 +33,13 @@ TOML files are primarily used for configuration purposes.
 4. **Environment Settings**: TOML files can be used to manage environment-specific settings, such as database connections or API keys, which can vary between development, testing, and production environments.
 
 5. **Configuration for Build Tools**: Some build tools and package managers use TOML files to define build configurations and dependencies.
+
+## Contents of TOML file
+
+[[tool.ruff]]
+
+[[tool.bandit]]
+
+[[tool.uv]]
+
+[[tool.pytest]]
