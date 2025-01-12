@@ -12,7 +12,7 @@ Historical Suggestions
 - Train-Dev-Test: 60% training, 20% development, 20% testing.
 
 Modern Approach
-- With larger [[datasets]], a split of 98% training, 1% development, and 1% testing is often used. This is because modern models require more data to learn effectively, and larger datasets allow for smaller proportions to be allocated to dev and test sets while still maintaining sufficient data for evaluation.
+- With larger [[Datasets]], a split of 98% training, 1% development, and 1% testing is often used. This is because modern models require more data to learn effectively, and larger datasets allow for smaller proportions to be allocated to dev and test sets while still maintaining sufficient data for evaluation.
 
 Code Example
 ```python

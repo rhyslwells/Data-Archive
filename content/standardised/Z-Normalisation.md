@@ -52,3 +52,11 @@ See that they are centred around 0.
 Below we see that its centered around 0 and been brought together.
 
 ![[Pasted image 20241224091007.png]]
+
+
+==Rescales the feature values== to a range of [0, 1]. This is useful when you want to ensure that all features contribute equally to the distance calculations.
+```python
+from sklearn.preprocessing import MinMaxScaler
+scaler = MinMaxScaler()
+df_normalized = scaler.fit_transform(df)  # Rescales each feature to [0, 1]
+```

@@ -24,3 +24,10 @@ Where:
 
 By applying this transformation, the data becomes more suitable for training models that rely on the assumption of [[Gaussian Distribution]].
 
+==Rescales the data to have a mean of 0 and a standard deviation of 1== (unit variance). This method is particularly useful when the data follows a Gaussian distribution.
+
+```python
+from sklearn.preprocessing import StandardScaler
+scaler = StandardScaler()
+df_standardized = scaler.fit_transform(df)  # Rescales each feature to have mean 0 and std deviation 1
+```

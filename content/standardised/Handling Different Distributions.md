@@ -4,7 +4,7 @@ Handling different [[distributions]] is needed for developing robust, fair, and 
 
 1. [[Model Robustness]]: Ensures models generalize well to new, unseen data.
 2. Bias Mitigation: Prevents bias in predictions by accommodating diverse data types.
-3. Improved [[Accuracy]]: Fine-tunes models for better accuracy across varied [[datasets]].
+3. Improved [[Accuracy]]: Fine-tunes models for better accuracy across varied [[Datasets]].
 4. Maintains model effectiveness across different data sources.
 5. Decision Making: Informs [[Preprocessing]], [[model selection]], and evaluation strategies.
 

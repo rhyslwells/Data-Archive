@@ -24,6 +24,7 @@ Deployment Options
 
 - [[Sklearn Pipeline]]: Streamline the deployment process by integrating [[Preprocessing]] and model steps.
 - [[Gradio]]: Create user-friendly interfaces for model interaction.
+- [[Streamlit.io]]
 
 ## Considerations
 

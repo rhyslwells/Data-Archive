@@ -17,7 +17,7 @@ Not perfect, think of stock trading data and the inability to predict the future
 
 **SARIMAX (Seasonal ARIMA with Exogenous Variables):**
    - Incorporates external variables (e.g., interest rates, volume) into the forecasting model.
-   - Useful for [[datasets]] where external factors influence the time series.
+   - Useful for [[Datasets]] where external factors influence the time series.
 
 ## Tools and Resources
 

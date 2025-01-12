@@ -23,9 +23,7 @@ PyCaret provides an end-to-end solution for automating repetitive tasks in machi
 
 ### Implementation
 
-See
-
-Pycaret_Example.py
+In [[ML_Tools]] see: [[Pycaret_Example.py]]
 ### Advantages of PyCaret
 
 - Time-Saving: Reduces the coding and time required to build machine learning pipelines.

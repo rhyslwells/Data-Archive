@@ -19,7 +19,7 @@ Use visual methods like boxplots, statistical methods like Z-scores, or clusteri
 
 In [[ML_Tools]] see: PCA_Based_Anomaly_Detection.py
 
-## [[Time Series]] Methods
+## [[Anomaly Detection in Time Series]]
 
 See [[Time Series]].
 
@@ -28,7 +28,9 @@ See [[Time Series]].
  [[Z-Score]]: Identifies outliers by measuring how many standard deviations a data point is from the mean.
 ### Gaussian method
 
-![[Pasted image 20241230202826.png|500]]# [[Anomaly Detection]]
+![[Pasted image 20241230202826.png|500]]
+
+# [[Anomaly Detection]]
 
 Example: You have a dataset of servers unlabled We aim to detect those that do not work (anomalies).
 
