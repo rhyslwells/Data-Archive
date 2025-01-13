@@ -33,7 +33,7 @@ Examples of Transfer Learning
 Types of Transfer Learning
 - **Unsupervised Pretraining for [[Supervised Learning]]:** The sources describe how unsupervised pretraining with models like denoising autoencoders can be used to learn useful representations that can be transferred to supervised learning tasks.
 - **Cross-Domain Transfer Learning:** This involves transferring knowledge between domains with different input distributions but the same task. 
-- **[[Performance drift]]:** This is a form of transfer learning where the data distribution changes gradually over time. The model needs to adapt to these changes to maintain good performance.
+- **[[Performance Drift]]:** This is a form of transfer learning where the data distribution changes gradually over time. The model needs to adapt to these changes to maintain good performance.
 
 Benefits of Transfer Learning
 - **Improved Generalisation:** By leveraging knowledge from a larger dataset, transfer learning can help models generalise better to new data, especially when the target dataset is small.

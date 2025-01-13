@@ -22,7 +22,7 @@ Observability is a process in ML, and is usually achieved through logging, metri
 
 1. **Monitoring Model Performance** ==(monitoring metrics)==:
    - Tracking key metrics such as [[Accuracy]], [[Precision]],[[Recall]],[[F1 Score]],[[ROC (Receiver Operating Characteristic)]]d other relevant KPIs over time to identify performance degradation or improvements.
-   - Monitoring [[performance drift]] in model inputs (features) and outputs (predictions) to detect when the model no longer performs well due to changes in data distribution ([[data drift]]) or changes in relationships between variables ([[Performance drift]]).
+   - Monitoring [[Performance Drift]] in model inputs (features) and outputs (predictions) to detect when the model no longer performs well due to changes in data distribution ([[data drift]]) or changes in relationships between variables ([[Performance Drift]]).
 
 2. **Error and [[Isolated Forests]]**:
    - Identifying when predictions are out of the expected range or when the model behaves abnormally, such as high error rates on specific subsets of data or excessive latency in prediction generation.
@@ -42,7 +42,7 @@ Observability is a process in ML, and is usually achieved through logging, metri
 ## Why Observability Matters in Machine Learning:
 
 - **Ensures Reliability**: Observability provides insights into how models behave under different conditions, ensuring that they remain reliable and consistent in their performance.
-- **Prevents Model Drift** ([[Performance drift]]): With observability, teams can detect model drift early, enabling them to retrain or recalibrate the model before performance deteriorates.
+- **Prevents Model Drift** ([[Performance Drift]]): With observability, teams can detect model drift early, enabling them to retrain or recalibrate the model before performance deteriorates.
 - **Improves Accountability**: Particularly in high-stakes applications, having observability in place allows organizations to understand and justify the model’s decisions.
 - **Supports Continuous Monitoring**: Observability is critical in ML systems that operate continuously in production, ensuring they are making accurate and meaningful predictions over time.
 

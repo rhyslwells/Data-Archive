@@ -1,16 +1,10 @@
-# See [[1_Overview/Questions]]
+# See [[1_Overview/Questions|Questions]]
 
 
 Priority Tasks:
-- [ ] Organise the content of github in ML_learning repo. Link with Readmes to Data archive.
-- [ ] Start work on #energy [[Energy project]]
-- [ ] Generate similar [[Firebase]] application?
-- [ ] Read [[interpretability|interpretable]] Machine learning book.
-- [ ] Turn [[Machine Learning Workflow]]into a page on the data archive
-
-
-Posts:
-- [ ] Revisit savings google sheet.
+- [ ] See [[Fourth]]
+- [ ] See [[Recent notes]]
+- [ ] See [[1_Overview/Questions|Questions]]
 
 Papers:
 ```dataview
@@ -25,3 +19,7 @@ Later:
 - [ ] Move relevant files from "uncleaned" to "standardised".
 - [ ] Check out plugin [[0 README]]
 - [ ] Use the graph view more to explore ideas
+- [ ] Organise the content of github in ML_learning repo. Link with Readmes to Data archive.
+- [ ] Start work on #energy [[Energy project]]
+- [ ] Generate similar [[Firebase]] application?
+- [ ] Read [[interpretability|interpretable]] Machine learning book.
