@@ -10,18 +10,18 @@ category: DEVOPS
 
 The Data Archive is continuously growing, here are some starting points.
 
-| Categories                          | Related Tags                                                                                                           | Category |
-| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------- |
-| [[Data Science]]                    | #classifier #regressor #evaluation #clustering #deep_learning  #anomaly_detection #model_architecture #model_algorithm | DS       |
-| [[Machine Learning Operations]]     | #ml_process #ml_optimisation #model_explainability                                                                     | MLOPS    |
-| [[Language Models]]                 | #GenAI #language_models #NLP                                                                                           | LANG     |
-| [[Data Engineer\|Data Engineering]] | #database #data_storage  #data_modeling #data_cleaning #data_exploration  #data_transformation #data_processing        | DE       |
-| [[DevOps]]                          | #software  #data_orchestration #software #business #code_snippet #software_architecture #cmd                           | DEVOPS   |
-| [[Career Interest]]                 | #career #energy                                                                                                        | CAREER   |
-| [[Data Analysis]]                   | #data_visualization                                                                                                    | DA       |
-| [[Mathematics]]                     | #statistics #math                                                                                                      |          |
-| [[1_Overview/Tasks]]                           | #drafting #question                                                                                                    |          |
-| [[Data Terms]]                      | #data_quality #data_governance #data_management #field #communication                                                  |          |
+| Category                                | Related Tags                                                                                                              |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| DS: [[Data Science]]                    | #classifier #regressor #evaluation #clustering<br> #deep_learning #anomaly_detection #model_architecture #model_algorithm |
+| MLOPS: [[Machine Learning Operations]]  | #ml_process #ml_optimisation #model_explainability                                                                        |
+| LANG: [[Language Models]]               | #GenAI #language_models #NLP                                                                                              |
+| DE: [[Data Engineer\|Data Engineering]] | #database #data_storage  #data_modeling #data_cleaning<br> #data_exploration  #data_transformation #data_processing       |
+| DEVOPS: [[DevOps]]                      | #software  #data_orchestration #software #business<br> #code_snippet #software_architecture #cmd                          |
+| CAREER: [[Career Interest]]             | #career #energy                                                                                                           |
+| DA: [[Data Analysis]]                   | #data_visualization                                                                                                       |
+| [[Mathematics]]                         | #statistics #math                                                                                                         |
+| [[pages/Tasks\|Tasks]]                  | #drafting #question                                                                                                       |
+| [[Data Terms]]                          | #data_quality #data_governance #data_management #field<br>#communication                                                  |
 
 ## Tag Meanings
 
