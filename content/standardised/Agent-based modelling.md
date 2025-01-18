@@ -59,3 +59,6 @@ Several tools and frameworks are available for building and simulating agent-bas
 - **Repast**: An open-source framework for building ABMs, widely used in academic research.
 - **MASON**: A fast and flexible discrete-event simulation library for Java, suitable for developing complex ABMs.
 
+[[Agent-based modelling]]
+- **Multi-Agent Systems** in [[LLM|LLMs]]
+  - The need for shared context across different agents, ensuring consistency and coherence in interactions.

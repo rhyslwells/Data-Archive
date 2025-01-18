@@ -31,7 +31,6 @@ While the curse of dimensionality presents significant challenges, there are tec
 
 - **[[Regularisation]]:** Techniques like weight decay in neural networks can help prevent overfitting and improve generalization performance, particularly in high-dimensional settings
 
-
 - **[[Manifold Learning]]:** Manifold learning methods assume that the data lies on a lower-dimensional manifold embedded in a high-dimensional space. By learning this manifold structure, these methods can reduce dimensionality while preserving nonlinear relationships in the data.
 
 

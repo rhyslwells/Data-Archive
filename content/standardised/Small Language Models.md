@@ -8,7 +8,7 @@ aliases:
 category: paper
 resources: https://arxiv.org/pdf/2409.06857
 ---
-[[LLM|LLMs]] dominate many general-purpose NLP tasks, small models have their own place in specialized tasks, where they excel due to computational efficiency, [[interpretability]], and task-specific fine-tuning. 
+[[LLM|LLMs]] dominate many general-purpose NLP tasks, small [[Language Models]] have their own place in specialized tasks, where they excel due to computational efficiency, [[interpretability]], and task-specific fine-tuning. 
 
 SLMs remain highly relevant for [[Edge Machine Learning Models]] and edge computing, ==domain-specific tasks==, and applications requiring [[interpretability]], making them a crucial tool in the NLP landscape.
 

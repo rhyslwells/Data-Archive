@@ -22,4 +22,4 @@ Folder: fourth\gcp_project_setup
 
 dev is current branch
 
-This project is managed in [[gitlab]] which is used for [[standardised/CI-CD|CI-CD]]
+This project is managed in [[Gitlab]] which is used for [[standardised/CI-CD|CI-CD]]

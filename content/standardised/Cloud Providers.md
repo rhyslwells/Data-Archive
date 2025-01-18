@@ -7,3 +7,8 @@ Among the biggest cloud providers are [AWS](https://aws.amazon.com/), [Microsoft
 
 Whereas [[Databricks]] ( [Databrick](https://www.databricks.com/)) and [Snowflake](https://www.snowflake.com/) provide dedicated [[Data Warehouse]]and [[Data Lakehouse|Lakehouse]] solutions
 
+## Features
+
+[[Scaling Server]]
+[[Load Balancing]]
+[[Memory Caching]]

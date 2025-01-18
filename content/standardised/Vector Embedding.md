@@ -6,6 +6,7 @@ tags:
   - drafting
 aliases:
   - embedding
+  - word embedding
 category:
 ---
 Vector Embedding is a technique used in machine learning and natural language processing to represent data in a continuous vector space. This representation captures the semantic meaning of data, such as words or sentences, allowing similar items to be positioned close to each other in the vector space.
@@ -54,6 +55,10 @@ Popular methods for generating vector (word) embeddings include Word2Vec, GloVe,
 ![[Pasted image 20241015211844.png]]
 
 
+## Implementation
 
+How to do vector embeddings in [[PyTorch]] that show [[Semantic Relationships]] between terms.
 
+In [[ML_Tools]] see: [[Vector_Embedding.py]]
 
+What is [[Word2vec]]

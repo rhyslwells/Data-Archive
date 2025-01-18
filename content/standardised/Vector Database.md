@@ -33,6 +33,6 @@ Several vector database solutions are available, each with unique features and o
 
 ## Related Concepts
 - **[[Vector Embedding]]**: The process of converting data into vector form, capturing its semantic essence.
-- **[[Word Embedding]]**: A specific type of vector embedding used in NLP to represent words in a continuous vector space.
+- **[[Vector Embedding]]**: A specific type of vector embedding used in NLP to represent words in a continuous vector space.
 - **[[Semantic Search]]**: A search technique that leverages the meaning and context of queries and data to deliver more relevant results.
 - [[Cosine Similarity]]

@@ -1,8 +1,19 @@
-https://github.com/astral-sh/uv
+---
+tags:
+  - software
+aliases: 
+category: 
+phase: 
+topic: 
+filename:
+---
+Appears in [[TOML]] file
 
-[[TOML]] - working on projects
+Link: https://github.com/astral-sh/uv
 
-`uv` is a  tool for managing Python development environments, projects, and dependencies. It offers a range of features that streamline various aspects of Python development, from installing Python itself to managing projects and dependencies. Here are some key features and why they are useful:
+---
+
+`uv` is a  tool for managing Python development [[Virtual environments]], projects, and dependencies. It offers a range of features that streamline various aspects of Python development, from installing Python itself to managing projects and dependencies. 
 
 1. **Python Version Management**: `uv` allows you to install, list, find, pin, and uninstall Python versions. This is useful for managing multiple Python versions across different projects, ensuring compatibility and ease of switching between environments.
 

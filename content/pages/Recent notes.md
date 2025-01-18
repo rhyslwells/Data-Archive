@@ -34,12 +34,14 @@ Also address [[1_Overview/Questions|Questions]]
 ## Tools and Frameworks
 
 - [[PyCaret]]
-- [[Google Cloud Platform]]
-- [[CI-CD]]
 - [[Debugging]]
 	- [[Pytest]]
 	- [[Testing_Pytest.py]]
 	- [[Debugging.py]]
+
+## LLM agents
+- [[Memory]]
+- [[LLM]]
 
 ## Model Ensembling
 

@@ -5,7 +5,7 @@ tags:
 aliases:
   - Object Store
 ---
-A storage layer or object storage are services from the three big [[cloud provider]], 
+A storage layer or object storage are services from the three big [[Cloud Providers]], 
 
 AWS S3,[[S3 bucket]]
 Azure Blob Storage,
