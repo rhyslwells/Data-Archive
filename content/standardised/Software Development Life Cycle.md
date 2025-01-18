@@ -37,13 +37,13 @@ Additionally, some projects include a **Prototyping** stage between planning and
 
 ## SDLC Methodologies
 
-### Waterfall (old)
+### Waterfall
 
 The Waterfall model, strictly follows the SDLC stages sequentially. ==Each phase must be completed before the next begins, making it straightforward and easy to manage==. However, its lack of flexibility and late testing phase often lead to delays and budget overruns when changes are needed. Out of favour. Opposite of flexible, needs roll backs.
 
 - detail documentation
 
-### [[Agile]] (current)
+### Agile
 
 - Produce only essential documentation. Collaborative effort. 
 - Focuses on features users will like.
@@ -57,8 +57,4 @@ See agile manifesto : Working software over documentation
 - **Extreme Programming (XP)**: Emphasizes technical excellence with practices such as test-driven development, code refactoring, and pair programming.
 - Kanban: management method for efficiency. 
 
-### DevOps
-
-Emerging from Agile principles, ==DevOps emphasizes collaboration between development and operations teams.== This approach uses continuous integration and continuous delivery ([[CI-CD]]) to ensure frequent code changes and quick feedback loops. DevOps practices enable rapid and reliable updates, with high levels of automation and efficiency.
-
-- Makes sure existing process are optimised and streamlined.
+### [[DevOps]]

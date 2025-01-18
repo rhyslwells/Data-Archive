@@ -4,6 +4,6 @@ In machine learning, the terms "loss function" and "cost function" are often use
 
 2. [[Cost Function]]: This is generally used to refer to the average of the loss function over the entire training dataset. It provides a measure of how well the model is performing overall. 
    
-   The cost function is what is minimized during the training process to improve the model's performance. Used with the parameters to determine the best ones.
+   The cost function is what is minimized during the training process to improve the model's performance, see [[Model Optimisation|Optimisation]]. Used with the parameters to determine the best ones.
 
 [[Model parameters vs hyperparameters]]

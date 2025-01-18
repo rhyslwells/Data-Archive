@@ -6,36 +6,32 @@ tags:
 aliases: 
 category:
 ---
-Types of Distributions:
+#### Discrete Distributions
+These distributions have probabilities concentrated on specific values.
 
-Discrete Distributions: Probability concentrated on specific values (e.g., coin flips, number of customers).
-    
-- Uniform: All outcomes equally likely (e.g., drawing a card from a shuffled deck).
-- Bernoulli: Two possible outcomes (e.g., coin flip, true/false).
-- Binomial: Sequence of Bernoulli trials (e.g., number of heads in 10 coin flips).
-- Poisson: Frequency of events in a fixed interval (e.g., website visits per hour).
+- **Uniform Distribution**: All outcomes are equally likely. Example: Drawing a card from a shuffled deck. A boxplot can be meaningful if there’s variation in the distribution. Since the values are discrete, the boxplot will show the range and quartiles effectively.
+- **Bernoulli Distribution**: Represents two possible outcomes. Example: Coin flip (heads or tails), true/false scenarios. A bar chart or frequency plot would be better for visualizing the proportions.
+- **Binomial Distribution**: Represents the number of successes in a sequence of Bernoulli trials. Example: Number of heads in 10 coin flips.
+- **Poisson Distribution**: Models the frequency of events in a fixed interval. Example: Number of website visits per hour. A boxplot is suitable for this distribution, showing central tendencies, spread, and potential outliers.
 
-Common Continuous Distributions: Probability spread over a continuous range
-- [[Gaussian Distribution]]/Normal: Bell-shaped curve, symmetric, thin tails (e.g., heights, exam scores). 
-- T: Similar to normal but with fatter tails, used with limited data. 
-- Chi-squared: Asymmetric, non-negative, used in hypothesis testing. 
-- Exponential: Models time between events (e.g., website traffic, radioactive decay). 
-- Logistic: S-shaped curve, used in forecasting and modeling growth.
+#### Continuous Distributions
+These distributions have probabilities spread over a continuous range.
 
-## Practical 
+- **[[Gaussian Distribution]]**: Characterized by a bell-shaped curve, symmetric with thin tails. Example: Heights, exam scores.
+- **T Distribution**: Similar to the normal distribution but with fatter tails, useful with limited data.
+- **Chi-squared Distribution**: Asymmetric and non-negative, commonly used in [[hypothesis testing]].
+- **Exponential Distribution**: Models the time between events. Example: Time between website traffic hits, radioactive decay.
+- **Logistic Distribution**: S-shaped curve, often used in forecasting and modeling growth.
 
-What is the distribution of numerical feature values across the samples?
+### Practical Applications
 
-	Observation:
-	Decision:
+**Feature Distribution**: Understanding the distribution of numerical/ categortical feature values across samples can provide insights into data characteristics.
+  - **Observation**: Analyze the spread and central tendency of data.
+  - **Decision**: Determine appropriate statistical methods or transformations.
 
-What is the distribution of categorical features?
-```python
-g = sns.FacetGrid(df, col='Survived')
-g.map(plt.hist, 'var1', bins=20)
-```
+### Related Notes
 
-[[Violin plot]]
+In [[ML_Tools]] see: [[Feature_Distribution.py]]
 
-[[Boxplot]]
-
+- **[[Violin plot]]**
+- **[[Boxplot]]**

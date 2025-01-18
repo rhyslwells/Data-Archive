@@ -5,7 +5,7 @@ category:
 ---
 # Recent Notes
 
-Build associated scripts i.e [[K_Means.py]]for these if necessary and draft the content of the note so that it is readable at a future date.
+Build associated scripts i.e [[K_Means.py]] for these if necessary and draft the content of the note so that it is readable at a future date.
 
 Also address [[1_Overview/Questions|Questions]]
 
@@ -27,26 +27,19 @@ Also address [[1_Overview/Questions|Questions]]
 - [[Cost-Sensitive Analysis]]
 - [[Model Parameters Tuning]]
 
-## Loss Functions
-
-- [[Loss function]]
-- [[Cross Entropy]]
-- [[SparseCategorialCrossentropy or CategoricalCrossEntropy]]
-
 ## Anomaly Detection
 
 - [[Anomaly Detection]]
 - [[Anomaly Detection in Time Series]]
-
-## Statistical Concepts
-
-- [[Distributions]]
-
 ## Tools and Frameworks
 
 - [[PyCaret]]
 - [[Google Cloud Platform]]
 - [[CI-CD]]
+- [[Debugging]]
+	- [[Pytest]]
+	- [[Testing_Pytest.py]]
+	- [[Debugging.py]]
 
 ## Model Ensembling
 

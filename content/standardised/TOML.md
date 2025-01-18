@@ -42,4 +42,4 @@ TOML files are primarily used for configuration purposes.
 
 [[tool.uv]]
 
-[[tool.pytest]]
+[[Pytest]]

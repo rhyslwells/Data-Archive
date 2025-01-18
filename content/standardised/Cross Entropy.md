@@ -6,7 +6,13 @@ filename: Cross_Entropy
 ---
 Cross entropy is a [[Loss function]] used in [[Classification]] tasks, particularly for [[categorical data]]. The cross entropy loss function is particularly effective for multi-class classification problems, where the goal is to assign an input to one of several categories. 
 
+==Cross entropy measures confidence.==
+
 Cross entropy works by measuring the (difference/loss) ==dissimilarity between two probability distributions==: the true distribution (actual class labels) and the predicted distribution (model's output probabilities). 
+
+**Fit of Predictions**:
+- A low cross entropy loss means the predicted probabilities are close to the true labels (e.g., assigning high probability to the correct class).
+- A high loss indicates significant divergence, meaning the model's predictions are inaccurate or uncertain.
 
 By minimizing cross entropy, the model learns to produce probability distributions that closely match the true class distributions, thereby improving its classification ==accuracy==.
 
@@ -27,40 +33,29 @@ By minimizing cross entropy, the model learns to produce probability distributio
 
 3. Optimization: During training, the model's parameters are adjusted to minimize the cross entropy loss across all training examples. This process helps the model improve its predictions over time.
 
-## Example
+## Where is it used
 
-Let's consider a three-class classification problem with classes A, B, and C. Suppose we have a single data point with the true class label being A. The true label in one-hot encoded form would be [1, 0, 0].
+Cross entropy is widely used in classification for several reasons:
 
-Assume the model predicts the following probabilities for this data point:
+**Probabilistic Modeling**:
+    - It directly aligns with the goals of probabilistic classifiers, as it measures how well the predicted probability distribution matches the true distribution.
+    
+**Focus on Confidence**:
+    - Encourages the model to assign higher probabilities to the correct classes, improving not just accuracy but also confidence in predictions.
 
-- Probability of class A: 0.7
-- Probability of class B: 0.2
-- Probability of class C: 0.1
+**Optimization Efficiency**:
+    - Cross entropy is smooth and convex for logistic regression-like models, enabling efficient gradient-based optimization.
 
-The predicted probability vector is [0.7, 0.2, 0.1].
+**Multi-Class Support**:
+    - Works seamlessly in multi-class scenarios where the true labels are one-hot encoded and predictions are probability distributions.
 
-To calculate the cross entropy loss for this example, we use the formula:
 
-$L = -\sum_{i=1}^{N} y_i \log(p_i)$
-
-Substituting the values:
-
-- For class A: $y_1 = 1$ and $p_1 = 0.7$
-- For class B: $y_2 = 0$ and $p_2 = 0.2$
-- For class C: $y_3 = 0$ and $p_3 = 0.1$
-
-The cross entropy loss $L$ is calculated as:
-
-$L = -(1 \cdot \log(0.7) + 0 \cdot \log(0.2) + 0 \cdot \log(0.1))$
-
-$L = -(\log(0.7))$
-
-$L \approx -(-0.3567) = 0.3567$
-
-So, the cross entropy loss for this example is approximately 0.3567. This value represents the penalty for the model's predicted probabilities not perfectly matching the true class distribution. The lower the loss, the better the model's predictions align with the true labels.
 ### Implementation 
 
-See:
-Cross_Entropy.py
+In [[ML_Tools]] see: 
+- [[Cross_Entropy_Single.py]]
+- [[Cross_Entropy.py]]
+- [[Cross_Entropy_Net.py]]
+
 
 

@@ -1,2 +1,0 @@
-[[Ordinary Least Squares]]
-
