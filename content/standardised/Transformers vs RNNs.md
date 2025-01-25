@@ -5,7 +5,7 @@ tags:
 aliases: 
 category:
 ---
-[[Transformer|Transformers]] and Recurrent Neural Networks ([[RNNs]]) are both deep learning architectures ==used for processing sequential data==, but they differ significantly in structure, operation, and performance.
+[[Transformer|Transformers]] and Recurrent Neural Networks ([[Recurrent Neural Networks]]) are both deep learning architectures ==used for processing sequential data==, but they differ significantly in structure, operation, and performance.
 
 While RNNs have been essential for sequence modeling, transformers have become the dominant architecture in ML due to their ability to handle large-scale data and long-range dependencies more efficiently. 
 

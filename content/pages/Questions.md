@@ -1,7 +1,7 @@
-Insert questions here from [[1_Overview/Questions|Questions]].
+Insert questions here from [[Filtered Questions|Filtered Questions]].
 
 ---
-#### linkedin in question prompts
+#### Question prompts
 
 **Machine Learning Questions**  
 

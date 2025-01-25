@@ -1,3 +1,11 @@
+---
+tags: 
+aliases: 
+category: 
+phase: 
+topic: 
+filename:
+---
 [[Kernelling]] is a technique where the [[Support Vector Machines|SVM]] uses a kernel function to map the dataset into a higher-dimensional space, making it easier to identify separable clusters that may not be apparent in the original low-dimensional space.
 
  Kernel Trick:
@@ -5,3 +13,4 @@
    - The Kernel Trick allows the transformation of data into a higher dimension without explicitly computing the transformation. There are different types of kernels, with common examples being:
      - Polynomial kernel
      - Radial Basis Function (RBF) or exponential kernel
+

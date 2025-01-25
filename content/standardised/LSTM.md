@@ -12,7 +12,7 @@ category: Deep Learning
 ---
 # What is LSTM
 
-LSTM (Long Short-Term Memory) networks are a specialized type of Recurrent Neural Network (RNN) designed to overcome the [[vanishing and exploding gradients problem]] that affects traditional [[RNNs]]. 
+LSTM (Long Short-Term Memory) networks are a specialized type of Recurrent Neural Network (RNN) designed to overcome the [[vanishing and exploding gradients problem]] that affects traditional [[Recurrent Neural Networks]]. 
 
 LSTMs address this challenge through their unique architecture.
 

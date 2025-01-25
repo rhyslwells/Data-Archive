@@ -13,6 +13,7 @@ phase:
 - [[Model Observability|Observability]]
 
 topic: Dependant on the phase
+
 filename: Final name of script
 
 https://github.com/rhyslwells/ML_Tools/{phase}/{topic}/{filename}.py
@@ -20,5 +21,11 @@ https://github.com/rhyslwells/ML_Tools/{phase}/{topic}/{filename}.py
 #### Notes
 
 Using the [[0_note]] template we can get the paths for the associated files.
+
+Use [[A Property Finder]]
+
+#### Code snippets
+
+We tag files with .py with #code_snippet 
 
 

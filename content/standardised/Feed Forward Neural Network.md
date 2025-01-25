@@ -20,4 +20,4 @@ A **Feedforward Neural Network (FFNN)** is the simplest type of [[Neural network
 ### Limitations
 - **Shallow vs. Deep Networks:** Simple feedforward networks with only a few hidden layers (shallow networks) may struggle to learn complex, hierarchical representations of data. Deeper networks (deep feedforward networks) with many layers can model more complex patterns but require more data and computational resources to train.
 - **[[Overfitting]]:** FFNNs can overfit on the training data, especially if they have many parameters and not enough regularization (e.g., dropout, [[Ridge|L2]] regularization).
-- **No Temporal Understanding:** Unlike [[RNNs]] or transformers, FFNNs cannot model sequential dependencies in data. They are better suited for static, non-sequential tasks.
+- **No Temporal Understanding:** Unlike [[Recurrent Neural Networks]] or transformers, FFNNs cannot model sequential dependencies in data. They are better suited for static, non-sequential tasks.

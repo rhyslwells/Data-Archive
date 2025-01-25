@@ -1,5 +1,5 @@
 Goals
-- Attend talks and generate [[1_Overview/Questions]] to explore new concepts.
+- Attend talks and generate [[Filtered Questions]] to explore new concepts.
 - Develop technical data skills through projects.
 
 Projects:

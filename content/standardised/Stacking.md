@@ -1,0 +1,2 @@
+What is [[Stacking]]?;; is an [[Model Ensembling]] combines predictions of multiple base models ==by training a meta-model== on the outputs of the base models.
+

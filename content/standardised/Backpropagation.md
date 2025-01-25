@@ -10,7 +10,6 @@ aliases:
   - backward propagation
 category: Machine Learning
 ---
-
 >[!Summary]  
 > Backpropagation is an essential algorithm in the training of neural networks and iteratively correcting its mistakes. It involves a process of calculating the gradient of the loss function $L(\theta)$ concerning each weight in the network, allowing the system to update its weights via [[Gradient Descent]]. 
 > 
