@@ -30,4 +30,4 @@ Model optimization is a step in the machine learning workflow aimed at enhancing
    - A technique to assess the model's performance by splitting the data into multiple subsets for training and testing.
    - Helps in detecting overfitting and provides reliable performance estimates.
 
-5. [[Model Ensembling]]: Combining models to get better performance
+5. [[Model Ensemble]]: Combining models to get better performance

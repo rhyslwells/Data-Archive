@@ -62,7 +62,7 @@ These metric provide:
 
 #### Explained Variance Score:
    - Definition: This metric measures the proportion of variance in the target variable that is predictable from the features.
-   - Interpretation: Higher values indicate that the model explains a greater proportion of the [[variance]] in the target variable.
+   - Interpretation: Higher values indicate that the model explains a greater proportion of the [[Variance]] in the target variable.
    - Formula: 
   $$\text{Explained Variance} = 1 - \frac{\text{Var}(y - \hat{y})}{\text{Var}(y)}$$
    - Where:

@@ -8,6 +8,6 @@ recency_of_interest:
 category: CAREER
 ---
 
-[[Agent-based modelling]]
+[[Agent-Based Modelling]]
 
 energy systems analysis

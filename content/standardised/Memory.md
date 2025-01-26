@@ -8,7 +8,7 @@ phase:
 topic: 
 filename:
 ---
-Memory in large language models (LLMs) involves managing context windows to enhance reasoning capabilities without the high costs associated with traditional training methods. The goal of [[Memory]] is to address challenges like "forgetting," where LLMs struggle to retain context across interactions.
+Memory in large [[language models]] (LLMs) involves managing context windows to enhance reasoning capabilities without the high costs associated with traditional training methods. The goal of [[Memory]] is to address challenges like "forgetting," where LLMs struggle to retain context across interactions.
 ## Key Concepts:
 
 **Forgetting Context**:
@@ -36,4 +36,5 @@ Focuses on the meaning and [[Semantic Relationships]] between concepts, which is
 
 **Hierarchical Memory**:
 Balances immediate retrieval with long-term storage of information, enabling better performance in various applications.
-  Supports evolving and persistent memory systems tailored to specific tasks.
+
+Supports evolving and persistent memory systems tailored to specific tasks.

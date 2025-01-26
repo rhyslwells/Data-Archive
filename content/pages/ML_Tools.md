@@ -22,7 +22,7 @@ https://github.com/rhyslwells/ML_Tools/{phase}/{topic}/{filename}.py
 
 Using the [[0_note]] template we can get the paths for the associated files.
 
-Use [[A Property Finder]]
+Use [[A YAML Generator]]
 
 #### Code snippets
 

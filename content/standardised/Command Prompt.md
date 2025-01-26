@@ -1,11 +1,14 @@
 ---
 tags:
   - software
+aliases:
   - cmd
-aliases: 
 category:
 ---
 Command Prompt (cmd) is a command-line interpreter on Windows systems that allows users to execute commands to perform various basic tasks. Below are some common tasks that can be performed in cmd, along with examples:
+
+Related to:
+- [[Bash]]
 
 ## 1. Navigating the File System
 
@@ -154,8 +157,5 @@ Command Prompt (cmd) is a command-line interpreter on Windows systems that allow
   ```
   Redirects the output of the `dir` command to `output.txt`.
 
-These examples illustrate some of the basic functionalities of Command Prompt. While cmd is less powerful compared to PowerShell, it remains useful for simple file system navigation, file management, and running legacy scripts.
+These examples illustrate some of the basic functionalities of Command Prompt. While cmd is less powerful compared to [[PowerShell]], it remains useful for simple file system navigation, file management, and running legacy scripts.
 
---- 
-
-This version organizes the information into clear sections, making it easy to read and understand.

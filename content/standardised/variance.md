@@ -9,3 +9,11 @@ Variance is calculated as the average of the squared differences between each da
 See also:
 [[Boxplot]]
 [[Distributions]]
+
+**Variance**:
+- Measures how much a single variable deviates from its mean.
+- For variable $X$, variance is: 
+$$
+\text{Var}(X) = \frac{1}{n}\sum_{i=1}^n (x_i - \mu_X)^2
+$$
+- Variance determines the **spread** of data along a particular dimension.

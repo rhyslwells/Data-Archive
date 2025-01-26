@@ -23,8 +23,6 @@ prompts:
 - quizzes
 
 Set note context for chat mode.
-
-
 ### Excalidraw
 
 https://www.youtube.com/watch?v=gqEtn3gCZF0

@@ -18,7 +18,7 @@ Not the same as the [[Software Development Life Cycle]]:
 
 1. **Data Ingestion**: The process begins with collecting data from various sources. This can include databases, APIs, IoT devices, and more. The goal is to gather raw data that can be processed and analyzed.
 
-2. **[[Data Storage]]**: Once ingested, data needs to be stored in a way that is both secure and accessible. This involves choosing the right [[storage solutions]], such as data lakes, warehouses, or cloud storage, based on the data's nature and usage requirements.
+2. **[[Data Storage]]**: Once ingested, data needs to be stored in a way that is both secure and accessible. This involves choosing the right [[Data Storage]], such as data lakes, warehouses, or cloud storage, based on the data's nature and usage requirements.
 
 3. **Data Processing/[[Data Cleansing]]**: This stage involves cleaning, transforming, and enriching the data to make it suitable for analysis. Data processing can include tasks like filtering, aggregating, and normalizing data.
 

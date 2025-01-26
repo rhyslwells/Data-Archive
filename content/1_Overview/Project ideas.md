@@ -1,4 +1,4 @@
-Host a project online using [[Gradio]] to showcase it.
+Host a project online using [[Gradio]]/ [[Streamlit.io]] to showcase it.
 
 [Video Link](https://www.youtube.com/watch?v=eE7CamOE-PA&list=PLcWfeUsAys2my8yUlOa6jEWB1-QbkNSUl&index=2)
 

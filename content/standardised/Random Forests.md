@@ -4,7 +4,7 @@ tags:
   - drafting
 ---
 
-A random forest is an [[Model Ensembling]] of [[Decision Tree]]s. Take many decision trees decisions to get better result.
+A random forest is an [[Model Ensemble]] of [[Decision Tree]]s. Take many decision trees decisions to get better result.
 
 What is the Random Forest method;; an ensemble learning method based on constructing multiple decision trees during training and combining their predictions through averaging. Random Forests are flexibility, robustness, and ability to handle high-dimensional data, as well as their resistance to overfitting.
 

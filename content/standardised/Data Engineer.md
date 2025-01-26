@@ -38,12 +38,12 @@ What engineers do & interact with:
 - [[Data Streaming]]
 - [[Big Data]]
 - [[Distributed Computing]]
-- [[Storage solutions]]
+- [[Data Storage]]
 - [[ETL]]
 - [[Data Warehouse]]
 - [[SQL]]
 - Command line
-- [[Data storage]]
+- [[Data Storage]]
 - [[Full Lifecycle Management]]
 
 Stakeholders they interact with:

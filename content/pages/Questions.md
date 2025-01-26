@@ -1,6 +1,9 @@
 Insert questions here from [[Filtered Questions|Filtered Questions]].
 
----
+- [[Model Parameters Tuning]]
+- [[Anomaly Detection]]
+
+[[How do we evaluate of LLM Outputs]]
 #### Question prompts
 
 **Machine Learning Questions**  
@@ -8,13 +11,12 @@ Insert questions here from [[Filtered Questions|Filtered Questions]].
 [[Feature Scaling]]
 Why does scaling features matter for algorithms like SVM or K-means, and when is it unnecessary?  
 
-[[Model Ensembling]]
+[[Model Ensemble]]
 2. In ensemble methods like Random Forest, why does increasing the number of trees sometimes stop improving accuracy?  
 [[Cross Validation]]
 1. Why might a model with high cross-validation accuracy still perform poorly on unseen test data?  
 [[R squared]]
 1. Why is the R-squared metric not always a good indicator of model performance in regression?  
-
 [[Data Cleansing]]
 1. If you have missing data, why might deleting rows or filling them with the mean not always be ideal?  
   
@@ -28,7 +30,7 @@ Why does scaling features matter for algorithms like SVM or K-means, and when is
 [[Transfer Learning]]
 1. Why might fine-tuning a pre-trained model like GPT yield better results than training from scratch?  
 
-[[named enitiy recognition]]
+[[Named Entity Recognition]]
 2. Why is named entity recognition (NER) a challenging task, and how would you handle ambiguous entities?  
   
 **Statistics Questions**  

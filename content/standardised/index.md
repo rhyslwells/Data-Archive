@@ -1,10 +1,7 @@
 ---
 title: Home
-tags:
-  - statistics
-  - regressor
-  - data_exploration
-category: DEVOPS
+tags: []
+category:
 ---
 ## Map of Content
 

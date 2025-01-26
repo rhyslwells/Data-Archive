@@ -19,7 +19,7 @@ Classifier: A model used for classification tasks, predicting discrete labels or
 
 [[Neural network]]
 
-[[Model Ensembling]]
+[[Model Ensemble]]
 
 ## Choosing a Classifier Algorithm
 

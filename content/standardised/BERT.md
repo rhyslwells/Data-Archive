@@ -24,7 +24,7 @@ BERT is used for a variety of [[NLP]] tasks, including:
 
 1. Text Classification: Assigning categories or labels to text documents, such as sentiment analysis or topic classification.
 
-2. Named Entity Recognition (NER): Identifying and classifying entities (e.g., names, organizations, locations) within text.
+2. Named Entity Recognition ([[Named Entity Recognition|NER]]): Identifying and classifying entities (e.g., names, organizations, locations) within text.
 
 3. Question Answering: Providing answers to questions based on a given context or passage of text.
 

@@ -5,6 +5,9 @@ https://www.youtube.com/watch?v=8yjNuiSBSAM&ab_channel=FromSergio
 
 https://www.youtube.com/watch?v=ccN5vJzXwvo
 
+
+I want to be able to extract all the notes fora given querey. Like the local graph. Maybe so that I can add comments and filter effectively
+
 ### Tasks from a specific header.
 
 - [ ] Use modified task getter 

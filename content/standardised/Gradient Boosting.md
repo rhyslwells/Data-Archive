@@ -14,7 +14,7 @@ High Performance: Known for its high performance and efficiency in terms of spee
 
 [Watch Video Explanation](https://www.youtube.com/watch?v=3CC4N4z3GJc)
 
-[[Model Ensembling]]
+[[Model Ensemble]]
 ### Key Components
 
 - [[Weak Learners]]: Typically decision trees used in the ensemble.

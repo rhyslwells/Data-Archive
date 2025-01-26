@@ -11,7 +11,7 @@ Controlling a [[Generative AI]] in business through the use of [[Guardrails]] en
 
 ### 1. Input Guardrails
 
-   - Prompt Injection Control: [[prompting]] To prevent users from prompting the AI in ways that could result in harmful or inappropriate responses, filtering or validating inputs can be essential. This reduces the risk of the model being "jailbroken" (i.e., forced to generate outputs outside its intended use case).
+   - Prompt Injection Control: [[Prompting]] To prevent users from prompting the AI in ways that could result in harmful or inappropriate responses, filtering or validating inputs can be essential. This reduces the risk of the model being "jailbroken" (i.e., forced to generate outputs outside its intended use case).
    - Topic Restriction: Limit the AI’s inputs to specific business-relevant topics. For instance, if the AI is designed for customer support, it should ignore inputs about unrelated topics (e.g., entertainment or politics).
    - User Authentication: Depending on business needs, certain input guardrails can restrict access to specific features or sensitive information based on user credentials or roles.
 

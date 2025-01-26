@@ -22,7 +22,7 @@ Visualization tools like heatmaps and clustering can aid in identifying and inte
 - [[Correlation vs Causation]]: Correlation does not imply causation. While correlation highlights associations, causation establishes a direct influence.
 - Significance: Correlation values < -0.5 or > +0.5 are considered significant.
 - Impact of Outliers: [[Outliers]] can distort correlation results.
-- Standardization: Correlation is a standardized version of [[covariance]].
+- Standardization: Correlation is a standardized version of [[Covariance]].
 
 ### Model Preparation
 

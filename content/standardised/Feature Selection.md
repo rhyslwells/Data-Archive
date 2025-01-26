@@ -29,6 +29,6 @@ After selecting features, it's essential to evaluate your model's performance ([
 - Visualizations: Plotting pairwise scatter plots or [[Heatmap]] of feature [[Correlation]] can provide visual insights into redundant features. Clusters of highly correlated features or scatter plots showing no discernible pattern with the target variable can indicate noisy or redundant features.
 ### Investigating Features
 
-1. Variance Thresholding: Check the [[variance]] & [[Distributions]] of each feature. Features with very low variance (close to zero) contribute little information and may be considered noisy. Removing such features can help simplify the model without sacrificing much predictive power.
+1. Variance Thresholding: Check the [[Variance]] & [[Distributions]] of each feature. Features with very low variance (close to zero) contribute little information and may be considered noisy. Removing such features can help simplify the model without sacrificing much predictive power.
 
 1. Univariate Feature Selection: Use statistical tests like chi-square for categorical variables or [[ANOVA]] for numerical variables to assess the relationship between each feature and the target variable. Features with low test scores or high p-values may be less relevant and can be pruned.

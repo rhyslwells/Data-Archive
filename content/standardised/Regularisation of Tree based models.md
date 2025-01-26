@@ -17,7 +17,7 @@ In tree models, [[Regularisation]] is done by controlling the growth of the tree
 
 These hyperparameters restrict the growth of the tree, preventing it from becoming too complex.
 
-For [[Model Ensembling]] methods like Random Forests and Gradient Boosting, additional regularization techniques like 
+For [[Model Ensemble]] methods like Random Forests and Gradient Boosting, additional regularization techniques like 
 
 - subsampling, 
 - bootstrap sampling, 

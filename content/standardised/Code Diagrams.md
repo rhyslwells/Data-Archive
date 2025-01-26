@@ -1,3 +1,5 @@
+[[Documentation]]
+
 There are class diagrams showing the hierarchy of classes [[Classes]] (Object orientated). 
 
 Done in [[Mermaid]].

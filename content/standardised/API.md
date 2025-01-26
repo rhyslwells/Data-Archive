@@ -5,6 +5,10 @@ tags:
 aliases: 
 category:
 ---
+In [[ML_Tools]] see: [[Wikipedia_API.py]]
+
+---
+
 APIs, or Application Programming Interfaces, are integral to the seamless operation of software systems. They enable different software components to ==communicate== and interact, thereby enhancing functionality and user experience. For instance, using your Facebook or Google account to sign up for a new app simplifies the process by allowing these platforms to share necessary information. Used to communicate with a server.
 
  Key Takeaways

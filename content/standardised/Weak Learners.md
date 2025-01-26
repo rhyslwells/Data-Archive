@@ -3,7 +3,7 @@ tags:
 aliases: 
 category:
 ---
-Weak learners are simple models that perform slightly better than random guessing. They are often used as the building blocks in [[Model Ensembling]] methods to create a strong predictive model.
+Weak learners are simple models that perform slightly better than random guessing. They are often used as the building blocks in [[Model Ensemble]] methods to create a strong predictive model.
 
 ## Characteristics
 
@@ -12,7 +12,7 @@ Weak learners are simple models that perform slightly better than random guessin
 
 ## Role in Model Ensembling
 
-Weak learners are a crucial component of [[Model Ensembling]] techniques, such as boosting and bagging, where multiple weak learners are combined to improve overall model performance.
+Weak learners are a crucial component of [[Model Ensemble]] techniques, such as boosting and bagging, where multiple weak learners are combined to improve overall model performance.
 
 ## Learning Rate
 

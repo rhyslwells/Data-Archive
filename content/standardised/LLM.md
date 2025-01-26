@@ -31,7 +31,7 @@ Large [[Language Models]] (LLMs) are a type of artificial intelligence model tha
 
 ## Characteristics of LLMs
 
-- Non-Deterministic: LLMs are non-deterministic, meaning the types of problems they can be applied to are of a probabilistic nature.
+- ==Non-Deterministic:== LLMs are non-deterministic, meaning the types of problems they can be applied to are of a probabilistic nature (==temperature==).
 - Data Dependency: The performance and behaviour of LLMs are heavily influenced by the data they are trained on.
 
 

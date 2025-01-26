@@ -9,7 +9,7 @@ XGBoost (eXtreme Gradient Boosting) is a highly efficient and flexible implement
 
 ### How does XGBoost work
 
-It works by building an [[Model Ensembling]] - ensemble of decision trees, where each tree is trained to correct the errors made by the previous ones. Here's a breakdown of how XGBoost works:
+It works by building an [[Model Ensemble]] - ensemble of decision trees, where each tree is trained to correct the errors made by the previous ones. Here's a breakdown of how XGBoost works:
 ### Key Concepts
 
 1. Gradient Boosting Framework:

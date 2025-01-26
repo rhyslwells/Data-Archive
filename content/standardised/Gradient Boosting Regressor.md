@@ -10,7 +10,7 @@ https://scikit-learn.org/1.5/modules/generated/sklearn.ensemble.GradientBoosting
 
 [[Boosting]]
 
-The `GradientBoostingRegressor` from the `sklearn.ensemble` module is a model used for regression tasks. It builds an [[Model Ensembling]] of [[Decision Tree]] in a sequential manner, where each tree tries to correct the errors made ==by the previous ones==. Here’s a breakdown of the key parameters:
+The `GradientBoostingRegressor` from the `sklearn.ensemble` module is a model used for regression tasks. It builds an [[Model Ensemble]] of [[Decision Tree]] in a sequential manner, where each tree tries to correct the errors made ==by the previous ones==. Here’s a breakdown of the key parameters:
 
 1. **loss**: Specifies the loss function to optimize. Default is `'squared_error'`, which is the least-squares loss function. Other options like `'absolute_error'` can be used for robustness against outliers.
 

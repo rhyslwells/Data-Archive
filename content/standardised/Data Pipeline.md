@@ -22,7 +22,7 @@ By implementing a data pipeline, organizations can automate data workflows, redu
    - Includes operations like aggregation, normalization, and enrichment.
    - Tools: Apache Spark, Apache Flink, AWS Glue.
 
-3. [[Data storage]]
+3. [[Data Storage]]
    - Storing the transformed data in a database or data warehouse for easy access and analysis.
    - Tools: Amazon S3, Google BigQuery, Snowflake.
 

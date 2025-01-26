@@ -23,7 +23,7 @@ RAG grounds the Gen AI in external data.
 
 ![[Pasted image 20240928194559.png|500]]
 
-Based on a [[prompting]].
+Based on a [[Prompting]].
 
 1. **Retrieval Component**:
    - This module fetches relevant documents (and up to date) or information from an external corpus based on the query or input. It may use traditional search methods like dense vector retrieval (e.g., using embeddings) or keyword-based retrieval.

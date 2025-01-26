@@ -2,25 +2,21 @@
 title: Prompting
 tags: 
 ---
+Pre set prompts are most useful when they are easily accessible.
 
-Prompts:
+In obsidian copilot can select prompts with "/".
 
-- [[Prompt Exploring Topics]]
-- [[Prompt Extracting information from blog posts]]
-
-What to do with prompts:
-
-Use AI prompt genus chrome extension to provide a prompt database? / table and put the prompts where you will use them, ie gmail template folder.
+We tag prompts with #prompt 
 #### How to write prompts
 
 [Link](https://www.youtube.com/watch?v=jC4v5AS4RIM)
 
-Use a formula to prompt.
+Use a formula to design a prompt.
 
 1) Persona
 2) Context
-3) task
-4) format
+3) Task
+4) Format
 
 >[!Example]
 >![[Pasted image 20240910072458.png| 500]]

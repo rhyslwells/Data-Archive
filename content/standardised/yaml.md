@@ -3,8 +3,6 @@ title: What is YAML?
 tags:
   - software
 ---
-## YAML
-
 Stands for [YAML ain't markup language](https://github.com/yaml/yaml-spec) and is a superset of JSON
 
 - lists begin with a hyphen

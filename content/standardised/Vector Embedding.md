@@ -61,4 +61,6 @@ How to do vector embeddings in [[PyTorch]] that show [[Semantic Relationships]] 
 
 In [[ML_Tools]] see: [[Vector_Embedding.py]]
 
-What is [[Word2vec]]
+## Related Terms
+
+[[How to search within a graph]]

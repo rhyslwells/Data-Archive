@@ -3,7 +3,8 @@ title:
 tags:
   - statistics
   - drafting
-aliases: 
+aliases:
+  - Distribution
 category:
 ---
 #### Discrete Distributions

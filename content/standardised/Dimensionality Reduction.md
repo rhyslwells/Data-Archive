@@ -1,9 +1,12 @@
 ---
-title: 
-tags:
+tags: 
   - ml_process
-aliases: 
-category:
+  - data_visualization
+aliases:
+category: DATA_ANALYSIS
+phase: Preprocessing
+topic: Dimensionality Reduction Techniques
+filename: dimensionality_reduction_techniques.py
 ---
 Dimensionality reduction is a step in the [[Preprocessing]] phase of machine learning that helps simplify models, enhance interpretability, and improve computational efficiency.
 
@@ -11,7 +14,7 @@ Its a technique used to reduce the number of input variables (features) in a dat
 
 1. **Improves Model Performance**: Reducing the number of features can help improve the performance of machine learning models by minimizing overfitting and reducing noise.
 
-2. **Enhances Visualization**: It allows for easier visualization of high-dimensional data by projecting it into lower dimensions (e.g., 2D or 3D).
+2. **Enhances Visualization**: It allows for easier [[Data Visualisation]] of high-dimensional data by projecting it into lower dimensions (e.g., 2D or 3D).
 
 3. **Reduces Computational Cost**: Fewer features mean less computational power and time required for training models.
 

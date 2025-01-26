@@ -1,10 +1,10 @@
 ---
 title: 
-tags: 
+tags:
 ---
 They know what
 - [[LSTM]] means
 - [[Attention mechanism]]
-- [[prompting]] optimisation
+- [[Prompting]] optimisation
 - [[Neural network]]
 
