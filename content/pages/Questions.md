@@ -8,17 +8,16 @@ Insert questions here from [[Filtered Questions|Filtered Questions]].
 
 **Machine Learning Questions**  
 
-[[Feature Scaling]]
-Why does scaling features matter for algorithms like SVM or K-means, and when is it unnecessary?  
+[[Why and when is feature scaling necessary]]
 
-[[Model Ensemble]]
-2. In ensemble methods like Random Forest, why does increasing the number of trees sometimes stop improving accuracy?  
-[[Cross Validation]]
-1. Why might a model with high cross-validation accuracy still perform poorly on unseen test data?  
-[[R squared]]
-1. Why is the R-squared metric not always a good indicator of model performance in regression?  
+[[Why does increasing the number of models in a ensemble not necessarily improve the accuracy]]
+
+[[High cross validation accuracy is not directly proportional to performance on unseen test data]]
+
+[[R-squared metric not always a good indicator of model performance in regression  ]]
+
 [[Data Cleansing]]
-1. If you have missing data, why might deleting rows or filling them with the mean not always be ideal?  
+[[Deleting rows or filling them with the mean is not always best ]]
   
 **Natural Language Processing Questions**  
 
