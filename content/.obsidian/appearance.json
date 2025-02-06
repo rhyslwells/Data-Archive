@@ -6,5 +6,6 @@
   "showViewHeader": true,
   "enabledCssSnippets": [],
   "baseFontSizeAction": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "showRibbon": false
 }

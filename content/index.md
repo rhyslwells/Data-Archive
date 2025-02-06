@@ -13,7 +13,7 @@ The Data Archive is continuously growing, here are some starting points.
 | MLOPS: [[Machine Learning Operations]]  | #ml_process #ml_optimisation #model_explainability                                                                        |
 | LANG: [[Language Models]]               | #GenAI #language_models #NLP                                                                                              |
 | DE: [[Data Engineer\|Data Engineering]] | #database #data_storage  #data_modeling #data_cleaning<br> #data_exploration  #data_transformation #data_processing       |
-| DEVOPS: [[DevOps]]                      | #software  #data_orchestration #software #business<br> #code_snippet #software_architecture #cmd                          |
+| DEVOPS: [[DevOps]]                      | #software  #data_orchestration #software #business<br> #code_snippet #software_architecture                               |
 | CAREER: [[Career Interest]]             | #career #energy                                                                                                           |
 | DA: [[Data Analysis]]                   | #data_visualization                                                                                                       |
 | [[Mathematics]]                         | #statistics #math                                                                                                         |
@@ -21,7 +21,6 @@ The Data Archive is continuously growing, here are some starting points.
 | [[Data Terms]]                          | #data_quality #data_governance #data_management #field<br>#communication                                                  |
 
 ## Tag Meanings
-
 
 | Tag                   | Meaning                                                         | Related Tags                  |
 | --------------------- | --------------------------------------------------------------- | ----------------------------- |

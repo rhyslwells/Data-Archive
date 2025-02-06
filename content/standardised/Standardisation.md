@@ -1,4 +1,4 @@
-Standardisation is a [[Preprocessing|data preprocessing]] technique used to [[Data Transformation]] features so that they have a mean of 0 and a standard deviation of 1. This process is essential in preparing data for various machine learning algorithms.
+Standardisation is a [[Preprocessing|data preprocessing]] technique used to [[Data Transformation]] features so that they have a mean of 0 and a standard deviation of 1. Centers data with zero mean and unit variance, suitable for algorithms sensitive to variance.
 
 Definition: Standardisation involves rescaling the features of your data so that they have a mean of 0 and a standard deviation of 1. This is achieved by subtracting the mean of the feature from each data point and then dividing by the standard deviation.
 

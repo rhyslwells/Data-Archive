@@ -19,7 +19,7 @@ Main Ensemble Techniques:
 - [[Bagging]]
 - [[Boosting]]
 - [[Stacking]]
-- [[Isolated Forests]]
+- [[Isolated Forest]]
 
 In [[ML_Tools]] see: [[Comparing_Ensembles.py]]
 # Further Understanding

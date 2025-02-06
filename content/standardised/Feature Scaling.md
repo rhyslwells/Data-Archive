@@ -27,12 +27,11 @@ Feature scaling is important for several reasons:
 3. Gradient Descent Optimization: In optimization algorithms like gradient descent, features with larger ranges can cause inefficient convergence. Scaling ensures that all features are on a similar scale, allowing for faster and more stable convergence to the optimal solution.
 
 ### Common Scaling Methods
-The two most discussed methods for feature scaling are:
-
 [[Normalisation]]
 
 [[Standardisation]]
 
+Min-Max Scaling:  Scales features to a fixed range (e.g., $[0, 1]$), preserving relative distances.
 ### Example of Scaling
 Here’s how you can scale a DataFrame using the `scale` function from `sklearn`:
 

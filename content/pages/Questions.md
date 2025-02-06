@@ -1,18 +1,20 @@
 Insert questions here from [[Filtered Questions|Filtered Questions]].
 
 - [[Model Parameters Tuning]]
-- [[Anomaly Detection]]
-
-[[How do we evaluate of LLM Outputs]]
 #### Question prompts
 
+[[pdoc]]
+Documentation made simple. pdoc automatically generates beautiful, modern docs from your codebase. It’s perfect for keeping your projects well-documented without spending hours writing manual guides or configuring your styles.
+
+𝐉𝐮𝐬𝐭𝐟𝐢𝐥𝐞
+A command runner that simplifies your workflow. Instead of memorizing long commands, 𝐉𝐮𝐬𝐭𝐟𝐢𝐥𝐞 lets you define simple, reusable commands for common tasks.
+related to [[Makefile]]?
+
+𝐩𝐲𝐫𝐢𝐠𝐡𝐭  
+A static type checker that’s faster and more accurate than many alternatives. If you’re using type hints (and you should be!), 𝐩𝐲𝐫𝐢𝐠𝐡𝐭 will catch errors before they happen and make your codebase way more robust.
+What is the difference between pyright and [[Pydantic]]?
+
 **Machine Learning Questions**  
-
-[[Why and when is feature scaling necessary]]
-
-[[Why does increasing the number of models in a ensemble not necessarily improve the accuracy]]
-
-[[High cross validation accuracy is not directly proportional to performance on unseen test data]]
 
 [[R-squared metric not always a good indicator of model performance in regression  ]]
 
@@ -46,9 +48,7 @@ Insert questions here from [[Filtered Questions|Filtered Questions]].
 [[Hypothesis testing]]
 1. In hypothesis testing, why might a very small p-value still lead to incorrect conclusions?  
 
-[[Standard deviation]]
-1. Why is standard deviation preferred over variance when interpreting data spread?  
-  
+ 
 **Scenario-Based Questions**  
 
 [[Data Streaming]]
@@ -60,8 +60,7 @@ Insert questions here from [[Filtered Questions|Filtered Questions]].
 [[Deep Learning]]
 1. A client insists on using deep learning for a small dataset. Why might this backfire, and how would you explain the risks?  
 
-[[Outliers]]
-1. Why might removing outliers improve a regression model’s performance but harm a classification model?  
+
 
 [[Imbalanced Datasets]]
 1. You have a perfectly balanced dataset but still experience poor classification accuracy. Why might the class separability be the issue?

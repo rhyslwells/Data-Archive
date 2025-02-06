@@ -5,8 +5,7 @@ tags:
 aliases: 
 category:
 ---
->[!Summary]
-> **Data Streaming** is used for **real-time data processing**, allowing continuous flow and processing of data as it arrives. This is different from batch processing, which handles data in chunks.
+**Data Streaming** is used for **real-time data processing**, allowing continuous flow and processing of data as it arrives. This is different from batch processing, which handles data in chunks.
 
 - The key to data streaming is the ==**Publish-Subscribe== (Pub/Sub) model**:
   - **Producers** publish messages to specific channels called **Topics**.

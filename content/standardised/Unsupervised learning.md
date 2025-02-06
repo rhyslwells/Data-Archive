@@ -9,7 +9,7 @@ category:
 ---
 Unsupervised learning is a type of machine learning where the algorithm is trained on data without explicit labels or predefined outputs. 
 
-Unsupervised learning involves discovering hidden patterns in data without predefined labels. It is valuable for exploratory data analysis, [[Clustering]], and [[Isolated Forests]].
+Unsupervised learning involves discovering hidden patterns in data without predefined labels. It is valuable for exploratory data analysis, [[Clustering]], and [[Isolated Forest]].
 
 The goal is to find hidden patterns, relationships, or structures in the data. Unlike supervised learning, which uses labeled input-output pairs, unsupervised learning relies solely on input data, allowing the algorithm to uncover insights independently.
 
@@ -41,7 +41,7 @@ Description: Reduces the number of input variables (features) while preserving a
 Popular Algorithms:
   - [[Principal Component Analysis]] 
 
-#### [[Isolated Forests]]
+#### [[Isolated Forest]]
 
 Description: Identifies [[Outliers]] or unusual data points that don’t conform to the expected pattern in the dataset.
 

@@ -3,12 +3,12 @@
 
 Priority Tasks:
 - [ ] See [[Fourth]]
-- [ ] See [[Recent notes]]
 - [ ] See [[Filtered Questions|Filtered Questions]]
-- [ ] Ensure notes have relevant tags and categories
-- [ ] How to bulk add tags
 - [ ] Add scripts with [[ML_Tools]]: Build associated scripts i.e [[K_Means.py]] for these if necessary and draft the content of the note so that it is readable at a future date.
 - [ ] Use copilots prompts help exploration.
+- [ ] On Desktop see Auto_YAML project
+	- [ ] Ensure notes have relevant tags and categories
+	- [ ] How to bulk add tags
 
 Papers:
 ```dataview

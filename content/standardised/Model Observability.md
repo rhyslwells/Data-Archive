@@ -24,7 +24,7 @@ Observability is a process in ML, and is usually achieved through logging, metri
    - Tracking key metrics such as [[Accuracy]], [[Precision]],[[Recall]],[[F1 Score]],[[ROC (Receiver Operating Characteristic)]]d other relevant KPIs over time to identify performance degradation or improvements.
    - Monitoring [[Performance Drift]] in model inputs (features) and outputs (predictions) to detect when the model no longer performs well due to changes in data distribution ([[data drift]]) or changes in relationships between variables ([[Performance Drift]]).
 
-2. **Error and [[Isolated Forests]]**:
+2. **Error and [[Isolated Forest]]**:
    - Identifying when predictions are out of the expected range or when the model behaves abnormally, such as high error rates on specific subsets of data or excessive latency in prediction generation.
    
 3. **[[Interpretability]]**:
