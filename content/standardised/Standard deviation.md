@@ -34,7 +34,7 @@ $$
    - Approximately **68%** of the data falls within **one standard deviation** of the mean.  
    - About **95%** falls within **two standard deviations**.  
    - About **99.7%** falls within **three standard deviations** (known as the empirical rule).  
-   This property is particularly useful for identifying [[outliers]].
+   This property is particularly useful for identifying [[standardised/Outliers]].
 
 4. **Ease of Communication**  
    Standard deviation is more intuitive and easier to communicate to a broader audience, including those without a strong statistical background. Its direct relation to the data makes it a preferred choice for explaining variability.

@@ -3,7 +3,6 @@ tags:
   - database
 ---
 
-
 [LINK](https://cs50.harvard.edu/sql/2024/weeks/0/)
 
 [[Database]]

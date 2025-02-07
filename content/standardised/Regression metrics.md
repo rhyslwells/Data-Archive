@@ -15,7 +15,7 @@ These metric provide:
 
 1. **Comprehensive Evaluation**: Each metric provides a different perspective on model performance. For example, while MSE and RMSE give insights into the average error magnitude, MAE provides a straightforward average error measure, and R-squared indicates how well the model explains the variance in the data.
 
-2. **Sensitivity to [[Outliers]]**: Metrics like MSE and RMSE are sensitive to outliers due to the squaring of errors, which can be useful if you want to emphasize larger errors. In contrast, MAE and Median Absolute Error are more robust to outliers.
+2. **Sensitivity to [[standardised/Outliers]]**: Metrics like MSE and RMSE are sensitive to outliers due to the squaring of errors, which can be useful if you want to emphasize larger errors. In contrast, MAE and Median Absolute Error are more robust to outliers.
 
 3. **[[Interpretability]]**: RMSE is in the same units as the target variable, making it easier to interpret in the context of the data. This can be particularly useful for stakeholders who need to understand the model's performance in practical terms.
 
@@ -56,7 +56,7 @@ These metric provide:
 
 #### Median Absolute Error:
    - Definition: This metric measures the median of the absolute errors between predicted and actual values.
-   - Interpretation: It provides a robust measure of prediction accuracy, especially in the presence of [[outliers]].
+   - Interpretation: It provides a robust measure of prediction accuracy, especially in the presence of [[standardised/Outliers]].
    - Formula: 
    $$ \text{MedAE} = \text{median}(|y_i - \hat{y}_i|) $$
 

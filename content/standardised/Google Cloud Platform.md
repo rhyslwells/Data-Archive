@@ -33,7 +33,7 @@ Resources:
 ### CI/CD
  Tools and services for continuous integration and continuous delivery.
 
-### [[Firebase]]
+### [[standardised/Firebase]]
  A platform for building mobile and web applications with realtime databases, authentication, and more.
 
 ## Notes:

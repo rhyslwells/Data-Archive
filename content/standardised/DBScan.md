@@ -10,7 +10,7 @@ category:
 - **Used when [[K-means]] doesn't work**: DBSCAN handles datasets with ==irregular cluster shapes== and is not sensitive to outliers like K-means.
 - **When you have nesting of clusters**: It can identify clusters of varying shapes and sizes without needing to predefine the number of clusters, unlike K-means.
 - **Groups core points to make clusters**: DBSCAN identifies core points, which have many nearby points, and groups them together.
-- **Can identify [[Outliers]]**: It detects noise points (outliers) that don't belong to any cluster.
+- **Can identify [[standardised/Outliers]]**: It detects noise points (outliers) that don't belong to any cluster.
 
 ### Python Example:
 

@@ -2,7 +2,9 @@
 tags:
   - statistics
 ---
-The Central Limit Theorem (CLT) states that regardless of the underlying distribution of a dataset, the sampling distribution of the sample means will approximate a normal [[Distributions]] as the sample size becomes large.
+The Central Limit Theorem states that the distribution of the sum (or average) of a large number of independent, identically distributed random variables approaches a normal distribution, regardless of the original distribution.
+
+[[Why is the Central Limit Theorem important when working with small sample sizes]]
 
 ### Key Points
 
@@ -16,3 +18,9 @@ The Central Limit Theorem (CLT) states that regardless of the underlying distrib
   - Confidence intervals
   - Hypothesis testing
   - Regression analysis
+
+[[Central Limit Theorem]]
+**Explain the concept of the Central Limit Theorem.**;; 
+
+
+<!--SR:!2024-01-26,3,250-->

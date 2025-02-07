@@ -24,19 +24,19 @@ In [[ML_Tools]] see: [[Evaluation_Metrics.py]]
 
 ## Types of predictions
 
-Types of predictions in evaluating models
+Types of predictions in evaluating models. Also see [[Why Type 1 and Type 2 matter]]
 
 **True Positive (TP)**:
 - This occurs when the model correctly predicts the positive class. For example, if the model predicts that an email is spam and it actually is spam, that's a true positive.
 
 **False Positive (FP)**:
-- Also known as a "Type I error," this occurs when the model incorrectly predicts the positive class. For example, if the model predicts that an email is spam but it is not, that's a false positive.
+- Also known as a =="Type I error,"== this occurs when the model incorrectly predicts the positive class. For example, if the model predicts that an email is spam but it is not, that's a false positive.
 
 **True Negative (TN)**:
 - This occurs when the model correctly predicts the negative class. For example, if the model predicts that an email is not spam and it actually is not spam, that's a true negative.
 
 **False Negative (FN)**:
-- Also known as a "Type II error," this occurs when the model incorrectly predicts the negative class. For example, if the model predicts that an email is not spam but it actually is spam, that's a false negative.
+- Also known as a =="Type II error,"== this occurs when the model incorrectly predicts the negative class. For example, if the model predicts that an email is not spam but it actually is spam, that's a false negative.
 
 ## Evaluation metrics in practice
 

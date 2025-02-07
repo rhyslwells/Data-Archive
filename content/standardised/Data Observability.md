@@ -7,7 +7,7 @@ aliases: []
 ---
 Data observability refers to the continuous monitoring and collection of metrics about your data to ensure its [[Data Quality]], reliability, and availability. 
 
-It covers various aspects, such as data quality, pipeline health, metadata management, and infrastructure performance. By tracking key metrics and [[Outliers|anomalies]], it helps detect issues like data freshness problems, schema changes, or pipeline failures before they impact downstream processes or users.
+It covers various aspects, such as data quality, pipeline health, metadata management, and infrastructure performance. By tracking key metrics and [[standardised/Outliers|anomalies]], it helps detect issues like data freshness problems, schema changes, or pipeline failures before they impact downstream processes or users.
 ### Categories of Observability
 
 Auto-profiling Data:

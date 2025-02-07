@@ -43,8 +43,8 @@ Popular Algorithms:
 
 #### [[Isolated Forest]]
 
-Description: Identifies [[Outliers]] or unusual data points that don’t conform to the expected pattern in the dataset.
+Description: Identifies [[standardised/Outliers]] or unusual data points that don’t conform to the expected pattern in the dataset.
 
 Example: Detecting fraudulent credit card transactions by identifying transactions that deviate significantly from typical spending patterns.
 
-Mechanism: Works by randomly partitioning the data and identifying [[Outliers|anomalies]] as points that can be isolated quickly.
+Mechanism: Works by randomly partitioning the data and identifying [[standardised/Outliers|anomalies]] as points that can be isolated quickly.

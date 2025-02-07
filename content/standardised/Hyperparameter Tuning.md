@@ -13,7 +13,7 @@ Objective:
 Optimization Techniques:
 - [[GridSeachCv]]: Exhaustively searches through a specified subset of hyperparameters.
 - Random Search: Randomly samples from the hyperparameter space, often more efficient than grid search.
-- [[Optuna]]
+- [[standardised/Optuna]]
 - [[Regularisation]]: Often part of the hyperparameter tuning process, especially in models prone to overfitting.
 
 Key Considerations

@@ -17,7 +17,7 @@ The learning rate is a  [[Hyperparameter]] in machine learning that ==determines
    - A low learning rate ensures more stable and precise convergence but may result in slow training and can get stuck in local minima. A lower learning rate makes the model more robust but requires more iterations to converge.
    - 
 1. **Tuning**:
-   - The learning rate is a hyperparameter that needs careful tuning. It can be adjusted manually or through automated hyperparameter optimization techniques like [[Optuna]]. 
+   - The learning rate is a hyperparameter that needs careful tuning. It can be adjusted manually or through automated hyperparameter optimization techniques like [[standardised/Optuna]]. 
    - The optimal learning rate depends on various factors, including the dataset, model complexity, and the specific optimization algorithm used.
 
 3. **Practical Considerations**:

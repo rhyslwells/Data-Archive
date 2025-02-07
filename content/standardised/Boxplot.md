@@ -9,7 +9,7 @@ A boxplot, also known as a whisker plot, is a standardized way of displaying the
 ## Key Components
 
 Uses:
-- Identifying [[Outliers]].
+- Identifying [[standardised/Outliers]].
 - Understanding the spread and skewness of the data [[Distributions]].
 - Comparing distributions across different categories.
 - Need to remove then in order to do [[Data Cleansing]].

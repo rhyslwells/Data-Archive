@@ -65,3 +65,10 @@ Tools they use:
   - **Azure Data Lake Storage:** Scalable storage for big data analytics.
   - **SQL and T-SQL:** Query languages for managing and querying relational databases.
   - **AWS S3:** Storage for data lakes.
+
+
+
+
+[[Data Engineer]]
+  - Focuses on the architecture and infrastructure necessary for data generation, storage, and processing.
+  - Develops data pipelines and ensures data flow between systems.

@@ -35,6 +35,8 @@ Regularization is a technique in machine learning that reduces the risk of overf
 - **Underfitting Risk:** Over-penalizing parameters can lead to underfitting, where the model becomes too simplistic.
 - **Tuning $\lambda$:** Choosing the right penalty term (i.e., $\lambda$) is crucial for balancing bias and variance.
 
+[[When and why not to us regularisation]]
+### Questions
 - How does the balance between $L_1$ and $L_2$ regularization impact model performance in large feature spaces?
 - What are the best practices for tuning the $\lambda$ parameter in regularization? [[Model Parameters Tuning]].
 

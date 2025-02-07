@@ -2,7 +2,7 @@ Optimisation techniques
 - [[Adam Optimizer]]
 - RMSprop
 - [[Stochastic Gradient Descent]]
-- [[Optuna]]
+- [[standardised/Optuna]]
 
 [[Gradient Descent]]
 - Iteratively updates parameters using the gradient of the [[Cost Function]] with respect to the parameters.  

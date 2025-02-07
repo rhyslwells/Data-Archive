@@ -12,7 +12,7 @@ Exploratory [[Data Analysis]] (EDA) is an approach to analyzing datasets to summ
 - **Decide on Statistical Techniques**: Choose appropriate statistical methods by examining [[distributions]] and [[correlation]].
 - **Select Variables**: Determine which variables to include in further analysis.
 - **Handle [[Data Quality]]**: Address issues related to data quality and integrity.
-- **Spot Anomalies and [[Outliers]]**: Identify unusual data points that may affect analysis.
+- **Spot Anomalies and [[standardised/Outliers]]**: Identify unusual data points that may affect analysis.
 - **Generate and Test Hypotheses**: Formulate hypotheses and validate them using statistical methods.
 - **Check Assumptions**: Verify assumptions through statistical summaries and graphical representations.
 ### Common Techniques Used in EDA

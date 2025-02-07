@@ -25,5 +25,5 @@ Later:
 - [ ] Use the graph view more to explore ideas
 - [ ] Organise the content of github in ML_learning repo. Link with Readmes to Data archive.
 - [ ] Start work on #energy [[Energy project]]
-- [ ] Generate similar [[Firebase]] application?
+- [ ] Generate similar [[standardised/Firebase]] application?
 - [ ] Read [[interpretability|interpretable]] Machine learning book.

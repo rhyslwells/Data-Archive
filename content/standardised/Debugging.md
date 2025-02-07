@@ -7,7 +7,7 @@ phase: Preprocess
 topic: Data Cleaning
 filename: data_cleaning_script
 ---
-Debugging is the process of identifying, analyzing, and resolving bugs or defects in software. It is a critical part of the [[Software Development Life Cycle]], ensuring that applications function correctly and efficiently. Debugging involves several techniques and tools to pinpoint the source of errors and fix them.
+Debugging is the process of identifying, analyzing, and resolving bugs or defects in software while [[Testing]]. It is a critical part of the [[Software Development Life Cycle]], ensuring that applications function correctly and efficiently. Debugging involves several techniques and tools to pinpoint the source of errors and fix them.
 
 In [[ML_Tools]] see:
 - [[Debugging.py]]

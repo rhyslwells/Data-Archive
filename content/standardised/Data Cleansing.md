@@ -15,7 +15,7 @@ category:
 
 [[Handling Missing Data]]
 
-[[Outliers|Handling Outliers]]
+[[standardised/Outliers|Handling Outliers]]
 
 [[One-hot encoding]]
 
