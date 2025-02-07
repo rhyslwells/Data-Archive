@@ -7,18 +7,18 @@ category:
 
 The Data Archive is continuously growing, here are some starting points.
 
-| Category                                | Related Tags                                                                                                              |
-| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| DS: [[Data Science]]                    | #classifier #regressor #evaluation #clustering<br> #deep_learning #anomaly_detection #model_architecture #model_algorithm |
-| MLOPS: [[Machine Learning Operations]]  | #ml_process #ml_optimisation #model_explainability                                                                        |
-| LANG: [[Language Models]]               | #GenAI #language_models #NLP                                                                                              |
-| DE: [[Data Engineer\|Data Engineering]] | #database #data_storage  #data_modeling #data_cleaning<br> #data_exploration  #data_transformation #data_processing       |
-| DEVOPS: [[DevOps]]                      | #software  #data_orchestration #software #business<br> #code_snippet #software_architecture                               |
-| CAREER: [[Career Interest]]             | #career #energy                                                                                                           |
-| DA: [[Data Analysis]]                   | #data_visualization                                                                                                       |
-| [[Mathematics]]                         | #statistics #math                                                                                                         |
-| [[pages/Tasks\|Tasks]]                  | #drafting #question                                                                                                       |
-| [[Data Terms]]                          | #data_quality #data_governance #data_management #field<br>#communication                                                  |
+| Category & Related Tags                                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Data Science]]<br><br>#classifier #regressor #evaluation #clustering<br> #deep_learning #anomaly_detection #model_architecture #model_algorithm              |
+| [[Machine Learning Operations]]<br><br>#ml_process #ml_optimisation #model_explainability                                                                      |
+| [[Language Models]]<br><br>#GenAI #language_models #NLP                                                                                                        |
+| [[Data Engineer\|Data Engineering]]<br><br>#database #data_storage  #data_modeling #data_cleaning<br> #data_exploration  #data_transformation #data_processing |
+| [[DevOps]]<br><br>#software  #data_orchestration #software #business<br> #code_snippet #software_architecture                                                  |
+| [[Career Interest]]<br><br>#career #energy                                                                                                                     |
+| [[Data Analysis]]<br><br>#data_visualization                                                                                                                   |
+| [[Mathematics]]<br><br>#statistics #math                                                                                                                       |
+| [[pages/Tasks\|Tasks]]<br><br>#drafting #question                                                                                                              |
+| [[Data Terms]]<br><br>#data_quality #data_governance #data_management <br>#field #communication                                                                |
 
 ## Tag Meanings
 
