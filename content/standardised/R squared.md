@@ -2,7 +2,7 @@
 tags:
   - statistics
 ---
-R², or the coefficient of determination, measures the proportion of variance in the dependent variable that is explained by the independent variables in a [[regression]] model.
+R², or the coefficient of determination, ==measures the proportion of variance in the dependent variable that is explained by the independent variables== in a [[regression]] model.
 
 **Interpretation**:  
 - R² values range from 0 to 1.
@@ -19,3 +19,6 @@ Where:
 
 **Example**:  
 An R² of 0.60 indicates that 60% of the variability observed in the target variable is explained by the regression model.
+
+#### Follow up Questions
+- [[R-squared metric not always a good indicator of model performance in regression]]

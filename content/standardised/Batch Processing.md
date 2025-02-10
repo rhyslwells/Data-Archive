@@ -5,8 +5,7 @@ tags:
 aliases: 
 category:
 ---
->[!Summary]
-> **Batch Processing** is a technique used to handle and process large datasets efficiently. It works by breaking the data into smaller chunks and processing them together in a single batch.
+**Batch Processing** is a technique used to handle and process large datasets efficiently. It works by breaking the data into smaller chunks and processing them together in a single batch.
 
 [[Apache Spark]] is the leading technology for batch processing, offering scalable and distributed data processing. It can handle unmanageable data sizes by using parallelism and [[Distributed Computing]]
 

@@ -5,7 +5,7 @@ category:
 ---
 ## Map of Content
 
-The Data Archive is continuously growing, here are some starting points.
+The Data Archive is continuously growing, here are some starting points. See #portal for notes that are useful for navigation.
 
 | Category & Related Tags                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |

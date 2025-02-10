@@ -10,4 +10,7 @@ Main uses:
 
 ### Related content
 
-[[1_Overview/Project ideas]]
+[Video Link](https://www.youtube.com/watch?v=eE7CamOE-PA&list=PLcWfeUsAys2my8yUlOa6jEWB1-QbkNSUl&index=2)
+https://www.gradio.app/
+
+[[Overview]]

@@ -1,1 +1,1 @@
-Insert tasks from [[Filtered Tasks|Filtered Tasks]].
+Insert tasks from [[All Tasks|All Tasks]].

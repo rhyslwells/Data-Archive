@@ -2,19 +2,22 @@
 title: What is DevOps?
 tags:
   - data_orchestration
+category: DEVOPS
 ---
-DEVOPS 
+DevOps refers to practices for collaboration and automation between [[Software Development]] (Dev) and IT operations (Ops) teams, aiming for faster, more reliable software delivery.
 
-Practices for collaboration and automation between software development (Dev) and IT operations (Ops) teams, aiming for faster, more reliable software delivery.
+**Integration**: It integrates the work of software development and operations teams by fostering a culture of collaboration and shared responsibility.
 
-DevOps is a combination of software developers (dev) and operations (ops). It is defined as a software engineering methodology that aims to integrate the work of software development and software operations teams by facilitating a culture of collaboration and shared responsibility.
+**Principles**: 
+- Emerges from Agile principles.
+- Emphasizes collaboration between development and operations teams.
 
-Is also related to [[DataOps]]
+**Approach**: 
+- Utilizes continuous integration and continuous delivery ([[CI-CD]]) to ensure frequent code changes and quick feedback loops.
+- Enables rapid and reliable updates with high levels of automation and efficiency.
 
+**Goals**: 
+ - Ensures existing processes are optimized and streamlined.
 
-
-### [[DevOps]]
-
-Emerging from Agile principles, ==DevOps emphasizes collaboration between development and operations teams.== This approach uses continuous integration and continuous delivery ([[CI-CD]]) to ensure frequent code changes and quick feedback loops. DevOps practices enable rapid and reliable updates, with high levels of automation and efficiency.
-
-- Makes sure existing process are optimised and streamlined.
+ Related to:
+- [[DataOps]]

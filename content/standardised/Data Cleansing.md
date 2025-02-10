@@ -1,8 +1,8 @@
 ---
 tags:
   - data_transformation
-  - code_snippet
   - data_cleaning
+  - portal
 title: 
 importance: 
 engagement: 
@@ -20,3 +20,7 @@ category:
 [[One-hot encoding]]
 
 [[Handling Different Distributions]]
+
+
+Follow-up questions:
+- [[Deleting rows or filling them with the mean is not always best ]]

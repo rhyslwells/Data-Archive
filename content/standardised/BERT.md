@@ -14,7 +14,7 @@ BERT has significantly advanced the field of NLP by improving the performance of
 
 ### What is BERT?
 
-- Architecture: BERT is based on the [[transformer]] architecture and utilizes a bidirectional approach, meaning it considers the ==context of a word based on both its left and right surroundings in a sentence.== This allows BERT to capture nuanced meanings and relationships between words more effectively than previous models that processed text in a unidirectional manner.
+- Architecture: BERT is based on the [[Transformer]] architecture and utilizes a bidirectional approach, meaning it considers the ==context of a word based on both its left and right surroundings in a sentence.== This allows BERT to capture nuanced meanings and relationships between words more effectively than previous models that processed text in a unidirectional manner.
 
 - Pre-training and Fine-tuning: BERT is ==pre-trained== on a large corpus of text using unsupervised learning techniques. It learns to predict masked words in sentences (Masked Language Model) and to determine if one sentence follows another (Next Sentence Prediction). After pre-training, BERT can be fine-tuned on specific tasks with labeled data, making it highly adaptable.
 

@@ -18,7 +18,7 @@ category: DS
 - **Ask Preliminary Questions**: Consider what initial questions the data might help answer.
 ### Step 3: Formulate Your Question
 
-- **Define the Problem**: Clearly articulate the problem you are trying to solve.
+- [[Problem Definition]]: Clearly articulate the problem you are trying to solve.
 - **Set Objectives**: Determine what you aim to achieve with your analysis.
 - **Consider Stakeholders**: Ensure the question aligns with business goals and stakeholder interests.
 

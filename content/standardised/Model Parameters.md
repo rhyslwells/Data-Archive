@@ -3,9 +3,8 @@ Model parameters are also called weights and biases.
 These parameters are adjusted during the training process to optimize the model's performance on the given task.
 
 See also: 
-[[Model Parameters Tuning]]
-[[Optimisation techniques]]
-
+- [[Model Parameters Tuning]]
+- [[Optimisation techniques]]
 ### Examples
 
 1. **[[Linear Regression]]**: 

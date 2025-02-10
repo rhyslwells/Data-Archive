@@ -64,3 +64,4 @@ In [[ML_Tools]] see: [[Vector_Embedding.py]]
 ## Related Terms
 
 [[How to search within a graph]]
+[[How would you decide between using TF-IDF and Word2Vec for text vectorization]]

@@ -30,7 +30,7 @@ To find optimal [[Model Parameters]].
 ![[Pasted image 20241231142918.png]]
 
 
-To find optimial model paramaters, graph the parameter against error of the model.
+To find optimal model parameters, graph the parameter against error of the model.
 
 On the left plot, the solid lines represent the predictions from these models. A polynomial model with degree 1 produces a straight line that intersects very few data points, while the maximum degree hews very closely to every data point. 
 

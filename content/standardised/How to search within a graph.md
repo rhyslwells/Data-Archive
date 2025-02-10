@@ -1,7 +1,7 @@
 [[How to search within a graph]]
 ### Vector Search with Graph Context
 
-[[Vector Embedding]] plays a crucial role in enhancing search capabilities:
+[[standardised/Vector Embedding]] plays a crucial role in enhancing search capabilities:
 
 **Comparison of Vector-Only vs. Graph-RAG**: 
   - Vector-only searches may lack context, while Graph-RAG utilizes graph traversal to provide richer, multi-step context.

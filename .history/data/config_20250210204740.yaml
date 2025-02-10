@@ -1,4 +1,4 @@
-name: Airbyte
+name: Data-Archive
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -11,15 +11,13 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
 enableGitHubEdit: true
-GitHubLink: https://github.com/airbytehq/glossary/tree/hugo/content
-enableSemanticSearch: false
+GitHubLink: https://github.com/rhyslwells/Data-Archive/tree/main/content
+enableSemanticSearch: true
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  A single place for all data knowledge
+  A collection of useful data related terms
 page_title:
-  "Data Glossary 🧠"
+  "Data Archive"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/AirbyteHQ
   - link_name: Github
-    link: https://github.com/airbytehq
+    link: https://github.com/rhyslwells

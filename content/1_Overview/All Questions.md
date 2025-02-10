@@ -1,4 +1,3 @@
-
 ## [[Data Science]]
 ```dataview
 TABLE
@@ -17,13 +16,13 @@ TABLE
 FROM ""
 WHERE contains(tags, "question") AND category = "LANG"
 ```
-## [[DevOps]]
+## [[Software Development]]
 ```dataview
 TABLE
 FROM ""
 WHERE contains(tags, "question") AND category = "DEVOPS"
 ```
-### [[Career Interest]]
+## [[Career Interest]]
 ```dataview
 TABLE
 FROM ""

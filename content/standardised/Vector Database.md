@@ -1,6 +1,6 @@
 ## Overview
 
-Vector databases are specialized systems designed to handle and manage [[Vector Embedding]]. 
+Vector databases are specialized systems designed to handle and manage [[standardised/Vector Embedding]]. 
 
 As most real-world data is unstructured, such as text, images, and audio, vector databases play a  role in organizing and querying this data effectively.
 
@@ -32,7 +32,7 @@ Several vector database solutions are available, each with unique features and o
 - **Vespa**: Combines vector search with traditional search capabilities, ideal for complex applications.
 
 ## Related Concepts
-- **[[Vector Embedding]]**: The process of converting data into vector form, capturing its semantic essence.
-- **[[Vector Embedding]]**: A specific type of vector embedding used in NLP to represent words in a continuous vector space.
+- **[[standardised/Vector Embedding]]**: The process of converting data into vector form, capturing its semantic essence.
+- **[[standardised/Vector Embedding]]**: A specific type of vector embedding used in NLP to represent words in a continuous vector space.
 - **[[Semantic Search]]**: A search technique that leverages the meaning and context of queries and data to deliver more relevant results.
 - [[Cosine Similarity]]

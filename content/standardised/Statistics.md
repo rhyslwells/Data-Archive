@@ -3,12 +3,14 @@ tags:
   - statistics
   - drafting
 ---
+Portal for all statistics notes:
 
 [[Statistical Assumptions]]
-- [[assumption of normality]]
 
+[[Statistical Tests]]
+
+[[Hypothesis testing]]
 [[p values]]
-
 [[Confidence Interval]]
 
 [[Central Limit Theorem]]

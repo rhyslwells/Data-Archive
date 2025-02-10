@@ -1,7 +1,7 @@
 ---
 tags:
-  - career
+  - portal
 aliases: 
-category:
+category: CAREER
 ---
-CAREER 
+This is a portal to notes that I find relevant to my career:

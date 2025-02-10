@@ -47,3 +47,6 @@ A transformer in machine learning (ML) refers to a deep learning model architect
 - **Parallelization**:
     
     - Unlike Recurrent Neural Networks ([[Recurrent Neural Networks]]), transformers do **not require sequential processing,** making them more efficient, especially when training large datasets.
+
+Follow-up questions:
+- [[Transformers vs RNNs]]

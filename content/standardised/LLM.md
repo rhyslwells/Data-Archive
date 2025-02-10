@@ -29,7 +29,7 @@ A Large Language Model (LLM) is a type of language model designed for language u
 
 Large [[Language Models]] (LLMs) are a type of artificial intelligence model that is designed to understand and generate human language. Key aspects of how they work include:
 
-- Word Vectors: LLMs represent words as long lists of numbers, known as word vectors ([[Vector Embedding|word embedding]]).
+- Word Vectors: LLMs represent words as long lists of numbers, known as word vectors ([[standardised/Vector Embedding|word embedding]]).
 - Neural Network Architecture: They are built on a neural network architecture known as the [[Transformer]]. This architecture enables the model to identify relationships between words in a sentence, irrespective of their position in the sequence.
 - [[Transfer Learning]]: LLMs are trained using a technique known as transfer learning, where a pre-trained model is adapted to a specific task.
 

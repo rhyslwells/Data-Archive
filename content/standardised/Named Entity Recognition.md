@@ -22,9 +22,11 @@ NER has significant implications in information extraction, search engines, and 
  An example of NER is identifying "Apple Inc." as an organization in the sentence: "Apple Inc. released a new product."
 
 ### Follow up questions
- - How does the choice of training data affect the performance of NER models?
- - What are the challenges of NER in multilingual contexts?
+ - [[How does the choice of training data affect the performance of NER models]]
+ - [[What are the challenges of NER in multilingual contexts]]
+ - [[Why is named entity recognition (NER) a challenging task]]
+ - [[In NER how would you handle ambiguous entities]]
 
 ### Related Topics
- - Text classification in NLP  
+ - Text classification in [[NLP]]  
  - Information extraction techniques  
