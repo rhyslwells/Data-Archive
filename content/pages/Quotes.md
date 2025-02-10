@@ -13,3 +13,13 @@ To do things that matter because we care about it. To see purpose in it, and use
 ### Work
 
 ![[Pasted image 20250118151725.png|500]]
+
+
+```mermaid
+sequenceDiagram
+    Alice->>+John: Hello John, how are you?
+    Alice->>+John: John, can you hear me?
+    John-->>-Alice: Hi Alice, I can hear you!
+    John-->>-Alice: I feel great!
+```
+
