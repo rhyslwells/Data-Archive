@@ -12,12 +12,12 @@ df[df.columns[df.isnull().sum() > 0].tolist()].info()
 
 There are two main strategies for handling missing values: removing them or replacing them.
 
-- **Remove Missing Values:**
+**Remove Missing Values:**
   - `dropna`: Drops rows with missing values.
   - `df.dropna(inplace=True)`: Drops rows with NA values and updates the DataFrame in place.
   - `df.reset_index(inplace=True, drop=True)`: Resets the index after dropping rows.
 
-- **Replace Missing Values:**
+**Replace Missing Values:**
   - `fillna`: Fills missing values with specified values.
 	- **Example**: `df['var1'] = df['var1'].fillna(df['var1'].mean())` fills missing values in `var1` with the column's average.  
   - `isnull`: Checks for missing values.

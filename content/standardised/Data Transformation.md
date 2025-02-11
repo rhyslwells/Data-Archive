@@ -8,10 +8,7 @@ Data transformation is the process of converting data from one format into a dif
 
 Data Transformation: Normalizing or scaling numerical values, encoding categorical variables, and converting data types.
 
- ## Transformation with Pandas
-
-In [[Pandas]]
-
+ ## Transformation with [[Pandas]]
 ### Combining Datasets
 
 ```python

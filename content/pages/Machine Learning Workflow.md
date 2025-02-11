@@ -1,3 +1,7 @@
+---
+tags:
+  - portal
+---
 The following provides a breakdown of the main areas when working with ML models.
 
 [[Scientific Method]]

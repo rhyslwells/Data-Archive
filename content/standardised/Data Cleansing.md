@@ -21,6 +21,5 @@ category:
 
 [[Handling Different Distributions]]
 
-
 Follow-up questions:
 - [[Deleting rows or filling them with the mean is not always best ]]
