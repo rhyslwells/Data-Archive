@@ -2,6 +2,7 @@
 
 Priority Tasks:
 - [ ] See [[Fourth]]
+- [ ] Fix [[Data Archive]] using UI see README there.
 - [ ] move book marks into webview in obsidan
 - [ ] pdf reader inside this.- move relevant files to  here.
 - [ ] Draft 

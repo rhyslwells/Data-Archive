@@ -6,7 +6,7 @@ chat interface takes into account resources.
 
 save to note- to dave. 
 
-how to select and folders - from obsidian [[Data_Archive]] for this ? A getter of some kind
+how to select and folders - from obsidian [[Data Archive]] for this ? A getter of some kind
 
 can convert muiltple notes into a single note.
 

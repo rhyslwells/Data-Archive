@@ -14,7 +14,7 @@ Welcome to the Data Archive, an archive of my data-related concepts. Inspired by
 > Click on a note to explore its content, and follow the links and backlinks to dive deeper into related topics.
 > Interact with the graph at the bottom of the page to visualize connections between notes and click on any node to navigate directly to that note.
 > 
-> Click on the [Hashtags](tags) to explore the topics by tags. 
+> Click on the [Hashtags](Tags.md) to explore the topics by tags. 
 # About
 
 The Data Archive is split into the following areas:

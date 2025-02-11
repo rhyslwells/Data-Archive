@@ -1,4 +1,4 @@
-We connect ([link](https://github.com/rhyslwells/ML_Tools)) with the [[Data_Archive]]
+We connect ([link](https://github.com/rhyslwells/ML_Tools)) with the [[Data Archive]]
 
 We have reorganised ML Tools (see github) so that the folder paths can be determined by the notes in the Data archive.
 
