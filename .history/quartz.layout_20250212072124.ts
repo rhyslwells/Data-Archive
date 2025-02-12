@@ -5,24 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [Component.LinksHeader()],
-  afterBody: [
-    // Component.Breadcrumbs(),
-    // Component.TagList(),
-    Component.Backlinks(),
-    Component.Comments({
-      provider: 'giscus',
-      options: {
-        // from data-repo
-        repo: 'rhyslwells/Data-Archive',
-        // from data-repo-id
-        repoId: 'R_kgDOMuMI-Q',
-        // from data-category
-        category: 'Announcements',
-        // from data-category-id
-        categoryId: 'DIC_kwDOMuMI-c4CjvGU',
-      }
-    }),
-  ],
+  afterBody: [],
   footer: Component.Footer({
     links: {
     GitHub: "https://github.com/rhyslwells/Data-Archive",
@@ -66,6 +49,24 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.ContentMeta(),
     Component.MobileOnly(Component.TableOfContents()),
   ],
+  afterBody: [
+    // Component.Breadcrumbs(),
+    // Component.TagList(),
+    Component.Backlinks(),
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'rhyslwells/Data-Archive',
+        // from data-repo-id
+        repoId: 'R_kgDOMuMI-Q',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDOMuMI-c4CjvGU',
+      }
+    }),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -77,8 +78,6 @@ export const defaultContentPageLayout: PageLayout = {
     })),
   ],
   right: [
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.TagList(),
     // Component.Graph({
     //   localGraph: {
     //     drag: true, // whether to allow panning the view around
@@ -108,6 +107,9 @@ export const defaultContentPageLayout: PageLayout = {
     //   },
     // }    ),
     // Component.Graph(),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.TagList(),
+
     //Component.DesktopOnly(Component.RecentNotes({
     //   title: "Recently Created",
     //   limit: 5
