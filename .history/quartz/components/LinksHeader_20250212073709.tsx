@@ -8,7 +8,7 @@ interface Options {
 export default (() => {
   function LinksHeader() {
     return null
-  } //null
+  }
 
   LinksHeader.css = style
   return LinksHeader
