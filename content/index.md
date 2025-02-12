@@ -5,7 +5,8 @@ category:
 ---
 ## Map of Content
 
-The [[Data Archive]] is continuously growing! Here are some starting [[Tags]], see #portal for useful navigation notes.
+The [[Data Archive]] is continuously growing! New contents will follow the direction of [[Questions]] and [[Tasks]]. Here are some starting [[Tags]], see #portal for useful navigation notes.
+
 
 | [[Data Science]]                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------- |

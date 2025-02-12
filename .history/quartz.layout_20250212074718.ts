@@ -22,8 +22,6 @@ export const sharedPageComponents: SharedLayout = {
         categoryId: 'DIC_kwDOMuMI-c4CjvGU',
       }
     }),
-    Component.MobileOnly(Component.Explorer({
-      folderClickBehavior: "link"    })),
   ],
   footer: Component.Footer({
     links: {
