@@ -1,28 +1,35 @@
 # See [[Questions|Questions]]
 
 Priority Tasks:
-- [ ] See [[Fourth]]
 - [ ] Fix [[Data Archive]] using UI see README there.
-- [ ] move book marks into webview in obsidan
-- [ ] pdf reader inside this.- move relevant files to  here.
-- [ ] Draft 
-- [ ] See [[Questions|Questions]]
-- [ ] Add scripts with [[ML_Tools]]: Build associated scripts i.e [[K_Means.py]] for these if necessary and draft the content of the note so that it is readable at a future date.
-- [ ] Use copilots prompts help exploration.
-- [ ] plugins folder
-- [ ] Read through webpages using webviewer (webclipper extension).
-- [ ] On Desktop see Auto_YAML project
+- [ ] Finish for me: Auto_YAML project:
 	- [ ] Ensure notes have relevant tags and categories
 	- [ ] How to bulk add tags
-- [ ] Host a project online using [[Gradio]]/ [[Streamlit.io]]/[[Hugging Face]]
+	- [ ] Consider making this a plugin
+- [ ] Add scripts with [[ML_Tools]]: Build associated scripts i.e [[K_Means.py]] for these if necessary and draft the content of the note so that it is readable at a future date.
 
-Later:
-- [x] Improve [[A Topic Exploration]]
+- [ ] pdf reader inside this.- move relevant files to  here.
+- [ ] See [[Questions|Questions]]
+
+
+- [ ] Make better use of Plugins: see plugins folder
+	- [ ] Use copilots prompts help exploration.
+- [ ] Read through webpages using webviewer (webclipper extension).
+
+
+Simmering
+- [ ] Move bookmarks into WebView in obsidian
+
+Backburner:
+- [ ] See [[Fourth]]
+- [ ] Host a project online using [[Gradio]]/ [[Streamlit.io]]/[[Hugging Face]]
+	- [ ] Start work on #energy [[Energy project]]
+	- [ ] Generate similar [[standardised/Firebase]] application?
+
+Storage/Later:
 - [ ] Check out plugin [[0 README]]
 - [ ] Use the graph view more to explore ideas
 - [ ] Organise the content of github in ML_learning repo. Link with Readmes to Data archive.
-- [ ] Start work on #energy [[Energy project]]
-- [ ] Generate similar [[standardised/Firebase]] application?
 - [ ] Read [[interpretability|interpretable]] Machine learning book.
 
 Tasks that make progress:
