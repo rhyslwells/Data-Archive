@@ -33,13 +33,8 @@ const defaultOptions = {
       return -1
     }
   },
-  filterFn: (node) => {
-    // set containing names of everything you want to filter out
-    const omit = new Set(["pages", "tags"])
-    return !omit.has(node.name.toLowerCase())
-  },
+  filterFn: (node) => node.name !== "tags",
   order: ["filter", "map", "sort"],
-  
 } satisfies Options
 
 export default ((userOpts?: Partial<Options>) => {
