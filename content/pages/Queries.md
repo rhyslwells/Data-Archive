@@ -1,3 +1,11 @@
+This note contain dataview queries that are of use. These will not display, see [[Questions]].
+## Papers that I am currently reading
+```dataview
+TABLE
+FROM ""
+WHERE contains(category, "paper")
+LIMIT 8
+```
 ## [[Data Science]]
 ```dataview
 TABLE

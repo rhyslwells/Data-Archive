@@ -5,8 +5,23 @@ category:
 ---
 ## Map of Content
 
-The [[Data Archive]] is continuously growing! New contents will follow the direction of [[Questions]] and [[Tasks]]. Here are some starting [[Tags]], see #portal for useful navigation notes.
+The [[Data Archive]] is continuously growing! New contents will follow the direction of [[Questions]]. The [[Data Archive]] is the entry point of my ==Research-Pipeline==. We track on going tasks for it [here](https://docs.google.com/spreadsheets/d/1PMMFXlFfYjfba5VZQBVGcdtpXVQjPfDAL_MnDBobR1Y/edit?gid=0#gid=0)).
 
+```mermaid
+graph LR;
+    style Data_Archive fontSize:16px,fontWeight:bold;
+    style DE_Tools fontSize:14px;
+    style ML_Tools fontSize:14px;
+    style Paper_Dashboarding fontSize:14px;
+
+    Data_Archive --> DE_Tools;
+    DE_Tools --> ML_Tools;
+    ML_Tools --> Paper_Dashboarding;
+```
+
+## Navigation
+
+Here are some starting [[Tags]], see  #portal for useful navigation notes.
 
 | [[Data Science]]                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------- |

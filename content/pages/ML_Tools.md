@@ -1,6 +1,10 @@
 We connect ([link](https://github.com/rhyslwells/ML_Tools)) with the [[Data Archive]]
 
-We have reorganised ML Tools (see github) so that the folder paths can be determined by the notes in the Data archive.
+We have reorganised ML Tools (see github) so that the folder paths :
+
+https://github.com/rhyslwells/ML_Tools/Explorations/{phase}/{topic}/{filename}.py
+
+can be determined by the notes in the Data archive.
 
 The folder structure follows [[Machine Learning Workflow]] for phases.
 
@@ -11,21 +15,17 @@ phase:
 - [[Model Optimisation|Optimisation]]
 - [[Model Deployment|Deployment]]
 - [[Model Observability|Observability]]
+- [[Utilities]]
 
 topic: Dependant on the phase
 
-filename: Final name of script
-
-https://github.com/rhyslwells/ML_Tools/{phase}/{topic}/{filename}.py
-
+filename: Final name of script. We tag files with .py with #code_snippet 
 #### Notes
 
 Using the [[0_note]] template we can get the paths for the associated files.
 
-Use [[A YAML Generator]]
+Use [[A YAML Generator]] to get a suggestion of what the YAML should be.
 
-#### Code snippets
 
-We tag files with .py with #code_snippet 
 
 
