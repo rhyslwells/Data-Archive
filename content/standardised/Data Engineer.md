@@ -14,12 +14,14 @@ Resources:
 **Primary Goal:**  
 The primary responsibility of a data engineer is to take data from its source and make it available for analysis. They focus on automating the data collection, processing, and analysis workflows while solving how systems manage and handle the flow of data. Work in [[Data Engineer|Data Engineering]].
 
+Develops data pipelines and ensures data flow between systems.
+
 ### Key Responsibilities:
 
 1. **Infrastructure Design and Maintenance:**  
    Data engineers **design, build, and maintain** the necessary infrastructure to collect, process, and store large amounts of data. This infrastructure is crucial for ensuring data is accessible and usable for analysis and reporting.
 
-2. **Data Pipelines:** 
+2. **[[Data Pipeline]]:** 
    They **develop data pipelines** that integrate data from various sources, ensuring **data quality, consistency,** and **timely availability** for downstream use, such as analytics and reporting.
 
 3. **Support Role:**  
@@ -42,11 +44,11 @@ What engineers do & interact with:
 - [[ETL]]
 - [[Data Warehouse]]
 - [[SQL]]
-- Command line
+- [[Command line]]
 - [[Data Storage]]
 - [[Full Lifecycle Management]]
 
-Stakeholders they interact with:
+Stakeholders they interact with: [[Data Roles]]
 - **Data Scientists:** Collaborate to provide data pipelines and pre-processed data for advanced analytics.
 - **Business Analysts:** Ensure data is structured and accessible for analysis and reporting.
 - **Senior Stakeholders and Business Ambassadors:** Communicate requirements, progress, and solutions to align with business goals.
@@ -65,10 +67,3 @@ Tools they use:
   - **Azure Data Lake Storage:** Scalable storage for big data analytics.
   - **SQL and T-SQL:** Query languages for managing and querying relational databases.
   - **AWS S3:** Storage for data lakes.
-
-
-
-
-[[Data Engineer]]
-  - Focuses on the architecture and infrastructure necessary for data generation, storage, and processing.
-  - Develops data pipelines and ensures data flow between systems.

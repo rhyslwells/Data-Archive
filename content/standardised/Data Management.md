@@ -7,3 +7,11 @@ category:
 ---
 Who is responsible for data management, what mechanisms are in place to find issues and handle.  
 
+[[Database Management System (DBMS)]]
+
+[[master data management]]
+
+Data Management
+   - Ensuring the [[Data Pipeline]] runs smoothly and efficiently.
+   - Monitoring for errors, performance issues, and [[data quality]].
+   - Tools: [[Apache Airflow]], Prefect, [[Dagster]].

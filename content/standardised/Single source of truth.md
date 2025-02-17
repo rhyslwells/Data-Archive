@@ -4,6 +4,6 @@ Sending data from across an enterprise into a centralized system such as a:
 - [[Data Warehouse]]
 - [[Data Lakehouse]]
 - [[Data Lakehouse]]
-- [[master data management (mdm)]]
+- [[master data management]]
 
-results in a **single unified location for accessing and analyzing all the information that is flowing through an organization**.
+results in a single unified location for accessing and analyzing all the information that is flowing through an organization.

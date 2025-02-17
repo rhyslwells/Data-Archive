@@ -22,7 +22,7 @@ The data lakehouse architecture represents a significant evolution in [[Data Man
    - Unlike traditional data lakes, data lakehouses provide [[ACID Transaction]] which ensure reliable data operations and integrity, even in concurrent processing environments.
 
 4. **Schema Enforcement**:
-   - Data lakehouses can enforce [[Database schema|schema]] at the time of data write, allowing users to define data structures while still benefiting from the flexibility of a data lake.
+   - Data lakehouses can enforce [[Database Schema|schema]] at the time of data write, allowing users to define data structures while still benefiting from the flexibility of a data lake.
 
 5. **Performance Optimization**:
    - They incorporate various optimization techniques, such as indexing and caching, to improve query performance and provide faster access to data.

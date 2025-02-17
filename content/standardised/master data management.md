@@ -4,6 +4,8 @@ tags:
   - data_storage
   - data_governance
   - data_management
+aliases:
+  - mdm
 ---
 Master data management is a method to ==centralize== master data.
 

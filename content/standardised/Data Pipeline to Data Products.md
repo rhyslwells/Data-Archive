@@ -14,14 +14,6 @@ importance:
 The journey from [[Data Pipeline]] to [[Data Product]] involves transforming raw data into valuable insights or applications that can be used to drive business decisions. This process typically includes several stages, each with its own set of tasks and objectives.
 
 Read more on [Data Orchestration Trends: The Shift From Data Pipelines to Data Products](https://airbyte.com/blog/data-orchestration-trends).
-### Key Components
-
-[[Data Pipeline]]
-
-**Data Products**:
-   - Delivering the final output, which could be dashboards, reports, or machine learning models.
-   - Examples: Recommendation systems, predictive analytics dashboards.
-
 ### Workflow
 
 1. **Define Objectives**:

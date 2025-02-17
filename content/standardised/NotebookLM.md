@@ -18,3 +18,5 @@ Focus knowledge retrieval
 - get info from sources (folders)
 
 FAQ 
+
+Note: #portal  can help with file extraction rem utils function (for [[NotebookLM]])

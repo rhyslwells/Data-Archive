@@ -1,3 +1,14 @@
+---
+tags:
+  - portal
+aliases: 
+category: 
+phase: 
+topic: 
+filename:
+---
+
+
 In ML:
 [[Z-Normalisation]]
 [[Standardisation]]
@@ -6,7 +17,7 @@ In ML:
 
 In [[Data Engineering]]:
 [[Normalisation of data]]
-[[Database Normalization]]
+[[Normalised Schema]]
 [[How to normalise a merged table]]
 
 In [[NLP]]:

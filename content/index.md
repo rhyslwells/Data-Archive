@@ -35,13 +35,14 @@ Here are some starting [[Tags]], see  #portal for useful navigation notes.
 | ----------------------------------------------------------------------------------------------------------------------- |
 | #GenAI #language_models #NLP<br>                                                                                        |
 
-| [[Data Engineer\|Data Engineering]]                                                                                        |
-| -------------------------------------------------------------------------------------------------------------------------- |
-| #database #data_storage  #data_modeling<br>#data_cleaning #data_exploration  #data_transformation <br>#data_processing<br> |
+| [[Data Engineer\|Data Engineering]]                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #database #data_storage  #data_modeling<br>#data_cleaning #data_exploration  #data_transformation <br>#data_processing #database_optimisation <br> |
 
 | [[DevOps]]                                                                                      |
 | ----------------------------------------------------------------------------------------------- |
-| #software  #data_orchestration #software #business<br> #code_snippet #software_architecture<br> |
+| #software  #data_orchestration #software <br>#business #code_snippet #software_architecture<br> |
+|                                                                                                 |
 
 | [[Career Interest]]<br>                                                                             |
 | --------------------------------------------------------------------------------------------------- |

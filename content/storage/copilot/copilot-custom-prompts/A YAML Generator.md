@@ -4,7 +4,7 @@ tags:
 ---
 Based on the content of the current note.
 
-Use [[index]] to provide two or more relevant tags and a suggested category for the current file.
+Use [[index]] and [[Tags]] to provide two or more relevant tags and a suggested category for the current file.
 
 Using [[ML_Tools]] suggest a phase, topic, and filename
 

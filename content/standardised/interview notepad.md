@@ -78,7 +78,7 @@ How would you interact with the data science community?;; Participate in Datafes
 
 	#interview_questions 
 
-What is data normalization and why do we need it? ;; Data [[Database Normalization]] is used in [[Preprocessing]] for preprocessing as it rescales values to fit within a specific range.
+What is data normalization and why do we need it? ;; Data [[Normalised Schema]] is used in [[Preprocessing]] for preprocessing as it rescales values to fit within a specific range.
    
 Explain [[Dimensionality Reduction]], where it’s used, and its benefits? ;; [[Dimensionality Reduction]] involves reducing the number of feature variables by obtaining a set of principal variables, reducing storage space, speeding up computation, removing redundant features, and enabling data visualization to identify patterns.
    

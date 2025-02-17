@@ -7,7 +7,7 @@ phase:
 topic: 
 filename:
 ---
-Security vulnerabilities can be encountered and mitigated in software development.
+[[Security]] vulnerabilities can be encountered and mitigated in [[software development]].
 
 In this not describe potential security risks in their applications.
 

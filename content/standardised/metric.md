@@ -17,6 +17,6 @@ A metric, also called [KPI](term/key%20performance%20indicator%20(kpi).md) or (c
 
 For example, think of ==operational metrics== that represent your company's performance and service level or financial metrics that describe its financial health. 
 
-Calculated measures are part of metrics and apply to specific [dimensions](dimensions.md) traditionally mapped inside a [Bus Matrix](term/bus%20matrix.md). 
+Calculated measures are part of metrics and apply to specific [Dimensions](Dimensions.md) traditionally mapped inside a [Bus Matrix](term/bus%20matrix.md). 
 
 

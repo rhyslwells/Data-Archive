@@ -10,6 +10,6 @@ Reverse [[ETL]] is the flip side of the [ETL](ETL.md)/[ELT](term/elt.md). **Wit
 
 In a way, the Reverse ETL concept is not new to data engineers, who have been enabling data movement warehouses to business applications for a long time. 
 
-As [Maxime Beauchemin](term/maxime%20beauchemin.md) mentions in [his article](https://preset.io/blog/reshaping-data-engineering/), Reverse ETL “appears to be a modern new means of addressing a subset of what was formerly known as  [Master Data Management (MDM)](term/master%20data%20management%20(mdm).md).”
+As [Maxime Beauchemin](term/maxime%20beauchemin.md) mentions in [his article](https://preset.io/blog/reshaping-data-engineering/), Reverse ETL “appears to be a modern new means of addressing a subset of what was formerly known as  [Master Data Management (MDM)](master%20data%20management.md).”
 
 Read more about in [Reverse ETL Explained](https://airbyte.com/blog/reverse-etl#so-what-is-a-reverse-etl).

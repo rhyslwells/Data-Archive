@@ -76,7 +76,7 @@ Transform raw data into a format that best describes the problem to the model.
 
 - **[[Supervised Learning]]**: This involves annotating the dataset with the correct answers (labels) to teach the model. For example, labeling images of apples to distinguish them from other fruits.
 - **Manual and Automated Labeling**: Manual labeling by humans or leveraging existing labeled data. Tools like Google’s reCAPTCHA help in building labeled datasets.
-- [[Database Normalization]]:Ensure consistent data representation and scale features appropriately.
+- [[Normalised Schema]]:Ensure consistent data representation and scale features appropriately.
 - Convert data into the required format, e.g., from .xls to .csv.
 - [[Encoding Categorical Variables]]
 - Transform raw data into a format that best describes the problem to the model. This includes formatting and normalization/ [[Normalisation of data]]
@@ -114,3 +114,10 @@ Storing the data in this manner makes it much more efficient to analyze with ope
 ```sql
 SELECT * FROM X where Age=29
 ```
+
+### Notes to be integrated
+
+[[Data Transformation]]
+   - Cleaning, filtering, and transforming data into a usable format.
+   - Includes operations like aggregation, normalization, and enrichment.
+   - Tools: Apache Spark, Apache Flink, AWS Glue.

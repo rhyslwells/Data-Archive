@@ -4,12 +4,12 @@ tags:
   - database
   - data_modeling
 ---
-Definition of Grain in [[dimensional modeling]]
-   - The grain of a [[fact table]] defines what a single row in the table represents. It is the level of detail captured by the fact table.
+Definition of Grain in [[Dimensional Modelling]]
+   - The grain of a [[Fact Table]] defines what a single row in the table represents. It is the level of detail captured by the fact table.
    - Declaring the grain is essential because it sets the foundation for the entire dimensional model. It determines how detailed the data will be.
 
 Importance of Grain Declaration:
-   - The grain must be established before selecting [[dimensions]] and [[facts]] because all dimensions and facts must align with the grain.
+   - The grain must be established before selecting [[Dimensions]] and [[Facts]] because all dimensions and facts must align with the grain.
    - This alignment ensures consistency across the data model, which is critical for the performance and usability of [[business intelligence]] applications.
 
 Balancing Granularity:

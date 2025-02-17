@@ -32,3 +32,10 @@ Historically **ETL was once preferred** over [[ELT]] for the following **no-l
 - ETL could achieve cost savings by removing unwanted data before sending it to the destination –  however, with the plummeting cost of cloud-based computation and storage the value of this proposition is greatly reduced. 
 - Because ETL transforms data ==before it is stored==, it avoids the complexity of transforming data _after_ sending it to the destination – however, new tools such as [[dbt]] (data build tool) make it preferable and easy to transform data in the destination.
 
+Q: How to enhance a [[ETL]] process
+
+- **Error Handling**: Add error handling to manage exceptions and ensure the process doesn't fail silently.
+- **==Logging==**: Include logging to keep track of the process flow and debug issues more easily.
+- **Parameterization**: Make the script more flexible by parameterizing file paths and database connections.
+- **Data Validation and ==Cleaning==**: Include steps to validate and clean the data.
+- **[[Database Index]] and Constraints**: Ensure the database tables are optimized with proper indexing and constraints.
