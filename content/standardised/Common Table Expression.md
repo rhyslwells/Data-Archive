@@ -2,21 +2,21 @@
 title: 
 tags:
   - database
+aliases:
+  - CTE
 ---
+A Common Table Expression (CTE) is a temporary named result set that you can reference within a SELECT, INSERT, UPDATE, or DELETE statement. 
 
-A Common Table Expression (CTE) is a temporary named result set that you can reference within a SELECT, INSERT, UPDATE, or DELETE statement. The CTE can also be used in a View.
+The CTE can also be used in a [[Views]]. Serve as temporary views for a single [[Querying|Queries]].
 
 ```sql
 WITH cte_query AS
 (SELECT … subquery ...)
 SELECT main query ... FROM/JOIN with cte_query ...
 ```
-
-## Types: Recursive and Non-Recursive
 ### Non-Recursive CTE
-There are two types of CTEs: Recursive and Non-Recursive.
 
-The non-recursive are simple where CTE is used to avoid SQL duplication by referencing a name instead of the actual SQL statement.
+The non-recursive are simple where CTE is used to ==avoid SQL duplication== by referencing a name instead of the actual SQL statement.
 
 E.g.
 ```sql

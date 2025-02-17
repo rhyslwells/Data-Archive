@@ -9,7 +9,9 @@ phase:
 topic: 
 filename:
 ---
-Indexing is a technique used to speed up data retrieval in [[database]]. It achieves this by creating a separate structure, known as an index, that organizes specific columns of data for faster access.
+Indexing is a technique used to ==speed up data retrieval== in [[database]]. It achieves this by creating a separate structure, known as an index, that organizes specific columns of data for faster access.
+
+Commonly created on ==primary keys== (unique for item) and foreign keys.
 
 Indexes can also be created across multiple tables to enhance the performance of complex queries, especially those that involve joins. A special type of index, called a ==covering index==, includes all the necessary data within the index itself, further improving efficiency.
 
@@ -34,9 +36,9 @@ Keep in mind that indexes consume additional storage space.
 
 ## Space and Time Trade-offs
 
-- **Space**: Indexes require extra storage because they are built using B-Trees, which are hierarchical data structures.
+**Space**: Indexes require extra storage because they are built using B-Trees, which are hierarchical data structures.
 
-- **Time**: While indexes speed up data retrieval, creating and updating them can slow down data insertion and modification processes.
+**Time**: While indexes speed up data retrieval, creating and updating them can slow down data insertion and modification processes.
 
 ## How Indexes Work
 
@@ -45,3 +47,4 @@ Keep in mind that indexes consume additional storage space.
 - **Node Structure**: A B-tree organizes data into nodes, where each node contains links to the corresponding rows in the table. The data is sorted, enabling quick access.
 
 - **Search Mechanism**: When searching, a binary search method is employed. This involves checking the middle of the data and deciding which side to search next, taking advantage of the ordered nature of B-trees for efficiency.
+

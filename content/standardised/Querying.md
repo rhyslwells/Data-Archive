@@ -3,6 +3,7 @@ tags:
   - database
 aliases:
   - Queries
+  - Query
 ---
 Querying is the process of asking questions of data. Querying makes use of keys primary and foreign within tables.
 

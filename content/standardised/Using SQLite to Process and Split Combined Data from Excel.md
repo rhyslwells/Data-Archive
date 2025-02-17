@@ -2,19 +2,13 @@
 tags:
   - database
 ---
-
 ## Summary:
 
-1. **Read and Clean the Data**: Load the data from the Excel sheet and clean it.
-2. **Split the Data**: Separate the data into two DataFrames, one for customers and one for orders.
-3. **Create Tables**: Create the SQLite tables with appropriate foreign key relationships.
-4. **Insert Data**: Insert the cleaned and separated data into the respective tables.
-5. **Verify Foreign Keys**: Ensure that the foreign key relationships are valid.
-
-## Key Concepts
-
-- **Primary Key (PK)**: A unique identifier for each record in a table.
-- **Foreign Key (FK)**: A field in one table that uniquely identifies a row of another table.
+1. Read and Clean the Data: Load the data from the Excel sheet and clean it.
+2. Split the Data: Separate the data into two DataFrames, one for customers and one for orders.
+3. Create Tables: Create the SQLite tables with appropriate foreign key relationships.
+4. Insert Data: Insert the cleaned and separated data into the respective tables.
+5. Verify [[Foreign Key]]: Ensure that the foreign key relationships are valid.
 
 ## Example Data Structure
 

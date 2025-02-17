@@ -10,32 +10,33 @@ filename:
 
 To be reviewed:
 - [[Spreadsheets to Databases]]
-- [[Database Index]]
+- [[Scaling databases]]
 - [[Data Storage]]
-- [[Dimension Table]]
 - [[SQL Window functions]]
 - [[SQL Groupby]]
 - [[Database Schema]]
-- [[Data Integrity]]
 - [[Data Engineer]]
 - [[Command line]]
 - [[Data Management]]
-- [[Publish and Subscribe]]
 - [[Data Warehouse]]
-- [[Relating Tables Together]]
-
 - [[Dimensional Modelling]]
 - [[Full Lifecycle Management]]
-- [[Relating Tables Together]]<- [[Many-to-Many Relationships]]
+- [[Relating Tables Together]]
 
 
 Add tags from DE - [[index]]
 
- and organise this as a portal using headers.
-
-
+ and organise this as a portal using headers. to bulk do yamls? or tags
 
 Reviewed:
+- [[Dimension Table]]
+- [[Relating Tables Together]]
+- [[Publish and Subscribe]]
+- [[Data Integrity]]
+- [[Database Index]]
+- [[Common Table Expression]]
+- [[Views]]
+- [[Soft Deletion]]
 - [[Single Source of Truth]]
 - [[Publish and Subscribe]]
 - [[Scalability]]

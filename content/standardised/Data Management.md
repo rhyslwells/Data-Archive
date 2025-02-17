@@ -11,7 +11,11 @@ Who is responsible for data management, what mechanisms are in place to find iss
 
 [[master data management]]
 
-Data Management
-   - Ensuring the [[Data Pipeline]] runs smoothly and efficiently.
-   - Monitoring for errors, performance issues, and [[data quality]].
-   - Tools: [[Apache Airflow]], Prefect, [[Dagster]].
+Data management ensures a [[Data Pipeline]] runs smoothly and efficiently.
+
+Monitoring for errors, performance issues, and [[data quality]].
+
+Tools:
+- [[Apache Airflow]], 
+- Prefect, 
+- [[Dagster]].

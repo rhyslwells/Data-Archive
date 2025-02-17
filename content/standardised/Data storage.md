@@ -8,7 +8,6 @@ aliases:
 category: Data Engineering
 ---
 Data storage is a fundamental aspect of [[Data Engineering]], influencing processes such as ingestion, [[Data Transformation]], and [[Querying]]. Useful for [[data management]].
-
 ## Types of Storage
 
 Data storage encompasses various methods and technologies for storing, retrieving, and managing data. The choice of storage method significantly impacts ==data retrieval efficiency== and consistency

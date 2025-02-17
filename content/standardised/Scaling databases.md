@@ -2,8 +2,6 @@
 tags:
   - database
 ---
-
-
 Scalability: ability to increase/decrease to demand.
 
 Applications should be able to handle spikes. 
