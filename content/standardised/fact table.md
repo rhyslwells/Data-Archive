@@ -14,3 +14,8 @@ Essential for [[data analysis]] in a data warehouse, providing the numerical dat
 
 Example:
   - Columns: `DateKey`, `ProductKey`, `RegionKey`, `SalesAmount`, `UnitsSold`
+
+
+
+[[Fact Table]]
+   **Tags**: #data_modeling, #data_warehouse

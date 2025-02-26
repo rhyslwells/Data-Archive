@@ -21,3 +21,6 @@ JOIN books ON books.id = authored.book_id;
 Related topics:
 - [[View Use Case]]
 - [[Why Use Views]]
+
+
+

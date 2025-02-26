@@ -18,9 +18,15 @@ Big Data Technologies
 - [[Scala]]
 - [[Databricks]]
 
-Handling big data  involves:
+Handling big data involves:
 - Distributed storage systems/ [[Data Storage]]: Ensuring that data is split and stored across multiple machines for redundancy and speed.
 - Processing frameworks: Using tools like [[Apache Spark|Spark]] or Hadoop to process data efficiently in parallel.
 - Cloud platforms: Leveraging cloud infrastructure (e.g., Azure, AWS, Google Cloud) to scale resources dynamically based on workload.
 
 
+
+
+
+
+[[Big Data]]
+   **Tags**: #big_data, #data_processing

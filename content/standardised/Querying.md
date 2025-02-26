@@ -68,3 +68,8 @@ SELECT "title"
 FROM "longlist" 
 WHERE "title" LIKE 'P_re';
 ```
+
+
+
+[[Querying]]
+   **Tags**: #data_exploration, #data_analysis

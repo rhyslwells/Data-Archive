@@ -6,7 +6,7 @@ phase:
 topic: 
 filename:
 ---
-Data ingestion is the process of collecting and importing raw data from various sources ([[Database]], [[API]], [[Data Streaming]] services) into a system for processing and analysis, and can be performed in batch and realtime ingestion.
+Data ingestion is the process of collecting and importing raw data from various sources ([[Database]], [[API]], [[Data Streaming]] services) into a system for processing and analysis, and can be performed in batch and realtime ingestion. The goal is to gather raw data that can be processed and analyzed.
 
 Used for building [[Data Pipeline]]
 
@@ -18,7 +18,10 @@ Challenges
 Use Cases:
 - Data ingestion is used in various applications, including: [[business intelligence]], [[Machine Learning]]
 
-Tools and Technologies:
-- [[Apache Kafka]]
-- AWS Kinesis: A cloud service for real-time data processing, enabling the collection and analysis of streaming data.
-- Google Pub/Sub: A messaging service that allows for asynchronous communication between applications, supporting real-time data ingestion.
+Related to:
+- [[Data Engineering Tools]]
+
+
+
+[[Data Ingestion]]
+   **Tags**: #data_collection, #data_management

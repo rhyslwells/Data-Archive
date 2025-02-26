@@ -47,4 +47,3 @@ Keep in mind that indexes consume additional storage space.
 - **Node Structure**: A B-tree organizes data into nodes, where each node contains links to the corresponding rows in the table. The data is sorted, enabling quick access.
 
 - **Search Mechanism**: When searching, a binary search method is employed. This involves checking the middle of the data and deciding which side to search next, taking advantage of the ordered nature of B-trees for efficiency.
-

@@ -1,8 +1,6 @@
 ---
 title: 
-tags:
-  - drafting
-  - database
+tags: []
 aliases:
   - schema
   - Schema
@@ -34,3 +32,5 @@ Related to:
 
 #### Resources
 [link](https://www.youtube.com/watch?v=3BZz8R7mqu0)
+
+**Tags**: #data_modeling, #database_structure

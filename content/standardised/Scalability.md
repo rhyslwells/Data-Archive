@@ -19,3 +19,5 @@ This involves ==adding more nodes or servers== to a system to distribute the loa
 
 Horizontal scaling allows for greater flexibility and can often be more cost-effective, as it enables the use of multiple lower-cost machines rather than relying on a single powerful machine.
 
+### Tags
+- **Tags**: #data_management

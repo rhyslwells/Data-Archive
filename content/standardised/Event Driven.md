@@ -24,3 +24,4 @@ Benefits of Event-Driven Architecture:
 - [[Event Driven Events]]
 - [[Event-Driven Architecture]]
 - [[Event Driven Microservices]]
+- **Tags**: #event_driven, #data_processing

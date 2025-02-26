@@ -6,11 +6,9 @@ aliases:
   - data build tool
 category:
 ---
-https://www.getdbt.com/blog/what-exactly-is-dbt
+Data build tool is an open-source framework designed for [[Data Transformation]] within a modern data stack. 
 
-[dbt](https://docs.getdbt.com/docs/introduction) 
-
-data build tool s an open-source framework designed for [[Data Transformation]] within a modern data stack. It enables analysts and engineers to transform, model, and manage data using [[SQL]] while ==adhering to software engineering best practices== like version control, testing, and documentation. 
+It enables analysts and engineers to transform, model, and manage data using [[SQL]] while ==adhering to software engineering best practices== like version control, testing, and [[documentation]]. 
 
 ### Key Concepts of dbt:
 1. **SQL-based Transformation**: dbt allows users to write SQL queries to define transformations and models, making it accessible for analysts who are already familiar with SQL. It doesn't handle extraction or loading of data, but focuses purely on transforming data that is already in a data warehouse.
@@ -64,7 +62,14 @@ In this model:
 
 ### Tools Integrating with dbt:
 - **Data Warehouses**: Redshift, Snowflake, BigQuery, Postgres.
-- **ELT Tools**: Stitch, Fivetran, Airbyte (for the extraction and loading phase).
+- **[[ELT]] Tools**: Stitch, Fivetran, Airbyte (for the extraction and loading phase).
 - **Version Control**: GitHub, GitLab, Bitbucket (for managing dbt code).
   
-Overall, dbt helps bridge the gap between data engineering and analytics, offering a robust, SQL-based framework for transforming data inside the warehouse.
+### Resources:
+https://www.getdbt.com/blog/what-exactly-is-dbt
+[dbt](https://docs.getdbt.com/docs/introduction) 
+
+
+
+[[dbt]]
+   **Tags**: #data_transformation, #data_tools

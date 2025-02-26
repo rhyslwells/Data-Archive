@@ -38,3 +38,9 @@ Monitoring and Maintenance:
 ### Related Notes
 
 - [[Data Pipeline to Data Products]]
+
+
+
+
+[[Data Pipeline]]
+   **Tags**: #data_workflow, #data_management

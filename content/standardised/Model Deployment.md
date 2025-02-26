@@ -28,5 +28,5 @@ Deployment Options
 
 ## Considerations
 
-- Scalability: Ensure the deployment solution can handle the expected load.
+- [[Scalability]]: Ensure the deployment solution can handle the expected load.
 - [[Model Observability]]: Implement monitoring to track model performance and detect issues.

@@ -6,7 +6,7 @@ https://github.com/rhyslwells/ML_Tools/Explorations/{phase}/{topic}/{filename}.p
 
 can be determined by the notes in the Data archive.
 
-The folder structure follows [[Machine Learning Workflow]] for phases.
+The folder structure follows [[Machine Learning Portal]] for phases.
 
 phase:
 - [[Preprocessing|Preprocess]]

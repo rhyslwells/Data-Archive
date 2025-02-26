@@ -22,7 +22,7 @@ Reinforcement Learning ( [[Reinforcement learning|RL]]) is a branch of machine l
 ### Algorithms in Reinforcement Learning
 
 [[Q-Learning]]
-
+[[Deep Q-Learning]]
 [[Sarsa]]
 #### Components
 
@@ -34,11 +34,11 @@ Reinforcement Learning ( [[Reinforcement learning|RL]]) is a branch of machine l
 - Q-Value ($Q(s, a)$): The expected cumulative reward for taking a particular action in a given state and following the policy thereafter. The Q-values guide the agent in making decisions that maximize long-term rewards. [[Q-Learning]]
 #### Mathematical Foundations
 
-- [[Markov Decision Processes]] ([[Markov Decision Processes|MDP]]s): The mathematical framework for modelling decision-making, characterized by states, actions, transition probabilities, and rewards. Your understanding of probability theory and stochastic processes will be crucial here.
+- [[Markov Decision Processes]]
 - Dynamic Programming: Techniques such as [[Bellman Equations]] equations are central to RL, as they provide a way to break down complex decision-making problems into simpler subproblems.
 - Optimization Techniques: Finding optimal [[Policy|polices]] often involves advanced optimization methods, including gradient ascent and policy iteration.
 
-# Reinforcement Learning
+### Reinforcement Learning Implementation
 
 Use import gym
 

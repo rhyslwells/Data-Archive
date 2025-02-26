@@ -6,21 +6,35 @@ tags:
 aliases: 
 category:
 ---
-BERT (==Bidirectional Encoder Representations from Transformers==) is a state-of-the-art natural language processing ([[NLP]]) model developed by [[Google]]. It was introduced in the paper "[[BERT Pretraining of Deep Bidirectional Transformers for Language Understanding]]" in 2018. 
+BERT (==Bidirectional Encoder Representations from [[Transformer]]==) is used in [[NLP]]processing, developed by [[Google]]. 
+
+Introduced in the paper "[[BERT Pretraining of Deep Bidirectional Transformers for Language Understanding]]" in 2018. 
 
 It is forward & backward looking in the context.
 
-BERT has significantly advanced the field of NLP by improving the performance of various tasks and setting new benchmarks on multiple NLP datasets. Its ability to understand context and relationships in language has made it a foundational model for many subsequent developments in the field.
+BERT is a stack of encoders -learning context.
+
+Input [[Vector Embedding|embedding]]:
+- [[Positional Encoding]]: passes location info to encoder
+- Sentence embeddings: differences between sentences
+- Token embeddings
+
+Training of BERT:
+- Masked Language modelling (hiding words)
+- Next Sentence Prediction
+
+Fine tuning ([[Transfer Learning]]) BERT model:
+- New output layer dependent
+ 
+Resources:
+- [What is BERT and how does it work? | A Quick Review](https://www.youtube.com/watch?v=6ahxPTLZxU8&list=PLcWfeUsAys2my8yUlOa6jEWB1-QbkNSUl&index=12)
 
 ### What is BERT?
 
-- Architecture: BERT is based on the [[Transformer]] architecture and utilizes a bidirectional approach, meaning it considers the ==context of a word based on both its left and right surroundings in a sentence.== This allows BERT to capture nuanced meanings and relationships between words more effectively than previous models that processed text in a unidirectional manner.
+- BERT is based on the [[Transformer]] architecture and utilizes a bidirectional approach, meaning it considers the ==context of a word based on both its left and right surroundings in a sentence.== This allows BERT to capture nuanced meanings and relationships between words more effectively than unidirectional models
 
-- Pre-training and Fine-tuning: BERT is ==pre-trained== on a large corpus of text using unsupervised learning techniques. It learns to predict masked words in sentences (Masked Language Model) and to determine if one sentence follows another (Next Sentence Prediction). After pre-training, BERT can be fine-tuned on specific tasks with labeled data, making it highly adaptable.
-
+- Pre-training and Fine-tuning/[[Transfer Learning]] techniques. It learns to predict masked words in sentences (Masked Language Model) and to determine if one sentence follows another (Next Sentence Prediction).
 ### What is BERT Used For?
-
-BERT is used for a variety of [[NLP]] tasks, including:
 
 1. Text Classification: Assigning categories or labels to text documents, such as sentiment analysis or topic classification.
 

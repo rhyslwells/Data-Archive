@@ -9,8 +9,6 @@ category: DS
 ---
 [[What are the Bellman equations that are used in RL?]]
 
-## [[Bellman Equations]]
-
 Equations here may not be accurate.
 
 In reinforcement learning, Bellman's equations are fundamental to understanding how agents make decisions to maximize rewards over time. They are used to describe the relationship between the value of a state and the values of its successor states. There are two main types of Bellman's equations:

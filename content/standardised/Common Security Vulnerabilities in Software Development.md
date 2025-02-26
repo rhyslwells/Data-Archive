@@ -7,7 +7,7 @@ phase:
 topic: 
 filename:
 ---
-[[Security]] vulnerabilities can be encountered and mitigated in [[software development]].
+[[Security]] vulnerabilities can be encountered and mitigated in [[Software Development Portal]].
 
 In this not describe potential security risks in their applications.
 
@@ -75,24 +75,7 @@ Mitigation:
   - Avoid using `pickle` for untrusted data. Use safer formats like JSON ([[Why JSON is Better than Pickle for Untrusted Data]]).
   - Ensure data is from a trusted source.
 
-### SQL Injection
-
-**General Description**: SQL injection is a code injection technique that might destroy your database. It is one of the most common web hacking techniques. SQL injection is the placement of malicious code in SQL statements, via web page input.
-
-**Example**:
-- The `unsafe_query` function constructs SQL queries using string concatenation, which can be exploited if user input is not properly sanitized.
-
-```python
-import sqlite3
-def unsafe_query(user_input):
-	query = "SELECT * FROM users WHERE name = '" + user_input + "'"
-	conn = sqlite3.connect('example.db')
-	conn.execute(query)
-```
-
-**Mitigation**:
-- Use parameterized queries or prepared statements to prevent SQL injection.
-- Validate and sanitize user inputs.
+### [[SQL Injection]]
 
 ### Cross-Site Scripting (XSS)
 

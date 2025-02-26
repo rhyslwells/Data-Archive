@@ -3,14 +3,28 @@ title:
 tags:
   - data_transformation
 ---
-ELT (Extract, Load, and [Transform](Data%20Transformation.md)) is a [data integration](term/data%20integration.md) approach that extracts (E) data from a source system, and loads (L) raw data into a destination system before it transforms (T) the data. In other words, in the ELT approach, transformation (T) of the data is done _within_ the destination [Data Warehouse](Data%20Warehouse.md) after data has been loaded. 
+**ELT** (Extract, Load, Transform) is a data integration approach that involves three main steps:
 
-ELT is in contrast to the more traditional [ETL](ETL.md) data integration approach, in which data is transformed before it arrives at the destination. See [ETL vs ELT](term/etl%20vs%20elt.md) for a more detailed comparison of these approaches.
+1. **Extract (E)**: Data is extracted from a source system.
+2. **Load (L)**: The raw data is loaded into a destination system, such as a data warehouse.
+3. **Transform (T)**: Transformation of the data occurs within the destination system after the data has been loaded.
 
-The shift from the ETL paradigm to the ELT paradigm has been made possible thanks to the plummeting cost of cloud-based computation and storage, and the appearance of cloud-based data warehouses like Redshift, [[BigQuery]], or Snowflake. 
+This approach contrasts with the traditional **ETL** (Extract, Transform, Load) method, where data is transformed before reaching the destination. For a detailed comparison, see [[ETL vs ELT]]
 
-The following image demonstrates the ELT approach to [[Data Integration]] -- in this diagram ([[dbt]]) creates and manages the SQL that is used for transforming the data in the destination:
+### Advantages of ELT
+The shift from ETL to ELT has been facilitated by several factors:
 
-![](elt-tool.png)
+- **Cost Efficiency**: The decreasing costs of cloud-based storage and computation have reduced the advantages of ETL's pre-loading data transformation.
+  
+- **Cloud-Based Data Warehouses**: The emergence of cloud-based data warehouses like Redshift, [[BigQuery]], and Snowflake has made the ELT approach more feasible and efficient.
+### Historical Context
+Historically, ETL was preferred for reasons that are now less relevant:
+
+- **Cost Savings**: ETL was believed to save costs by filtering out unwanted data before loading. However, this is less significant with modern cloud solutions.
+  
+- **Complexity Management**: ETL minimizes the complexity of post-loading transformations. Yet, contemporary tools like [[dbt]] simplify this process, making it easier to perform transformations after loading.
 
 
+
+[[ELT]]
+   **Tags**: #data_transformation, #data_integration

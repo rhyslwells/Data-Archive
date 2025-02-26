@@ -60,3 +60,9 @@ WITH levels AS (
 SELECT *
 FROM levels;
 ```
+
+
+
+
+[[Common Table Expression]]
+   **Tags**: #querying, #database

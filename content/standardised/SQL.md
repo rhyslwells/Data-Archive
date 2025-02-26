@@ -11,3 +11,14 @@ Features:
   - Transactional properties enhance speed and efficiency.
   
 SQL-Based DBMS: [[Database Management System (DBMS)|DBMS]]
+
+
+
+## SQL
+ [[SQL]]
+   **Tags**: #query_language, #database
+
+
+
+[[SQL]]
+   **Tags**: #query_language, #database

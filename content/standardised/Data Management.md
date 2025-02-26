@@ -5,17 +5,24 @@ tags:
 aliases: 
 category:
 ---
-Who is responsible for data management, what mechanisms are in place to find issues and handle.  
+Data management involves overseeing processes to maintain data integrity and quality. It includes:
 
-[[Database Management System (DBMS)]]
+- **Responsibility**: Identifying accountable individuals or teams.
+- **Issue Resolution**: Mechanisms for detecting and addressing data-related problems.
 
-[[master data management]]
+Data management ensures that a [[Data Pipeline]] operates efficiently, focusing on monitoring errors, performance issues, and [[data quality]].
 
-Data management ensures a [[Data Pipeline]] runs smoothly and efficiently.
+**Tools**:
+- [[Apache Airflow]]
+- Prefect
+- [[Dagster]]
 
-Monitoring for errors, performance issues, and [[data quality]].
+Related Concepts:
+- [[Database Management System (DBMS)]]
+- [[Master Data Management]]
+- [[Data Distribution]]
 
-Tools:
-- [[Apache Airflow]], 
-- Prefect, 
-- [[Dagster]].
+
+
+[[Data Management]]
+   **Tags**: #data_management, #data_quality

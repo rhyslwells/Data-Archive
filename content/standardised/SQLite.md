@@ -3,3 +3,5 @@ Lightweight [[Database Management System (DBMS)|DBMS]] used in various applicati
 To get in terminal enter: 
 
 sqlite3 database.db
+
+**Tags**: #database_management

@@ -10,3 +10,8 @@ category:
 \
 
 architecture 
+
+
+
+[[Markov Decision Processes]] 
+([[Markov Decision Processes|MDP]]s): The mathematical framework for modelling decision-making, characterized by states, actions, transition probabilities, and rewards. Your understanding of probability theory and stochastic processes will be crucial here.

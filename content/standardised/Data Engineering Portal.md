@@ -1,68 +1,74 @@
 ---
-tags: 
+tags:
+  - portal
 aliases: 
 category: 
 phase: 
 topic: 
 filename:
 ---
-#portal 
+## Databases
 
-To be reviewed:
-- [[Spreadsheets to Databases]]
-- [[Scaling databases]]
-- [[Data Storage]]
-- [[SQL Window functions]]
-- [[SQL Groupby]]
-- [[Database Schema]]
-- [[Data Engineer]]
-- [[Command line]]
-- [[Data Management]]
-- [[Data Warehouse]]
-- [[Dimensional Modelling]]
-- [[Full Lifecycle Management]]
-- [[Relating Tables Together]]
-
-
-Add tags from DE - [[index]]
-
- and organise this as a portal using headers. to bulk do yamls? or tags
-
-Reviewed:
-- [[Dimension Table]]
-- [[Relating Tables Together]]
-- [[Publish and Subscribe]]
-- [[Data Integrity]]
-- [[Database Index]]
-- [[Common Table Expression]]
-- [[Views]]
-- [[Soft Deletion]]
-- [[Single Source of Truth]]
-- [[Publish and Subscribe]]
-- [[Scalability]]
-- [[Event Driven]]
-- [[Data Integration]]
-- [[Slowly Changing Dimension]]
-- [[Data Ingestion]]
-- [[ER Diagrams]]
-- [[Database]]
-- [[Dimensions]]
-- [[Data Pipeline]]
-- [[Fact Table]]
-- [[Transaction]]
-- [[Querying]]
-- [[Query Optimisation]]
-- [[ACID Transaction]]
-- [[Data Product]]
-- [[Data Storage]]
-- [[Normalised Schema]]
+- [[MySql]]
+- [[PostgresSQL]]
+- [[SQLite]]
 - [[Database]]
 - [[Database Management System (DBMS)]]
-- [[SQLite]]
-- [[SQL]]
-- [[OLAP (online analytical processing)|OLAP]]
-- [[Database Storage]]
-- [[Implementing Database Schema]]
-- [[Many-to-Many Relationships]]
+- [[Database Schema]]
+- [[Database Index]]
+- [[Views]]
+- [[Soft Deletion]]
+- [[Relating Tables Together]]
 - [[Normalised Schema]]
+## SQL
+
+- [[SQL]]
+- [[SQL Window functions]]
+- [[SQL Groupby]]
+- [[Common Table Expression]]
+- [[Querying]]
+- [[Query Optimisation]]
+
+## Data Processing Techniques
+
+- [[ETL]]
+- [[ELT]]
+- [[Data Ingestion]]
+- [[Data Pipeline]]
+- [[Batch Processing]]
+- [[Data Streaming]]
+
+## Data Modeling
+
 - [[Data Modelling]]
+- [[Dimensional Modelling]]
+- [[Fact Table]]
+- [[Dimension Table]]
+- [[ER Diagrams]]
+
+## Data Management
+
+- [[Data Management]]
+- [[Data Integrity]]
+- [[Single Source of Truth]]
+- [[Full Lifecycle Management]]
+
+## Data Engineering Tools
+
+- [[Data Engineering Tools]]
+
+## Big Data
+
+- [[Big Data]]
+
+## Event Driven Architecture
+
+- [[Event Driven]]
+- [[Publish and Subscribe]]
+
+## Miscellaneous
+
+- [[Spreadsheets vs Databases]]
+- [[Scalability]]
+- [[Distributed Computing]]
+- [[Data Product]]

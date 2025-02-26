@@ -6,6 +6,8 @@ phase:
 topic: 
 filename:
 ---
+###  [[Recursive Algorithm]]
+
 ### Backtracking
 
 Backtracking is a method for solving problems incrementally, by trying partial solutions and then abandoning them if they are not valid.

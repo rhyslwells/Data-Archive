@@ -3,13 +3,11 @@ title:
 tags:
   - data_management
   - data_processing
+  - cloud_computing
 aliases: 
 category:
 ---
-## Summary
-
->[!Summary]
->**Distributed Computing** is essential for managing **massive data volumes** by distributing tasks across multiple servers or machines. This enables scalability and efficient data processing.
+**Distributed Computing** is essential for managing **massive data volumes** by distributing tasks across multiple servers or machines. This enables scalability and efficient data processing.
 
 **[[Hadoop]]** is a framework that handles both data storage and processing across **clusters of servers**:
   - It ensures **scalability**: can easily grow as more data is added.
@@ -17,10 +15,10 @@ category:
 
 Tools like [[Apache Spark]] are built to process data in these **distributed environments**, allowing for fast, parallel processing across the cluster.
 
-Distributed computing is central to modern data handling, driven by frameworks like Spark and Hadoop, supported by cloud infrastructure, and expanding into real-time and [[edge computing]]. It remains crucial for managing the growing scale and complexity of data.
+Distributed computing is central to modern data handling, driven by frameworks like Spark and Hadoop, supported by cloud infrastructure, and expanding into real-time and [[edge computing]].
 ### Distributed Computing: Current State
 
-Distributed computing enables the processing of massive datasets and computational tasks by distributing them across multiple machines. This approach increases scalability, parallelism, and fault tolerance, making it essential for modern data processing.
+Distributed computing enables the processing of massive datasets and computational tasks by distributing them across multiple machines. This approach increases [[scalability]], parallelism, and fault tolerance, making it essential for modern data processing.
 #### Key Frameworks
 
 - **Hadoop**: An early pioneer, Hadoop introduced distributed storage via **HDFS** and data processing with **MapReduce**, allowing tasks to be split across clusters of servers.
@@ -28,7 +26,7 @@ Distributed computing enables the processing of massive datasets and computation
 
 #### Distributed Storage
 
-- **HDFS** and cloud storage systems like **Amazon S3** break data into smaller parts and distribute them across multiple servers. This setup provides high throughput, redundancy, and fault tolerance.
+- **HDFS** and cloud storage systems like **[[Amazon S3]]** break data into smaller parts and distribute them across multiple servers. This setup provides high throughput, redundancy, and fault tolerance.
 - **Distributed databases** such as **Cassandra** and **Bigtable** offer scalable storage for structured data, ensuring availability across nodes.
 
 #### Real-Time Processing ([[Data Streaming]])
@@ -43,6 +41,4 @@ Distributed computing enables the processing of massive datasets and computation
 #### Trends and Challenges
 
 - **Edge computing** is gaining momentum, enabling data to be processed closer to the source (e.g., IoT devices), reducing latency and bandwidth usage.
-- Challenges include **fault tolerance**, **network latency**, and **data consistency**. Innovations in consensus algorithms and fault-tolerant storage systems are working to mitigate these issues.
-
-
+- Challenges include **fault tolerance**, **network [[latency]]**, and **data consistency**. Innovations in consensus algorithms and fault-tolerant storage systems are working to mitigate these issues.

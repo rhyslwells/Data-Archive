@@ -7,7 +7,13 @@ aliases:
   - data_management
 category: Data Engineering
 ---
-Data storage is a fundamental aspect of [[Data Engineering]], influencing processes such as ingestion, [[Data Transformation]], and [[Querying]]. Useful for [[data management]].
+Data storage is a fundamental aspect of [[Data Engineering]], influencing processes such as 
+- (occurring after [[Data Ingestion]])
+- [[Data Transformation]]
+- [[Querying]]
+- [[data management]].
+
+Storing the [[Data Transformation]] data in a database or [[Data Warehouse]] for easy access and analysis.
 ## Types of Storage
 
 Data storage encompasses various methods and technologies for storing, retrieving, and managing data. The choice of storage method significantly impacts ==data retrieval efficiency== and consistency
@@ -26,8 +32,5 @@ Data storage encompasses various methods and technologies for storing, retrievin
 - [[Cloud Providers]]
 - [[Amazon S3]]
 - [[Data Governance]]
+- [[Data Engineering Tools]]
 
-## Notes to be integrated
-
-- Storing the [[Data Transformation]] data in a database or data warehouse for easy access and analysis.
-   - Tools: Amazon S3, Google BigQuery, Snowflake.

@@ -24,3 +24,8 @@ Cleaning a dataset before creating an [[ER Diagrams]] is crucial for ensuring ac
 4. Relationship Clarity: Cleaning the dataset helps clarify the relationships between entities. By ensuring that the data accurately reflects the relationships between different entities, you can create a more precise ER diagram that accurately represents the connections between various elements.
 
 5. Data Consistency: [[Data Cleansing]] ensures consistency across the dataset, which is essential for maintaining integrity in the ER diagram. Consistent data allows for clearer identification of relationships and attributes, leading to a more effective database design.
+
+
+
+[[ER Diagrams]]
+   **Tags**: #data_visualization, #database_design

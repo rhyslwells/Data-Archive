@@ -1,5 +1,7 @@
 ---
-tags: 
+tags:
+  - event_driven
+  - data_streaming
 aliases: 
 category: 
 phase: 
@@ -46,3 +48,4 @@ Ensures continuous data flow, in contrast to [[batch processing]], which collect
 - When a user interacts with the web application, the producer generates an event and publishes it to the "user-activity" topic.
 - All subscribed consumers receive this event simultaneously, allowing them to process the data in real-time.
 - This decoupling means that the producer does not need to know how many consumers are listening or what they are doing with the data.
+

@@ -3,39 +3,39 @@ title: What is ETL?
 tags:
   - data_transformation
 ---
+**ETL** (Extract, Transform, Load) is a data integration process that involves moving data from one system to another. It consists of three main stages:
+
+1. **Extract**: Collecting data from various sources, such as databases, APIs, or flat files. This may involve setting up API connections to pull data from multiple sources.
+
+2. **Transform**: Cleaning and converting the data into a usable format. This includes filtering, aggregating, and joining data to create a unified dataset. See [[Data Transformation]].
+
+3. **Load**: Inserting the transformed data into a destination system, such as a data warehouse (organized), database, or data lake (unorganized).
+
+### Historical Context
+The ETL paradigm emerged in the 1970s and was traditionally preferred for its ability to transform data before it reaches the destination. This approach ensures that data is standardized and passes quality checks, enhancing overall data quality.
+
+### Transition to ELT
+In recent years, the data movement paradigm has shifted towards [[ELT]] (Extract, Load, Transform). This approach emphasizes keeping raw data accessible in the destination system, allowing for more flexibility in data processing. For a comparison of ETL and ELT, see [[ETL vs ELT]].
+
+Reasons for Change to see [[ELT]]
+
+### Modern ETL Tools
+Current ETL processes are often managed using tools like [[Apache Airflow]], [[dagster]], and [Temporal](term/temporal.md).
+
+### Enhancing the ETL Process
+To improve an ETL process, consider the following enhancements:
+
+- **Error Handling**: Implement error handling to manage exceptions and prevent silent failures.
+- **Logging**: Include logging to track the process flow and facilitate debugging.
+- **Parameterization**: Make scripts flexible by parameterizing file paths and database connections.
+- **Data Validation and Cleaning**: Incorporate steps to validate and clean the data.
+- **Database Indexing and Constraints**: Optimize database tables with proper indexing and constraints for better performance.
+##### Related Notes
 - [[ETL Pipeline Example]]
-- [[etl vs elt]]
+- [[ETL vs ELT]]
 
-This automated process reduces manual labor and enables continuous data flow into a [[database]]. Pipelines will be build using continuous deployment and integration. And be build so that they are scaleable.
 
-**ETL Process (Extract, Transform, Load):**
-  - **Extract:** Collecting data from different sources such as databases, APIs, or flat files. Set up API connections to pull data from multiple sources.
-  - **Transform:** Cleaning and transforming the data into a usable format, including filtering, aggregating, and joining data. Combine data from different sources to create a unified dataset.
-  - **Load:** Inserting the transformed data into a data warehouse (organised), database, or data lake(unorganised). Store data in a database like MySQL.
 
-ETL (Extract, [Transform](Data%20Transformation.md), and Load) is a paradigm for moving data from one system to another. It involves reading data (Extract) from one system, modifying the data (Transform), and then sending it (Load) to a destination system. The ETL paradigm emerged in the 1970s. 
 
-A key feature of ETL is that data is transformed before being sent to the destination, as demonstrated in the following image:
-
-![](etl-tool.png)
-
-During the [[ETL]] process necessary to:
-- **[[Data Quality]] Assurance:** Ensure data passes quality checks and is standardized for use.
-
-However in recent years, the preferred data movement paradigm has shifted to [ELT](term/elt.md) (Extract, Load, and Transform). The ELT philosophy dictates that data should be untouched – apart from minor cleaning and filtering – as it moves through the extraction and loading stages so that the raw data is always accessible in the destination [Data Warehouse](Data%20Warehouse.md). See [ETL vs ELT](term/etl%20vs%20elt.md) for a comparison of these approaches.
-## ETL is Changing
-
-ETL is done with [[Apache Airflow]], [[dagster]], and [Temporal](term/temporal.md). 
-
-Historically **ETL was once preferred** over [[ELT]] for the following **no-longer-valid reasons**: 
-
-- ETL could achieve cost savings by removing unwanted data before sending it to the destination –  however, with the plummeting cost of cloud-based computation and storage the value of this proposition is greatly reduced. 
-- Because ETL transforms data ==before it is stored==, it avoids the complexity of transforming data _after_ sending it to the destination – however, new tools such as [[dbt]] (data build tool) make it preferable and easy to transform data in the destination.
-
-Q: How to enhance a [[ETL]] process
-
-- **Error Handling**: Add error handling to manage exceptions and ensure the process doesn't fail silently.
-- **==Logging==**: Include logging to keep track of the process flow and debug issues more easily.
-- **Parameterization**: Make the script more flexible by parameterizing file paths and database connections.
-- **Data Validation and ==Cleaning==**: Include steps to validate and clean the data.
-- **[[Database Index]] and Constraints**: Ensure the database tables are optimized with proper indexing and constraints.
+[[ETL]]
+   **Tags**: #data_transformation, #data_integration

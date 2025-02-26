@@ -14,5 +14,9 @@ The key to data streaming is the [[Publish and Subscribe]]
 Example:
   - Companies like Netflix use Kafka to handle billions of messages daily, powering real-time recommendations, analytics, and user activity tracking.
 
-Questions:
-- If you’re working with a streaming dataset, why might [[batch processing]] not be suitable, and what alternatives would you consider?  
+[[Alternatives to Batch Processing]]
+
+
+
+[[Data Streaming]]
+   **Tags**: #data_workflow

@@ -1,7 +1,8 @@
 ---
 title: What is a Soft Delete?
 tags:
-  - database
+  - data_integrity
+  - data_management
 ---
 **Soft deletion** is a technique used in databases to ==mark records as deleted without physically removing them from the database==. 
 
@@ -81,4 +82,3 @@ If we want to permanently remove users who have been soft deleted for a certain 
 ```sql
 DELETE FROM users WHERE is_deleted = true AND deletion_date < NOW() - INTERVAL '30 days';
 ```
-

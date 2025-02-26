@@ -28,3 +28,8 @@ Trade-offs when using indexes
 ### Vacuum
 
 SQLite's "VACUUM" command reclaims unused space after data deletion, reducing database size.
+
+
+
+[[Query Optimisation]]
+   **Tags**: #performance_tuning, #querying

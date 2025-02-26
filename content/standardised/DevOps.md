@@ -4,7 +4,7 @@ tags:
   - data_orchestration
 category: DEVOPS
 ---
-DevOps refers to practices for collaboration and automation between [[Software Development]] (Dev) and IT operations (Ops) teams, aiming for faster, more reliable software delivery.
+DevOps refers to practices for collaboration and automation between [[Software Development Portal]] (Dev) and IT operations (Ops) teams, aiming for faster, more reliable software delivery.
 
 **Integration**: It integrates the work of software development and operations teams by fostering a culture of collaboration and shared responsibility.
 

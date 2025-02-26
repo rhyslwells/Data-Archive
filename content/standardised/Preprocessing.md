@@ -41,3 +41,6 @@ Feature preprocessing refers to the process of transforming raw data into a clea
 5. [[Dimensionality Reduction]]: Reducing the number of features while preserving important information, using techniques like Principal Component Analysis (PCA).
 
 6. [[Feature Engineering]]: Creating new features from existing data to improve model performance, often based on domain knowledge.
+
+
+

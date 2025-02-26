@@ -84,7 +84,7 @@ Transform raw data into a format that best describes the problem to the model.
 ## Transformation in Data Engineering
 Data is often transformed as part of an [ETL (Extract, Transform, Load)](ETL.md) or [ELT (Extract, Load, Transform)](term/elt.md) approach to [data integration](term/data%20integration.md). 
 
-See [ETL vs. ELT](term/etl%20vs%20elt.md) for a comparison of these two approaches.  
+See [ETL vs. ELT](ETL%20vs%20ELT.md) for a comparison of these two approaches.  
 
 Additionally, a hybrid approach has recently emerged which is known as [EtLT (Extract, “tweak”, Load, Transform)](term/etlt.md). This combines aspects of both ETL and ELT. 
 # Other

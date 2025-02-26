@@ -6,7 +6,11 @@ phase:
 topic: 
 filename:
 ---
-Deep [[Q-Learning]] is a type of [[reinforcement learning]] algorithm that combines Q-Learning with deep neural networks. It is used to train agents to make decisions by learning optimal policies in environments with complex state spaces.
+Deep [[Q-Learning]] is a type of [[reinforcement learning]] algorithm that combines Q-Learning with [[Neural network]]. Necessary when Q-Table grows too large.
+
+Updates the weights in the model.
+
+![[Pasted image 20250220133838.png]]
 
 ## Key Concepts
 

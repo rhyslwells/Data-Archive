@@ -1,7 +1,7 @@
 ---
 tags:
   - statistics
-  - drafting
+  - portal
 ---
 Portal for all statistics notes:
 

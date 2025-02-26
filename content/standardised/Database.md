@@ -2,6 +2,8 @@
 title: 
 tags:
   - database
+  - data_storage
+  - database_management
 aliases: 
 category:
 ---
@@ -33,7 +35,7 @@ Utilize structured query language ([[SQL]]) to manage data in tables, where rela
    Databases are primarily used for **transaction recording** and **managing live data** in applications. They are optimized for many small, quick transactions. However, databases can become slower when performing large or complex [[Querying]], especially on huge datasets, which may require other solutions like **data warehouses**.
 
 Related Ideas:
-- [[Spreadsheets to Databases]]
+- [[Spreadsheets vs Databases]]
 - [[Database Management System (DBMS)]]
 - [[Components of the database]]
 - [[Relating Tables Together]]
@@ -41,3 +43,4 @@ Related Ideas:
 
 Database Techniques:
 - [[Soft Deletion]]
+

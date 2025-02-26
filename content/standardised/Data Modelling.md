@@ -21,3 +21,9 @@ Types of Modeling:
 - Network: An extension of hierarchical models.
 - Hierarchical: Organizes data in a tree-like structure.
 
+
+
+
+
+[[Data Modelling]]
+   **Tags**: #data_modeling, #database_design

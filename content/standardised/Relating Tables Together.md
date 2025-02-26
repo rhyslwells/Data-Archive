@@ -1,6 +1,7 @@
 ---
 tags:
-  - database
+  - data_integrity
+  - database_design
 ---
 Implementing these concepts, database tables can be effectively related, ensuring [[Data Integrity]], efficient retrieval, and easy maintenance.
 
@@ -34,9 +35,5 @@ Referential Integrity
 Cascading Actions:
    - Cascade Update: Updates related records automatically when a primary key is updated.
    - Cascade Delete: Deletes related records automatically when a primary key is deleted.
-
-[[Database Index]]
-
-[[Normalised Schema]]
 
 [[ER Diagrams]]

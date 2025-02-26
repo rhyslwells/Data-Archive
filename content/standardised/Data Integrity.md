@@ -15,4 +15,9 @@ In the context of [[Database]] and information systems, data integrity can be en
 1. **Validation Rules**: Ensuring that data entered into a system meets certain criteria.
 2. **Access Controls**: Limiting who can view or modify data.
 3. **Backups**: Regularly saving copies of data to prevent loss.
-4. **Error Checking**: Using [[Checksum]] or [[Hashes]] to verify data integrity during transmission.
+4. **Error Checking**: Using [[Checksum]] or [[Hash]] to verify data integrity during transmission.
+
+
+
+[[Data Integrity]]
+   **Tags**: #data_quality, #data_management

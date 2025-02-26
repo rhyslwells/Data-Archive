@@ -14,7 +14,8 @@ A transformer in machine learning (ML) refers to a deep learning model architect
 
 1. **Architecture Overview**:
     
-    - A transformer model consists of an encoder and a decoder, although some models use only the **encoder** (like [[BERT]]) or only the **decoder** (like GPT). Each of these components is made up of layers that include mechanisms for attention and [[Feed Forward Neural Network]].
+    - A transformer model consists of an encoder and a decoder, although some models use only the **encoder** (like [[BERT]] only consists of encoders) or only the **decoder** (like GPT3). Each of these components is made up of layers that include mechanisms for attention and [[Feed Forward Neural Network]].
+    - Encoder learns the context, decoder does the task.
 
 1. **Self-[[Attention Mechanism]]**:
     

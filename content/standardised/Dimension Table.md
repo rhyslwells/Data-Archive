@@ -22,3 +22,9 @@ Examples
   - **RegionDimension**: Contains regional information.
     - Columns: `RegionKey`, `RegionName`, `Country`
 
+
+
+
+
+[[Dimension Table]]
+   **Tags**: #data_modeling, #data_warehouse
