@@ -5,8 +5,6 @@ tags:
 aliases: 
 category:
 ---
-# Summary
-
 Supervised learning is a type of machine learning where an algorithm learns from **==labeled data==** to make predictions or decisions. 
 
 In supervised learning, the training data consists of input-output pairs, where each input (features) is associated with a known output (label or target). 

@@ -52,6 +52,7 @@ filename:
 - [[Data Integrity]]
 - [[Single Source of Truth]]
 - [[Full Lifecycle Management]]
+- [[Data Quality]]
 
 ## Data Engineering Tools
 

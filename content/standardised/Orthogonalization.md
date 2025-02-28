@@ -22,4 +22,4 @@ Avoid early stopping as effects network size, and training set size.
 
 Related links:
 - [[Optimising Neural Networks]]
-- [[Machine Learning Portal]]
+- [[DS & ML Portal]]

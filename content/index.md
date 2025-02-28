@@ -21,19 +21,15 @@ graph LR;
 
 ## Navigation
 
-Here are some starting [[Tags]], see  #portal for other navigation notes.
+Here are some starting tags. For other navigation notes see #portal 
 
-| [[Data Science Portal]]                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------- |
-| <br>#classifier #regressor #evaluation #clustering<br> #deep_learning #anomaly_detection #model_architecture<br> #model_algorithm<br> |
+| [[DS & ML Portal]]                                                                                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <br>#classifier #regressor #evaluation #clustering<br> #deep_learning #anomaly_detection #model_architecture<br> #model_algorithm #ml_process #ml_optimisation<br> #model_explainability |
 
 | [[Data Engineering Portal]]                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | #database #data_storage  #data_modeling<br>#data_cleaning #data_exploration  #data_transformation <br>#data_processing #database_optimisation #data_engineering <br>#data_quality #data_governance #data_management <br>#field #communication #big_data #event_driven <br>#data_visualization #business_intelligence #cloud_computing<br>#data_streaming #database_design #data_workflow<br>#data_collection #querying  #relational_database <br> |
-
-| [[Machine Learning Portal]]                            |
-| ------------------------------------------------------ |
-| #ml_process #ml_optimisation #model_explainability<br> |
 
 | [[Software Development Portal]]                                                                 |
 | ----------------------------------------------------------------------------------------------- |

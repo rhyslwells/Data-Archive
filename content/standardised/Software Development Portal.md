@@ -15,6 +15,7 @@ File types:
 - [[Justfile]]
 - [[TOML]]
 - [[Makefile]]
+- [[Json]]
 
 Practices:
 - [[Testing]]
@@ -22,3 +23,10 @@ Practices:
 
 Related to:
 - [[DevOps]]
+
+```dv
+TABLE file.name AS "Note", length(file.inlinks) AS "Backlinks"
+FROM ""
+SORT length(file.inlinks) DESC
+LIMIT 100
+```

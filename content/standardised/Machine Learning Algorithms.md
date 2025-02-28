@@ -6,7 +6,7 @@ tags:
 aliases: 
 category:
 ---
- Machine learning algorithms are used to automate tasks, extract insights, and make more informed decisions.
+ Machine learning [[Algorithms]] are used to automate tasks, extract insights, and make more informed decisions.
 
 Choosing the right algorithm for a specific problem involves understanding the task, the characteristics of the data, and the strengths and limitations of different algorithms.
 # [[Supervised Learning]]
@@ -45,7 +45,7 @@ Automation: Machine learning algorithms can automate complex tasks, freeing up h
 
 Adaptability: Machine learning algorithms can adapt to changing data patterns, making them suitable for dynamic environments.
 
-Scalability: Machine learning algorithms can handle large datasets efficiently, making them applicable to big data problems.
+[[Scalability]]: Machine learning algorithms can handle large datasets efficiently, making them applicable to big data problems.
 
 Knowledge Discovery: Machine learning algorithms can help discover hidden patterns and relationships in data, leading to new insights and knowledge.
 

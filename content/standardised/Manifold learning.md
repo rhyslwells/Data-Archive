@@ -6,8 +6,6 @@ tags:
 aliases: 
 category:
 ---
-# Summary
-
 **Manifold learning** is a powerful approach for high-dimensional data exploration, focusing on uncovering the lower-dimensional manifold that the data resides on. These algorithms aim to identify and map the underlying low-dimensional structure, or **manifold**, that the data is assumed to lie on, within the high-dimensional space. This is particularly useful for reducing dimensionality while preserving the intrinsic properties of the data.
 
 Methods like **==Isomap==** aim to preserve the geodesic distances between points, which better represent the data's true structure than straight-line distances in high-dimensional space. This enables effective [[Dimensionality Reduction]] for non-linear data while preserving important relationships between data points.

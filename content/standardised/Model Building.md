@@ -7,9 +7,7 @@ aliases:
 title: 
 category:
 ---
-
 The Model Building phase follows the [[Preprocessing]] phase, where data is organized and prepared for analysis. This phase focuses on selecting and setting up the appropriate machine learning models to solve the problem at hand.
-
 ## Key Steps
 
 Types of Models:
@@ -18,7 +16,7 @@ Types of Models:
 - Consider the tradeoffs between [[parametric vs nonparametric models]].
 
 Setting Up a Model:
-- Divide the data into [[TrainDevTest Sets]] to ensure robust evaluation and tuning.
+- Divide the data into [[Train-Dev-Test Sets]] to ensure robust evaluation and tuning.
 - Optimize [[Model Parameters]] and configurations for best performance.
 
 Model Selection:
