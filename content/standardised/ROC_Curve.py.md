@@ -1,4 +1,4 @@
-https://github.com/rhyslwells/ML_Tools/tree/main/Explorations\Selection\ROC_Curve.py
+https://github.com/rhyslwells/ML_Tools/blob/main/Explorations\Selection\ROC_Curve.py
 ## **Overview**
 
 This script demonstrates how to compute and interpret Receiver Operating Characteristic (ROC) curves and Area Under the ROC Curve (AUROC) scores using Random Forest and Naive Bayes classifiers. Below is the step-by-step breakdown:

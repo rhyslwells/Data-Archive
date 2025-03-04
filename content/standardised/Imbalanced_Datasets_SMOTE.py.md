@@ -1,4 +1,4 @@
-https://github.com/rhyslwells/ML_Tools/tree/main/Explorations\Preprocess\Imbalanced_Datasets_SMOTE.py
+https://github.com/rhyslwells/ML_Tools/blob/main/Explorations\Preprocess\Imbalanced_Datasets_SMOTE.py
 
 ### Demonstrating the Value of Resampling in Imbalanced Classification
 

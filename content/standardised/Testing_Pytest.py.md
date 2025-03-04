@@ -1,4 +1,4 @@
-https://github.com/rhyslwells/ML_Tools/tree/main/Explorations\Deployment\Testing_Pytest.py
+https://github.com/rhyslwells/ML_Tools/blob/main/Explorations\Deployment\Testing_Pytest.py
 
 In [[ML_Tools]] see: [[Testing_Pytest.py]]
 

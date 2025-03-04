@@ -1,1 +1,1 @@
-https://github.com/rhyslwells/ML_Tools/tree/main/Explorations\Build\Regression\Addressing_Multicollinearity.py
+https://github.com/rhyslwells/ML_Tools/blob/main/Explorations\Build\Regression\Addressing_Multicollinearity.py

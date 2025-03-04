@@ -1,4 +1,4 @@
-https://github.com/rhyslwells/ML_Tools/tree/main/Explorations\Build\NLP\Vector_Embedding.py
+https://github.com/rhyslwells/ML_Tools/blob/main/Explorations\Build\NLP\Vector_Embedding.py
 
 ### Explanation of the Script
 

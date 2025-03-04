@@ -1,4 +1,4 @@
-https://github.com/rhyslwells/ML_Tools/tree/main/Explorations\Selection\Cross_Entropy.py
+https://github.com/rhyslwells/ML_Tools/blob/main/Explorations\Selection\Cross_Entropy.py
 ### Generalized Script Description:
 
 1. **Dataset**: Uses the Iris dataset from `sklearn` to classify flower species.

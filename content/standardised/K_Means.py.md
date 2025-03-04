@@ -1,4 +1,4 @@
-https://github.com/rhyslwells/ML_Tools/tree/main/Explorations\Build\Clustering\KMeans\K_Means.py
+https://github.com/rhyslwells/ML_Tools/blob/main/Explorations\Build\Clustering\KMeans\K_Means.py
 ## Key Concepts Used in the Script
 
 1. **Data Loading**:
