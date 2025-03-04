@@ -1,4 +1,4 @@
-https://github.com/rhyslwells/ML_Tools/blob/main/Explorations\Utilities\Debugging.py
+https://github.com/rhyslwells/ML_Tools/blob/main/Explorations/Utilities/Debugging.py
 
 This script includes examples of logging, using breakpoints, and reproducing a simple bug for practice
 ### Key Concepts Demonstrated in the Script

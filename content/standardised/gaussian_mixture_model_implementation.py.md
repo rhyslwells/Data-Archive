@@ -1,4 +1,4 @@
-https://github.com/rhyslwells/ML_Tools/blob/main/Explorations\Build\Clustering\Gaussian_Mixture_Model_Implementation.py
+https://github.com/rhyslwells/ML_Tools/blob/main/Explorations/Build/Clustering/Gaussian_Mixture_Model_Implementation.py
 
 Follow-Up Questions
 

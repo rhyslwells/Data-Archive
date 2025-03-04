@@ -1,4 +1,4 @@
-https://github.com/rhyslwells/ML_Tools/blob/main/Explorations\Selection\Comparing_Ensembles.py
+https://github.com/rhyslwells/ML_Tools/blob/main/Explorations/Selection/Comparing_Ensembles.py
 
 This script explores various [[Model Ensemble]] techniques in machine learning, demonstrating their effectiveness in improving prediction accuracy through programmatic examples
 

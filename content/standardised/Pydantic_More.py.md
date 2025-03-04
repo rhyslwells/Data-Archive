@@ -1,4 +1,4 @@
-https://github.com/rhyslwells/ML_Tools/blob/main/Explorations\Utilities\Pydantic_More.py
+https://github.com/rhyslwells/ML_Tools/blob/main/Explorations/Utilities/Pydantic_More.py
 ### Key Features Demonstrated in the Script:
 
 1. **Nested Models:** Use of the `Friend` model inside the `User` model.

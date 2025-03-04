@@ -1,4 +1,4 @@
-https://github.com/rhyslwells/ML_Tools/blob/main/Explorations\Build\Neural_Network\transfer_learning.py
+https://github.com/rhyslwells/ML_Tools/blob/main/Explorations/Build/Neural_Network/transfer_learning.py
 
 For deep learning, to do  [[Transfer Learning]] we take out and replace a few end layers of the network. We can then train just the last layer of weights of a neural network. 
 
