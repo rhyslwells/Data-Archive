@@ -1,3 +1,5 @@
+https://github.com/rhyslwells/ML_Tools/tree/main/Explorations\Preprocess\Imbalanced_Datasets_SMOTE.py
+
 ### Demonstrating the Value of Resampling in Imbalanced Classification
 
 This example highlights the effectiveness of resampling techniques, such as [[SMOTE (Synthetic Minority Over-sampling Technique)|SMOTE]], in addressing [[Imbalanced Datasets|class imbalance]] issues in classification tasks. By implementing the following strategies, the setup ensures a measurable improvement in model performance:

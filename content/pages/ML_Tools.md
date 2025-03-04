@@ -26,6 +26,16 @@ Using the [[0_note]] template we can get the paths for the associated files.
 
 Use [[A YAML Generator]] to get a suggestion of what the YAML should be.
 
+#### Dataview
 
+https://github.com/rhyslwells/ML_Tools/tree/main/
++
+Relative path
+
+Full List:
+```dataview
+table
+where contains(file.name, ".py")
+```
 
 

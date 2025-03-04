@@ -13,7 +13,7 @@ Gaussian Mixture Models (GMMs) represent data as a mixture of multiple Gaussian 
 
 Soft [[Clustering]] technique.
 
-In [[ML_Tools]] see: [[gaussian_mixture_model_implementation.py]]
+In [[ML_Tools]] see: [[Gaussian_Mixture_Model_Implementation.py]]
 
 [[Kmeans vs GMM]]
 

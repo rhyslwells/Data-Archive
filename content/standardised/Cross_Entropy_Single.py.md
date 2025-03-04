@@ -1,3 +1,5 @@
+
+https://github.com/rhyslwells/ML_Tools/tree/main/Explorations\Selection\Cross_Entropy_Single.py
 ## Example
 
 Let's consider a three-class classification problem with classes A, B, and C. Suppose we have a single data point with the true class label being A. The true label in one-hot encoded form would be [1, 0, 0].

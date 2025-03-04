@@ -1,3 +1,4 @@
+https://github.com/rhyslwells/ML_Tools/tree/main/Explorations\Preprocess\Factor_Analysis.py
 ### **1. Factor Loadings Table**
 
 This table shows how strongly each feature (e.g., `sepal length (cm)`) is correlated with the two extracted factors (Factor 1 and Factor 2).
