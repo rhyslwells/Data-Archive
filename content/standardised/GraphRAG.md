@@ -7,6 +7,7 @@ aliases:
 ---
 [[GraphRAG]] is a [[RAG]] framework that utilizes [[Knowledge Graph]]s to enhance information retrieval and processing. A significant aspect of this framework is the use of large language models (LLMs) for [[Named Entity Recognition]] (NER) within [[Neo4j]].
 
+[[Graph Neural Network]]
 ### Related Terms
 - [[How to search within a graph]]
 - **[[Text2Cypher]]**: This feature allows users to interact with the graph in a user-friendly manner, converting natural language queries into Cypher queries.

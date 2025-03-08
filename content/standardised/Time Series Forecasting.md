@@ -13,12 +13,9 @@ Resources:
 [TimeSeries Forecasting](https://simrenbasra.github.io/simys-blog/2024/09/19/timeseries_part2.html)
 
 ### Statistical Methods
-
-[[Baseline Forecasting]]
-
-[[Exponential Smoothing]]
-
-[[ARIMA]]
+- [[Forecasting_Baseline.py]]
+- [[Forecasting_Exponential_Smoothing.py]]
+- [[Forecasting_AutoArima.py]]
 ### Machine Learning Methods
 
 [[XGBoost]]

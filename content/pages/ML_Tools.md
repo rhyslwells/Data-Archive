@@ -4,10 +4,6 @@ We have reorganised ML Tools (see github) so that the folder paths :
 
 https://github.com/rhyslwells/ML_Tools/Explorations/{phase}/{topic}/{filename}.py
 
-can be determined by the notes in the Data archive.
-
-The folder structure follows [[DS & ML Portal]] for phases.
-
 phase:
 - [[Preprocessing|Preprocess]]
 - [[Model Building|Build]]
@@ -28,9 +24,9 @@ Use [[A YAML Generator]] to get a suggestion of what the YAML should be.
 
 #### Dataview
 
-https://github.com/rhyslwells/ML_Tools/tree/main/
+https://github.com/rhyslwells/ML_Tools/blob/main/
 +
-Relative path
+Relative path with / correct way.
 
 Full List:
 ```dataview

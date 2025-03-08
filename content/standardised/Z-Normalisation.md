@@ -7,8 +7,11 @@ phase:
 topic: 
 filename:
 ---
+https://github.com/rhyslwells/ML_Tools/blob/main/Explorations/Preprocess/Outliers/outliers_z_score.py
 
-Z-normalisation, also known as z-score normalization, is a technique used to standardize the range of independent variables or features of data. This process is used in preparing data for [[machine learning algorithms]], especially those that rely on distance calculations, such as k-nearest neighbors and [[gradient descent]] optimization.
+Z-normalisation, also known as z-score normalization, is a technique used to standardize the range of independent variables or features of data. 
+
+This process is used in preparing data for [[machine learning algorithms]], especially those that rely on distance calculations, such as k-nearest neighbors and [[gradient descent]] optimization.
 
 ### Why Normalize?
 

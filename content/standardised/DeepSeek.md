@@ -29,6 +29,19 @@ can see it - ui choice
 
 edge inference [[Edge Machine Learning Models]]
 
+[The Genius of DeepSeek’s 57X Efficiency Boost](https://www.youtube.com/watch?v=0VLAoVGf_74)
+key value caching 
+impacts attention block compute scaling: linear
+increased memory usage
+Solution: 
+multi-query attention vs mutli - head attention
+Grouped-query attention
+Multi-head latent attention - deepseek uses
+uses compresses latent space
+linear algebra 
+absorbed weights at training
+
+
 
 
 - **Access to Advanced AI Features Without Payment**: You can now access powerful reasoning models like DeepSeek's R1 and ChatGPT's 03 Mini for free. These models are good at complex math, programming, and step-by-step reasoning.

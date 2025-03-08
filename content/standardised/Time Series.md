@@ -10,6 +10,8 @@ Time series data is widely used across various domains, including:
 - Weather Forecasting: Temperature, precipitation, and wind speed data.
 
 In [[ML_Tools]] see: TimeSeries folder
+
+"Explorations\Build\TimeSeries"
 ## What Can You Do with Time Series Data?
 
 With time series data, you can:

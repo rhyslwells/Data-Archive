@@ -1,10 +1,9 @@
-
 Anomaly detection involves identifying unusual or unexpected data points that deviate from the norm. Detecting these anomalies is crucial for maintaining data integrity and improving model performance.
 
 ## Methods for Detecting Anomalies
 
 1. **[[Anomaly Detection with Clustering]]**
-2. **[[Principal Component Analysis|PCA]]-Based Anomaly Detection**  
+2. [[PCA-Based Anomaly Detection]]
    - For implementation, see: [[ML_Tools]] - [[PCA_Based_Anomaly_Detection.py]]
 3. **[[Anomaly Detection in Time Series]]**
 4. **[[Anomaly Detection with Statistical Methods]]**

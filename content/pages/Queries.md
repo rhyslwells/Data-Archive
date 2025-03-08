@@ -1,4 +1,4 @@
-This note contain dataview queries that are of use. These will not display, see [[Questions]].
+This note contains dataview queries and they will not display. I will insert those of interest above the queries.
 ## Papers that I am currently reading
 ```dataview
 TABLE
@@ -7,6 +7,8 @@ WHERE contains(category, "paper")
 LIMIT 8
 ```
 ## [[Data Science]]
+
+[[What is the role of gradient-based optimization in training deep learning models.]]
 ```dataview
 TABLE
 FROM ""

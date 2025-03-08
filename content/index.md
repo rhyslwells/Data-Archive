@@ -5,7 +5,7 @@ category:
 ---
 ## Map of Content
 
-The [[Data Archive]] is continuously growing! New contents will follow the direction of [[Questions]]. The [[Data Archive]] is the entry point of my ==Research-Pipeline==. We track on going tasks for it [here](https://docs.google.com/spreadsheets/d/1PMMFXlFfYjfba5VZQBVGcdtpXVQjPfDAL_MnDBobR1Y/edit?gid=0#gid=0)).
+The [[Data Archive]] is continuously growing! New contents will follow the direction of [[Queries]]. The [[Data Archive]] is the entry point of my ==Research-Pipeline==.  Track on going tasks for it [here](https://docs.google.com/spreadsheets/d/1PMMFXlFfYjfba5VZQBVGcdtpXVQjPfDAL_MnDBobR1Y/edit?gid=0#gid=0)).
 
 ```mermaid
 graph LR;
