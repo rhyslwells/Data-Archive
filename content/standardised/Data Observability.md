@@ -43,3 +43,7 @@ How to Manage Metadata:
 - Manual Documentation: Teams may manually document metadata, but this can be prone to human error and inconsistency.
 - Automated Metadata Management: Many modern data tools, such as data catalogs (e.g., Atlan, Alation), automatically track and manage metadata, offering insights into data lineage, schema changes, and data usage.
 - Integration with Data Pipelines: Tools like dbt also generate metadata about transformations, which can be included in downstream monitoring systems to ensure consistency and traceability.
+
+[[Data Observability]]
+- Tracking the issues.
+- Alerting and ensuring data owners fix it.

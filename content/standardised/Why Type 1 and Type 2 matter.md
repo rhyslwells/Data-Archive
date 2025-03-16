@@ -1,5 +1,7 @@
 Type I and Type II errors are used in evaluating the performance of classification models, and understanding their differences is essential for interpreting model results effectively.
 
+![[Pasted image 20250312064809.png]]
+
 ### Type I Error (False Positive)
 - **Definition**: A Type I error occurs when the model incorrectly predicts the positive class. In other words, it identifies a negative instance as positive.
 - **Example**: If a model predicts that an email is spam (positive) when it is actually not spam (negative), this is a Type I error.

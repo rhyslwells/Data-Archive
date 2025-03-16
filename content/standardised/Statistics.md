@@ -20,3 +20,5 @@ Portal for all statistics notes:
 [[Markov chain]]
 
 [[parametric vs non-parametric tests]]
+
+[[univariate vs multivariate]]

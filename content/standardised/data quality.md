@@ -5,6 +5,9 @@ tags:
 ---
 Data quality is the process of ==ensuring data meets expectations.==
 
+Related:
+- [[Prevention Is Better Than the Cure]]
+
 There are three main ways to detect a data quality issue: 
 -   A business user reports an issue.
 -   A data test fails.

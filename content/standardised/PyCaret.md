@@ -1,11 +1,21 @@
 PyCaret is an open-source, low-code Python library designed to simplify machine learning workflows. 
 
-See
-[[DS & ML Portal]]
-
 It allows users to build, evaluate, and deploy machine learning models with minimal coding and effort. 
 
-PyCaret provides an end-to-end solution for automating repetitive tasks in machine learning, such as [[Preprocessing]], model training, [[hyperparameter]] tuning, and deployment.
+PyCaret provides an end-to-end solution for automating repetitive tasks in machine learning, such as 
+- [[Preprocessing]],
+- model training,
+- [[hyperparameter]] tuning
+- [[Model Deployment|Deployment]]
+
+### Implementation
+
+See: https://pycaret.gitbook.io/docs/get-started/quickstart
+
+Resources: https://github.com/pycaret/pycaret/tree/master
+
+In [[ML_Tools]] see: 
+- [[Pycaret_Example.py]]
 ### Key Features of PyCaret
 
 1. Ease of Use: PyCaret is designed to be beginner-friendly, enabling users to build models without deep expertise in coding.
@@ -21,18 +31,15 @@ PyCaret provides an end-to-end solution for automating repetitive tasks in machi
 5. Model Evaluation and Comparison: [[Model Selection]]: It provides an easy way to compare multiple models and their performance metrics in a single function call.
 6. Deployment [[Model Deployment]]: Facilitates the deployment of trained models using tools like Flask, FastAPI, or Microsoft Power BI.
 
-### Implementation
+### Notes
 
-In [[ML_Tools]] see: [[Pycaret_Example.py]]
+Object or functional APIs
+
+
+
 ### Advantages of PyCaret
 
 - Time-Saving: Reduces the coding and time required to build machine learning pipelines.
-- Consistency: Ensures consistent workflows across projects.
-- Customizability: While it’s low-code, users can modify workflows to suit their needs.
-- Community Support: Actively maintained and widely used in both academic and professional settings.
-
-### Use Cases
-
 - Quick prototyping of machine learning models.
 - Educational purposes for teaching machine learning concepts.
 - Rapid development of machine learning solutions for business problems.

@@ -9,3 +9,8 @@
 ### Work
 
 > "When a metric becomes a target it ceases to be a good metric"
+
+### Investing
+
+>“The future is a distribution of unknown probabilities”
+

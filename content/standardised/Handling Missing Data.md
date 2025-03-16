@@ -1,4 +1,9 @@
 Missing data can provide insights into the data collection process. It's important to determine whether the missing data is randomly distributed or specific to certain features. Filling in data is a type of [[Data Transformation]].
+
+In [[ML_Tools]] see: [[Handling_Missing_Data.ipynb]]
+
+Resources:
+- https://scikit-learn.org/stable/modules/impute.html
 ## Identifying Missing Data
 How do you find which features have the most missing data?
 
@@ -12,14 +17,14 @@ df[df.columns[df.isnull().sum() > 0].tolist()].info()
 
 There are two main strategies for handling missing values: removing them or replacing them.
 
-**Remove Missing Values:**
+Remove Missing Values:
   - `dropna`: Drops rows with missing values.
   - `df.dropna(inplace=True)`: Drops rows with NA values and updates the DataFrame in place.
   - `df.reset_index(inplace=True, drop=True)`: Resets the index after dropping rows.
 
-**Replace Missing Values:**
+Replace Missing Values:
   - `fillna`: Fills missing values with specified values.
-	- **Example**: `df['var1'] = df['var1'].fillna(df['var1'].mean())` fills missing values in `var1` with the column's average.  
+	- Example: `df['var1'] = df['var1'].fillna(df['var1'].mean())` fills missing values in `var1` with the column's average.  
   - `isnull`: Checks for missing values.
   - `df.reindex`: Reindexes the DataFrame.
   - Imputation methods for filling in missing data so that it has a higher likelyhood of being true.
@@ -77,13 +82,13 @@ print(df)
 ```
 
 Explanation:
-1. **Grouping**: The `groupby('Category')` groups the DataFrame by the 'Category' column.
-2. **Transformation**: The `transform('mean')` function calculates the mean of the 'Value' column for each group and returns a Series with the same index as the original DataFrame. This allows you to align the group means with the original data.
-3. **Filling Missing Values**: The `fillna(grouped_means)` function fills the missing values in the 'Value' column with the corresponding group mean.
+1. Grouping: The `groupby('Category')` groups the DataFrame by the 'Category' column.
+2. Transformation: The `transform('mean')` function calculates the mean of the 'Value' column for each group and returns a Series with the same index as the original DataFrame. This allows you to align the group means with the original data.
+3. Filling Missing Values: The `fillna(grouped_means)` function fills the missing values in the 'Value' column with the corresponding group mean.
 
 Benefits:
-- **Contextual Filling**: By using group-specific statistics, you ensure that the imputed values are more contextually relevant compared to using a global statistic like the overall mean.
-- **Preservation of Group Characteristics**: This method helps maintain the inherent characteristics of each group, which might be lost if a single value is used for imputation across all groups.
+- Contextual Filling: By using group-specific statistics, you ensure that the imputed values are more contextually relevant compared to using a global statistic like the overall mean.
+- Preservation of Group Characteristics: This method helps maintain the ==inherent characteristics of each group==, which might be lost if a single value is used for imputation across all groups.
 
 This approach is part of data transformation techniques that help in cleaning and preparing data for analysis or modeling, ensuring that the data is as accurate and representative as possible.
 #### Using functions
@@ -102,6 +107,7 @@ def funct(cols):
         return var1
 df['var1'] = df[['var1', 'var2']].apply(funct, axis=1)
 ```
+
 #### Filling with Specific Values
 
 Fill missing values with specific common values:
@@ -112,7 +118,12 @@ test.loc[test['LotFrontage'].isnull(), 'LotFrontage'] = test['LotFrontage'].mean
 ```
 #### Other Imputation Methods
 
-- **K-nearest neighbors (KNN) imputation:** Uses the average of the K most similar data points.
-	- **Example**: `from sklearn.impute import KNNImputer` initializes the KNN imputer.
-- **Hot deck imputation:** Randomly selects existing data points from the group.
-- **Cold deck imputation:** Replaces missing values with a constant value, often a default like "0".
+##### KNN
+
+https://scikit-learn.org/stable/modules/generated/sklearn.impute.KNNImputer.html
+
+K-nearest neighbors (KNN) imputation: Uses the average of the K most similar data points.
+	- Example: `from sklearn.impute import KNNImputer` initializes the KNN imputer.
+##### Other
+- Hot deck imputation: Randomly selects existing data points from the group.
+- Cold deck imputation: Replaces missing values with a constant value, often a default like "0".

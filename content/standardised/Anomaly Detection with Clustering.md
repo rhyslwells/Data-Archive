@@ -8,6 +8,7 @@
 - **Steps:**
     - Identify points in low-density regions as anomalies.
 
+[[Isolated Forest|iForest]]
 
 ### **2. Local Outlier Factor (LOF)**
 
