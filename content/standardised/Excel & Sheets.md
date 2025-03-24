@@ -10,6 +10,8 @@ category:
 
 [Google sheets example folder](https://drive.google.com/drive/folders/1F9GTIK-MARSjl6-BKb1AOID6EoRLe_zk?usp=drive_link)
 
+see [[standardised/GSheets|GSheets]]
+
 Excel Example folder: Desktop/Example_Examples
 
 ## Tools common to Excel and Sheets

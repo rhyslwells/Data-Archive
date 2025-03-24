@@ -6,6 +6,8 @@ tags:
 ---
 
 See [[Groupby vs Crosstab]] too
+
+![[Pasted image 20250323081619.png]]
 # What it is used for:
 
 ```python

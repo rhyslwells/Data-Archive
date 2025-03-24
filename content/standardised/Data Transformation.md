@@ -32,10 +32,12 @@ joined_df = df1.join(df2, lsuffix='_left', rsuffix='_right')
 df = pd.DataFrame({'category': ['A', 'B', 'A'], 'value': [10, 20, 30]})
 grouped_df = df.groupby('category').sum()
 ```
+### Split-Apply-Combine
 
-### Change the Layout of Data using a [[Stack]]
+![[Pasted image 20250323081817.png]]
+### Change the Layout of Data using a [[Pandas Stack]]
 
-See [[Stack]] for when to use
+See [[Pandas Stack]] for when to use
 ```python
 df = pd.DataFrame({'A': [1, 2], 'B': [3, 4]}, index=['first', 'second'])
 stacked_df = df.stack()
@@ -120,4 +122,3 @@ SELECT * FROM X where Age=29
 [[Data Transformation]]
    - Cleaning, filtering, and transforming data into a usable format.
    - Includes operations like aggregation, normalization, and enrichment.
-   - Tools: Apache Spark, Apache Flink, AWS Glue.

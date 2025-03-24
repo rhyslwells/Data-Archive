@@ -1,18 +1,18 @@
-### Key Differences
 
-- **Flexibility:** Non-parametric models are more flexible and can model complex relationships, while parametric models are simpler and rely on assumptions about the data.
-- **Data Requirements:** Non-parametric models typically require more data to achieve good performance compared to parametric models.
-- **Computation:** Parametric models are usually computationally less intensive than non-parametric models.
+### Parametric Models
 
-### Parametric Models 
+In [[Statistics]]
 
-- **Definition:** Models that summarize data with a set of parameters of fixed size, regardless of the number of data points.
-- **Characteristics:**
+**Definition:** Models  that summarize data with a ==set of parameters of fixed size, regardless of the number of data points.==
+
+**Characteristics:**
   - Assumes a specific form for the function mapping inputs to outputs (e.g., linear regression assumes a linear relationship).
   - Requires estimation of a finite number of parameters.
   - Generally faster to train and predict due to their simplicity.
   - Risk of underfitting if the model assumptions do not align well with the data.
-- **Examples:** Linear [[regression]], logistic regression, neural networks (with a fixed architecture).
+
+  **Examples:** 
+  - Linear [[regression]], logistic regression, neural networks (with a fixed architecture), [[Bernoulli]]
 
 ### Non-parametric Models
 
@@ -24,3 +24,8 @@
   - Risk of overfitting, especially with small datasets, as they can model noise in the data.
 - **Examples:** K-nearest neighbors, decision trees, [[support vector machines]] (with certain kernels).
 
+### Key Differences
+
+- **Flexibility:** Non-parametric models are more flexible and can model complex relationships, while parametric models are simpler and rely on assumptions about the data.
+- **Data Requirements:** Non-parametric models typically require more data to achieve good performance compared to parametric models.
+- **Computation:** Parametric models are usually computationally less intensive than non-parametric models.

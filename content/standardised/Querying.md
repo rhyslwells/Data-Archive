@@ -51,8 +51,8 @@ Useful Links
       SELECT title, format FROM longlist WHERE NOT format = 'hardcover';
       ```
 
-**Combining Conditions**:
-  - Future lessons will cover more complex conditions, such as filtering by multiple years.
+JOINS
+![[Pasted image 20250323083319.png]]
 
 ### Good Practices
 **Capitalization**: 

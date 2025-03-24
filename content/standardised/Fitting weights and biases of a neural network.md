@@ -38,7 +38,7 @@ During forward propagation, the network computes activations using the current w
 
 The loss function quantifies the difference between predicted outputs and true labels. It serves as the objective function that the network aims to minimize during training. Choosing the right loss function is essential as it directly impacts the learning process and the network's ability to generalize.
 
-- Binary Cross-Entropy: For [[binary classification]].
+- Binary Cross-Entropy: For [[Binary Classification]].
 - Categorical Cross-Entropy: For multi-class classification.
 - Mean Squared Error (MSE): For regression tasks.
 

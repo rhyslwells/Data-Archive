@@ -10,6 +10,8 @@
 
 > "When a metric becomes a target it ceases to be a good metric"
 
+> "Programming is not about knowing all the answers, but knowing how to find the answers."
+
 ### Investing
 
 >“The future is a distribution of unknown probabilities”

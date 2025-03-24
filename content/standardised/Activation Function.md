@@ -20,7 +20,7 @@ ReLU (Rectified Linear Unit):
   - Function:$f(x) = \max(0, x)$
 
 Sigmoid:
-  - Purpose: Sigmoid is used primarily in [[binary classification]] tasks. It squashes input values to a range between 0 and 1, making it suitable for representing probabilities.
+  - Purpose: Sigmoid is used primarily in [[Binary Classification]] tasks. It squashes input values to a range between 0 and 1, making it suitable for representing probabilities.
   - Function:$f(x) = \frac{1}{1 + e^{-x}}$
 
  Tanh:

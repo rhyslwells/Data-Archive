@@ -3,8 +3,8 @@ type: grouping
 tags:
   - data_transformation
 ---
-Links:
-C:\Users\RhysL\Desktop\DE_Tools\pandas
+In [[ML_Tools]] see:
+- [[Pandas_Common.py]]
 
 Areas:
 - [[Handling Missing Data]] 

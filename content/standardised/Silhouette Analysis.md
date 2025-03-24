@@ -15,7 +15,7 @@ Overall, silhouette analysis is a valuable tool for assessing the quality of [[c
    $b(i)$ is the average distance between the data point $i$ and all points in the nearest cluster (the cluster with the smallest average distance to $i$).
 
  **Interpretation of Silhouette Scores:**
-   A silhouette score ranges from 1 to 1.
+   A silhouette score ranges from -1 to 1.
    A score close to 1 indicates that the data point is ==wellclustered== and far from neighboring clusters.
    A score close to 0 indicates that the data point is on or very close to the decision boundary between two neighboring clusters.
    A negative score indicates that the data point might have been assigned to the wrong cluster.

@@ -7,13 +7,13 @@ aliases:
   - PCA
 category:
 ---
-### Overview
-
-PCA is a powerful tool for [[Dimensionality Reduction]] in [[Unsupervised Learning]] to reduce the dimensionality of data. 
+PCA is a tool for [[Dimensionality Reduction]] in [[Unsupervised Learning]] to reduce the dimensionality of data. 
 
 It transforms the original data into a new coordinate system defined by the principal components, which are ==orthogonal vectors== that capture the most [[Variance]] in the data.
 
 It helps simplify models, enhances [[interpretability]], and improves computational efficiency by transforming data into a lower-dimensional space while ==retaining the most significant variance==, and reducing noise.
+
+
 ### How PCA Works
 
 - ==Linear Technique==: PCA is a linear technique, meaning it assumes that the relationships between features are linear. This distinguishes it from methods like [[Manifold Learning]] which can capture non-linear relationships.
@@ -23,14 +23,13 @@ It helps simplify models, enhances [[interpretability]], and improves computatio
 
 - [[t-SNE]]: Unlike PCA, t-SNE is a non-linear technique used for visualization, preserving local structures in high-dimensional data.
 - [[Manifold Learning]]: Techniques like Isomap and Locally Linear Embedding (LLE) are designed to capture non-linear structures, which PCA might miss due to its linear nature
-#### Code Implementation
+### Code Implementation
 
-In [[ML_Tools]] see: Folder PCA
+In [[ML_Tools]] see:
+- [[PCA-Based Anomaly Detection]]
+- [[PCA_Analysis.ipynb]]
 
 ### Related terms
 
-[[PCA Explained Variance Ratio]]
-
-**Principal Components**:
-
-- The principal components (or the new axes that explain the most variance) are stored in `pca.components_` and displayed as a DataFrame for easier reading
+- [[PCA Explained Variance Ratio]]
+- [[PCA Principal Components]]

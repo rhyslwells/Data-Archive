@@ -13,7 +13,6 @@ Features:
 SQL-Based DBMS: [[Database Management System (DBMS)|DBMS]]
 
 
-
 ## SQL
  [[SQL]]
    **Tags**: #query_language, #database

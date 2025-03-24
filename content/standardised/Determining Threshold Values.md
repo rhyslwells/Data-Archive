@@ -1,4 +1,4 @@
-In [[binary classification]] problems, a threshold value is used to convert predicted probabilities into discrete class labels. The choice of threshold significantly impacts the model's performance, affecting [[Evaluation Metrics]].
+In [[Binary Classification]] problems, a threshold value is used to convert predicted probabilities into discrete class labels. The choice of threshold significantly impacts the model's performance, affecting [[Evaluation Metrics]].
 
 Important Considerations:
 * [[Imbalanced Datasets|Class Imbalance]]: If the classes are imbalanced, the choice of threshold can be significantly affected. Techniques like oversampling, undersampling, or using weighted loss functions can help mitigate the impact of class imbalance.

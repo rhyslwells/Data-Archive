@@ -32,7 +32,7 @@
 Classification Models
 
 - [[Classification]]
-- [[Binary classification]]
+- [[Binary Classification]]
 - [[Support Vector Machines]]
 - [[Decision Tree]]
 - [[Random Forests]]

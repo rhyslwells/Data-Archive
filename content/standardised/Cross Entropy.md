@@ -10,7 +10,7 @@ Cross entropy is a [[Loss function]] used in [[Classification]] tasks, particula
 
 Cross entropy works by measuring the (difference/loss) ==dissimilarity between two probability distributions==: the true distribution (actual class labels) and the predicted distribution (model's output probabilities). 
 
-**Fit of Predictions**:
+Fit of Predictions:
 - A low cross entropy loss means the predicted probabilities are close to the true labels (e.g., assigning high probability to the correct class).
 - A high loss indicates significant divergence, meaning the model's predictions are inaccurate or uncertain.
 
@@ -37,18 +37,17 @@ By minimizing cross entropy, the model learns to produce probability distributio
 
 Cross entropy is widely used in classification for several reasons:
 
-**Probabilistic Modeling**:
+Probabilistic Modeling:
     - It directly aligns with the goals of probabilistic classifiers, as it measures how well the predicted probability distribution matches the true distribution.
     
-**Focus on Confidence**:
+Focus on Confidence:
     - Encourages the model to assign higher probabilities to the correct classes, improving not just accuracy but also confidence in predictions.
 
-**Optimization Efficiency**:
+Optimization Efficiency:
     - Cross entropy is smooth and convex for logistic regression-like models, enabling efficient gradient-based optimization.
 
-**Multi-Class Support**:
+Multi-Class Support:
     - Works seamlessly in multi-class scenarios where the true labels are one-hot encoded and predictions are probability distributions.
-
 
 ### Implementation 
 

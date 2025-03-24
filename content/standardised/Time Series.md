@@ -20,4 +20,8 @@ With time series data, you can:
 - [[Time Series Identify Trends and Patterns]]
 - [[Anomaly Detection]]
 
-
+```python
+# We set the 'day' column as the index to facilitate time-series operations.
+df.set_index('day', inplace=True)
+print(df)
+```

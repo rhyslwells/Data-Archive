@@ -2,7 +2,7 @@
 aliases:
   - PR Curve
 ---
-A [[precision]]-[[recall]] curve is a graphical representation used to evaluate the performance of a [[binary classification]] model, particularly in scenarios where the classes are imbalanced. It plots [[precision]] (the positive predictive value) against [[recall]] (the true positive rate) for different threshold values.
+A [[precision]]-[[recall]] curve is a graphical representation used to evaluate the performance of a [[Binary Classification]] model, particularly in scenarios where the classes are imbalanced. It plots [[precision]] (the positive predictive value) against [[recall]] (the true positive rate) for different threshold values.
 
 Overall, precision-recall curves are a valuable tool for assessing the tradeoffs between precision and recall, helping to choose the optimal threshold for classification based on the specific requirements of the task.
 ### Resources
