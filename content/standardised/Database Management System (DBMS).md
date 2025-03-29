@@ -9,13 +9,16 @@ phase:
 topic: 
 filename:
 ---
-A **Database Management System** (DBMS) is software that allows you to interact with and manage databases. Popular DBMS platforms include:
+A **Database Management System** (DBMS) is software that allows you to interact with and manage databases.
+Easiest to use:
+- [[SQLite]]
+- [[PostgreSQL]]
+
+Others:
 - [[MySql]]
-- [[PostgresSQL]]
 - [[MongoDB]]
 - [[Oracle]]
-- [[SQLite]]
 
 These systems enable users to perform [[CRUD]] operations while maintaining data integrity and providing tools for backup, security, and optimization.
 
-Proprietary (paid, with support) or Open source (free, self-supported).
+Can be proprietary (paid, with support) or Open source (free, self-supported).

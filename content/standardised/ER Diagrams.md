@@ -2,30 +2,47 @@
 tags:
   - data_quality
   - database
+  - database_design
+  - data_visualization
 ---
-Visual representation of the database structure.
+ER Diagrams are a visual representation of the database structure.
 
-Shows tables, fields, primary keys, foreign keys, and ==relationships==.
+Related:
+- [[Why use ER diagrams]]
+- [[Mermaid]]
+#### Example
 
+Entities are tables in the database. Here, we have:
 
+- `Employee` table
+- `Department` table
 
-Make use of [[Mermaid]] ([[Mermaid]])
+Attributes (Columns)
+- Each entity has attributes (columns):
 
-- ![[Pasted image 20240523192220.png]]
+Relationship
+- ==Each Employee belongs to one Department==
+- Each Department has many Employees.
+- This is a One-to-Many (1:M) relationship.
 
-Cleaning a dataset before creating an [[ER Diagrams]] is crucial for ensuring accuracy and reliability in your database design.
+Mermaid ER Diagram
 
-1. [[Data Quality]]: Cleaning the dataset helps identify and rectify errors, inconsistencies, and missing values. This ensures that the data accurately represents the real-world entities and relationships you intend to model.
+```mermaid
+erDiagram
+  Employee {
+    INTEGER id PK
+    STRING name
+    INTEGER dept_id FK
+  }
+  Department {
+    INTEGER dept_id PK
+    STRING name
+  }
+  Employee }o--|| Department : "works_in"
+```
 
-2. [[Normalised Schema]]: Before creating an ER diagram, it's essential to normalize the data, which involves organizing it efficiently to reduce redundancy and dependency. Cleaning the dataset beforehand allows you to identify redundant information and eliminate it, leading to a more streamlined ER diagram.
+Explanation of the Arrows
 
-3. Entity Identification: Through data cleaning, you can properly identify the entities within your dataset. This involves determining which attributes belong to which entity, as well as identifying any composite or derived attributes. Proper entity identification is fundamental to creating an accurate ER diagram.
-
-4. Relationship Clarity: Cleaning the dataset helps clarify the relationships between entities. By ensuring that the data accurately reflects the relationships between different entities, you can create a more precise ER diagram that accurately represents the connections between various elements.
-
-5. Data Consistency: [[Data Cleansing]] ensures consistency across the dataset, which is essential for maintaining integrity in the ER diagram. Consistent data allows for clearer identification of relationships and attributes, leading to a more effective database design.
-
-
-
-[[ER Diagrams]]
-   **Tags**: #data_visualization, #database_design
+- `}o--||` → One-to-Many (1:M)
+- One Department (`||`) can have many Employees (`}o`).
+- Each Employee belongs to one Department.

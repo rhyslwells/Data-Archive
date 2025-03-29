@@ -2,6 +2,7 @@
 title: 
 tags:
   - database
+  - querying
 aliases:
   - CTE
 ---
@@ -60,9 +61,3 @@ WITH levels AS (
 SELECT *
 FROM levels;
 ```
-
-
-
-
-[[Common Table Expression]]
-   **Tags**: #querying, #database

@@ -1,75 +1,35 @@
 ---
+title: 
 tags:
-  - portal
+  - database
+  - data_storage
+  - database_management
 aliases: 
-category: 
-phase: 
-topic: 
-filename:
+category:
 ---
-## Databases
+Databases manage large data volumes with scalability, speed, and flexibility. Key systems include:
 
 - [[MySql]]
-- [[PostgresSQL]]
-- [[SQLite]]
-- [[Database]]
-- [[Database Management System (DBMS)]]
-- [[Database Schema]]
-- [[Database Index]]
-- [[Views]]
-- [[Soft Deletion]]
-- [[Relating Tables Together]]
-- [[Normalised Schema]]
-## SQL
+- [[PostgreSQL]]
 
-- [[SQL]]
-- [[SQL Window functions]]
-- [[SQL Groupby]]
-- [[Common Table Expression]]
-- [[Querying]]
-- [[Query Optimisation]]
 
-## Data Processing Techniques
+They facilitate efficient [CRUD.md](obsidian://open?vault=content&file=standardised%2FCRUD.md) operations and transactional processing ([OLTP.md](obsidian://open?vault=content&file=standardised%2FOLTP.md)), structured by a [Database Schema.md](obsidian://open?vault=content&file=standardised%2FDatabase%20Schema.md) that organizes data into tables and relationships.
 
-- [[ETL]]
-- [[ELT]]
-- [[Data Ingestion]]
-- [[Data Pipeline]]
-- [[Batch Processing]]
-- [[Data Streaming]]
+## Key Features
 
-## Data Modeling
+- **[[Structured Data]]**: Organized for efficient CRUD operations, allowing reliable access.
+- **Relational Databases**: Use SQL to manage data in tables with relationships expressed through foreign keys and joins, minimizing redundancy.
 
-- [[Data Modelling]]
-- [[Dimensional Modelling]]
-- [[Fact Table]]
-- [[Dimension Table]]
-- [[ER Diagrams]]
+Structure
+- Data is organized into tables (like spreadsheets) with columns (fields) and rows (records), enabling efficient storage and retrieval.
 
-## Data Management
+Flexibility
+- Databases have a flexible schema that adapts to evolving requirements, unlike static solutions like spreadsheets.
 
-- [[Data Management]]
-- [[Data Integrity]]
-- [[Single Source of Truth]]
-- [[Full Lifecycle Management]]
-- [[Data Quality]]
-
-## Data Engineering Tools
-
-- [[Data Engineering Tools]]
-
-## Big Data
-
-- [[Big Data]]
-
-## Event Driven Architecture
-
-- [[Event Driven]]
-- [[Publish and Subscribe]]
-
-## Miscellaneous
-
+Related Ideas:
 - [[Spreadsheets vs Databases]]
-- [[Scalability]]
-- [[Distributed Computing]]
-- [[Data Product]]
+- [[Database Management System (DBMS)]]
+- [[Components of the database]]
+- [[Relating Tables Together]]
+- [[Using SQLite to Process and Split Combined Data from Excel]]
+- [[Database Techniques]]

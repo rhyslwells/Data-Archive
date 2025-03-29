@@ -4,9 +4,9 @@ tags:
   - data_integrity
   - data_management
 ---
-**Soft deletion** is a technique used in databases to ==mark records as deleted without physically removing them from the database==. 
+Soft deletion is a technique used in databases to ==mark records as deleted without physically removing them from the database==. 
 
-This approach is particularly useful in scenarios where [[data integrity]] and synchronization are important, such as during **[[Incremental Synchronization]]**.
+This approach is particularly useful in scenarios where [[data integrity]] and synchronization are important, such as during [[Incremental Synchronization]].
 
 When using [[incremental synchronization]] modes, fully deleted records from a source system are not replicated. To handle this, a field can be added to each record to indicate whether it should be treated as deleted. This allows the system to maintain a complete history of records while still functioning as if certain records are removed.
 
@@ -14,28 +14,28 @@ When using [[incremental synchronization]] modes, fully deleted records from a s
 
 A common way to implement soft deletion is by adding a boolean flag, such as `is_deleted`, to the record [[Database Schema|schema]]. Here’s how it works:
 
-1. **Flagging Records**:
+1. Flagging Records:
    - When a record is "deleted," the `is_deleted` flag is set to `true`.
   
-2. **Querying Data**:
+1. Querying Data:
    - All [[Querying|queries]] must be designed to exclude records where `is_deleted` is `true`. For example:
      ```sql
-     SELECT * FROM table_name WHERE is_deleted = false;
+     SELECT  FROM table_name WHERE is_deleted = false;
      ```
 
-3. **Background Jobs**:
+1. Background Jobs:
    - Periodically, background jobs can be executed to permanently remove records marked as deleted, if necessary, or to archive them for future reference.
 
 ## Benefits
 
-- **Data Integrity**: Maintains a complete history of records, which can be useful for auditing and recovery.
-- **Ease of Recovery**: Records can be easily restored by simply resetting the `is_deleted` flag.
-- **Synchronization**: Facilitates incremental synchronization by ensuring that deleted records are still present in the database.
+- Data Integrity: Maintains a complete history of records, which can be useful for auditing and recovery.
+- Ease of Recovery: Records can be easily restored by simply resetting the `is_deleted` flag.
+- Synchronization: Facilitates incremental synchronization by ensuring that deleted records are still present in the database.
 
 ## Considerations
 
-- **Query Complexity**: Requires careful query design to ensure that deleted records are consistently excluded.
-- **Storage**: Over time, soft-deleted records can accumulate, potentially leading to increased storage requirements.
+- Query Complexity: Requires careful query design to ensure that deleted records are consistently excluded.
+- Storage: Over time, soft-deleted records can accumulate, potentially leading to increased storage requirements.
 
 ## Example of Soft Deletion
 
@@ -64,7 +64,7 @@ UPDATE users SET is_deleted = true WHERE user_id = 123;
 To retrieve a list of active users (those who are not deleted), we write our queries to exclude soft-deleted records:
 
 ```sql
-SELECT * FROM users WHERE is_deleted = false;
+SELECT  FROM users WHERE is_deleted = false;
 ```
 
 #### Step 4: Restoring a Soft Deleted User

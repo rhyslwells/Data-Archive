@@ -1,0 +1,1 @@
+Like an [[Database Index|Index]] but for partial indexes?
