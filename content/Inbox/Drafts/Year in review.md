@@ -1,25 +1,25 @@
-# Year in Review: A Year of Maintenance and Consolidation
+# Year in Review
 
-Late is better than never. In this post I want to reflect on my previous year. A year of frustrations but also ownership at redefinement of the pace I want to progress at.
+## A Year of Maintenance and Consolidation
 
-I have tried to framed it as **maintenance year** - a year of consolidation rather than major breakthroughs. It was about stabilizing, refining skills, and laying the groundwork for future progress.
+Late is better than never. In this post I want to reflect on my previous year. A year of frustrations but also ownership of the pace I want my career to progress at.
+
+I have tried to framed it as **maintenance year** - a year of consolidation of my career - refining skills, and laying the groundwork.
 ## Career and Job Search
 
 Intro:
-- The year began with **finishing my PhD**, a major milestone, but what followed was an uphill battle in the job market. Initially, I aimed for **data science roles** that blended research and industry application, similar to what other PhDs I knew had done. 
+- My 2024 began with **finishing my PhD**, a major milestone, but what followed was an uphill battle in the job market. Initially, I aimed for **data science roles** that blended research and industry application, similar to what other PhDs I knew had done. How naïve I was to think that the market in 2024 would be anything like that of 2022.
 
 Frustrations with the job market and interviews:
-- However, I quickly realized the market (in 2024) was saturated, and I lacked the industry experience to compete - mostly in simply years spent working in similar roles- to secure a job within a reasonable timeframe. 
-- The interview process itself proved frustrating. In one instance, I was asked about **random forests**, a topic I understood conceptually but hadn't recently worked with. Instead of assessing my ability to learn and apply knowledge, the focus was on rote memorization—an approach that feels counterproductive in a field driven by problem-solving.
-- Another frustration point is the requirement to invest excessive time in **memorizing LeetCode questions** and performing artificial interview rituals, with multiple round interviews.
-- I also found the **application process** exhausting—optimizing my CV to pass ATS bots, tailoring cover letters, and ensuring it contained enough **keywords for HR** while remaining concise. Looking back, I believe **job searching while already employed** might be the most effective strategy, as it reduces the stress of rejections. **Rejection** was tough to handle; at first, it felt like wasted time, but I reframed it as **their loss**, which made it easier to move on.
-- One key lesson was that **interviews are a form of marketing**. Companies expect candidates to craft a narrative, positioning themselves as exceptional, rather than simply demonstrating capability. While frustrating, recognizing this reality has helped me adjust my approach. I now realize that **soft skills are just as important as technical knowledge**. Extracting the wants of clients and ensuring that projects align with their needs is critical—no matter how technically advanced a project is, it won’t succeed if no one uses it.
-
-Giving in and taking a job that pays the bills:
-- So I began considering more accessible roles, with simpler interview processes.
+- I quickly realized the market (in 2024) was saturated with experienced people, and I lacked the industry experience to secure a job within such a market.
+- I also found the **application process** exhausting—optimizing my CV to pass ATS bots, tailoring cover letters, and ensuring it contained enough **keywords for HR** while remaining concise. 
+- The interview process itself proved frustrating. Another frustration point is the requirement to invest excessive time in **memorizing LeetCode questions** and performing artificial interview rituals, with multiple round interviews. Instead of assessing my ability to learn and apply knowledge, the focus was on rote memorization—an approach that feels counterproductive in a field driven by problem-solving.
+- One key lesson was that **interviews are a form of marketing**. Companies expect candidates to craft a narrative, to market themselves as exceptional, rather than demonstrating capability and competence.
+- The job hunt left me jaded and I opted to apply for more accessible roles, with simpler interview processes.
 
 Exploring options towards what I want to be doing:
-- Despite the challenges, I attended numerous **seminars and networking events**, particularly within the **Edinburgh tech scene**. While no career-changing opportunities emerged, these events broadened my understanding of industry trends and tools. I now realize that I need to **showcase my work more effectively** to make networking efforts more productive. The **community in Edinburgh** and how people discuss their projects—often focusing on the most hyped aspects—was particularly inspiring.
+- Despite the challenges, I attended numerous **seminars and networking events**, particularly within the **Edinburgh tech scene**. While no career-changing opportunities emerged, these events broadened my understanding of industry trends and tools. 
+- I now realize that I need to **showcase my work more effectively** to make networking efforts more productive. I aim to emulate how those within the **community in Edinburgh** market their projects—often focusing on the most hyped aspects.
 - Towards the end of the year, I explored potential opportunities with an internal**data science team**, but I didn’t have the time outside of my main role to pursue it fully.
 
 Conclusion:
@@ -29,9 +29,8 @@ Conclusion:
 This year, I started (and abandoned) **many projects**. These projects included:
 
 - Exploring **reinforcement learning** applications
-- Attempting to **model fluid flow in Python, between nodes**
-- An amateur **investing seminar**, which I put on hold when I wanted to discuss stock performance and analyze trends using code.
-- Developing a **structured approach to stakeholder suggestions**, particularly in Excel/Google Sheets, learning how to generate ideas and manage expectations effectively.
+- Attempting to **model fluid flow between nodes in Python**
+- An amateur **investing seminar** to discuss stock performance.
 
 I’ve come to accept that **not all projects need to be completed**. 
 ### Completed Work and Lessons Learned

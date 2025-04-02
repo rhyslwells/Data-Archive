@@ -9,7 +9,7 @@ The definition from the [Fundamentals of Data Engineering](https://www.oreilly.
 
 > Data engineering is the development, implementation, and maintenance of systems and processes that take in raw data and produce high-quality, consistent information that supports downstream use cases, such as analysis and machine learning. Data engineering intersects security, [[Data Management]], DataOps, data architecture, orchestration, and software engineering.
 
-A [[Data Engineer]] today oversees the whole data engineering process, from collecting data from various sources to making it available for downstream processes. The role requires familiarity with the multiple stages of the [Data Engineering Lifecycle](Full%20Lifecycle%20Management.md) and an aptitude for evaluating data tools for optimal performance across several dimensions, including price, speed, flexibility, scalability, simplicity, reusability, and interoperability.
+A [[Data Engineer]] today oversees the whole data engineering process, from collecting data from various sources to making it available for downstream processes. The role requires familiarity with the multiple stages of the [Data Engineering Lifecycle](Data%20Lifecycle%20Management.md) and an aptitude for evaluating data tools for optimal performance across several dimensions, including price, speed, flexibility, scalability, simplicity, reusability, and interoperability.
 
 Data Engineering helps also overcome the bottlenecks of [Business Intelligence](term/business%20intelligence.md):
 - More transparency as tools are open-source mostly

@@ -3,13 +3,14 @@ tags:
   - data_transformation
   - data_transformation
 ---
-# Using `stack` in Pandas
-
-The `stack` method in Pandas is a powerful tool for reshaping data, particularly when you need to pivot a DataFrame from a wide format to a long format. 
+Tool for reshaping data, particularly when you need to pivot a DataFrame from a wide format to a long format. 
 
 See:
 - [[Pandas_Common.py]]
-- [[Pandas_Stack.py]]
+- [[Pandas_Stack.py
+
+In [[DE_Tools]] see:
+- https://github.com/rhyslwells/DE_Tools/blob/main/Explorations/Transformation/reshaping.ipynb
 #### Why Use `stack`? ([[Data Transformation]])
 
 Data Reshaping:

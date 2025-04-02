@@ -10,7 +10,7 @@ This is the comprehensive process of managing data from its initial ingestion to
 
 Used for maintaining [[data integrity]], optimizing performance, and ensuring that data-driven decisions are based on accurate and timely information. 
 
-Not the same as the [[Software Development Life Cycle]]:
+Not the same as the [[Software Development Life Cycle]]
 
 Key Stages of Full Lifecycle Management
 
@@ -21,12 +21,4 @@ Key Stages of Full Lifecycle Management
 5. [[Data Visualisation]]
 6. [[Data Distribution]]
 
-
-Data engineers must evaluate and select tools and technologies based on several performance dimensions:
-
-[[Performance Dimensions]]
-
-
-
-[[Full Lifecycle Management]]
-   **Tags**: #data_management, #data_quality
+Data engineers must evaluate and select tools and technologies based on several [[Performance Dimensions]]

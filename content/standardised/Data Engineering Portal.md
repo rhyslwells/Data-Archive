@@ -31,5 +31,5 @@ Related Ideas:
 - [[Database Management System (DBMS)]]
 - [[Components of the database]]
 - [[Relating Tables Together]]
-- [[Using SQLite to Process and Split Combined Data from Excel]]
+- [[Turning a flat file into a database]]
 - [[Database Techniques]]

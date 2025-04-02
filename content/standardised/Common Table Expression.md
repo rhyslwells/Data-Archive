@@ -15,11 +15,13 @@ WITH cte_query AS
 (SELECT … subquery ...)
 SELECT main query ... FROM/JOIN with cte_query ...
 ```
+
+In [[DE_Tools]] see:
+- https://github.com/rhyslwells/DE_Tools/blob/main/ExplorationsSQLite/Utilities/Common_Table_Expression.ipynb
 ### Non-Recursive CTE
 
-The non-recursive are simple where CTE is used to ==avoid SQL duplication== by referencing a name instead of the actual SQL statement.
+The non-recursive are simple where CTE is used to ==avoid SQL duplication== by referencing a name instead of the actual SQL statement. See [[Views]] simplification usage.
 
-E.g.
 ```sql
 WITH avg_per_store AS
   (SELECT store, AVG(amount) AS average_order
@@ -33,7 +35,7 @@ ON o.store = avg.store;
 
 ### Recursive CTE
 
-Recursive CTEs use repeated procedural loops therefore the recursion. The recursive query calls itself until the query satisfied the condition. In a recursive CTE, we should provide a where condition to terminate the recursion.
+CTEs can be used in [[Recursive Algorithm]]. The recursive query calls itself until the query satisfied the condition. In a recursive CTE, we should provide a where condition to terminate the recursion.
 
 A recursive CTE is useful in querying hierarchical data such as organization charts where one employee reports to a manager or multi-level bill of materials when a product consists of many components, and each component itself also consists of many other components.
 

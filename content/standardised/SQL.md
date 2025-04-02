@@ -20,3 +20,7 @@ Capitalization:
 Quotes:
   - Use double quotes for SQL identifiers (table and column names).
   - Use single quotes for string values.
+
+### Related terms
+
+[[Database Techniques]]

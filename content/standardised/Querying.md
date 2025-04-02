@@ -22,6 +22,8 @@ SQL Commands and Examples
 - WHERE
 - NOT
 - LIKE
+- WITH
+- INSERT, UPDATE, or DELETE 
 
 You can have parameterised queries so that you can pass in variables to it:
 - https://github.com/rhyslwells/DE_Tools/blob/main/Explorations/SQLite/Querying/Parameterised_Queries.ipynb
