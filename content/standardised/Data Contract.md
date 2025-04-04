@@ -24,3 +24,9 @@ A document to codify what has been agreed.
 Q: How does the Data Contract allow for contextual rules? Example the same schema can support multiple products in our org but the DQ rules can be different for different Products
 A: Data contracts are particular business. Could use ==inheritance== of rules in data contracts - basic template. To get standardisation across products.
 
+[[Data Contract]]
+By establishing a [[data contract]] and building interfaces based on it, organizations can improve data quality. Implementing structured agreements and automated change management processes can help business users, who may not be data experts, produce higher-quality data ([[Data Quality]]).
+
+### Images
+
+![[Pasted image 20250312163351.png]]

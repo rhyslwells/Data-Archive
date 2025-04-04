@@ -1,7 +1,6 @@
 ---
 tags: 
-aliases:
-  - Data Quality
+aliases: []
 category: 
 phase: 
 topic: 

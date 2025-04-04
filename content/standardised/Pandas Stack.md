@@ -3,11 +3,11 @@ tags:
   - data_transformation
   - data_transformation
 ---
-Tool for reshaping data, particularly when you need to pivot a DataFrame from a wide format to a long format. 
+Tool for reshaping data, particularly when you need to pivot a DataFrame ([[Pandas Pivot Table]]) from a wide format to a long format. 
 
 See:
 - [[Pandas_Common.py]]
-- [[Pandas_Stack.py
+- [[Pandas_Stack.py]]
 
 In [[DE_Tools]] see:
 - https://github.com/rhyslwells/DE_Tools/blob/main/Explorations/Transformation/reshaping.ipynb
@@ -19,10 +19,10 @@ Data Reshaping:
 Handling Multi-Index DataFrames:
    - Simplifying Structure: Move the inner level of a column MultiIndex to the row index, simplifying the DataFrame's structure.
 
-Data Cleaning:
+[[Data Cleansing]]:
    - Aggregation and Operations: Facilitate data cleaning by allowing aggregation or operations across columns in a more manageable long format.
 
-Preparing Data for Grouping or Aggregation:
+Preparing Data for Grouping or Aggregation ([[Groupby]]):
    - Ease of Grouping: Simplify group-by operations and aggregations on data with columns representing different categories or time periods.
 #### Example of Using `stack`
 
@@ -71,7 +71,7 @@ dtype: int64
 
 In this example:
 - The original DataFrame has three columns ('A', 'B', 'C') and three rows.
-- After stacking, the DataFrame is transformed into a Series with a MultiIndex. The outer level of the index corresponds to the original DataFrame’s row index, and the inner level corresponds to the original column labels.
+- After stacking, the DataFrame is transformed into a Series with a MultiIndex/[[Multi-index Columns]]. The outer level of the index corresponds to the original DataFrame’s row index, and the inner level corresponds to the original column labels.
 
 #### When Not to Use `stack`
 

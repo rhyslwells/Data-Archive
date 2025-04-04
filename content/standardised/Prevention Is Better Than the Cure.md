@@ -1,48 +1,32 @@
-Leader have aspiration however due to bad quality data not feasible.
+To ensure data products are effective essential to prioritize prevention over remediation of [[Data Quality]]
+### Prevention
+Preventing data quality issues is the most effective strategy. This involves identifying and addressing potential problems at the source, ensuring that data is accurately entered from the beginning.
 
-Prevention: Caught at the source
-Remediation: Observability, alerting, Complex ETL, erosion of trust
-Failure: failure on opportunity cost, unable to meet business goals
+### Remediation
+When data quality issues do arise, organizations should implement remediation strategies, including:
+- **[[Data Observability]] Tools**: Monitor data quality continuously to detect issues early.
+- **Alerting Systems**: Notify stakeholders when data quality problems are identified.
+- **Complex ETL Processes**: Manage data effectively to minimize errors.
+- **Trust Building**: Address the erosion of trust that can result from poor data quality.
 
-the sooner we handle it the cheaper and easier it is 
+### Consequences of Poor Data Quality
+Failing to address data quality issues can lead to significant opportunity costs and hinder the ability to meet business goals. The sooner these issues are resolved, the cheaper and easier it is to manage them.
 
-Example: Software engineer: unit tests, wan to prevent bugs in production, observaility tools do help 
+### Motivating and Maintaining Data-Driven Value
 
-![[Pasted image 20250312161721.png|500]]
+To foster a culture of data quality, it is essential to motivate data producers by demonstrating the value of high-quality data. 
 
-### Upstream breaking schema changes
+Effective [[Change Management]] is vital for maintaining data quality. This includes: Clear Communication to ensure all stakeholders are informed about data quality standards.
 
-Root cause analysis: [[Documentation]]
-- 5 Y's
-- Fishbone diagram: start at issue at head
-- ![[Pasted image 20250312162034.png]]
-- People and ownership: Who is entering the data: the source data
+### Addressing Data Quality Issues
 
-Why should product people (people producing the data) take on responsibility of the data quality? Do they understand how it is being used and how it generates value.
+To effectively handle data quality issues, organizations should focus on:
+1. **Detecting**: Identify issues as they arise through user reports, failed tests, or monitoring alerts.
+2. **Understanding**: Analyze the root causes of data quality problems.
+3. **Fixing**: Implement solutions to correct identified issues.
+4. **Reducing**: Minimize the occurrence of future data quality problems.
 
-Data driven value - need to motivate it. 
-
-Change management 
-- Communication, knowledge
-
-
-[[Data Contract]]
-
-[[Change management]] - git repo
-
-Build the interface from the data contract. 
-
-![[Pasted image 20250312163351.png]]
-
-
-![[Pasted image 20250312163618.png|800]]
-
-Questions:
-
-Q: If the data producers are not data teams, but business users. For example dumping data in google sheet or excel. With issues in naming conventions. Any suggestions for these type of data producers?
-A: How to apply same patterns. Agreement on structure. Alerting and automating the change management. 
-
-[[Data Observability]]
-
-
+### Questions for Consideration
+**Q:** What if data producers are not part of the data team but are business users (e.g., entering data into Google Sheets or Excel) with naming convention issues?  
+**A:** Encourage these users to apply the same data quality patterns by establishing agreements on data structure and implementing alerting and automated change management processes.
 

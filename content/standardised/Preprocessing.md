@@ -20,15 +20,16 @@ category:
 
 Data Preprocessing refers to the overall process of cleaning and transforming raw data into a format that is suitable for analysis and modelling. This includes a variety of tasks, such as:
 
-[[Data Collection]]
+Useful:
+- [[Data Cleansing]]
+- [[Data Transformation]]
 
-[[EDA]]
+Others:
+- [[Data Collection]]
+- [[Data Reduction]]
 
-[[Data Cleansing]]
-
-[[Data Reduction]]
-
-[[Data Transformation]]
+End goal:
+- [[EDA]]
 
 ### Feature Preprocessing
 

@@ -7,6 +7,8 @@ phase:
 topic: 
 filename:
 ---
+Standardizing data distributions for consistency. 
+
 In ML:
 - [[Z-Normalisation]]
 - [[Standardisation]]

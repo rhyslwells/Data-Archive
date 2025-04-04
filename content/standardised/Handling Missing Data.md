@@ -1,6 +1,6 @@
 Missing data can provide insights into the data collection process. It's important to determine whether the missing data is randomly distributed or specific to certain features. Filling in data is a type of [[Data Transformation]].
 
-In [[ML_Tools]] see: 
+In [[DE_Tools]]see: 
 - [[Handling_Missing_Data_Basic.ipynb]]
 - [[Handling_Missing_Data.ipynb]]
 

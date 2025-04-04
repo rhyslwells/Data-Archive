@@ -23,11 +23,13 @@ The process typically includes:
 
 3. **Training and Support**: Providing the necessary training and resources to help employees adapt to the change.
 
-4. **Implementation**: Executing the change plan while managing any resistance or challenges that arise.
+4. **Knowledge Sharing**: Provide training and resources to help teams understand best practices for data quality.
 
-5. **Monitoring and Evaluation**: Assessing the effectiveness of the change and making adjustments as needed to ensure successful adoption.
+5. **Implementation**: Executing the change plan while managing any resistance or challenges that arise.
 
-6. **Sustainability**: Ensuring that the change is maintained over time and becomes integrated into the organization's culture and operations.
+6. **Monitoring and Evaluation**: Assessing the effectiveness of the change and making adjustments as needed to ensure successful adoption.
+
+7. **Sustainability**: Ensuring that the change is maintained over time and becomes integrated into the organization's culture and operations.
 
 Why change fails:
 - Change is hard, identify the pain points.  
