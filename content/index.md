@@ -20,77 +20,80 @@ graph LR;
 ## Navigation
 
 Here are some starting tags. For other navigation notes see #portal 
-
 ### [[DS & ML Portal]]
 
 **Focus**: specific types of models and learning approaches
 
-| #classifier #regressor #clustering<br>#deep_learning #anomaly_detection |
+| Tags                                                                    |
 | ----------------------------------------------------------------------- |
-
+| #classifier #regressor #clustering<br>#deep_learning #anomaly_detection |
 
 **Focus**: modeling techniques, ML lifecycle, explainability
 
-| #ml_process  #ml_optimisation #model_explainability<br>#evaluation |
-| ------------------------------------------------------------------ |
+| Tags                                                              |
+| ----------------------------------------------------------------- |
+| #ml_process #ml_optimisation #model_explainability<br>#evaluation |
 
+**Focus**: ML model structure, algorithms, and architecture
 
-**Focus**: ML model structure, algorithms, and architecture 
-
-| #model_algorithm #model_architecture |
-| ------------------------------------ |
-
+|Tags|
+|---|
+|#model_algorithm #model_architecture|
 ### [[Data Engineering Portal]]
 
 **Focus**: working with data in motion — cleaning, transforming, and processing
 
-| #data_cleaning #data_transformation #data_processing<br>#data_engineering |
+| Tags                                                                      |
 | ------------------------------------------------------------------------- |
+| #data_cleaning #data_transformation #data_processing<br>#data_engineering |
 
 **Focus**: managing, securing, and validating data across systems
 
-| #data_governance #data_management #data_quality |
-| ----------------------------------------------- |
-
+|Tags|
+|---|
+|#data_governance #data_management #data_quality|
 
 **Focus**: designing and optimizing data systems and databases
 
-| #database #database_design #relational_database<br>#database_optimisation #data_storage #data_modeling |
+| Tags                                                                                                   |
 | ------------------------------------------------------------------------------------------------------ |
+| #database #database_design #relational_database<br>#database_optimisation #data_storage #data_modeling |
 
-**Focus**: orchestration, architecture, streaming, and event-driven systems 
+**Focus**: orchestration, architecture, streaming, and event-driven systems
 
-| #event_driven #data_orchestration #data_streaming<br>#data_workflow #cloud_computing #relational_database<br>#querying #big_data |
+| Tags                                                                                                                             |
 | -------------------------------------------------------------------------------------------------------------------------------- |
-
+| #event_driven #data_orchestration #data_streaming<br>#data_workflow #cloud_computing #relational_database<br>#querying #big_data |
 ### [[Data Analysis Portal]]
 
-**Focus**: Data communication, analysis
+**Focus**: data communication, exploration, and business intelligence
 
-| #data_exploration #communication #data_visualization<br>#business_intelligence |
+| Tags                                                                           |
 | ------------------------------------------------------------------------------ |
-
+| #data_exploration #communication #data_visualization<br>#business_intelligence |
 ### [[Software Development Portal]]
 
-**Focus**: Software development, tools
+**Focus**: software development, tools, and system design
 
-| #software  #data_orchestration #software <br>#business #code_snippet #software_architecture |
-| ------------------------------------------------------------------------------------------- |
-
+| Tags                                                                            |
+| ------------------------------------------------------------------------------- |
+| #software #data_orchestration #software<br>#code_snippet #software_architecture |
 ### Others
 
-**Focus**: Computational tags
+**Focus**: computational tags
 
-| #statistics #math |
-| ----------------- |
+|Tags|
+|---|
+|#statistics #math|
 
-**Focus**: GenAI, LLMs, NL
+**Focus**: GenAI, LLMs, NLP
 
-| #GenAI #language_models #NLP |
-| ---------------------------- |
+|Tags|
+|---|
+|#GenAI #language_models #NLP|
 
 **Focus**: notes about notes, questions, career & domains
 
-| #career #field #question #drafting <br>#business <br> |
-| ----------------------------------------------------- |
-
+|Tags|
+|---|
+|#career #field #question #drafting#business|
