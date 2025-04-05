@@ -1,7 +1,6 @@
 ---
 tags:
   - statistics
-  - anomaly_detection
   - data_cleaning
 aliases:
   - anomalies

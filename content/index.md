@@ -12,32 +12,68 @@ graph LR;
     style Data_Archive fontSize:16px,fontWeight:bold;
     style DE_Tools fontSize:14px;
     style ML_Tools fontSize:14px;
-    style Paper_Dashboarding fontSize:14px;
 
     Data_Archive --> DE_Tools;
     DE_Tools --> ML_Tools;
-    ML_Tools --> Paper_Dashboarding;
 ```
 
 ## Navigation
 
 Here are some starting tags. For other navigation notes see #portal 
 
-| [[DS & ML Portal]]                                                                                                                                                                       |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <br>#classifier #regressor #evaluation #clustering<br> #deep_learning #anomaly_detection #model_architecture<br> #model_algorithm #ml_process #ml_optimisation<br> #model_explainability |
+### [[DS & ML Portal]]
 
-| [[Data Engineering Portal]]                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #database #data_storage  #data_modeling<br>#data_cleaning #data_exploration  #data_transformation <br>#data_processing #database_optimisation #data_engineering <br>#data_quality #data_governance #data_management <br>#field #communication #big_data #event_driven <br>#data_visualization #business_intelligence #cloud_computing<br>#data_streaming #database_design #data_workflow<br>#data_collection #querying  #relational_database <br> |
+**Focus**: specific types of models and learning approaches
+#classifier #regressor #clustering
+#deep_learning #anomaly_detection
 
-| [[Software Development Portal]]                                                                 |
-| ----------------------------------------------------------------------------------------------- |
-| #software  #data_orchestration #software <br>#business #code_snippet #software_architecture<br> |
+**Focus**: modeling techniques, ML lifecycle, explainability
+#ml_process  #ml_optimisation #model_explainability
+#evaluation
 
-| Misc<br>                     |
-| ---------------------------- |
-| #career #energy              |
-| #GenAI #language_models #NLP |
-| #drafting #question          |
-| #statistics #math            |
+**Focus**: ML model structure, algorithms, and architecture 
+#model_algorithm #model_architecture
+
+### [[Data Engineering Portal]]
+
+**Focus**: working with data in motion — cleaning, transforming, and processing
+#data_cleaning #data_transformation #data_processing
+#data_engineering
+
+**Focus**: managing, securing, and validating data across systems
+#data_governance #data_management #data_quality
+
+**Focus**: designing and optimizing data systems and databases
+#database #database_design #relational_database
+#database_optimisation #data_storage #data_modeling
+
+**Focus**: orchestration, architecture, streaming, and event-driven systems 
+#event_driven #data_orchestration #data_streaming
+#data_workflow #cloud_computing #relational_database
+#querying #communication #big_data
+
+### [[Data Analysis Portal]]
+
+**Focus**: Data communication, analysis
+#data_exploration #communication #data_visualization
+#business_intelligence
+
+### [[Software Development Portal]]
+
+**Focus**: Software development, tools
+#software  #data_orchestration #software 
+#business #code_snippet #software_architecture
+
+
+### Others
+
+**Focus**: Computational tags
+#statistics #math
+
+**Focus**: GenAI, LLMs, NLP
+#GenAI #language_models #NLP
+
+**Focus**: notes about notes, questions, career & domains
+
+#career #field #question #drafting 
+#business 

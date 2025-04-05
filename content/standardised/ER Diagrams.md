@@ -1,6 +1,5 @@
 ---
 tags:
-  - data_quality
   - database
   - database_design
   - data_visualization
