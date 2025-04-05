@@ -6,8 +6,6 @@ tags:
 aliases: 
 category:
 ---
-Logistic [[Regression]] is a machine learning algorithm used for [[Binary Classification]]tasks, where the goal is to predict one of two possible outcomes (e.g., "Yes" or "No").
-
 ==Logistic regression models the log-odds of the probability as a linear function of the input features.==
 
 It models the probability of an input belonging to a particular class using a logistic (sigmoid) function.
@@ -16,7 +14,7 @@ The model establishes a decision boundary (threshold) in the feature space and l
 
 Logistic regression is best suited for cases where the decision boundary is approximately linear in the feature space.
 
-Although logistic regression naturally outputs odds, these can be transformed into probabilities using the sigmoid function.
+Logistic [[Regression]]  can be used for [[Binary Classification]]tasks, where the goal is to predict one of two possible outcomes (e.g., "Yes" or "No").
 
 ### Related Notes:
 
@@ -31,7 +29,7 @@ In [[ML_Tools]], see:
 
 ### Logistic Function (Sigmoid Function)
 
-Logistic regression models the probability that an input belongs to a particular class using the logistic (sigmoid) function}. This function maps any real-valued input into the range (0,1), representing the probability of belonging to the positive class (usually class 1).
+Logistic regression models the probability that an input belongs to a particular class using the logistic (sigmoid) function. This function maps any real-valued input into the range (0,1), representing the probability of belonging to the positive class (usually class 1).
 
 The sigmoid function is defined as:  
 $$ \sigma(z) = \frac{1}{1 + e^{-z}} $$  
@@ -49,7 +47,7 @@ $$ \log \left(\frac{P(y=1 \mid \mathbf{x})}{1 - P(y=1 \mid \mathbf{x})} \right) 
 
 This equation shows that ==logistic regression models the log-odds of the probability as a linear function of the input features.==
 
-Additionally, the log loss function} (used to optimize logistic regression) is defined as:
+Additionally, the log loss function (used to optimize logistic regression) is defined as:
 
 $$ \mathcal{L} = - \frac{1}{N} \sum_{i=1}^{N} \left[ y_i \log P(y_i) + (1 - y_i) \log (1 - P(y_i)) \right] $$
 
@@ -87,7 +85,6 @@ Logistic regression can be extended to handle non-linear decision boundaries thr
 - Gradient computation in logistic regression
 - Regularized logistic regression
 - Cost function for regularized logistic regression
-
 ### Resources
 
 [Explaining logistic regression](https://www.youtube.com/watch?v=Iju8l2qgaJU)
