@@ -19,7 +19,7 @@ File types:
 
 Practices:
 - [[Testing]]
-- [[Documentation]]
+- [[Documentation & Meetings]]
 
 Related to:
 - [[DevOps]]

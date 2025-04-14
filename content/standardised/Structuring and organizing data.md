@@ -5,4 +5,4 @@ In [[DE_Tools]] see:
 	- https://github.com/rhyslwells/DE_Tools/blob/main/Explorations/Transformation/reshaping.ipynb
 
 Related terms:
-- [[Multi-index Columns]]
+- [[Multi-level index]]

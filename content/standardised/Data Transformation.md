@@ -11,7 +11,7 @@ Data transformation may involve:
 - [[Structuring and organizing data]]
 - [[Aggregation]]
 - [[Data Selection]]
-- [[Joining Dataframes]]
+- [[Joining Datasets]]
 - [[Normalisation of data]]
 - [[Normalised Schema]]
 

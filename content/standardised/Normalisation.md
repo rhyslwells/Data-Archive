@@ -24,6 +24,12 @@ In [[NLP]]:
 - [[Normalisation of Text]]
 
 
-
-
+```python
+# --- 15. GroupBy with Transformation (Using transform to align with original dataframe)
+df['Value_transformed'] = df.groupby('Category')['Value'].transform(lambda x: x - x.mean())
+# get the mean value for each category
+print(df.groupby('Category')['Value'].mean())
+print("\nTransformed Values with mean subtracted (transform()):")
+print(df.sort_values('Category'))
+```
 

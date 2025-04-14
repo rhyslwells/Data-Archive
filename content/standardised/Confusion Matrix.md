@@ -5,9 +5,7 @@ tags:
 aliases: 
 category:
 ---
-## Description
-
-- A Confusion Matrix is a table used to evaluate the performance of a [[Classification]] model. It provides a detailed breakdown of the model's predictions across different classes, showing the number of true positives, true negatives, false positives, and false negatives.
+A Confusion Matrix is a table used to evaluate the performance of a [[Classification]] model. It provides a detailed breakdown of the model's predictions across different classes, showing the number of true positives, true negatives, false positives, and false negatives.
 ## Purpose
 
 - The confusion matrix helps identify where the classifier is making errors, indicating where it is "confused" in its predictions.

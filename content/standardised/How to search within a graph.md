@@ -1,7 +1,6 @@
-[[How to search within a graph]]
 ### Vector Search with Graph Context
 
-[[standardised/Vector Embedding]] plays a crucial role in enhancing search capabilities:
+[[Vector Embedding]] plays a crucial role in enhancing search capabilities:
 
 **Comparison of Vector-Only vs. Graph-RAG**: 
   - Vector-only searches may lack context, while Graph-RAG utilizes graph traversal to provide richer, multi-step context.
@@ -10,10 +9,7 @@
 **Contextual Prompts**: 
   - Context is used to answer prompts (in JSON format). With graph traversal, this context involves more steps, allowing for more elaborate retrieval queries.
 
-
 [[Text2Cypher]]
-
-
 
 [[How to search within a graph]]
 #### Node Embedding

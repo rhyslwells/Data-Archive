@@ -22,7 +22,7 @@ A [[Knowledge Graph]] and a **Retrieval-Augmented Generation ([[RAG]])** setup a
 | **Purpose**                 | Stores and organizes knowledge for querying and reasoning                               | Combines retrieval of external information with ==text generation==                   |
 | **Data Structure**          | ==Highly structured== (graph with nodes and edges)                                      | Unstructured or semi-structured (documents, text snippets)                            |
 | **Retrieval Mechanism**     | Queries are made through graph traversal or SPARQL-like languages                       | Information is retrieved via search mechanisms (e.g., dense embeddings)               |
-| **Usage**                   | Often used for querying factual data, answering structured queries, [[semantic search]] | Used to enhance the factual accuracy of generative models by retrieving external data |
+| **Usage**                   | Often used for querying factual data, answering structured queries, [[Semantic Relationships]] | Used to enhance the factual accuracy of generative models by retrieving external data |
 | **Reasoning and Inference** | Capable of logical reasoning based on relationships                                     | Does not perform reasoning; it retrieves and integrates relevant text                 |
 | **Scalability**             | Requires careful design to manage large, complex graphs                                 | Can handle large text corpora, but retrieval quality affects the final generation     |
 | **Generative Capabilities** | Not generative (focused on querying existing knowledge)                                 | [[Generative]] (synthesizes and generates natural language responses)                 |

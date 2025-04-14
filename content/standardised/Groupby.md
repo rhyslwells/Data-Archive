@@ -8,6 +8,9 @@ Groupby is a versatile method in pandas used to group data based on one or more 
 
 Related:
 - [[Groupby vs Crosstab]]
+
+In [[DE_Tools]] see:
+- https://github.com/rhyslwells/DE_Tools/blob/main/Explorations/Investigating/Transformation/group_by.ipynb
 ### Implementation
 ```python
 # Sample DataFrame

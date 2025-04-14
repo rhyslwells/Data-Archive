@@ -1,68 +1,131 @@
 ---
 tags:
   - NLP
+  - preprocessing
+  - code_snippet
+aliases:
+  - TFIDF
+category: LANG
 ---
+TF-IDF is a statistical technique used in text analysis to determine the importance of a word in a document relative to a collection of documents (corpus). It balances two ideas:
 
+- Term Frequency (TF): Captures how often a term occurs in a document.
+- Inverse Document Frequency (IDF): Discounts terms that appear in many documents.
 
-Short term frequency inverse document frequency 
+High TF-IDF scores indicate terms that are frequent in a document but rare in the corpus, making them useful for distinguishing between documents in tasks such as information retrieval, document classification, and recommendation.
 
-Improves on [[Bag of words]]
+TF-IDF combines local and global term [[Statistics]]:
+- TF gives high scores to frequent terms in a document
+- IDF reduces the weight of common terms across documents
+- TF-IDF identifies terms that are both frequent and distinctive
 
-Reflects how important each word is to a document in a corpus. which takes into account both the frequency of a term in a document and the rarity of the term in the entire corpus
+### Equations
 
-High values mean more important
+#### Term Frequency
 
+$TF(t, d)$ measures how often a term $t$ appears in a document $d$, normalized by the total number of terms in $d$:
 
+$$
+TF(t, d) = \frac{f_{t,d}}{\sum_k f_{k,d}}
+$$
 
-**TF-IDF** equation:
-- term frequency
-$tf_{i,j} = \frac{n_{i,j}}{\sum_k n_{k,j}}$
-- inverse document frequency
-$idf(w) = \mbox{log} \frac{N}{df_i}$
-- term frequency–inverse document frequency
-$w_{i,j} = tf_{i,j} \times \mbox{log}\frac{N}{df_i}$
-where:
-- $i$ - index of term
-- $j$ - index of document
-- $k$ - number of terms in document
-- $N$ - corpus length (number of documents)
-- $df_i$ - number of documents containing term i
+Where:
+- $f_{t,d}$ is the raw count of term $t$ in document $d$  
+- $\sum_k f_{k,d}$ is the total number of terms in $d$ (i.e. the document length)
 
-## Implementation
+#### Inverse Document Frequency
+
+IDF assigns lower weights to frequent terms:
+
+$$
+IDF(t, D) = \log \left( \frac{N}{1 + |\{d \in D : t \in d\}|} \right)
+$$
+
+Where:
+- $N$ is the number of documents in the corpus $D$  
+- $|\{d \in D : t \in d\}|$ is the number of documents containing term $t$  
+- Adding 1 to the denominator avoids division by zero
+
+#### TF-IDF Score
+
+The final score is:
+
+$$
+TF\text{-}IDF(t, d, D) = TF(t, d) \times IDF(t, D)
+$$
+
+### Related Notes
+
+- [[Bag of words]]
+- [[Tokenisation]]
+- [[Clustering]]
+- [[Search]]
+- [[Recommender systems]]
+- [[nltk]]
+
+### Exploratory Ideas
+- Can track TF-IDF over time (e.g., note evolution)
+- Can cluster or classify the documents using TF-IDF?
+## Implementations 
+
+### Python Script (scikit-learn version)
 
 ```python
-from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
+
+# Step 1: Tokenize and vectorize using Bag of Words
 bow = CountVectorizer(tokenizer=normalize_document)
-bow.fit(corpus)
-corpus_vectorized = bow.transform(corpus)
+X_counts = bow.fit_transform(corpus)
 
-from sklearn.feature_extraction.text import TfidfTransformer
-tf_idf_transformer = TfidfTransformer()
-tf_idf_transformer.fit(corpus_vectorized)
+# Step 2: Apply TF-IDF transformation
+tfidf_transformer = TfidfTransformer()
+X_tfidf = tfidf_transformer.fit_transform(X_counts)
 
-#frequencies per token.
-#for term, freq in zip(bow.get_feature_names_out(), #tf_idf_transformer.idf_):
-#    print(term.rjust(10), " : ", freq)
-    
-#can do per document in corpus
-tfidf_docs = tf_idf_transformer.transform(corpus_vectorized)
-
+# Optional: View TF-IDF scores per document
 for doc_id in range(len(corpus)):
-    print("Document id.{}: {}".format(doc_id, corpus[doc_id]))
-    print("Tokens: {}".format(normalize_document(corpus[doc_id])))
-    print("\n -- TF IDF Values for words in dictionary:")
-    
-    # Filter out terms with TF-IDF frequency of 0
-    non_zero_terms = [(term, freq) for term, freq in zip(bow.get_feature_names_out(), tfidf_docs[doc_id].T.toarray()) if freq != 0]
-
-    for term, freq in non_zero_terms:
-        print(term.rjust(10), " : ", freq)
-    
-    print("\n ------------------")
-
-
+    print(f"Document {doc_id}: {corpus[doc_id]}")
+    print("TF-IDF values:")
+    tfidf_vector = X_tfidf[doc_id].T.toarray()
+    for term, score in zip(bow.get_feature_names_out(), tfidf_vector):
+        if score > 0:
+            print(f"{term.rjust(10)} : {score[0]:.4f}")
 ```
 
-## Why are we interested in this method?
+### Python Script (custom TF-IDF implementation)
 
-TF-IDF helps in capturing the uniqueness of terms within each document, which can be useful in tasks like document clustering [[Clustering]], information retrieval[[Search]], and content recommendation.[[Recommender systems]]
+```python
+import math
+from nltk.corpus import stopwords
+from nltk.tokenize import RegexpTokenizer
+from nltk.util import bigrams, trigrams
+
+stop_words = stopwords.words('english')
+tokenizer = RegexpTokenizer(r'\w+')
+
+def tokenize(text):
+    tokens = tokenizer.tokenize(text.lower())
+    tokens = [t for t in tokens if len(t) > 2 and t not in stop_words]
+    return tokens + [' '.join(b) for b in bigrams(tokens)] + [' '.join(t) for t in trigrams(tokens)]
+
+def tf(term, doc_tokens):
+    return doc_tokens.count(term) / len(doc_tokens)
+
+def idf(term, docs_tokens):
+    doc_count = sum(1 for doc in docs_tokens if term in doc)
+    return math.log(len(docs_tokens) / (1 + doc_count))
+
+def compute_tfidf(docs):
+    docs_tokens = [tokenize(doc) for doc in docs]
+    all_terms = set(term for doc in docs_tokens for term in doc)
+    tfidf_scores = []
+    for tokens in docs_tokens:
+        tfidf = {}
+        for term in all_terms:
+            if term in tokens:
+                tfidf[term] = tf(term, tokens) * idf(term, docs_tokens)
+        tfidf_scores.append(tfidf)
+    return tfidf_scores
+```
+
+
+

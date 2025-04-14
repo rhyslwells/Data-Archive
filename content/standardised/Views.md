@@ -2,7 +2,7 @@
 tags:
   - database
 ---
-Views are virtual tables defined by SQL [[queries]] that ==simplify complex data representation.== They can remove unnecessary columns, aggregate results, partition data, and secure sensitive information.
+Views are virtual tables defined by SQL [[Querying|Query]] that ==simplify complex data representation.== They can remove unnecessary columns, aggregate results, partition data, and secure sensitive information.
 
 
 In [[DE_Tools]] see:

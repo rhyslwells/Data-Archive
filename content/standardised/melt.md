@@ -23,7 +23,7 @@ In [[DE_Tools]] see:
    - Compatibility with Plotting Libraries: Many plotting libraries like `seaborn` and `ggplot` require data in a long format for creating certain types of plots, such as [[Grouped plots]].
 
 1. Simplifying Complex Data Structures:
-   - Handling [[Multi-index Columns]]: If a DataFrame has multiple levels of columns, `melt` can help flatten this structure, making it easier to work with.
+   - Handling [[Multi-level index]]: If a DataFrame has multiple levels of columns, `melt` can help flatten this structure, making it easier to work with.
    
 3. Preparation for Aggregation:
    - Facilitating [[Groupby]] Operations: Long-format data is often more suitable for these.

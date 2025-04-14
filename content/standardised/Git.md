@@ -1,3 +1,7 @@
+---
+tags:
+  - software
+---
 
 tags:
   - software
@@ -30,6 +34,23 @@ https://www.youtube.com/watch?v=xnR0dlOqNVE
 Git can be frustrating, especially when things go wrong. This guide provides practical solutions to common Git mistakes, explained in simple terms.
 
 https://ohshitgit.com/
+
+### how to remove something from a git history, if i forgot to add it to the gitignore, but now have
+
+2. Remove the file from the Git index
+This tells Git to stop tracking the file.
+
+git rm --cached path/to/file
+For a folder:
+git rm -r --cached path/to/folder
+
+3. Commit this change
+This saves the removal from the index.
+
+bash
+Copy code
+git commit -m "Stop tracking path/to/file and add to .gitignore"
+
 
 ## 🔄 Undoing Mistakes
 

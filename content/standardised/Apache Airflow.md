@@ -5,7 +5,6 @@ tags:
   - data_orchestration
 title: What is Apache Airflow?
 ---
-
 Schedular think CROM jobs with python.
 
 Apache Nifi may be better.

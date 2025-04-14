@@ -26,7 +26,7 @@ Data Sources: Internal (e.g., ERP systems) and external (e.g., market research d
 
 [[Data Storage]]
 
-Metadata/[[Documentation]]: Information about the data, including definitions and transformation rules, aiding in data management.
+Metadata/[[Documentation & Meetings]]: Information about the data, including definitions and transformation rules, aiding in data management.
 
 Access Tools: Tools for querying and analyzing data, such as SQL clients and business intelligence tools.
 

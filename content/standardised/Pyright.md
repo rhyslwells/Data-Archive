@@ -8,7 +8,7 @@ It utilizes type hints to identify potential errors, such as type mismatches, be
 
 Pyright significantly reduces runtime errors by enforcing type constraints at compile-time.
 
-The use of type hints in Pyright improves code readability and maintainability, serving as [[documentation]] for function signatures.
+The use of type hints in Pyright improves code readability and maintainability, serving as [[Documentation & Meetings]] for function signatures.
 
 ### Related Topics
 

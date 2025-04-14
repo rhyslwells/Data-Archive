@@ -20,3 +20,12 @@ Main Features:
 Ideal Use Case:
     - If you need to manage dependencies for a Python project, create virtual environments, and ensure reproducibility (using `poetry.lock`).
     - If you're developing a Python package that you want to distribute or manage versions for, Poetry is a great choice.
+
+Use:
+
+```cmd
+pip install poetry
+poetry init
+poetry add numpy
+```
+

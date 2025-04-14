@@ -16,4 +16,7 @@ pip freeze > requirements.txt
 .gitignore 
 https://www.youtube.com/watch?v=_vejzukmn4s
 
-Remember to set python interpreter o
+Remember to set python interpreter
+
+Related terms:
+- [[Poetry]]

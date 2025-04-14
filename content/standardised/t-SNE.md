@@ -64,6 +64,4 @@ plt.show()
 ```
 
 
-[[t-SNE]]
-
 ![[Pasted image 20241015211844.png]]

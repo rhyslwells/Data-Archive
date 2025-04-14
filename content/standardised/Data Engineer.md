@@ -40,5 +40,5 @@ Tasks They Are Usually Given
   - Project Management: Tracking tasks, bugs, and progress through Azure Boards.
   - Collaboration: Facilitating teamwork with shared repositories and [[continuous integration]] workflows.
   - Continuous Learning: Keeping up-to-date with the latest technologies and updating pipelines due to obsolescence of tech
-  - [[Documentation]] and Security: Creating documentation, implementing security measures, and exploring system upgrades for enhanced efficiency.
+  - [[Documentation & Meetings]] and Security: Creating documentation, implementing security measures, and exploring system upgrades for enhanced efficiency.
 

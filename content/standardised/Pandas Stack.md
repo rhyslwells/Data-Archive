@@ -71,7 +71,7 @@ dtype: int64
 
 In this example:
 - The original DataFrame has three columns ('A', 'B', 'C') and three rows.
-- After stacking, the DataFrame is transformed into a Series with a MultiIndex/[[Multi-index Columns]]. The outer level of the index corresponds to the original DataFrame’s row index, and the inner level corresponds to the original column labels.
+- After stacking, the DataFrame is transformed into a Series with a MultiIndex/[[Multi-level index]]. The outer level of the index corresponds to the original DataFrame’s row index, and the inner level corresponds to the original column labels.
 
 #### When Not to Use `stack`
 

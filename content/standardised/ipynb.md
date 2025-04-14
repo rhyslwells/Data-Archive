@@ -2,7 +2,7 @@
 tags:
   - software
 ---
-### Printing without code : [[Documentation]]/ [[nbconvert]]
+### Printing without code : [[Documentation & Meetings]]/ [[nbconvert]]
 
 https://stackoverflow.com/questions/49907455/hide-code-when-exporting-jupyter-notebook-to-html
 

@@ -74,3 +74,5 @@ Here are some starting tags. For other navigation notes see #portal
 | Focus: notes about notes                         |
 | ------------------------------------------------ |
 | #career #field #question #drafting <br>#business |
+
+![[Pasted image 20250412163226.png]]

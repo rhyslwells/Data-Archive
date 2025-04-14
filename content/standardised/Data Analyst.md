@@ -21,6 +21,6 @@ Summary:
   
 - Interpret Results: Analyze results in the context of objectives and consider implications for decision-making.
   
-- Documentation: Maintain thorough [[documentation]] of the analysis process, including data sources, methodologies, and findings.
+- Documentation: Maintain thorough [[Documentation & Meetings]] of the analysis process, including data sources, methodologies, and findings.
   
 - Continuous Learning: Stay updated with the latest tools, techniques, and best practices in the evolving field of data analysis.

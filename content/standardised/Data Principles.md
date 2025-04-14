@@ -27,7 +27,7 @@ Data principles are essential for ensuring that data is managed, used, and maint
 
 10. Ethical Data Use: Use data ethically and responsibly, considering the potential impact on individuals and society. Avoid biases and ensure fairness in data-driven decisions.
 
-11. Data [[Documentation]]: Maintain thorough documentation of data sources, definitions, and processes to facilitate understanding and reproducibility.
+11. Data [[Documentation & Meetings]]: Maintain thorough documentation of data sources, definitions, and processes to facilitate understanding and reproducibility.
 
 12. Data Sharing and Collaboration: Encourage data sharing and collaboration within and across organizations to maximize the value of data, while respecting privacy and security constraints.
     

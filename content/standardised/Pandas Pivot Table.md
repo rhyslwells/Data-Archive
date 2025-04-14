@@ -6,6 +6,14 @@ phase:
 topic: 
 filename:
 ---
-https://pandas.pydata.org/docs/reference/api/pandas.pivot_table.html
+Pivot Table: Summarize Data
+```python
+df = pd.DataFrame({'A': ['foo', 'foo', 'bar'], 'B': ['one', 'two', 'one'], 'C': [1, 2, 3]})
+pivot_table = df.pivot_table(values='C', index='A', columns='B', aggfunc='sum')
+```
 
-pd.Grouper?
+Relevant links:
+- https://pandas.pydata.org/docs/reference/api/pandas.pivot_table.html
+
+In [[DE_Tools]] see:
+- https://github.com/rhyslwells/DE_Tools/blob/main/Explorations/Transformation/pivot_table.ipynb
