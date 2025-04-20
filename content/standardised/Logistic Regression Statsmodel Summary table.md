@@ -11,3 +11,7 @@ The dependent variable is 'duration'. The model used is a Logit regression (logi
 
 Specifically a graph such as,
 ![[Pasted image 20240124095916.png]]
+
+
+
+$$\mathbb{N}$$

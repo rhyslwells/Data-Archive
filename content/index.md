@@ -3,23 +3,7 @@ title: Home
 tags: []
 category:
 ---
-## Map of Content
-
-The [[Data Archive]] is continuously growing! New contents will follow the direction of [[Queries]]. The [[Data Archive]] is the entry point of my ==Research-Pipeline==.  Track on going tasks for it [here](https://docs.google.com/spreadsheets/d/1PMMFXlFfYjfba5VZQBVGcdtpXVQjPfDAL_MnDBobR1Y/edit?gid=0#gid=0)).
-
-```mermaid
-graph LR;
-    style Data_Archive fontSize:16px,fontWeight:bold;
-    style DE_Tools fontSize:14px;
-    style ML_Tools fontSize:14px;
-
-    Data_Archive --> DE_Tools;
-    DE_Tools --> ML_Tools;
-```
-
-## Navigation
-
-Here are some starting tags. For other navigation notes see #portal 
+Welcome to the Data Archive, an archive of data-related concepts inspired by the [Digital Garden](https://jzhao.xyz/posts/networked-thought/) analogy. For more information and navigation see [[Data Archive]]. Here are some starting tags. For other navigation notes see #portal. For example see [[Clustering]].
 ### [[DS & ML Portal]]
 
 | Focus: Models                                                           |
@@ -60,12 +44,12 @@ Here are some starting tags. For other navigation notes see #portal
 
 | Focus: software development, tools, and system design                           |
 | ------------------------------------------------------------------------------- |
-| #software #data_orchestration #software<br>#code_snippet #software_architecture |
+| #software #data_orchestration #software<br> #code_snippet #software_architecture |
 ### Others
 
-|Focus: computational tags|
-|---|
-|#statistics #math|
+| Focus: computational tags |
+| ------------------------- |
+| #statistics #math         |
 
 |Focus: GenAI, LLMs, NLP|
 |---|

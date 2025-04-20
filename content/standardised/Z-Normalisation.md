@@ -1,7 +1,6 @@
 ---
 tags: 
-aliases:
-  - Z-Score
+aliases: []
 category: 
 phase: 
 topic: 

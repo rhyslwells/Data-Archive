@@ -1,9 +1,20 @@
+---
+tags: 
+aliases:
+  - LDA
+category: 
+phase: 
+topic: 
+filename:
+---
 Related terms:
 - [[topic modeling]]
 - [[Semantic Relationships]]
 - [[NLP]]
 
 **Latent Dirichlet Allocation (LDA)** is a generative probabilistic model used in Natural Language Processing (NLP) and machine learning for topic modeling. It assumes that documents are mixtures of topics, and topics are mixtures of words. The goal of LDA is to uncover the latent topics in a collection of text documents by identifying groups of words that frequently appear together in the same documents.
+
+Libraries like gensim in Python are highlighted as being particularly suitable for topic modeling
 
 ### Key Concepts:
 - **Topic**: A distribution over a fixed vocabulary of words. A topic might represent a certain theme, like "sports" or "politics."

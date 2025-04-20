@@ -52,7 +52,7 @@ Copy code
 git commit -m "Stop tracking path/to/file and add to .gitignore"
 
 
-## 🔄 Undoing Mistakes
+## Undoing Mistakes
 
 ### I messed up badly! Can I go back in time?
 
@@ -66,7 +66,7 @@ git reset HEAD@{index}
 
 _This is useful for recovering deleted commits, undoing bad merges, or rolling back to a working state._
 
-## 🚀 Commit Fixes
+## Commit Fixes
 
 ### I committed but forgot a small change!
 

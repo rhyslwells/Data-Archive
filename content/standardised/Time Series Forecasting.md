@@ -6,7 +6,6 @@ phase: preprocess
 topic: 
 filename:
 ---
-
 With [[Time Series]] dataset we often want to predict future terms. These are methods to do so.
 
 Resources:
@@ -16,6 +15,7 @@ Resources:
 - [[Forecasting_Baseline.py]]
 - [[Forecasting_Exponential_Smoothing.py]]
 - [[Forecasting_AutoArima.py]]
+
 ### Machine Learning Methods
 
 [[XGBoost]]

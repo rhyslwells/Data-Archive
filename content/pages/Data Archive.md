@@ -1,23 +1,11 @@
 ---
 title: Data Archive
 ---
-## A Single Place for All My Data Knowledge
+# A Single Place for All My Data Knowledge
 
-Welcome to the Data Archive, an archive of my data-related concepts. Every time I learn about a topic I will update the associated note with what I think is most relevant. Inspired by the [Digital Garden](https://jzhao.xyz/posts/networked-thought/) analogy.
+The [[Data Archive]] is continuously growing and is the entry point of my research pipeline.
 
-The Data Archive is split into the following areas:
-
-> [!abstract]- Questions
-> The [[Questions]] page is the part of the Data Archive where I document questions which are relevant to me. The Data Archive is aim towards generating good questions.
-> 
-
-> [!abstract]- Standardised
-> This folder is the knowledge-oriented part of the Data Archive; it follows the [[Zettelkasten]] method. Here, each note deals with one (and only one) concept or thought, and they are all linked together. Think of it as a personal Wikipedia that contains everything I know. Use the tagging system to navigate these notes.
->
-
-> [!tip]- Site Navigation
-> You can use the links at the top of every page to get started on the most important parts.
-> 
+> [!tip]- Site Navigation 
 > If you're looking for something specific, you can use the search bar (which can also be toggled with _Ctrl + K_).
 >  Use the search bar on the top right or press `cmd+k` (`ctrl+k` on Windows) or click on the Search button (top right) to search for any term.
 >  
@@ -27,3 +15,12 @@ The Data Archive is split into the following areas:
 > Click on the [Hashtags](Tags.md) to explore the topics by tags. 
 
 
+The Data Archive is split into two areas:
+
+> [!abstract]- Queries
+> The [[Queries]] page of the Data Archive contains questions which I think are interesting. One of the main aims of the Data Archive is towards generating good questions.
+> 
+
+> [!abstract]- Standardised
+> This folder is the knowledge-oriented part of the Data Archive; it follows the [[Zettelkasten]] method. Here, each note deals with one (and only one) concept or thought, and they are all linked together. Think of it as a personal Wikipedia that contains everything I know. Use the tagging system to navigate these notes.
+>
