@@ -7,9 +7,7 @@ phase:
 topic: 
 filename:
 ---
-[[Security]] vulnerabilities can be encountered and mitigated in [[Software Development Portal]].
-
-In this not describe potential security risks in their applications.
+[[Data Security]] vulnerabilities can be encountered and mitigated in [[Software Development Portal]].
 
 Useful Tools
 - [[tool.bandit]]
@@ -29,6 +27,19 @@ The `dangerous_subprocess` function uses `subprocess.call` with `shell=True`, wh
 Mitigation:
   - Avoid using `subprocess.call` with `shell=True`. Use `subprocess.run` or `subprocess.call` with a list of arguments.
   - Validate and sanitize user inputs ([[Input is Not Properly Sanitized]]). 
+### [[SQL Injection]]
+### AI Injection Attacks
+
+New class of attacks where malicious input is designed to manipulate or confuse AI/ML models.
+
+Example:  
+  - Input crafted to cause large language models to leak secrets or behave incorrectly.
+  - Poisoning training data to introduce backdoors.
+
+Defending AI requires:
+- Input validation.
+- Monitoring model behavior.
+- Sanitizing training datasets.
 
 ### Hardcoded Password
 
@@ -71,11 +82,10 @@ Example:
   def insecure_deserialization(data):
       return pickle.loads(data)
   ```
+
 Mitigation:
   - Avoid using `pickle` for untrusted data. Use safer formats like JSON ([[Why JSON is Better than Pickle for Untrusted Data]]).
   - Ensure data is from a trusted source.
-
-### [[SQL Injection]]
 
 ### Cross-Site Scripting (XSS)
 
@@ -91,3 +101,4 @@ Mitigation:
 **Mitigation**:
 - Escape user input before rendering it in HTML.
 - Use security libraries or frameworks that automatically handle escaping
+

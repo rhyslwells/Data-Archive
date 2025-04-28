@@ -8,6 +8,7 @@ phase:
 topic: 
 filename:
 ---
+
 Prompt engineering is a technique in the field of natural language processing (NLP), particularly when working with large language models (LLMs). 
 
 It involves designing and optimizing input prompts to get the most relevant and accurate responses from these models. 

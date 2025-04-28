@@ -1,5 +1,8 @@
-SQL injection is a code injection technique that targets applications using SQL databases. It occurs when a malicious user injects harmful SQL code into a query, potentially compromising the security of the database. 
+SQL injection is a code injection technique that targets applications using SQL databases. It occurs when a malicious user injects harmful SQL code into a query executing unintended commands, potentially compromising the [[Data Security]] of the database. 
 
+Need sanitized SQL queries, usee
+ - Parameterized queries
+  - ORMs ([[Object Relational Mapper]]) that protect against manual query building.
 ### How SQL Injection Works
 
 Consider a scenario where a website prompts users to log in with their username and password. The application might execute a query like this:

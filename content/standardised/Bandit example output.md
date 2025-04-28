@@ -1,7 +1,7 @@
 ## Complicated example output of bandit
 Running bandit on [[ML_Tools]] file [[Bandit_Example_Nonfixed.py]] gives. Fixing this gives [[Bandit_Example_Fixed.py]]
 
-```bandit
+```
 [main]  INFO    profile include tests: None
 [main]  INFO    profile exclude tests: None
 [main]  INFO    cli include tests: None

@@ -41,7 +41,7 @@ Model should be able to saay "I dont know" instead of [[hallucinating]]
 
 
 
-[[RAG]]
+
 Problems
 1. LLMs struggle with memorization > "LLMs may struggle with
 tasks that require domain-specific expertise or up-to-date

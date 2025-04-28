@@ -12,30 +12,11 @@ Basic:
 Advanced:
 - [[Gaussian Model]]
 - [[Isolated Forest]]
+- [[Kernel Density Estimation]] (KDE): Estimate the probability density, flag low-density regions as anomalies.
 
-### Grubbs' Test
-
-Context:  
-Grubbs' test is a hypothesis test designed to detect a single outlier in a normally distributed dataset. It tests the largest deviation from the mean relative to the standard deviation. This test is iterative and removes one outlier at a time.
-
-Purpose:  
-To determine whether the most extreme data point (either smallest or largest) is a statistical outlier.
-
-Steps:
-- Compute the test statistic:  
-    $G = \frac{\max(|X - \mu|)}{\sigma}$  
-    where:
-    - $X$: Data points
-    - $\mu$: Mean of the dataset
-    - $\sigma$: Standard deviation of the dataset.
-- Compare $G$ to a critical value:
-    - The critical value depends on the sample size $n$ and significance level $\alpha$ (e.g., 0.05).
-    - If $G$ exceeds the critical value, the data point is considered an outlier.
-
-Limitations:
-- Assumes data follows a normal distribution.
-- Inefficient for detecting multiple outliers simultaneously.
-
+Refernences:
+- Outlier detection Manning
+# Others
 ### Histogram-Based Outlier Detection (HBOS)
 
 Context:  

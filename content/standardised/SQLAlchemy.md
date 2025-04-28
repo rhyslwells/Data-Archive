@@ -1,4 +1,10 @@
-SQLAlchemy is a Python SQL toolkit and ==Object Relational Mapper== (ORM) that provides tools to interact with databases in a more Pythonic way. It allows you to work with relational databases such as MySQL, PostgreSQL, SQLite, and others without writing raw [[SQL]] queries manually.
+---
+tags: 
+category: 
+---
+
+
+SQLAlchemy is a Python SQL toolkit and ==[[Object Relational Mapper]]== (ORM) that provides tools to interact with databases in a more Pythonic way. It allows you to work with relational databases such as MySQL, PostgreSQL, SQLite, and others without writing raw [[SQL]] queries manually.
 
 Related:
 - [[SQLAlchemy vs. sqlite3]]
@@ -55,5 +61,5 @@ In [[DE_Tools]] see:
         ```
         
 6. Supports Multiple Databases
-    - Works with [[MySql],[[PostgreSQL]],[[SQLite]], etc.
+    - Works with [[MySql]] ,[[PostgreSQL]], [[SQLite]], etc.
     - Easily switch databases without changing the core logic.

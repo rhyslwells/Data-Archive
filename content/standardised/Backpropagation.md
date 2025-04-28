@@ -10,61 +10,59 @@ aliases:
   - backward propagation
 category: Machine Learning
 ---
->[!Summary]  
-> Backpropagation is an essential algorithm in the training of neural networks and iteratively correcting its mistakes. It involves a process of calculating the gradient of the loss function $L(\theta)$ concerning each weight in the network, allowing the system to update its weights via [[Gradient Descent]]. 
-> 
-> This process helps minimize the difference between predicted outputs and actual target values. Mathematically, the chain rule of calculus is employed to propagate errors backward through the network.
-> 
-Each layer in the network computes a partial derivative that is used to adjust the weights. This iterative approach continues until a convergence criterion is met, typically when the change in loss falls below a threshold.
->
->The backpropagation algorithm is critical in [[Supervised Learning]], where labeled data is used to train models to recognize patterns.
+Backpropagation is an algorithm for training neural networks by iteratively correcting prediction errors. It calculates the gradient of the [[loss function]] $L(\theta)$ with respect to each model parameter $\theta$, enabling updates via [[Gradient Descent]] to minimize the loss.
 
->[!Breakdown]  
-> Key Components:  
-> - **Algorithm**: Gradient Descent  
-> - **Mathematical Foundation**: Chain Rule for derivatives  
-> - **Metrics**: Loss function (e.g., Mean Squared Error, Cross-Entropy)
+Mathematically, backpropagation employs the chain rule from calculus to propagate errors backward through the network. Each layer computes a partial derivative, which is used to adjust its weights. This iterative process continues until a convergence criterion is met, typically when the loss change falls below a threshold.
 
->[!important]  
-> - Gradient descent uses $\nabla L(\theta) = \frac{\partial L}{\partial \theta}$ to iteratively minimize the loss.  
-> - Backpropagation optimizes deep learning models by adjusting weights based on error gradients.
+Backpropagation is especially critical in [[Supervised Learning]], where models learn from labeled data to recognize patterns.
+## Important Notes
+- Gradient descent minimizes the loss by updating parameters in the direction of the negative gradient:  
+  $\nabla L(\theta) = \frac{\partial L}{\partial \theta}$.  
+- Backpropagation adjusts weights based on computed error gradients, enabling effective deep model optimization.
+- Computational Cost: Backpropagation can be expensive for deep networks, requiring computation of gradients across all layers.  
+- Vanishing/Exploding Gradients: In deep networks, gradients can become too small or too large, hindering effective training.
+## Example Application
 
->[!attention]  
-> - The method is computationally expensive for deep networks due to the need to compute gradients for each layer.  
-> - Vanishing/exploding gradients in deep layers can prevent proper weight updates.
+A [[Feed Forward Neural Network]] trained for image classification uses backpropagation to minimize cross-entropy loss. The gradient of the loss is calculated layer-by-layer and weights are updated using an optimizer like Adam.
+## Backpropagation Step-by-Step (Manual Calculation)
 
->[!Example]  
-> A feed-forward neural network trained on image classification data uses backpropagation to minimize cross-entropy loss. The gradient of the loss is calculated layer by layer, adjusting weights through an optimization algorithm like Adam.
+When dealing with many parameters, like in neural networks, it can be helpful to think in terms of ==computation graphs.==
 
->[!Follow up questions]  
-> - How does backpropagation compare with other optimization algorithms such as Newton’s method or evolutionary strategies?  
-> - What role does [[Regularisation]] play in addressing overfitting when using backpropagation in deep neural networks?
+Basic backpropagation procedure through a computation graph:
+1. Work right to left: starting from the output layer back towards the input.
+2. For each node:
+   - Calculate the local derivative(s) (i.e., the derivative of the node’s output with respect to its input).
+   - Combine this with the derivative of the loss with respect to the node using the chain rule.
 
->[!Related Topics]  
-> - Gradient Descent Optimizers ([[Adam Optimizer]], RMSprop)  
-> - [[vanishing and exploding gradients problem]]
+Definition:  
+The "local derivative(s)" are the derivatives of the current node’s output with respect to each of its inputs or parameters.
+## Computation Graph Example (using [[Sympy]])
+To manually calculate gradients through a computation graph, symbolic differentiation can be used.
 
-
-# Backpropgation
-
-Backpropgation is used to calc the gradient of the loss function with respect to the model parameters, when there are a lot of parameters - i.e in a neural network.
-Simple example of backpropgation
-
-Simple example of computation graph
-Computation graph - calcing derivatives?
-Use sympy to calculate derivatives for the loss function.
-
-> The steps in backprop   
->Now that you have worked through several nodes, we can write down the basic method:\
-> working right to left, for each node:
->- calculate the local derivative(s) of the node
->- using the chain rule, combine with the derivative of the cost with respect to the node to the right.   
-
-The 'local derivative(s)' are the derivative(s) of the output of the current node with respect to all inputs or parameters.
-
-Example of using sympy to calculate derivatives for the loss function. Use `diff`, `subs`
 ```python
 from sympy import symbols, diff
-```
 
-## [[Sympy]]
+# Define symbols
+x, w, b = symbols('x w b')
+y = symbols('y')  # true label
+
+# Define a simple model: prediction = wx + b
+prediction = w*x + b
+
+# Define a loss function: squared error
+loss = (prediction - y)2
+
+# Compute gradients
+grad_w = diff(loss, w)
+grad_b = diff(loss, b)
+
+print(grad_w)
+print(grad_b)
+```
+This symbolic approach helps verify gradient calculations during small-scale experiments.
+## Follow-Up Questions
+- How does backpropagation compare to optimization methods like Newton’s Method or evolutionary strategies?  
+- What role does [[Regularisation]] play in addressing [[overfitting]] when training deep networks with backpropagation?
+## Related Topics
+- [[Gradient Descent Optimizers]] (e.g., [[Adam Optimizer]], RMSprop)  
+- [[vanishing and exploding gradients problem]]  

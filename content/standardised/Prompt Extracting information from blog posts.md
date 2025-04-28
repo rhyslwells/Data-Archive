@@ -6,8 +6,6 @@ Prompt Extracting information from blog posts
 
 You are an expert in summarizing and analyzing online content. Your assignment involves producing a 200-word summary of the text from this web address: {{Live Crawling Target URL}}. The text from URL {{Live Crawling Target URL}} is:
 
-```{{Live Crawling Crawled Text}}```
-
 The resulting summary must be around 200 words.
 
 Please include the following components in your response:

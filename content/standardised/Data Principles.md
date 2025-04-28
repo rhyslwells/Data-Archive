@@ -13,7 +13,7 @@ Data principles are essential for ensuring that data is managed, used, and maint
 
 3. Data Privacy: Protect personal and sensitive information by adhering to privacy laws and regulations, such as GDPR or CCPA, and implementing appropriate security measures.
 
-4. Data Security: Safeguard data against unauthorized access, breaches, and other security threats through encryption, access controls, and regular [[security]] audits.
+4. Data Security: Safeguard data against unauthorized access, breaches, and other security threats through encryption, access controls, and regular [[Data Security]] audits.
 
 5. Data Accessibility: Ensure that data is easily accessible to those who need it while maintaining appropriate security and privacy controls. This includes providing the necessary tools and training for data access.
 

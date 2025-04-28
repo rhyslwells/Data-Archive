@@ -3,6 +3,8 @@
 > "The modern man thinks that everything ought to be done for the sake of something else, and never for its own sake.
 >  - Bertrand Russell, In Praise of Idleness"
 
+>If you don’t protect your time, someone else will take it.
+
 ### Leadership
 
 > Don't listen to what leaders say. Watch what they do.

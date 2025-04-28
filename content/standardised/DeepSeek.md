@@ -21,7 +21,7 @@ can see it - ui choice
 
 [[Distillation]] - use gpt output and trains on it. 
 
-[[security]]
+[[Data Security]]
 
 #drafting 
 

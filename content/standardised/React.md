@@ -21,3 +21,10 @@ React is ideal for Single Page Applications (SPAs) that load once and update dyn
 ### Common Tools
 
 Popular UI libraries include Tailwind CSS and shadcn/ui.
+
+### React vs JavaScript Security
+
+- You noted React is better than raw [[JavaScript]].
+- Reason: React automatically escapes user input (e.g., prevents Cross-Site Scripting attacks).
+- By using frameworks like React, you reduce injection risks by design.
+- See [[Security Vulnerabilities]]

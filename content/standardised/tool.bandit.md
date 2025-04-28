@@ -58,7 +58,7 @@ Then rerun [[Bandit example output]]
 
 In [[ML_Tools]] see: [[Bandit_Example_Nonfixed.py]]
 
-Features Demonstrated: [[Common Security Vulnerabilities in Software Development]]
+Features Demonstrated: [[Security Vulnerabilities]]
 1. **Command Injection**: The `dangerous_subprocess` function uses `subprocess.call` with `shell=True`, which can lead to command injection if user input is not properly sanitized.
 2. **Hardcoded Password**: The `hardcoded_password` function contains a hardcoded password, which is a common security issue.
 3. **Use of `eval`**: The `unsafe_eval` function uses `eval`, which can execute arbitrary code if the input is not controlled.

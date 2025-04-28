@@ -40,5 +40,5 @@ Checksums are commonly used in various applications, such as:
 
 5. **Verification**: If the calculated checksum matches the received checksum (1, 2, 0), the data is considered intact. If it does not match, it indicates that the data may have been corrupted during transmission.
 
-This is a basic example, and in practice, checksums can be computed using more complex [[algorithms]] (like CRC32, MD5, or SHA-1) to provide better error detection and  [[Security]]. 
+This is a basic example, and in practice, checksums can be computed using more complex [[algorithms]] (like CRC32, MD5, or SHA-1) to provide better error detection and  [[Data Security]]. 
 

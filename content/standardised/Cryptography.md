@@ -7,7 +7,7 @@ phase:
 topic: 
 filename:
 ---
-Cryptography is the foundation of digital [[Security]], enabling privacy and secure communication over the internet.
+Cryptography is the foundation of digital [[Data Security]], enabling privacy and secure communication over the internet.
 
 Examples are implemented in [[Node.JS]] (using `crypto` module) and are written in [[JavaScript]].
 

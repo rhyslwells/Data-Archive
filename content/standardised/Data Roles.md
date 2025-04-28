@@ -13,6 +13,7 @@ The team collaborates across various functions to ensure data integrity, accessi
 | **[[ML Engineer]]**          | Machine learning              | Configures and optimizes ML models, monitors performance in production.                        |
 | **[[Data Architect]]**       | Data architecture             | Designs and manages data infrastructure, ensures data accessibility.                           |
 | **[[Data Analyst]]**         | Reporting & visualization     | Gathers and processes data, generates reports, communicates insights using tools like Tableau. |
+| [[Security Researcher]]      |                               |                                                                                                |
 
 #### Other Stakeholders
 - **Business Analysts:** Ensure data is structured and accessible for analysis and reporting.

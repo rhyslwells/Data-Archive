@@ -26,7 +26,7 @@ In this scenario, a team is working on a web application that requires several s
 
 ### Example Justfile Content
 
-```just
+```
 # Justfile for Web Application Deployment
 
 # Define variables for environment

@@ -10,22 +10,22 @@ Welcome to the Data Archive, an archive of data-related concepts inspired by the
 | ----------------------------------------------------------------------- |
 | #classifier #regressor #clustering<br>#deep_learning #anomaly_detection |
 
-| Focus: modeling techniques, ML lifecycle, explainability      |
+| Focus: modeling techniques, ML lifecycle, explainability          |
 | ----------------------------------------------------------------- |
 | #ml_process #ml_optimisation #model_explainability<br>#evaluation |
 
-|Focus: ML model structure, algorithms, and architecture|
-|---|
-|#model_algorithm #model_architecture|
+| Focus: ML model structure, algorithms, and architecture |
+| ------------------------------------------------------- |
+| #model_algorithm #model_architecture                    |
 ### [[Data Engineering Portal]]
 
 | Focus: cleaning, transforming, and processing                         |
 | ------------------------------------------------------------------------- |
 | #data_cleaning #data_transformation #data_processing<br>#data_engineering |
 
-| Focus: managing, securing, and validating data across systems |
-| ----------------------------------------------------------------- |
-| #data_governance #data_management #data_quality                   |
+| Focus: managing, securing, and validating data across systems      |
+| ------------------------------------------------------------------ |
+| #data_governance #data_management #data_quality<br>#data_security  |
 
 | Focus: designing and optimizing data systems and databases                                         |
 | ------------------------------------------------------------------------------------------------------ |

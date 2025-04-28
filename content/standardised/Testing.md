@@ -37,7 +37,7 @@ Testing a [[Python]] program effectively involves multiple levels to ensure corr
    - Measures execution speed, scalability, and resource usage.
    - **Best Practices:** Profile bottlenecks, stress-test under load, and monitor system performance.
 
-5. **Security Testing** [[Common Security Vulnerabilities in Software Development]]
+5. **Security Testing** [[Security Vulnerabilities]]
    - Identifies vulnerabilities like SQL injection, XSS, and authentication flaws.
    - **Best Practices:** Validate inputs, enforce authentication, and use static analysis tools (e.g., Bandit).
 ## Related Topics

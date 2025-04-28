@@ -71,8 +71,7 @@ df['Value'] = df['Value'].fillna(grouped_means)
 # Display the DataFrame after filling missing values
 print("\nDataFrame after filling missing values with group means:")
 print(df)
-```
-```output
+
   Category  Value
 0        A   10.0
 1        A   10.0

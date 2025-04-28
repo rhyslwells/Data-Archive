@@ -9,6 +9,7 @@ category:
 ---
 In [[ML_Tools]] see:
 - [[Distribution_Analysis.py]]
+- [[Feature_Distribution.py]]
 #### Discrete Distributions
 These distributions have probabilities concentrated on specific values.
 
@@ -25,29 +26,10 @@ These distributions have probabilities spread over a continuous range.
 - Chi-squared Distribution: Asymmetric and non-negative, commonly used in [[hypothesis testing]].
 - Exponential Distribution: Models the time between events. Example: Time between website traffic hits, radioactive decay.
 - Logistic Distribution: S-shaped curve, often used in forecasting and modeling growth.
-  ![[Pasted image 20250308191945.png]]
   
-#### Q-Q plots (Quantile-Quantile Plots)
+  ![[Pasted image 20250308191945.png]]
 
-A Q-Q (quantile-quantile) plot is a graphical tool used to compare the distribution of a dataset against a theoretical distribution (e.g., normal, logistic, exponential). It helps assess how well a given distribution fits the data.
-
-How Q-Q Plots Work:
-
-1. Sort your dataset → Compute the sample quantiles (percentiles).
-2. Compute the theoretical quantiles → Take the same number of points from the theoretical distribution (e.g., normal, logistic).
-3. Plot sample quantiles vs. theoretical quantiles:
-    - If the points lie on a straight diagonal line, the data follows the theoretical distribution.
-    - If the points deviate significantly, the data does not fit that distribution.
-
-Interpreting a Q-Q Plot:
-
-- Straight diagonal line → Data follows the chosen distribution.
-- Curved S-shape → Data has skewness.
-    - Upward curve (right tail high) → Right-skewed.
-    - Downward curve (left tail high) → Left-skewed.
-- Heavy tails (outliers) → Points at the ends deviate from the line.
-- Light tails (thin-tailed distribution) → Points at the ends fall below the line.
-### Practical Applications
+#### Practical Applications
 
 Feature Distribution: Understanding the distribution of numerical/ categortical feature values across samples can provide insights into data characteristics.
 
@@ -56,7 +38,6 @@ Feature Distribution: Understanding the distribution of numerical/ categortical 
 
 ### Related Notes
 
-In [[ML_Tools]] see: [[Feature_Distribution.py]]
-
 - [[Violin plot]]
 - [[Boxplot]]
+- [[Q-Q Plot]]

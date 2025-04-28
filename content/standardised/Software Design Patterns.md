@@ -144,7 +144,7 @@ myComputer.turnOn();
 
 The **Proxy pattern** acts as an intermediary to control access to an object.
 
-Use Cases: Lazy loading, [[Security]] proxies
+Use Cases: Lazy loading, [[Data Security]] proxies
 
 #### Example (JavaScript):
 
