@@ -1,3 +1,9 @@
+---
+tags:
+  - preprocessing
+  - data_management
+category:
+---
 Reducing the volume of data through techniques:
 
 [[Dimensionality Reduction]]

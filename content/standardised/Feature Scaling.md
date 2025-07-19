@@ -3,7 +3,7 @@ title:
 tags:
   - data_cleaning
   - data_processing
-category: Data Science
+category: DS
 phase: preprocess
 ---
 Used in preparing data for machine learning models. 

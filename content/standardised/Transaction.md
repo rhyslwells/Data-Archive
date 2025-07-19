@@ -16,7 +16,7 @@ Transactions are used for maintaining [[Data Integrity]] and should adhere to th
 
 ## Concurrency and Transactions
 
-- Concurrency: Allows multiple [[queries]] to run simultaneously, essential for high-traffic applications.
+- Concurrency: Allows multiple [[Querying]] to run simultaneously, essential for high-traffic applications.
 - Race Conditions: Occur when concurrent transactions access and modify shared data, potentially causing inconsistencies.
 
 ## Transaction Locks

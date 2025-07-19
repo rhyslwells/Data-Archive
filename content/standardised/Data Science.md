@@ -6,3 +6,12 @@ A field that uses the [[Scientific Method]], algorithms, and systems to ==extrac
 
 Resources:
 - https://scikit-learn.org/stable/auto_examples/index.html
+
+At the business level a data scientist should be:
+- advocating for business problems,
+- pragmatic, 
+- apply across business, 
+- should be able to translate communication from top level to bottom.
+
+Related:
+- [[Scaling Data Science Capability]]

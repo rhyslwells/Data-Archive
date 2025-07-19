@@ -1,8 +1,7 @@
 ---
 title: 
-tags:
-  - drafting
-aliases: []
+tags: []
+aliases: 
 category:
 ---
 Hyperparameters are parameters set before training that control the learning process, such as:

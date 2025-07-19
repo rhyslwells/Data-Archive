@@ -20,7 +20,7 @@ The goal is to minimize this [[cost function]] by finding the optimal $\theta$ v
 
 ### Optimization Algorithm (Solvers)
 
-[[sklearn]] provides different [[Optimisation function]] to find the optimal [[Model Parameters]] for logistic regression. These solvers use optimization techniques like Gradient Descent or more advanced methods like Newton’s Method or Limited-memory Broyden–Fletcher–Goldfarb–Shanno (LBFGS). Here are the main solvers used in `sklearn`:
+[[Scikit-Learn]] provides different [[Optimisation function]] to find the optimal [[Model Parameters]] for logistic regression. These solvers use optimization techniques like Gradient Descent or more advanced methods like Newton’s Method or Limited-memory Broyden–Fletcher–Goldfarb–Shanno (LBFGS). Here are the main solvers used in `sklearn`:
 
 - 'liblinear': This solver uses coordinate descent or regularized Newton's method and is a good choice for smaller datasets. It supports both L1 (lasso) and L2 ([[Ridge]]) regularization.
   

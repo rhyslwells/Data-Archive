@@ -4,7 +4,7 @@ tags:
 aliases:
   - Indexing
   - Index
-category: DATABASE_MANAGEMENT
+category: DE
 phase: 
 topic: 
 filename:

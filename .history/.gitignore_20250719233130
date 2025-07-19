@@ -14,5 +14,6 @@ assets/indices/contentIndex.json
 .venv
 content/uncleaned_notes
 content/Inbox
+content/.smart-env
 
 

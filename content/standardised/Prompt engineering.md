@@ -3,7 +3,7 @@ tags:
   - language_models
   - NLP
 aliases: 
-category: MLOPS
+category: LANG
 phase: 
 topic: 
 filename:

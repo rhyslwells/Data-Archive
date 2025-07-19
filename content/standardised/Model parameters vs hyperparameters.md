@@ -1,3 +1,8 @@
+---
+tags: 
+category: ML
+---
+
 Model parameters and hyperparameters serve different roles:
 
 [[Model Parameters]]
@@ -11,7 +16,7 @@ Model parameters and hyperparameters serve different roles:
 [[Hyperparameter]]
    - These are external configurations set before the training process begins. They are not learned from the data but are used for controlling the learning process and the model's architecture.
    - Examples include the:
-	   - [[learning rate]], 
+	   - [[Learning Rate]], 
 	   - the number of hidden layers in a [[Neural network]],
 	   - the number of trees in a random forest,
 	   - or the regularization parameter in a regression model.

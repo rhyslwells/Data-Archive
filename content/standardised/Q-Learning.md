@@ -1,9 +1,9 @@
 ---
-tags: 
+tags:
   - regressor
   - ml_process
-aliases:
-category: Machine Learning
+aliases: 
+category: ML
 phase: Model Building
 topic: Q-Learning
 filename: q_learning_algorithm

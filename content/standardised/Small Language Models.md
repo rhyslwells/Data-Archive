@@ -5,7 +5,7 @@ tags:
   - language_models
 aliases:
   - SLM
-category: paper
+category: PAPER
 resources: https://arxiv.org/pdf/2409.06857
 ---
 [[LLM|LLMs]] dominate many general-purpose NLP tasks, small [[Language Models]] have their own place in specialized tasks, where they excel due to computational efficiency, [[interpretability]], and task-specific fine-tuning. 

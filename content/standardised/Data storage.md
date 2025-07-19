@@ -5,7 +5,7 @@ tags:
   - data_storage
 aliases:
   - data_management
-category: Data Engineering
+category: DE
 ---
 Data storage is a fundamental aspect of [[Data Engineering]], influencing processes such as 
 - (occurring after [[Data Ingestion]])

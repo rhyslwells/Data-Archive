@@ -1,12 +1,19 @@
 ---
-tags: 
-category: 
+tags:
+  - database
+category:
 ---
 https://www.youtube.com/watch?v=IShRYPsmiR8
-
-database in neo4j using CYPHER to create nodes, relationships, labels and properties. finally i bring it altogether with a software supply chain example in graph in neo4j.
 
 Related terms:
 - [[neomodel]]
 - [[GraphRAG]]
 - [[Cypher]]
+- [[Graph Query Language]]
+- [[GraphRAG|graph database]]
+
+Neo4j is a graph [[database]]. Instead of storing data in tables (like SQL), it stores data as nodes (entities) and relationships (connections between entities). Instead of JOINs, Neo4j directly stores and indexes connections.
+
+When to use:  
+  - Complex relationships (social networks, fraud detection, recommendations).
+  - You need to traverse lots of relationships quickly.

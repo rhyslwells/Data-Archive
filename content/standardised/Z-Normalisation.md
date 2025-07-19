@@ -18,7 +18,7 @@ This process is used in preparing data for [[machine learning algorithms]], espe
   
 - Centered Data: The range of the normalized data (x-axis) is centered around zero and roughly +/- 2. This centering is beneficial for algorithms that assume data is normally distributed around zero.
 
-- Improved Learning Rates: Normalization allows for a larger [[learning rate]] in [[Gradient Descent]], which can speed up convergence and improve the efficiency of the learning process.
+- Improved Learning Rates: Normalization allows for a larger [[Learning Rate]] in [[Gradient Descent]], which can speed up convergence and improve the efficiency of the learning process.
 
 ### Z-Score Normalization
 

@@ -15,7 +15,7 @@ The arena employs several techniques to rank and compare models:
 
 2. [[Bradley-Terry Model]]: This model goes beyond simple win-loss records by taking into account the ==difficulty of the task== and the models' relative strengths. It helps fine-tune the ranking, especially when one model consistently performs better against tougher tasks.
 
-In addition to these ranking systems, users can directly compare LLMs by giving them [[Prompting]] to handle, such as writing articles, answering questions, or performing translations. Human voters then decide which model's output is better, or they can declare a tie if neither response is satisfactory.
+In addition to these ranking systems, users can directly compare LLMs by giving them [[Prompts]] to handle, such as writing articles, answering questions, or performing translations. Human voters then decide which model's output is better, or they can declare a tie if neither response is satisfactory.
 
 These methods ensure continuous improvement of the rankings, providing a transparent and evolving leaderboard of the best generative models, including GPT versions
 

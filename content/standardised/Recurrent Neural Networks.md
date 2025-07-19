@@ -40,7 +40,7 @@ https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-netwo
 - **GRU**: A simpler variant of LSTM with fewer parameters, offering efficiency and ease of training while maintaining performance on sequence tasks.
 ### Example Code (RNN in Python with [[PyTorch]])
 
-See RNN_Pytorch.py
+See in [[ML_Tools]]see: RNN_Pytorch.py
 
 ### Problem of Long Term Dependencies
 

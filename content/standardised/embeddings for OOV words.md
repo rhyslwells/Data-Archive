@@ -1,8 +1,16 @@
-Can you find words in a [[Vector Embedding|word embedding]] that where not used to creates the embedding?
+---
+tags:
+  - ml_optimisation
+  - NLP
+  - ml_process
+category:
+---
+
+Can you find words in a [[Vector Embedding|word embedding]] that where not used to creates the embedding? These are [[OOV words]].
 
 Yes, but with important caveats. If a word is not in the [[spaCy]] model’s vocabulary with a vector, then:
 
-### ✅ What you can do
+### What you can do
 
 #### Option 1: Filter out words without vectors (what you're doing now)
 This is the cleanest option:
@@ -26,7 +34,7 @@ model = KeyedVectors.load_word2vec_format("cc.en.300.vec")  # or download from F
 embedding = model.get_vector("unseenword")  # FastText will synthesize it
 ```
 
-### 💡 Summary
+### Summary
 
 | Approach                     | Handles OOV? | Notes |
 |-----------------------------|--------------|-------|
@@ -34,5 +42,3 @@ embedding = model.get_vector("unseenword")  # FastText will synthesize it
 | spaCy `en_core_web_lg`      | ⚠️ Sometimes  | May infer vectors using subword info |
 | FastText / GloVe            | ✅            | Good for unseen words |
 | Sentence Transformers (BERT)| ✅            | Contextualized, ideal for phrases/sentences |
-
-#NLP #ml_process #ml_optimisation

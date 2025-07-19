@@ -13,7 +13,7 @@ When selecting data for machine learning models, several important consideration
    - Check for [[Imbalanced Datasets|class imbalance]] in classification problems. An imbalanced dataset can bias the model towards the majority class. Techniques like resampling, synthetic data generation, or using different evaluation metrics can help address this.
 
 5. Feature Distribution: [[Distributions]]
-   - Analyze the distribution of your features. Features with skewed [[distributions]] may need transformation ([[Data Transformation]]) (e.g., log transformation) to improve model performance.
+   - Analyze the distribution of your features. Features with skewed [[distributions]] may need transformation ([[Data Transformation]]) (e.g., [[log transformation]]) to improve model performance.
 
 6. [[Correlation]]:
    - Examine the correlation between features. Highly correlated features can lead to [[multicollinearity]], which can affect model stability and interpretability. Consider removing or combining correlated features.

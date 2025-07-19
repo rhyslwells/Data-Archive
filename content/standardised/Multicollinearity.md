@@ -1,7 +1,6 @@
 ---
 type: 
 tags:
-  - code_snippet
   - statistics
 ---
 When two or more regressors are in [[Correlation]]
@@ -21,11 +20,10 @@ Related:
 	- Correlation increases bias in the estimated parameters
 	- Decreases power via exploded standard errors
 
-##### Results of Multicollinearity:
-
+Results of Multicollinearity:
 1. **Difficulty in Estimating Coefficients**: When independent variables are highly correlated, it becomes challenging to isolate the individual effect of each variable on the dependent variable. This can result in large standard errors for the coefficients, making them unreliable.
     
-2. **Inflated Variance**: The presence of multicollinearity inflates the variance of the coefficient estimates, which can lead to less precise estimates. This means that small changes in the data can lead to large changes in the estimated coefficients.
+2. **Inflated [[Variance]]**: The presence of multicollinearity inflates the variance of the coefficient estimates, which can lead to less precise estimates. This means that small changes in the data can lead to large changes in the estimated coefficients.
     
 3. **Misleading Significance Tests**: Multicollinearity can cause some variables to appear statistically insignificant when they might actually be significant. This can lead to incorrect conclusions about the importance of predictors in the model.
     

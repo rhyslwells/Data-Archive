@@ -2,11 +2,11 @@
 
 [[Vector Embedding]] plays a crucial role in enhancing search capabilities:
 
-**Comparison of Vector-Only vs. Graph-RAG**: 
+Comparison of Vector-Only vs. Graph-RAG: 
   - Vector-only searches may lack context, while Graph-RAG utilizes graph traversal to provide richer, multi-step context.
   - This leads to more complex and informative responses.
 
-**Contextual Prompts**: 
+Contextual Prompts: 
   - Context is used to answer prompts (in JSON format). With graph traversal, this context involves more steps, allowing for more elaborate retrieval queries.
 
 [[Text2Cypher]]

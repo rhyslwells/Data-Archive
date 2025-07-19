@@ -5,6 +5,6 @@ tags:
 They know what
 - [[LSTM]] means
 - [[Attention mechanism]]
-- [[Prompting]] optimisation
+- [[Prompts]] optimisation
 - [[Neural network]]
 

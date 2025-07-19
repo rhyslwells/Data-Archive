@@ -6,6 +6,7 @@ tags:
 aliases:
   - Queries
   - Query
+category: DE
 ---
 Querying is the process of asking questions of data. Querying makes use of keys primary and foreign within tables.
 
@@ -31,3 +32,7 @@ You can have parameterised queries so that you can pass in variables to it:
 Related terms:
 - [[SQL Joins]]
 - [[SQL Injection]]:=Why we should not use f-strings in queries
+
+Query Plan:
+- What is expected to happen to the query plan if there is [[Database Index|Indexing]]?
+

@@ -21,6 +21,7 @@ Disadvantages
 - Can be computationally expensive for large datasets and sensitive to the choice of hyperparameters.
 - Performance is highly dependent on the [[Kernelling]] choice, requiring careful tuning.
 
+Visualisation: https://dash.gallery/dash-svm/
 ## How SVM Works
 
 In [[ML_Tools]] see: [[SVM_Example.py]]

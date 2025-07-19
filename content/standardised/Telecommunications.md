@@ -1,7 +1,7 @@
 ---
 title: 
 tags: 
-category: industries
+category: INDUSTRY
 ---
 Network Optimization
 

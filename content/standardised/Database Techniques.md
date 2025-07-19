@@ -16,5 +16,5 @@ Techniques:
 	- [[Stored Procedures]]
 	- Cleaning: Use **Levenshtein Distance** (if SQLite extension is available) to group similar entries.
 - [[Database Index|Indexing]]
-	- [[Query Plan]]
+	- [[Querying]]
 	- [[Vacuum]]

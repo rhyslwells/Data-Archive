@@ -6,7 +6,7 @@ tags:
 aliases:
   - feedforward pass
   - forward pass
-category: Deep Learning
+category: DS
 ---
 
 >[!Summary]  

@@ -1,7 +1,7 @@
 ---
 title: 
 tags: 
-category: Data Science
+category: DS
 ---
 >[!Summary]  
 > Llama Index is a python package that can be used to create Knowledge graphs (KGs).

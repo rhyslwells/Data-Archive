@@ -1,8 +1,8 @@
-[[Sklearn]]
+[[Scikit-Learn]]
 
 The `TransformedTargetRegressor` is a utility class in `scikit-learn` that applies a transformation to the target values in a regression problem. This can be useful in several scenarios:
 
-1. **Non-normal target distribution**: Many regression algorithms assume that the target variable is normally distributed. If your target variable has a skewed distribution, applying a transformation (like a log transformation) can help improve the performance of the model.
+1. **Non-normal target distribution**: Many regression algorithms assume that the target variable is normally distributed. If your target variable has a skewed distribution, applying a transformation (like a [[log transformation]]) can help improve the performance of the model.
     
 2. **Heteroscedasticity**: This is a situation where the variance of the error terms in a regression model is not constant. In such cases, applying a transformation to the target variable can help stabilize the variance and improve the model's performance.
     

@@ -62,9 +62,14 @@ How to do vector embeddings in [[PyTorch]] that show [[Semantic Relationships]] 
 
 In [[ML_Tools]] see: [[Vector_Embedding.py]]
 
+## Articles
+
+https://blog.esciencecenter.nl/king-man-woman-king-9a7fd2935a85
+
 ## Related Terms
 
 [[How to search within a graph]]
 [[How would you decide between using TF-IDF and Word2Vec for text vectorization]]
 [[embeddings for OOV words]]
+
 

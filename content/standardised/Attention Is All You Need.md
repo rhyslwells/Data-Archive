@@ -1,5 +1,5 @@
 ---
 title: 
 tags: 
-category: paper
+category: PAPER
 ---

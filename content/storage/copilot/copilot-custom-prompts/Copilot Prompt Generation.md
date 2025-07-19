@@ -4,4 +4,4 @@ I have a obsidian archive with a chatgpt plugin where i can query my vault of no
 
 Context:
 [[Prompt Engineering]]
-[[Prompting]]
+[[Prompts]]

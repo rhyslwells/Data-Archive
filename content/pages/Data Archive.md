@@ -17,8 +17,8 @@ The [[Data Archive]] is continuously growing and is the entry point of my resear
 
 The Data Archive is split into two areas:
 
-> [!abstract]- Queries
-> The [[Queries]] page of the Data Archive contains questions which I think are interesting. One of the main aims of the Data Archive is towards generating good questions.
+> [!abstract]- Research Questions
+> The [[Research Questions]] page of the Data Archive contains questions which I think are interesting. One of the main aims of the Data Archive is towards generating good questions.
 > 
 
 > [!abstract]- Standardised

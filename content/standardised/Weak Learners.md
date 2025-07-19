@@ -16,5 +16,5 @@ Weak learners are a crucial component of [[Model Ensemble]] techniques, such as 
 
 ## Learning Rate
 
-- The [[learning rate]] is a [[Hyperparameter]]that controls the contribution of each weak learner to the final ensemble model.
+- The [[Learning Rate]] is a [[Hyperparameter]]that controls the contribution of each weak learner to the final ensemble model.
 - A smaller learning rate means that each weak learner has a smaller impact, often requiring more learners to achieve good performance.

@@ -10,7 +10,7 @@ Optimizing SQL [[Querying]]:
 - Managing [[Transaction]]
 - and vacuuming, and handling concurrency with transactions and locks ensures efficient and reliable database performance.
 
-### Timing [[Queries]]:
+### Timing [[Querying]]:
 
 - Use `.timer on` to measure query execution time and identify slow queries.
 

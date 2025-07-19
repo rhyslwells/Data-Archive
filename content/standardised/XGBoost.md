@@ -29,7 +29,7 @@ It works by building an [[Model Ensemble]] - ensemble of decision trees, where e
 5. [[Gradient Descent]]
    - The model uses gradient descent to minimize the loss function. It calculates the gradient of the loss function with respect to the model's predictions and uses this information to update the model.
 
-6. [[learning rate]] ($\eta$):
+6. [[Learning Rate]] ($\eta$):
    - A parameter that scales the contribution of each tree. A smaller learning rate requires more trees but can lead to better performance.
 
 7. Tree Pruning:

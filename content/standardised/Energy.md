@@ -2,7 +2,7 @@
 title: 
 tags:
   - energy
-category: industries
+category: INDUSTRY
 ---
 Areas of interest:
 - [[Smart Grids]]

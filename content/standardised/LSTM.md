@@ -3,12 +3,10 @@ title:
 tags:
   - deep_learning
   - time_series
-  - code_snippet
-  - drafting
 aliases:
   - LSTM vs. Transformer
   - RNN vs. Transformer
-category: Deep Learning
+category: DS
 ---
 # What is LSTM
 

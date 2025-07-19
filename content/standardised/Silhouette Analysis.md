@@ -1,9 +1,12 @@
-[Sklearn link](https://scikit-learn.org/1.5/auto_examples/cluster/plot_kmeans_silhouette_analysis.html)
-
+---
+tags: 
+category: 
+---
 Silhouette analysis is a technique used to evaluate the quality of clustering results. It provides a measure of how similar an object is to its own cluster compared to other clusters. This analysis helps in determining the appropriateness of the number of clusters and the consistency within clusters.
 
 Overall, silhouette analysis is a valuable tool for assessing the quality of [[clustering]] results and making informed decisions about the number of clusters and the clustering algorithm's effectiveness.
 
+[Sklearn link](https://scikit-learn.org/1.5/auto_examples/cluster/plot_kmeans_silhouette_analysis.html)
 ### Key Concepts:
 
  **Silhouette Score:** For each data point, the silhouette score is calculated using the following formula:
@@ -15,10 +18,14 @@ Overall, silhouette analysis is a valuable tool for assessing the quality of [[c
    $b(i)$ is the average distance between the data point $i$ and all points in the nearest cluster (the cluster with the smallest average distance to $i$).
 
  **Interpretation of Silhouette Scores:**
-   A silhouette score ranges from -1 to 1.
-   A score close to 1 indicates that the data point is ==wellclustered== and far from neighboring clusters.
-   A score close to 0 indicates that the data point is on or very close to the decision boundary between two neighboring clusters.
-   A negative score indicates that the data point might have been assigned to the wrong cluster.
+   - A silhouette score ranges from -1 to 1.
+   - A score close to 1 indicates that the data point is ==well clustered== and far from neighboring clusters.
+   - A score close to 0 indicates that the data point is on or very close to the decision boundary between two neighboring clusters.
+   - A negative score indicates that the data point might have been assigned to the wrong cluster.
+
+Exploratory Questions:
+- How does silhouette score behave in high-dimensional embedding spaces?
+- Can it be trusted when clusters have unequal sizes or densities?
 
 ### Silhouette Plot:
 
@@ -33,8 +40,6 @@ Good
 Bad
 
 ![[Pasted image 20241231172459.png]]
-
-
 
 ### Applications:
 

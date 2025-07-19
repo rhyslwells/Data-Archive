@@ -73,7 +73,7 @@ Questions can be classified by their **function**, **depth**, or **structure**.
 ### Related Concepts
 - [[Chain of Thought]]
 - [[Design Thinking Questions]]
-- [[Prompting]]
+- [[Prompts]]
 
 ### Questions:
-- How LLMs generate or refine questions using [[Prompting]] or [[Chain of thought]] approaches?
+- How LLMs generate or refine questions using [[Prompts]] or [[Chain of thought]] approaches?

@@ -2,5 +2,5 @@
 title: 
 tags: 
 aliases: 
-category: paper
+category: PAPER
 ---

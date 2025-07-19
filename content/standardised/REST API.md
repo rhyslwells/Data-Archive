@@ -1,3 +1,8 @@
+---
+tags: 
+category: 
+---
+Postman is a free tool to test out REST API.
 #### REST API
 - REST stands for Representational State Transfer.
 - It is a ==standardized== software architecture style used for API communication between a client and a server.

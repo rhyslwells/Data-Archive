@@ -11,7 +11,7 @@ Adam (Adaptive Moment Estimation) is an advanced optimization algorithm that com
 Adam is particularly effective for large datasets and complex models, as it provides robust convergence and requires minimal tuning compared to other optimization algorithms. Its ability to ==dynamically adjust learning rates== makes it a popular choice in the deep learning community.
 #### Key Features of Adam:
 
-**Adaptive Learning Rates:** Adam adjusts the [[learning rate]] for each parameter individually, based on the first and second moments of the gradients. This allows for more precise updates and better convergence.
+**Adaptive Learning Rates:** Adam adjusts the [[Learning Rate]] for each parameter individually, based on the first and second moments of the gradients. This allows for more precise updates and better convergence.
 
 **Momentum and RMSProp Combination:** Adam incorporates the concept of momentum by using moving averages of the gradients (first moment) and the squared gradients ==(second moment)==, similar to RMSProp.
 

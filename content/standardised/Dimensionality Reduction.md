@@ -1,9 +1,9 @@
 ---
-tags: 
+tags:
   - ml_process
   - data_visualization
-aliases:
-category: DATA_ANALYSIS
+aliases: 
+category: ML
 phase: Preprocessing
 topic: Dimensionality Reduction Techniques
 filename: dimensionality_reduction_techniques.py
@@ -25,4 +25,4 @@ Its a technique used to reduce the number of input variables (features) in a dat
 
 - [[Linear Discriminant Analysis]] method used for both classification and dimensionality reduction, which finds a linear combination of features that best separates two or more classes.
 
-### [[Explain the curse of dimensionality]]
+### [[Curse of dimensionality]]

@@ -9,6 +9,6 @@ Here's a breakdown of the key features of LBFGS:
 3. Optimization for Smooth, Differentiable Functions: It is designed to optimize smooth, differentiable functions like the [[cost function]] in logistic regression.
     
 
-In the context of logistic regression with sklearn, LBFGS is used as a solver for optimization. When you set `solver='lbfgs'`, [[Sklearn]]'s logistic regression uses this algorithm to iteratively adjust the model parameters (the intercept and coefficients) to minimize the logistic loss (the cost function) while possibly incorporating regularization.
+In the context of logistic regression with sklearn, LBFGS is used as a solver for optimization. When you set `solver='lbfgs'`, [[Scikit-Learn]]'s logistic regression uses this algorithm to iteratively adjust the model parameters (the intercept and coefficients) to minimize the logistic loss (the cost function) while possibly incorporating regularization.
 
 LBFGS is often preferred for its efficiency and ability to converge quickly without needing a lot of iterations, especially when the number of features is large.

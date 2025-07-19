@@ -4,7 +4,7 @@ tags:
   - deep_learning
 aliases:
   - DL
-category: Machine Learning
+category: ML
 ---
 >[!Summary]
 > Deep learning is a subset of machine learning that uses neural networks to process large-scale data for tasks like image and speech recognition, natural language processing, and recommendation systems. 

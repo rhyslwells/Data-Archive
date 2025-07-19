@@ -159,3 +159,10 @@ Related to:
 
 These examples illustrate some of the basic functionalities of Command Prompt. While cmd is less powerful compared to [[PowerShell]], it remains useful for simple file system navigation, file management, and running legacy scripts.
 
+## 11: History
+
+Workaround: DOSKEY history
+doskey /history
+This will output the current session’s command history to the console.
+
+Note: This only works for the current session. Once you close the window, the history is lost.

@@ -23,7 +23,7 @@ Given any point on the cost function surfaces. Then ask, "In what direction shou
 
 ![[Obsidian_FEGflF5RKQ.png|500]]
 
-How do you implement Gradient descent? You update the (direction) parameter by the small step by the [[learning rate]].
+How do you implement Gradient descent? You update the (direction) parameter by the small step by the [[Learning Rate]].
 
 ![[Obsidian_M4mzGSAx7d.png|500]]
 

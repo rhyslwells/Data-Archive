@@ -6,7 +6,7 @@ tags:
 aliases:
   - iForest
   - anomaly isolation
-category: Machine Learning
+category: ML
 importance: 
 engagement: 
 recency_of_interest: 2024-09-26

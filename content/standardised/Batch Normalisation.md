@@ -1,3 +1,7 @@
+---
+tags: 
+category: 
+---
 Links:
 - [Batch normalization | What it is and how to implement it](https://www.youtube.com/watch?v=yXOMHOpbon8&list=PLcWfeUsAys2nPgh-gYRlexc6xvscdvHqX&index=2)
 
@@ -66,3 +70,10 @@ keras.layers.Dense(10, activation = "softmax")
 ])
 ```
 
+## Questions
+
+Q6: What is batch normalization, and how does it address the vanishing gradient problem?
+
+A6: Batch normalization is a technique that normalizes the inputs to each layer within a mini-batch. By normalizing the inputs, it reduces the internal covariate shift and helps maintain a stable gradient flow. Batch normalization alleviates the vanishing gradient problem by ensuring that the gradients do not vanish or explode during training.
+
+[[vanishing and exploding gradients problem]]

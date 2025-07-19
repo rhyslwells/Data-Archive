@@ -2,6 +2,8 @@
 aliases:
   - GNN
 ---
+[[Neural network]]
+
 Resources:
 - [How Graph Neural Networks Are Transforming Industries](https://www.youtube.com/watch?v=9QH6jnwqrAk&list=PLcWfeUsAys2kC31F4_ED1JXlkdmu6tlrm&index=6)
 

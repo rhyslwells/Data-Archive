@@ -1,8 +1,9 @@
 ---
-tags: 
+tags:
+  - deep_learning
 aliases:
   - GAN
-category: 
+category: ML
 phase: 
 topic: 
 filename:

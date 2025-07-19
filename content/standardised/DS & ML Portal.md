@@ -8,7 +8,7 @@
 
 ### Model Training and Optimisation
 
-- [[Learning rate]]
+- [[Learning Rate]]
 - [[Overfitting]]
 - [[Regularisation]]
 - [[Hyperparameter]]
@@ -78,7 +78,7 @@ Boosting and Optimisation
 - [[Model Ensemble]]
 - [[Batch Processing]]
 - [[Apache Spark]]
-- [[Sklearn]]
+- [[Scikit-Learn]]
 
 ### Statistical and Data Analysis Concepts
 

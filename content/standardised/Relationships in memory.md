@@ -1,10 +1,10 @@
 ---
-tags: 
+tags:
   - memory_management
   - language_models
 aliases:
-- Managing LLM memory
-category: MACHINE_LEARNING
+  - Managing LLM memory
+category: ML
 phase: Model Selection
 topic: Managing LLM Memory
 filename: managing_llm_memory.py

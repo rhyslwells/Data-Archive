@@ -1,7 +1,6 @@
 ---
 title: Regularization in Machine Learning
 tags:
-  - deleted
   - ml_process
   - data_visualization
   - statistics
@@ -10,7 +9,7 @@ tags:
 aliases:
   - Regulation in ML
   - Regularisation techniques
-category: Machine Learning
+category: ML
 phase: optimisation
 topic: regularisation
 ---

@@ -3,48 +3,55 @@ title:
 tags:
   - NLP
   - language_models
+  - deep_learning
 aliases: 
-category:
+category: LANG
 ---
-BERT (==Bidirectional Encoder Representations from [[Transformer]]==) is used in [[NLP]]processing, developed by [[Google]]. 
+### Overview
 
-Introduced in the paper "[[BERT Pretraining of Deep Bidirectional Transformers for Language Understanding]]" in 2018. 
+* [[BERT]] (Bidirectional Encoder Representations from [[Transformer]]) is a [[transformer]]-based model developed by [[Google]] in 2018.
+* It is built on the [[Transformer]] architecture and uses a **bidirectional** context representation—capturing the meaning of words based on both their left and right context.
+* Introduced in the paper: "[[BERT Pretraining of Deep Bidirectional Transformers for Language Understanding]]".
 
-It is forward & backward looking in the context.
+### Pretraining and [[Transfer Learning]]
 
-BERT is a stack of encoders -learning context.
+* Pre-trained on large corpora using two main objectives:
+  * **Masked Language Modeling (MLM)**: Predict randomly masked words.
+  * **Next Sentence Prediction (NSP)**: Predict whether one sentence follows another.
+* Enables [[Transfer Learning]] through task-specific fine-tuning.
 
-Input [[Vector Embedding|embedding]]:
-- [[Positional Encoding]]: passes location info to encoder
-- Sentence embeddings: differences between sentences
-- Token embeddings
+### Input [[Vector Embedding|Embeddings]]
 
-Training of BERT:
-- Masked Language modelling (hiding words)
-- Next Sentence Prediction
+* [[Token Embedding]]: Representation of each word or token.
+* Sentence Embeddings: Capture relationships between entire sentences.
+* [[Positional Encoding]]: Adds information about the position of words to handle order.
 
-Fine tuning ([[Transfer Learning]]) BERT model:
-- New output layer dependent
- 
-Resources:
-- [What is BERT and how does it work? | A Quick Review](https://www.youtube.com/watch?v=6ahxPTLZxU8&list=PLcWfeUsAys2my8yUlOa6jEWB1-QbkNSUl&index=12)
+### Fine-Tuning BERT
 
-### What is BERT?
+Fine-tuning modifies the final layer to fit downstream tasks like:
+  * Text classification
+  * [[Named Entity Recognition|NER]]
+  * Question answering
+  * Retains pre-trained layers; only the top task-specific layers are changed.
 
-- BERT is based on the [[Transformer]] architecture and utilizes a bidirectional approach, meaning it considers the ==context of a word based on both its left and right surroundings in a sentence.== This allows BERT to capture nuanced meanings and relationships between words more effectively than unidirectional models
+### Variants
 
-- Pre-training and Fine-tuning/[[Transfer Learning]] techniques. It learns to predict masked words in sentences (Masked Language Model) and to determine if one sentence follows another (Next Sentence Prediction).
-### What is BERT Used For?
+* **BERT-base**: 12 layers, 110M parameters.
+* **BERT-large**: 24 layers, 340M parameters.
+* Optimized alternatives for specific tasks:
+	* [[Sentence Similarity]]: Use [[Sentence-BERT]] instead of BERT for better performance on semantic similarity.
+### Applications of BERT
 
-1. Text Classification: Assigning categories or labels to text documents, such as sentiment analysis or topic classification.
+1. **Text Classification** – Sentiment analysis, topic classification.
+2. **[[Named Entity Recognition|NER]]** – Extraction of entities like names, places, etc.
+3. **Question Answering** – Find answers based on a passage.
+4. **Text [[Summarisation]]** – Create concise summaries of documents.
+5. **Language Translation** – Assist with machine translation.
+6. **[[Sentence Similarity]]** – Evaluate semantic similarity between sentences.
+### Resources
+* [What is BERT and how does it work? | A Quick Review](https://www.youtube.com/watch?v=6ahxPTLZxU8&list=PLcWfeUsAys2my8yUlOa6jEWB1-QbkNSUl&index=12)
+### Exploratory Questions
 
-2. Named Entity Recognition ([[Named Entity Recognition|NER]]): Identifying and classifying entities (e.g., names, organizations, locations) within text.
-
-3. Question Answering: Providing answers to questions based on a given context or passage of text.
-
-4. Text [[Summarisation]]: Generating concise summaries of longer documents while retaining key information.
-
-5. Language Translation: Assisting in translating text from one language to another.
-
-6. [[Sentence Similarity]] :Measuring the similarity between sentences, which can be useful for tasks like paraphrase detection or duplicate question identification.
-
+* What does [[BERT]] learn about **syntax** vs **semantics**?
+* How do [[Attention mechanism]] heads contribute to sentence meaning?
+* What are the limitations of BERT for [[Sentence Similarity]] and sentence clustering?
