@@ -3,9 +3,9 @@ tags:
   - software
 aliases:
   - cmd
-category:
+category: DE
 ---
-Command Prompt (cmd) is a command-line interpreter on Windows systems that allows users to execute commands to perform various basic tasks. Below are some common tasks that can be performed in cmd, along with examples:
+Command Prompt (cmd) is a command-line interpreter on Windows systems that allows users to execute commands to perform various basic tasks. cmd is less powerful compared to [[PowerShell]], it remains useful for simple file system navigation, file management, and running legacy scripts.
 
 Related to:
 - [[Bash]]
@@ -100,7 +100,7 @@ Related to:
 
 ## 6. Batch File Scripting
 
-- **Creating and Running a Simple Batch File:**
+- **Creating and Running a Simple Batch File:** ([[bat]])
   - Create a file named `example.bat` with the following content:
     ```cmd
     @echo off
@@ -113,7 +113,7 @@ Related to:
     ```
   This batch file prints "Hello, World!" to the console and waits for the user to press a key before closing.
 
-## 7. Environment Variables
+## 7. [[Environment Variables]]
 
 - **Viewing Environment Variables:**
   ```cmd
@@ -127,28 +127,6 @@ Related to:
   ```
   Sets an environment variable `MYVAR` with the value `Hello`.
 
-## 8. Disk Operations
-
-- **Checking Disk Usage:**
-  ```cmd
-  chkdsk C:
-  ```
-  Checks the file system and file system metadata of the C: drive for logical and physical errors.
-
-- **Formatting a Disk:**
-  ```cmd
-  format D: /FS:NTFS
-  ```
-  Formats the D: drive with the NTFS file system.
-
-## 9. Echoing Messages
-
-- **Displaying a Message:**
-  ```cmd
-  echo Hello, World!
-  ```
-  Prints `Hello, World!` to the console.
-
 ## 10. Redirecting Output
 
 - **Redirecting Command Output to a File:**
@@ -157,7 +135,7 @@ Related to:
   ```
   Redirects the output of the `dir` command to `output.txt`.
 
-These examples illustrate some of the basic functionalities of Command Prompt. While cmd is less powerful compared to [[PowerShell]], it remains useful for simple file system navigation, file management, and running legacy scripts.
+`dir /b` for the list of contents only.
 
 ## 11: History
 

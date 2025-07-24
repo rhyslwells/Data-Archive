@@ -2,7 +2,7 @@ Looker studio is [[Google]] version of [[PowerBI]], but its free.
 ### Connectors to data
 
 Can connect to data sources i.e:
-- [[standardised/GSheets|GSheets]]
+- [[Google Sheets|Google Sheets]]
 - [[PostgreSQL]]
 
 ### Data Modelling

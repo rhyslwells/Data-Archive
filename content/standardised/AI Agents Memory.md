@@ -4,7 +4,7 @@ category:
 ---
 Mem0 White paper: Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory
 
-[[Memory]]
+[[LLM Memory]]
 
 Problem: how do you give memory to long running agents.
 
@@ -28,7 +28,7 @@ Use cases:
 
 Architecture:
 - Sotring memories in a database.
-- Using semantic similarity search to get related ones 
+- Using semantic [[similarity search]] to get related ones 
 - then Add,update, delete,NOOP to get new memories.
 - Optional add graph memory
 - Use [[Named Entity Recognition|Entity Recognition]] to get nodes 

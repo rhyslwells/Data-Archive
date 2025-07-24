@@ -1,3 +1,11 @@
+---
+tags:
+  - deep_learning
+  - ml
+category:
+---
+
+
 Types of [[Neural network]]:
 
 [[Feed Forward Neural Network]]

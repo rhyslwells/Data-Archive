@@ -1,3 +1,5 @@
+
+
 In logistic regression, the model predicts the ==odds of an event happening rather than directly predicting probabilities.== The odds are defined as:
 
 $$ \text{Odds} = \frac{P(\text{success})}{P(\text{failure})} = \frac{p}{1-p} $$
@@ -10,4 +12,4 @@ Resources:
 - [Explanation of log odds](https://www.youtube.com/watch?v=ARfXDSkQf1Y)
 - [Explanation of log odd function](https://www.youtube.com/watch?v=fJ53tIDbvTM)
 
-[[What is the difference between odds and probability]]
+[[Odds vs Probability]]

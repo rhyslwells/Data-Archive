@@ -2,7 +2,8 @@
 tags:
   - classifier
   - ml
-type:
+type: 
+category: ML
 ---
 Classification is a type of [[Supervised Learning]] in machine learning, where the algorithm learns from labeled data to predict which category or class a new, unlabeled data point belongs to. The goal is to assign the correct label to input data based on patterns learned from the training set.
 ## Choosing a Classifier Algorithm

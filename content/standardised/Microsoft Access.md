@@ -7,9 +7,9 @@ tags:
 ### Tasks
 
 - [ ] How to update (or more so insert) into multiple related tables. How to insert existing data into a [[Database]]. SQL triggers?
-- [ ] Investigate: Helper table to gather many small tables into one.
+- [ ] Investigate: Helper tables gather many small tables into one.
 - [ ] What are typical types of databases.
-- [ ] Questions: Make a form that accesses multiple tables.
+- [x] Questions: Make a form that accesses multiple tables. ✅ 2025-07-20
 ### Resources
 [Tutorial](https://www.youtube.com/watch?v=ubmwp8kbfPc)
 
@@ -23,7 +23,7 @@ tags:
 Why use access:
 	Handles lots of data better than excel. Understand relationships between sources of data.
  
-Querying:
+[[Querying]]:
 	Can do querying. Which might be hard to do in excel.
 	Graphical way to make queries.
 

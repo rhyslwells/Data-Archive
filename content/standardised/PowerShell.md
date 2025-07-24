@@ -3,7 +3,7 @@ tags:
   - software
 aliases:
   - Why is Powershell better than cmd
-category: 
+category: DE
 phase: 
 topic: 
 filename:
@@ -45,3 +45,6 @@ PowerShell interacts with several types of scripts and scripting languages, incl
 6. **Python and Other Scripting Languages**: PowerShell can call scripts written in other languages (like Python) using the appropriate command-line interfaces.
 
 7. **JSON and XML**: PowerShell can parse and manipulate JSON and XML data, which are often used in configuration files and data exchange.
+
+Tasks:
+- [ ] Explore the uses of [[PowerShell]]

@@ -7,7 +7,7 @@ category:
 ---
 #### **Why use generators for processing large data?** 
 
-**Generators** are [[Python]] constructs that yield values lazily, which means they don’t load everything into [[memory]]. This is ideal for **[[Data Streaming]] large datasets**, such as:
+**Generators** are [[Python]] constructs that yield values lazily, which means they don’t load everything into [[LLM Memory]]. This is ideal for **[[Data Streaming]] large datasets**, such as:
 
 * Reading files line by line
 * Processing massive CSV or JSONL logs

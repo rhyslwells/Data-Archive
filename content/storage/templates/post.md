@@ -1,6 +1,0 @@
----
-tags:
-  - drafting
-aliases: 
-category:
----

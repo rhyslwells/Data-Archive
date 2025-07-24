@@ -23,7 +23,7 @@ The goal of many RL algorithms is to find an optimal policy that maximizes the c
   - **Off-Policy**: The agent learns the value of the optimal policy, regardless of the actions it actually takes. [[Q-Learning]] is an example of an off-policy algorithm, as it updates its policy based on the best possible action in the next state, not necessarily the action taken.
 
 **Conservatism**:
-  - Some policies, like those in SARSA, are more conservative in their updates. This means they are more cautious and adapt to uncertainties in the environment, making them suitable for environments where [[exploration]] and [[exploitation]] need to be balanced carefully.
+  - Some policies, like those in SARSA, are more conservative in their updates. This means they are more cautious and adapt to uncertainties in the environment, making them suitable for environments where [[Agent Exploration]] and [[exploitation]] need to be balanced carefully.
 
 ### Example of a Policy
 

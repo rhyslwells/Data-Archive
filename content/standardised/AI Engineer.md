@@ -1,6 +1,8 @@
 ---
 title: 
 tags:
+  - ml
+category:
 ---
 They know what
 - [[LSTM]] means

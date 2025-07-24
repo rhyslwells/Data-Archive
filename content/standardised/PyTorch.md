@@ -2,8 +2,10 @@
 title: 
 tags:
   - software
+  - deep_learning
 aliases:
   - PyTorch
+category: ML
 ---
 [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/) want for [[PyTorch]]
 

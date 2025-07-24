@@ -4,7 +4,7 @@ tags:
   - NLP
 aliases:
   - Natural Language Processing
-category: ML
+category: LANG
 ---
 Natural Language Processing (NLP) involves the interaction between computers and humans using natural language. It encompasses various techniques and models to process and analyze large amounts of natural language data.
 

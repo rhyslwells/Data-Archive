@@ -1,4 +1,4 @@
-In [[standardised/GSheets]] I want to use query, but I also want to remove certain rows based on a range of keys , can I do this ?
+In [[Google Sheets]] I want to use query, but I also want to remove certain rows based on a range of keys , can I do this ?
 ### **1. Use `FILTER` Inside `QUERY` (ArrayFormula Workaround)**
 
 Since `QUERY` does not support dynamic `NOT IN`, you can first filter out the excluded keys using `FILTER`, then pass the result to `QUERY`:

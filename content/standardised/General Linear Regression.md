@@ -1,7 +1,8 @@
 ---
-tags: 
+tags:
+  - regressor
 aliases: 
-category: 
+category: ML
 phase: 
 topic: 
 filename:

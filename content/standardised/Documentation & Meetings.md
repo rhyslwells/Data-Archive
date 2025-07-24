@@ -1,3 +1,8 @@
+---
+tags:
+  - business
+category: INDUSTRY
+---
 ## Tools  
 - [[pdoc]] – Auto-generate Python API documentation  
 - [[Mermaid]] – Create diagrams and flowcharts from text in a Markdown-like syntax  

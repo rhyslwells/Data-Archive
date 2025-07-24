@@ -24,7 +24,7 @@ Many NLP models (e.g., classical models like [[Bag of words]], or early word emb
 
 | Strategy                   | Description                                                                        | Common Usage                         |
 | -------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------ |
-| UNK token                  | Map all unknown words to a special token like `<UNK>`                              | Basic RNN models, early NLP          |
+| UNK token                  | Map all unknown words to a special token like `<UNK>`                              | Basic [[Recurrent Neural Networks|RNN]] models, early NLP          |
 | Subword tokenization       | Break OOV words into smaller known parts (e.g., BPE, ==WordPiece==, SentencePiece) | Used in BERT, GPT, RoBERTa           |
 | Character-level models     | Process input character-by-character, avoiding fixed vocabulary                    | Useful in noisy or multilingual text |
 | Dynamic vocabulary updates | Re-train or extend embeddings on new corpora                                       | Custom applications                  |

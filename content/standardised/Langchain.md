@@ -9,7 +9,7 @@ LangChain is a [[Python]] framework designed to facilitate the development of ap
 Purpose: LangChain abstracts and orchestrates the logic needed to:
 * Prompt LLMs effectively
 * ==Chain together multiple LLM calls== or components
-* Maintain [[memory]] of interactions
+* Maintain [[LLM Memory]] of interactions
 * Interact with external tools and APIs
 * Build autonomous or semi-autonomous [[Agentic Solutions]]
 * Enable retrieval and indexing over documents
@@ -19,7 +19,7 @@ Core Modules:
 * [[Models]]: Interface layer to various LLM providers (e.g., OpenAI, Cohere).
 * [[Prompts]]: Templates and logic for prompt creation and formatting.
 * [[Chains]]: Composable sequences of LLM calls, enabling structured workflows.
-* [[Memory]]: Mechanisms to persist context across interactions.
+* [[LLM Memory]]: Mechanisms to persist context across interactions.
 * Indexes:  Tools for embedding and retrieving documents using vector stores.
 * [[Agents and Tools]]: Constructs for dynamic decision-making, allowing the LLM to choose tools (e.g., calculator, web search) at runtime.
 

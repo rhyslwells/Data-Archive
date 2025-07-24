@@ -9,6 +9,7 @@ aliases:
 phase: 
 topic: 
 filename: RNN_Pytorch
+category: ML
 ---
 Recurrent Neural Networks (RNNs) are a type of [[neural network]] designed to process sequential data by maintaining a memory of previous inputs through hidden states. This makes them suitable for tasks where the order of data is needed, such as:
 
@@ -27,7 +28,6 @@ https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-netwo
 - RNNs maintain a hidden state that acts as memory, enabling them to model temporal dependencies. This is essential for tasks where the current output depends on both current and previous inputs.
 - At each time step, RNNs process an input, combine it with the previous hidden state, and produce an output along with an updated hidden state.
 - The hidden state carries forward information influenced by all previous inputs, theoretically allowing RNNs to remember long-term dependencies.
-
 
 ![[Pasted image 20241219073017.png]]
 

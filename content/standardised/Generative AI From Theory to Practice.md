@@ -2,7 +2,7 @@
 
  How do LLMs work and operate.  
  Enabling [[LLM]]'s at scale:
- Explore recent AI and Generative AI language models 
+ Explore recent AI and [[Generative AI]] language models 
 
 
 ### Steps

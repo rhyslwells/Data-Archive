@@ -21,7 +21,7 @@ category:
 
 4. **Performance**:
    - **[[Batch Processing]]**: Hadoop is optimized for batch processing of large datasets, though it can be less efficient for real-time processing compared to other systems.
-   - **Latency**: Higher latency for query processing compared to Snowflake, particularly for complex analytical queries.
+   - **Latency**: Higher latency for query processing compared to [[Snowflake]], particularly for complex analytical queries.
 
 5. **Use Cases**:
    - **[[Big Data]] Processing**: Ideal for large-scale data processing tasks, including ETL (Extract, Transform, Load), data mining, and large-scale machine learning.

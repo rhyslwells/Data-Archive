@@ -1,3 +1,9 @@
+---
+tags: 
+category: 
+---
+[[Scikit-Learn]]
+
 make a dataframe by 
 
 ```python

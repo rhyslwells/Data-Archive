@@ -37,7 +37,7 @@ These gates are regulated by ==sigmoid== activation, which output values between
 # Why is LSTM less favourable over using transformers
 
 >[!Summary]  
-> Long Short-Term Memory (LSTM) networks, a type of Recurrent Neural Network ([[RNN]]), are less favorable than [[Transformer]] for many modern tasks, especially in Natural Language Processing ([[NLP]]). LSTMs process sequences of data one step at a time, making them inherently sequential and difficult to parallelize. Transformers, on the other hand, leverage a self-attention mechanism that allows them to process entire sequences simultaneously, leading to faster training and the ability to capture long-range dependencies more effectively. 
+> Long Short-Term Memory (LSTM) networks, a type of Recurrent Neural Network ([[Recurrent Neural Networks]]), are less favorable than [[Transformer]] for many modern tasks, especially in Natural Language Processing ([[NLP]]). LSTMs process sequences of data one step at a time, making them inherently sequential and difficult to parallelize. Transformers, on the other hand, leverage a self-attention mechanism that allows them to process entire sequences simultaneously, leading to faster training and the ability to capture long-range dependencies more effectively. 
 > 
 > Mathematically, LSTM’s sequential nature leads to slower computations, while the Transformer’s attention mechanism computes relationships between all tokens in a sequence, allowing better scalability and performance for tasks like translation, summarization, and language modeling.
 

@@ -11,9 +11,9 @@ filename:
 FAISS (Facebook AI [[Similarity Search]]) is a library developed by Facebook AI Research that enables efficient [[similarity search]] and [[clustering]] of dense vectors. It is especially well-suited for applications involving high-dimensional vector data, such as [[NLP]]
 ### Core Concept
 
-At its core, FAISS takes a large number of high-dimensional vectors (e.g., sentence or document embeddings), and enables fast similarity search to retrieve the most similar vectors to a given [[Querying|query]].
+At its core, FAISS takes a large number of high-dimensional vectors (e.g., sentence or document embeddings), and enables fast [[similarity search]] to retrieve the most similar vectors to a given [[Querying|query]].
 
-For example, in an NLP [[Memory]]:
+For example, in an NLP [[LLM Memory]]:
 - Documents or notes are embedded into vector space using a model like SBERT.
 - These embeddings are stored in a FAISS index.
 - Given a query, its embedding is computed, and FAISS returns the nearest neighbors (i.e., most semantically similar notes).

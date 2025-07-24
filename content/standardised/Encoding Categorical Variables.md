@@ -8,7 +8,7 @@ aliases:
 category:
 ---
 Categorical variables need to be converted into numerical representations to be used in models, particularly in [[Regression]] analysis. This process is essential for transforming categorical results into a format that algorithms can interpret.
-### Label Encoding
+### [[Label Encoding]]
 
 This method assigns a unique integer to each category in the variable.
 

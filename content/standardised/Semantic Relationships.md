@@ -10,10 +10,7 @@ Understanding these relationships can enhance various natural language processin
 
 ### Lexical Resources like [[WordNet]]
 
-One of the key resources for exploring semantic relationships is WordNet, a lexical database that groups words into sets of **cognitive synonym**s called synsets. These synsets are linked together in a hierarchy based on semantic relations, including:
-
-- Hypernymy: Represents an "is-a" relationship (e.g., "dog" is a hypernym of "beagle").
-- Hyponymy: Represents a more specific type (e.g., "beagle" is a hyponym of "dog").
+One of the key resources for exploring semantic relationships is [[WordNet]]
 
 You can use WordNet to find synonyms or related concepts for important words (those with high [[TF-IDF]] scores) in your documents. If different documents contain synonyms or words related in the WordNet hierarchy, this may indicate a semantic relationship between them, even if the exact words differ.
 

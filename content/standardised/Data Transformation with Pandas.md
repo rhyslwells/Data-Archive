@@ -9,7 +9,6 @@ filename:
 ---
 Using [[pandas]] we can do the following:
 
-
 - [[Merge]]
 - [[Concatenate]]
 - [[Joining Datasets]] 

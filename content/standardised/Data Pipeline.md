@@ -1,9 +1,11 @@
 ---
 tags:
   - data_pipeline
+  - data_management
+  - data_workflow
 aliases:
   - ETL Pipeline
-category:
+category: DEVOPS
 ---
 A data pipeline is a series of processes that automate the movement and transformation of data from various sources to a destination where it can be stored, analyzed, and used to generate insights. 
 
@@ -39,8 +41,3 @@ Monitoring and Maintenance:
 
 - [[Data Pipeline to Data Products]]
 
-
-
-
-[[Data Pipeline]]
-   **Tags**: #data_workflow, #data_management

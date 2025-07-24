@@ -32,8 +32,8 @@ Your output must follow this template format for easy import into an Obsidian va
 > {{Optional: If applicable, give an example from the text to support the key points}}
 
 >[!Follow up questions]
-> - [ ] {{Follow-up question 1 based on the article content}}
-> - [ ] {{Follow-up question 2}}
+> - {{Follow-up question 1 based on the article content}}
+> - {{Follow-up question 2}}
 
 >[!Link]
 >

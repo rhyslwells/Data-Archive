@@ -1,23 +1,29 @@
 {
 	"nodes":[
-		{"id":"a6b9c472fa151b76","x":520,"y":-550,"width":320,"height":391,"type":"group","label":"Workspaces"},
-		{"id":"19d8c64ce521f7f7","x":749,"y":0,"width":290,"height":185,"type":"group","label":"Ongoing Projects"},
-		{"id":"0bb4cfe5eaf86f32","type":"text","text":"Obsidian Inbox","x":-680,"y":-30,"width":250,"height":60},
-		{"id":"a0fccfd66396b8b2","type":"text","text":"","x":-680,"y":80,"width":250,"height":60},
-		{"id":"42b52c04c5495066","type":"text","text":"Questions:\n- Do we track project notes in Obsidian Inbox?\n- Are we making use of pdf annotator?","x":-580,"y":235,"width":440,"height":346},
-		{"id":"9315131b48604488","type":"text","text":"NotebookLM:\n- Use Obsidian Inbox pdfs","x":-680,"y":-159,"width":320,"height":86},
-		{"id":"27fa2c3ab1de5273","type":"text","text":"Blog","x":-293,"y":-30,"width":250,"height":60},
-		{"id":"6d079e3678996049","type":"text","text":"Research Exploration\n- Youtube Playlists\n- Github Starred Repos\n- [[Research Questions]]\n- Obsidian Bookmarks\n- Chrome Bookmarks\n- Obsidian Webview\n- [[NotebookLM]]\n","x":-705,"y":-530,"width":305,"height":302},
+		{"id":"a6b9c472fa151b76","type":"group","x":515,"y":-550,"width":320,"height":391,"label":"Workspaces"},
+		{"id":"49090182e2291d5f","type":"group","x":280,"y":280,"width":334,"height":231,"label":"Ideas"},
+		{"id":"2e895bc6a1bbe4a7","type":"group","x":731,"y":280,"width":290,"height":189,"label":"Pending"},
+		{"id":"19d8c64ce521f7f7","type":"group","x":515,"y":-80,"width":320,"height":120,"label":"Ongoing Projects"},
 		{"id":"be168ca8a9f68ca7","type":"text","text":"[[DE_Tools]]","x":540,"y":-530,"width":271,"height":103},
 		{"id":"1030747fef16bd35","type":"text","text":"[[ML_Tools]]","x":540,"y":-400,"width":271,"height":104},
-		{"id":"23db9c5cacadae06","type":"text","text":"[[Data Archive]]\n- Knowledge Base","x":94,"y":-460,"width":283,"height":112},
-		{"id":"9d43f9960036bc59","type":"text","text":"Github Project Tracker","x":94,"y":-800,"width":250,"height":60},
-		{"id":"8db74e6aef168013","type":"text","text":"Data Archive Graph","x":769,"y":20,"width":250,"height":60},
-		{"id":"60c1a47ba2854925","type":"text","text":"HiveHome Data Analysis","x":344,"y":0,"width":250,"height":60},
-		{"id":"450f73a64d4972f5","type":"text","text":"Google Drive","x":540,"y":-258,"width":271,"height":78}
+		{"id":"450f73a64d4972f5","type":"text","text":"Google Drive","x":540,"y":-258,"width":271,"height":78},
+		{"id":"6c5c11ec82ce1df5","type":"text","text":"Local LLM Exploration","x":751,"y":389,"width":250,"height":60},
+		{"id":"60c1a47ba2854925","type":"text","text":"HiveHome Data Analysis","x":751,"y":300,"width":250,"height":60},
+		{"id":"9d43f9960036bc59","type":"text","text":"Trackers\n- Github Project Tracker\n- Inbox Projects","x":80,"y":-630,"width":300,"height":120},
+		{"id":"27fa2c3ab1de5273","type":"text","text":"Blog:\nFormalised thoughts and analysis","x":515,"y":-711,"width":320,"height":81},
+		{"id":"42b52c04c5495066","type":"text","text":"Questions:\n- Do we track project notes in Obsidian Inbox?\n- Are we making use of pdf annotator?","x":-428,"y":-185,"width":390,"height":191},
+		{"id":"6d079e3678996049","type":"text","text":"Research Exploration\n- Youtube Playlists\n- Github Starred Repos\n- [[Research Questions]]\n- Obsidian Bookmarks\n- Chrome Bookmarks\n- Obsidian Webview\n- [[NotebookLM]]: Use Obsidian Inbox pdfs\n- Obsidian Inbox\n","x":-428,"y":-582,"width":390,"height":350},
+		{"id":"23db9c5cacadae06","type":"text","text":"[[Data Archive]]:\nKnowledge Base","x":80,"y":-460,"width":300,"height":106},
+		{"id":"8db74e6aef168013","type":"text","text":"[[Data Archive Graph]]","x":540,"y":-60,"width":271,"height":66},
+		{"id":"6a82920417d26656","type":"text","text":"See: Projects Folder on desktop","x":290,"y":140,"width":250,"height":60},
+		{"id":"7b8b50a652dc4ebe","type":"text","text":"[[Timeseries Pattern Detector]]","x":300,"y":300,"width":294,"height":81},
+		{"id":"90cb3b8434303b18","type":"text","text":"[[Correlates of War Data Analysis]]","x":300,"y":397,"width":294,"height":95}
 	],
 	"edges":[
 		{"id":"6f32b269596d191d","fromNode":"23db9c5cacadae06","fromSide":"right","toNode":"1030747fef16bd35","toSide":"left"},
-		{"id":"d73388b3ae8e4fbc","fromNode":"23db9c5cacadae06","fromSide":"right","toNode":"be168ca8a9f68ca7","toSide":"left"}
+		{"id":"d73388b3ae8e4fbc","fromNode":"23db9c5cacadae06","fromSide":"right","toNode":"be168ca8a9f68ca7","toSide":"left"},
+		{"id":"a9b14ce221ceda22","fromNode":"6d079e3678996049","fromSide":"right","toNode":"23db9c5cacadae06","toSide":"left"},
+		{"id":"56c31e4fdaf8f727","fromNode":"23db9c5cacadae06","fromSide":"bottom","toNode":"19d8c64ce521f7f7","toSide":"left"},
+		{"id":"c564fe6053e673bf","fromNode":"23db9c5cacadae06","fromSide":"right","toNode":"27fa2c3ab1de5273","toSide":"left"}
 	]
 }

@@ -1,12 +1,14 @@
 This note contains dataview queries and they will not display. I will insert those of interest above the queries.
-## Papers that I am currently reading
+# Papers that I am currently reading
+
+See: Inbox/pdf_annotations
 ```dataview
 TABLE
 FROM ""
-WHERE contains(category, "paper")
-LIMIT 8
+WHERE contains(tags, "reading") AND category = "PAPER"
 ```
-## [[Data Science]]
+# Categories
+### DS: [[DS & ML Portal]]
 
 [[What is the role of gradient-based optimization in training deep learning models.]]
 ```dataview
@@ -14,47 +16,75 @@ TABLE
 FROM ""
 WHERE contains(tags, "question") AND category = "DS"
 ```
-## [[Machine Learning Operations]]
+### ML: [[Machine Learning]]
 ```dataview
 TABLE
 FROM ""
-WHERE contains(tags, "question") AND category = "MLOPS"
+WHERE contains(tags, "question") AND category = "ML"
 ```
-## [[Language Models]]
+
+### DE: [[Data Engineering]]
+```dataview
+TABLE
+FROM ""
+WHERE contains(tags, "question") AND category = "DE"
+```
+
+
+
+### STATISTICS: [[Statistics]]
+```dataview
+TABLE
+FROM ""
+WHERE contains(tags, "question") AND category = "STATISTICS"
+```
+
+
+### CS: [[Computer Science]]
+
+```dataview
+TABLE
+FROM ""
+WHERE contains(tags, "question") AND category = "CS"
+```
+### LANG: [[Language Models]]
 ```dataview
 TABLE
 FROM ""
 WHERE contains(tags, "question") AND category = "LANG"
 ```
-## [[Software Development Portal]]
+### DEVOPS: [[Software Development Portal]]
 ```dataview
 TABLE
 FROM ""
 WHERE contains(tags, "question") AND category = "DEVOPS"
 ```
-## [[Career Interest]]
+
+### PM: [[Project Management Portal]]
+
+```dataview
+TABLE
+FROM ""
+WHERE contains(tags, "question") AND category = "PM"
+```
+### CAREER: [[Career Development]]
+
 ```dataview
 TABLE
 FROM ""
 WHERE contains(tags, "question") AND category = "CAREER"
 ```
 
-## All Questions
-
-I have tagged new questions in generating notes, they will appear at the bottom of this.
+### INDUSTRY: [[Industries of interest]]
 
 ```dataview
 TABLE
-    round(length(file.inlinks) * 2 +
-          length(file.outlinks) +
-          length(tags) + 
-          min(round(file.size / 100, 2), 5)) AS "Interest Score",
-    recency_of_interest AS "Recency of Interest"
-    // filter(file.tags, (tag) => !contains(tag, "question")) AS "Tags"
 FROM ""
-WHERE contains(tags, "question")
-SORT round(length(file.inlinks) * 2 +
-          length(file.outlinks) +
-          length(tags) + 
-          min(round(file.size / 100, 2), 5)) DESC
+WHERE contains(tags, "question") AND category = "INDUSTRY"
+```
+
+# Tasks
+
+```tasks
+not done;;;
 ```

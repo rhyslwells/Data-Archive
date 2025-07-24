@@ -16,7 +16,7 @@ The shift from ETL to ELT has been facilitated by several factors:
 
 - **Cost Efficiency**: The decreasing costs of cloud-based storage and computation have reduced the advantages of ETL's pre-loading data transformation.
   
-- **Cloud-Based Data Warehouses**: The emergence of cloud-based data warehouses like Redshift, [[BigQuery]], and Snowflake has made the ELT approach more feasible and efficient.
+- **Cloud-Based Data Warehouses**: The emergence of cloud-based data warehouses like Redshift, [[BigQuery]], and [[Snowflake]] has made the ELT approach more feasible and efficient.
 ### Historical Context
 Historically, ETL was preferred for reasons that are now less relevant:
 

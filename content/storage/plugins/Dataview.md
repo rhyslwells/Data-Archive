@@ -5,12 +5,11 @@ https://www.youtube.com/watch?v=8yjNuiSBSAM&ab_channel=FromSergio
 
 https://www.youtube.com/watch?v=ccN5vJzXwvo
 
-
 I want to be able to extract all the notes fora given querey. Like the local graph. Maybe so that I can add comments and filter effectively
 
 ### Tasks from a specific header.
 
-- [ ] Use modified task getter 
+- [x] Use modified task getter ✅ 2025-07-20
 
 ```
 dataviewjs
@@ -21,7 +20,7 @@ dv.taskList(dv.pages('#phd/dailytasks').file.tasks.filter(task => task.header.su
 ### Tasks
 - [x] Investigate dataview see session buddy
 - [x] How to use kaban with dataview? 
-- [ ] Make template with dataview prepd
+- [x] Make template with dataview prepd ✅ 2025-07-20
 
 ### Notes
 

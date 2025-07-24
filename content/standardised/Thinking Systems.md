@@ -1,9 +1,9 @@
 ---
 tags:
   - career
-  - drafting
+  - business
 aliases: 
-category:
+category: INDUSTRY
 ---
 A thinking system is a point of view that helps solve a problem. Part of [[Knowledge Work]]. We view problems through the view of our own specialism (mathematics).  Thinking systems help with perspective.
 
@@ -13,7 +13,6 @@ Types of thinking systems:
 ### Design thinking
 
 Historically we trained people to use a product.  
-
 - users have choices, 
 - be user focused, 
 - empathy and contextual enquiry for the product/system  

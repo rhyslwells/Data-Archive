@@ -4,8 +4,9 @@ tags:
   - learning
   - GenAI
   - NLP
+  - business
 aliases: 
-category: 
+category: PM
 phase: 
 topic: 
 filename:
@@ -76,4 +77,4 @@ Questions can be classified by their **function**, **depth**, or **structure**.
 - [[Prompts]]
 
 ### Questions:
-- How LLMs generate or refine questions using [[Prompts]] or [[Chain of thought]] approaches?
+- [ ] How do LLMs generate or refine questions using [[Prompts]] or [[Chain of thought]] approaches?

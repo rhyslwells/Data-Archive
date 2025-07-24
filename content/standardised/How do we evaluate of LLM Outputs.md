@@ -8,7 +8,7 @@ The evaluation of [[LLM]] outputs involves various methodologies to assess their
 
 ### Follow up questions
  - How does the inclusion of diverse datasets impact the robustness of LLM evaluations
- - [[What are the best practices for evaluating the effectiveness of different prompts]]
+ - [[Evaluating the effectiveness of prompts]]
 ### Related Topics
  - [[Prompt engineering]] in natural language processing  
 

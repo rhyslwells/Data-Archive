@@ -8,6 +8,7 @@ phase:
 topic: 
 filename:
 ---
+- [ ] Explore by using a small dataset. What can you do with it, difference from [[SQLite]]
 #### Installation
 [How to set up a Postgres database on your Windows 10 PC](https://www.youtube.com/watch?v=4J0V3AaiOns)
 

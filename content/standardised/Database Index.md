@@ -1,6 +1,7 @@
 ---
 tags:
   - database_optimisation
+  - database_structure
 aliases:
   - Indexing
   - Index

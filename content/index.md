@@ -45,18 +45,20 @@ Welcome to the Data Archive, an archive of data-related concepts inspired by the
 | Focus: software development, tools, and system design                           |
 | ------------------------------------------------------------------------------- |
 | #software #data_orchestration #software<br> #code_snippet #software_architecture |
+### [[Project Management Portal]]
+
+| Focus: Communication, Project work               |
+| ------------------------------------------------ |
+| #career #field #question #drafting <br>#business |
+
 ### Others
 
-| Focus: computational tags |
-| ------------------------- |
-| #statistics #math         |
+| Focus: computational tags          |
+| ---------------------------------- |
+| #statistics #math #data_structure  |
 
 |Focus: GenAI, LLMs, NLP|
 |---|
 |#GenAI #language_models #NLP|
-
-| Focus: notes about notes                         |
-| ------------------------------------------------ |
-| #career #field #question #drafting <br>#business |
 
 ![[Pasted image 20250412163226.png]]

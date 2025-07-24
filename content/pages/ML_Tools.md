@@ -18,7 +18,7 @@ topic: Dependant on the phase
 filename: Final name of script. We tag files with .py with #code_snippet 
 #### Notes
 
-Using the [[0_note]] template we can get the paths for the associated files.
+Using the [[0-note]] template we can get the paths for the associated files.
 
 Use [[A YAML Generator]] to get a suggestion of what the YAML should be.
 

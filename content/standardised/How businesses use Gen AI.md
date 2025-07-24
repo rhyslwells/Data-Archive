@@ -9,7 +9,7 @@ engagement: 5
 recency_of_interest: 2024-09-26
 ---
  
-Businesses leverage generative AI to transform various operations, using models like OpenAI, Gemini (Google Cloud), Anthropic, and Meta models. These models provide services through cloud providers, making them accessible via APIs. Key use cases include:
+Businesses leverage [[generative AI]] to transform various operations, using models like OpenAI, Gemini (Google Cloud), Anthropic, and Meta models. These models provide services through cloud providers, making them accessible via APIs. Key use cases include:
 
 1. **Content Creation**: Generative AI can produce text, images, code, and even videos, enhancing marketing, design, and communication efforts.
 2. **Customer Support**: AI chatbots and assistants automate customer interactions, reducing response times and improving service quality.

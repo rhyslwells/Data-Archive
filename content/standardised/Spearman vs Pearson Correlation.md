@@ -4,39 +4,37 @@ tags:
   - analysis
 category: STATISTICS
 ---
-**Spearman correlation** is a **rank-based** measure of association, whereas **Pearson correlation** quantifies the strength of a **linear** relationship between two continuous variables.
+Spearman [[correlation]] is a rank-based measure of association, whereas Pearson correlation quantifies the strength of a linear relationship between two continuous variables.
+### Key Differences
 
-### **Key Differences**
-
-1. **Data Type and Distribution**
-
-   * **Pearson** assumes:
+1. Data Type and Distribution
+   * Pearson assumes:
      * Continuous variables
      * Linear relationships
      * Normally distributed variables (or large enough samples for CLT)
 
-   * **Spearman** can be applied to:
+   * Spearman can be applied to:
      * Discrete, ordinal, or continuous variables
-     * Non-normal distributions
+     * Non-normal [[distributions]]
      * Nonlinear but monotonic relationships
 
-1. **Sensitivity to Outliers**
-   * Pearson is **sensitive to outliers**, as it directly uses raw values.
-   * Spearman works on **ranks**, making it **more robust** to extreme values or skewed distributions.
+1. Sensitivity to [[storage/utils/file_getter/selected_files/Outliers|Outliers]]
+   * Pearson is sensitive to outliers, as it directly uses raw values.
+   * Spearman works on ranks, making it more robust to extreme values or skewed distributions.
 
-1. **Functional Form of Relationship**
-   * Pearson measures **linear correlation** (i.e., whether $y$ changes linearly with $x$).
-   * Spearman measures **monotonic correlation** (i.e., whether $y$ tends to increase or decrease as $x$ increases, regardless of the exact form).
-### **Summary**
+1. Functional Form of Relationship
+   * Pearson measures linear correlation (i.e., whether $y$ changes linearly with $x$).
+   * Spearman measures monotonic correlation (i.e., whether $y$ tends to increase or decrease as $x$ increases, regardless of the exact form).
+### Summary
 
-> Spearman correlation is better suited for **ordinal, skewed, or discrete data**, especially when the relationship is **monotonic but non-linear**, or when **outliers** are present. Pearson is preferable when the relationship is expected to be **linear and homoscedastic** between two continuous variables.
+> Spearman correlation is better suited for ordinal, skewed, or discrete data, especially when the relationship is monotonic but non-linear, or when outliers are present. Pearson is preferable when the relationship is expected to be linear and homoscedastic between two continuous variables.
 
-### **Example: Visualising the Difference**
+### Example: Visualising the Difference
 
 We create a synthetic dataset with:
 
-* A **non-linear but monotonic** relationship between $x$ and $y$
-* Some **outliers** to test robustness
+* A non-linear but monotonic relationship between $x$ and $y$
+* Some outliers to test robustness
 
 ```python
 import numpy as np
@@ -50,7 +48,7 @@ np.random.seed(0)
 x = np.random.choice([0, 1, 2, 3, 4], size=100, p=[0.2, 0.3, 0.3, 0.15, 0.05])
 
 # Simulate y: nonlinear monotonic trend with noise
-y = x**2 + np.random.normal(0, 2, size=100)
+y = x2 + np.random.normal(0, 2, size=100)
 
 # Inject outliers
 y[::15] += np.random.randint(10, 20, size=7)
@@ -73,7 +71,7 @@ print(f"Pearson correlation: {pearson_corr:.3f}")
 print(f"Spearman correlation: {spearman_corr:.3f}")
 ```
 
-### **Interpretation of Results**
+### Interpretation of Results
 
 Typical output (may vary):
 
@@ -82,20 +80,19 @@ Pearson correlation: 0.68
 Spearman correlation: 0.83
 ```
 
-* **Pearson** is reduced due to:
+* Pearson is reduced due to:
   * Nonlinearity (e.g., quadratic growth)
   * Outliers inflating variance
 
-* **Spearman** remains strong:
-  * Preserves **rank order**
+* Spearman remains strong:
+  * Preserves rank order
   * Diminishes influence of outliers
-### **Conclusion**
+### Conclusion
 
-This example highlights that **Spearman correlation is more robust and flexible** in many real-world settings where:
+This example highlights that Spearman correlation is more robust and flexible in many real-world settings where:
 
-* Variables are **discrete**, **ranked**, or **not normally distributed**
-* The relationship is **monotonic but not linear**
-* **Outliers** may distort direct measurements of association
+* Variables are discrete, ranked, or not normally distributed
+* The relationship is monotonic but not linear
+* Outliers may distort direct measurements of association
 
-For rigorous statistical analysis, it’s important to examine **data characteristics** and the **underlying assumptions** before selecting a correlation metric.
-
+For rigorous statistical analysis, it’s important to examine data characteristics and the underlying [[Statistical Assumptions]] before selecting a correlation metric.

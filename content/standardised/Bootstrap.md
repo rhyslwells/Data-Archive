@@ -1,2 +1,6 @@
-sampling with replacement from an original dataset.
+---
+tags: 
+category: 
+---
+Sampling with replacement from an original dataset.
 

@@ -18,7 +18,7 @@ A Large Language Model (LLM) is a type of language model designed for language u
 # Questions
 
 - [[How do we evaluate of LLM Outputs]]
-- [[Memory|What is LLM memory]]
+- [[LLM Memory|What is LLM memory]]
 - [[Relationships in memory|Managing LLM memory]]
 - [[Mixture of Experts]]: having multiple experts instead of one big model.
 - [[Distillation]]

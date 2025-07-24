@@ -3,15 +3,17 @@ tags:
   - statistics
   - portal
 ---
-Statistics want to understand the world. The world is made of probabilities, we model probabilities with functions, and we model functions with parameters.
+Statisticians want to understand the world. The world is made of probabilities, we model probabilities with functions, and we model functions with parameters.
 
 "Observe data and construct models, infer and refine hypotheses "
 
+Resources:
+https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E
+- [ ] Put links into relevant notes
+
 Portal for all statistics notes:
 
-Statistical theorems:
-- Asymptotic Theorem: Law of large numbers: Sample mean approaches the population mean.
-	- finite mean assumption
+[[Statistical theorems]]
 
 [[Statistical Assumptions]]
 
@@ -59,8 +61,6 @@ Estimation Problems: using data to estimate model parameters
 - [[Expectation Maximisation Algorithm]]
 
 [[Likelihood ratio]]: [[Type 1 error and Power]] UMP test. used to maximise power. [[T-test]] is a consequence of this.
-
-Dashboards/Animations: Shiny, gganimate
 
 [[Estimator]]
 

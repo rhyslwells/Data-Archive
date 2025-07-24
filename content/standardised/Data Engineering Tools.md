@@ -1,5 +1,5 @@
 
-  - **Snowflake:** [[Cloud]]-based data warehousing for scalable storage and processing.
+  - **[[Snowflake]]:** [[Cloud]]-based data warehousing for scalable storage and processing.
   - **Microsoft SQL Server:** [[SQL]]-based relational database management.
   - **[[Azure]] SQL Database:** Managed relational database service on Azure.
   - **Azure Data Lake Storage:** Scalable storage for big data analytics.
