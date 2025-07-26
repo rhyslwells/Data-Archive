@@ -2,16 +2,33 @@
 tags:
   - software
 ---
-### Printing without code : [[Documentation & Meetings]]/ [[nbconvert]]
+At a system level, working with `.ipynb` (Jupyter Notebook) files involves understanding them as structured [[JSON]] documents, and then managing, manipulating, or integrating them into broader data workflows, systems, or tools. Here's a breakdown of what you can do at that level:
 
-https://stackoverflow.com/questions/49907455/hide-code-when-exporting-jupyter-notebook-to-html
+### Programmatic Manipulation (as JSON)
 
-jupyter nbconvert stock_analysis.ipynb --no-input --to pdf
+`.ipynb` files are JSON-structured documents. At a system level, you can:
 
-jupyter nbconvert --to html --no-input --no-prompt phi_analysis.ipynb
+* Parse and modify them using Python (`json` module), `nbformat`, or external tools.
+* Extract code cells, markdown cells, outputs, and metadata.
+* Insert cells programmatically to generate templated or modular notebooks.
 
---clear -output
+### Execution Automation
 
-jupyter nbconvert --to html --TemplateExporter.exclude_input=True Querying.ipynb
+You can execute `.ipynb` files non-interactively. Batch run notebooks with tools like:
+  * `papermill` (parameterised execution)
+  * `nbconvert --execute`
+  * `jupyter nbclient`
 
+### Conversion & Export
+
+Convert notebooks into various formats:
+
+* HTML, PDF (e.g., for reports, presentations)
+* Python scripts (`nbconvert`)
+* Slideshows ([[Reveal.js]])
+* Markdown for publishing
+
+### Embedding and Serving
+* Serve as interactive documentation or reports (e.g., [[Jupyter Book]])
+* Used in browser-based notebook environments (JupyterHub, [[Google Colab]]).
 

@@ -5,7 +5,9 @@ category:
 ---
 ### Batch Files in Windows: Capabilities and Use Cases
 
-Batch (`.bat`) files are plain-text scripts interpreted by `cmd.exe`. ([[Command Prompt]]) They allow users to automate tasks, orchestrate program execution, and manage files or system state using built-in Windows commands. While simple, they are effective for both personal automation and lightweight operational workflows.
+Batch (`.bat`) files are plain-text scripts interpreted by `cmd.exe`. ([[Command Prompt]]). They allow users to automate tasks, orchestrate program execution, and manage files or system state using built-in Windows commands. While simple, they are effective for both personal automation and lightweight operational workflows.
+
+Better than repeatedly using commands. the script can be improved/edited.
 ### General Capabilities of `.bat` Files
 
 1. Run programs and scripts
@@ -63,7 +65,6 @@ For looping scripts that run in the background or on system startup, you need a 
 ### When to Use `.bat` Files
 
 Batch files are ideal when:
-
  - You want fast automation without extra dependencies
  - You're working in a Windows-native environment
  - Tasks involve legacy systems or command-line tools

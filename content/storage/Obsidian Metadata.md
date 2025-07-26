@@ -3,6 +3,17 @@ tags:
 aliases: 
 category:
 ---
+# Tags & Categories
+
+Categories provide broad theme grouping. There is only one per note.
+
+Tags are more precise and contextual.
+
+Related:
+- [[Research Questions]]
+- [[Data Archive Graph Analysis]]
+# Graph View
+
 Link:
 [How I use GRAPH VIEW in Obsidian](https://www.youtube.com/watch?app=desktop&v=5x5ua7LecOI)
 
@@ -10,9 +21,7 @@ When generating a new note. Have the local graph view open (with a depth of 2/3)
 
 Filter out with (-). Remove tags not interested in.
 
-### Setup
-
-Each Category is coloured.
-
-Local graph settings saved:
+Setup
+- Each Category is coloured.
+- Local graph settings saved: (See bookmarks)
 https://forum.obsidian.md/t/persistent-settings-from-local-graph-save-local-graph-settings/11195/47

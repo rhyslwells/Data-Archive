@@ -13,3 +13,9 @@ Can generate reports using:
 - [[Tableau]]
 - [[PowerBI]]
 - [[Looker Studio]]
+
+Types of plots:
+- [[Scatter Plots]]
+- [[Boxplot]]
+- 
+

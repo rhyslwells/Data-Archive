@@ -24,3 +24,5 @@ Documents discussing similar topics might also share similar sentiments, strengt
 
 ### Related
 - [[Sentence Similarity]]
+- [[Smart Connections]]
+- 

@@ -45,7 +45,7 @@ category: INDUSTRY
   Diagnose failures, resolve data/model performance issues in production  
 
 ### Data & Analytics Meetings  
-- **Exploratory Data Analysis (EDA) Discussions:**  
+- **Exploratory Data Analysis ([[EDA]]) Discussions:**  
   Share insights, anomalies, or feature engineering results  
 
 - **Model Review & Evaluation:**  

@@ -7,6 +7,9 @@ tags:
 category:
 ---
 A boxplot, also known as a whisker plot, is a standardized way of displaying the distribution of data based on a five-number summary: minimum, first quartile (Q1), median, third quartile (Q3), and maximum. It can also highlight outliers in the dataset.
+
+Related:
+- [[Data Visualisation]]
 ## Key Components
 
 Uses:
@@ -23,11 +26,6 @@ Components:
 - **Maximum:** The largest data point excluding outliers.
 - **Outliers:** Data points that fall outside 1.5 times the interquartile range (IQR) above Q3 or below Q1.
 - [[Interquartile Range (IQR) Detection]]
-
-## Implementing Boxplot in Python
-
-You can create a boxplot in Python using libraries like Matplotlib and Seaborn. Here's how you can do it:
-
 ## Implementation
 
 ```python

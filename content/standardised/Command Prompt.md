@@ -5,142 +5,109 @@ aliases:
   - cmd
 category: DE
 ---
-Command Prompt (cmd) is a command-line interpreter on Windows systems that allows users to execute commands to perform various basic tasks. cmd is less powerful compared to [[PowerShell]], it remains useful for simple file system navigation, file management, and running legacy scripts.
+Command Prompt (cmd) is a text-based command-line interpreter for Windows. Although more limited than [[PowerShell]]—which supports object-oriented scripting—`cmd` remains useful for legacy compatibility, simple file and process operations, and lightweight scripting.
 
-Related to:
-- [[Bash]]
+Related to: [[Bash]], [[PowerShell]], [[bat]]
 
-## 1. Navigating the File System
+Summary Characteristics
+* Text-Based Interface: Commands operate on plain text, without the object-passing capabilities of PowerShell.
+* Limited Built-in Commands: Focused on core utilities like file handling, process control, and system inspection.
+* Direct Execution: Commands are interpreted and executed line-by-line, without support for pipelines.
 
-- **Changing Directories:**
+Navigating the File System
+* Change Directory:
   ```cmd
   cd C:\path\to\directory
   ```
-  Changes the current directory to `C:\path\to\directory`.
-
-- **Listing Files and Directories:**
+* List Directory Contents:
   ```cmd
   dir
   ```
-  Lists the files and directories in the current directory.
+* List in Bare Format:
+  ```cmd
+  dir /b
+  ```
 
-## 2. Managing Files and Directories
-
-- **Creating a Directory:**
+Managing Files and Directories
+* Create a Directory:
   ```cmd
   mkdir newfolder
   ```
-  Creates a new directory named `newfolder`.
-
-- **Deleting a Directory:**
+* Delete a Directory (with contents):
   ```cmd
   rmdir /s /q newfolder
   ```
-  Deletes the directory `newfolder` and its contents. The `/s` flag removes all directories and files in the specified directory, and the `/q` flag runs the command quietly without asking for confirmation.
-
-- **Copying Files:**
+* Copy a File:
   ```cmd
   copy C:\source\file.txt D:\destination\
   ```
-  Copies `file.txt` from the `C:\source` directory to the `D:\destination` directory.
-
-- **Renaming Files:**
+* Rename a File:
   ```cmd
   ren oldfile.txt newfile.txt
   ```
-  Renames `oldfile.txt` to `newfile.txt`.
-
-- **Deleting Files:**
+* Delete a File:
   ```cmd
   del file.txt
   ```
-  Deletes `file.txt`.
 
-## 3. Viewing and Managing System Information
-
-- **Viewing IP Configuration:**
+Viewing System and Network Information
+* Network Configuration:
   ```cmd
   ipconfig
   ```
-  Displays the current network configuration.
-
-- **Viewing System Information:**
+* Detailed System Info:
   ```cmd
   systeminfo
   ```
-  Provides detailed system information including OS version, hardware details, and network configurations.
 
-## 4. Managing Processes
-
-- **Viewing Running Processes:**
+Managing Processes
+* List Running Processes:
   ```cmd
   tasklist
   ```
-  Lists all currently running processes.
-
-- **Killing a Process:**
+* Kill a Process by PID:
   ```cmd
   taskkill /F /PID 1234
   ```
-  Terminates the process with the Process ID (PID) `1234`. The `/F` flag forces the process to terminate.
 
-## 5. Networking Commands
 
-- **Pinging a Server:**
+Scripting with Batch Files
+* Simple `.bat` Script Example:
+  `example.bat`
   ```cmd
-  ping www.example.com
+  @echo off
+  echo Hello, World!
+  pause
   ```
-  Sends ICMP Echo Request packets to the specified host and displays the response.
-
-- **Tracing Route to a Server:**
+* Run the Script:
   ```cmd
-  tracert www.example.com
+  example.bat
   ```
-  Traces the route packets take to the specified host.
 
-## 6. Batch File Scripting
-
-- **Creating and Running a Simple Batch File:** ([[bat]])
-  - Create a file named `example.bat` with the following content:
-    ```cmd
-    @echo off
-    echo Hello, World!
-    pause
-    ```
-  - Run the batch file:
-    ```cmd
-    example.bat
-    ```
-  This batch file prints "Hello, World!" to the console and waits for the user to press a key before closing.
-
-## 7. [[Environment Variables]]
-
-- **Viewing Environment Variables:**
+Environment Variables
+* View All Variables:
   ```cmd
   set
   ```
-  Displays all current environment variables and their values.
-
-- **Setting an Environment Variable:**
+* Set a Variable:
   ```cmd
   set MYVAR=Hello
   ```
-  Sets an environment variable `MYVAR` with the value `Hello`.
 
-## 10. Redirecting Output
+Redirecting Output
+* Send Command Output to File:
 
-- **Redirecting Command Output to a File:**
   ```cmd
   dir > output.txt
   ```
-  Redirects the output of the `dir` command to `output.txt`.
 
-`dir /b` for the list of contents only.
+Viewing Command History
+* Current Session Only:
 
-## 11: History
+  ```cmd
+  doskey /history
+  ```
 
-Workaround: DOSKEY history
-doskey /history
-This will output the current session’s command history to the console.
 
-Note: This only works for the current session. Once you close the window, the history is lost.
+
+
