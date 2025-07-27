@@ -1,15 +1,8 @@
 ---
-tags:
-  - querying
-  - learning
-  - GenAI
-  - NLP
-  - business
-aliases: 
+aliases: []
 category: PM
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [business, GenAI, learning, NLP, querying]
 ---
 ### Why Ask Better Questions?
 

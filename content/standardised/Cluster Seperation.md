@@ -1,7 +1,8 @@
 ---
-tags:
-  - clustering
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [clustering]
 ---
 **Definition:**  
 Cluster separation measures how far apart different clusters are from one another. It is a proxy for cluster distinctiveness.

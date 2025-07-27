@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Explorations\Preprocess\One_hot_encoding\One_hot_encoding.py
 
 This script demonstrates how to preprocess categorical variables and apply linear regression for house price prediction. Key steps include:

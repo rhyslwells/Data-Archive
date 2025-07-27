@@ -1,8 +1,8 @@
 ---
-tags:
-  - evaluation
-  - ml
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [evaluation, ml]
 ---
 A learning curve is a diagnostic plot that shows model performance (e.g., [[accuracy]] or error) on training and validation sets as a function of training set size. It helps assess ([[Model Selection]]) whether a model suffers from underfitting, overfitting, or has converged in performance.
 

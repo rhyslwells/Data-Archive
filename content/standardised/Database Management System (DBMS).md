@@ -1,13 +1,8 @@
 ---
-tags:
-  - database
-  - data_management
-aliases:
-  - DBMS
+aliases: [DBMS]
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [data_management, database]
 ---
 A **Database Management System** (DBMS) is software that allows you to interact with and manage databases.
 Easiest to use:

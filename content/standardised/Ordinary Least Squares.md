@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 **Derivation of Coefficients**:
     - OLS derives the coefficients by setting the partial derivatives of the SSE with respect to each coefficient to zero. This results in a set of normal equations that can be solved to find the optimal coefficients.
     - In matrix form, the solution can be expressed as:  

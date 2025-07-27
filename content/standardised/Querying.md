@@ -1,12 +1,8 @@
 ---
-tags:
-  - database
-  - data_analysis
-  - data_exploration
-aliases:
-  - Queries
-  - Query
+aliases: [Queries, Query]
 category: DE
+date modified: 27-07-2025
+tags: [data_analysis, data_exploration, database]
 ---
 Querying is the process of asking questions of data. Querying makes use of keys primary and foreign within tables.
 

@@ -1,8 +1,8 @@
 ---
-tags:
-  - evaluation
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [evaluation]
 ---
 [[Precision]] and [[Recall]] are two fundamental metrics used to evaluate the performance of a [[Classification]] model, particularly in binary classification tasks. They are related through a trade-off: improving one often comes at the expense of the other.
 

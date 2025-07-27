@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 The purpose of a `gitlab-ci.yml` file is to define and configure the **GitLab CI/CD pipeline** for automating tasks such as building, testing, and deploying your code. It is the core configuration file that GitLab uses to orchestrate and execute CI/CD workflows in a repository.
 
 ### Key Purposes:

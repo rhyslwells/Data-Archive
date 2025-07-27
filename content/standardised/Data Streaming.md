@@ -1,9 +1,9 @@
 ---
-title: 
-tags:
-  - data_orchestration
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [data_orchestration, data_workflow]
+title: 
 ---
 Data Streaming is used for real-time data processing, allowing continuous flow and processing of data as it arrives. This is different from [[batch processing]], which handles data in chunks.
 
@@ -19,4 +19,4 @@ Example:
 
 
 [[Data Streaming]]
-   **Tags**: #data_workflow
+   **Tags**:

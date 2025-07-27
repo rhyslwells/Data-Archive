@@ -1,9 +1,9 @@
 ---
-title: 
+aliases: []
+category:
+date modified: 27-07-2025
 tags: []
-importance: 5
-engagement: 5
-recency_of_interest: 2024-09-26
+title: 
 ---
 **[[inference]]** is similar to **prediction**, ==but in the context of **[[Generative AI]]**,== it is more specific to the application of a pre-trained model to ==produce an output from new input data==. 
 

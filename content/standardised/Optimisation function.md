@@ -1,12 +1,8 @@
 ---
-tags:
-  - ml_optimisation
-  - model_selection
-aliases: 
+aliases: []
 category: ML
-phase: Model Optimisation
-topic: Optimization Function Implementation
-filename: optimization_function_implementation.py
+date modified: 27-07-2025
+tags: [ml_optimisation, model_selection]
 ---
 Optimization functions adjust the [[Model Parameters]] to minimize the [[Loss function]], which measures how well the model performs. This is a fundamental step in training machine learning models.  
 

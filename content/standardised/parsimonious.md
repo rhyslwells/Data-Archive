@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 **Parsimonious** refers to a principle in [[Model Selection]] and statistical modeling that emphasizes ==simplicity==. In the context of regression and other statistical models, a parsimonious model is one that explains the data with the fewest possible parameters or predictors while still providing a good fit.
 
 A parsimonious model is one that achieves a good balance between simplicity and explanatory power.

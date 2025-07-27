@@ -1,10 +1,8 @@
 ---
-tags: 
-aliases: 
+aliases: []
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: []
 ---
 A **linked list** is a linear data structure in which elements (called **nodes**) are linked together using pointers. Unlike arrays, linked lists do not store elements in contiguous memory locations; instead, each node contains:
 

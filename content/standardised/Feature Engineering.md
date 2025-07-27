@@ -1,12 +1,10 @@
 ---
-type: 
-tags:
-  - "#ml_process"
-  - "#ml_optimisation"
-  - ml_process
-title: 
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: ["#ml_optimisation", "#ml_process", ml_process]
+title: 
+type: 
 ---
 Its the term given to the iterative process of building good features for a better model. Its the process that makes relevant features (using formulas and relations between others). 
 

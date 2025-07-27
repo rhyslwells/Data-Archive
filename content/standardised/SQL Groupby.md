@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_transformation, querying]
+---
 The [[SQL]] `GROUP BY` clause is used to group rows that have the same values in specified columns into summary rows, like "total sales per region" or "average age per department." 
 
 It is often used in conjunction with aggregate functions such as `COUNT()`, `SUM()`, `AVG()`, `MAX()`, and `MIN()` to perform calculations on each group.
@@ -64,4 +70,4 @@ HAVING SUM(amount) > 1000;
 
 
 [[SQL Groupby]]
-   **Tags**: #data_transformation  #querying
+   **Tags**: 

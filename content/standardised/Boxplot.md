@@ -1,10 +1,9 @@
 ---
-type: term
-tags:
-  - "#statistics"
-  - data_cleaning
-  - data_visualization
+aliases: []
 category:
+date modified: 27-07-2025
+tags: ["#statistics", data_cleaning, data_visualization]
+type: term
 ---
 A boxplot, also known as a whisker plot, is a standardized way of displaying the distribution of data based on a five-number summary: minimum, first quartile (Q1), median, third quartile (Q3), and maximum. It can also highlight outliers in the dataset.
 

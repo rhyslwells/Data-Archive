@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Cosine similarity is a [[Metric]] used to measure how similar two vectors are by calculating the cosine of the angle between them. It ranges from -1 to 1.where 1 indicates identical orientation, 0 indicates orthogonality, and -1 indicates opposite orientation. 
 
 Cosine similarity is commonly used in

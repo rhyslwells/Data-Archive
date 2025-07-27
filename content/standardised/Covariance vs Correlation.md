@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 [[Covariance]] provides a basic measure of how two variables move together, correlation offers a more [[interpretability]] and standardized way to understand their relationship.
 
 Definition:

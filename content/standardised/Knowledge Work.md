@@ -1,8 +1,8 @@
 ---
-tags:
-  - career
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [career]
 ---
 Knowledge work refers to tasks that primarily involve handling or using information and require cognitive skills rather than manual labor. It is characterized by problem-solving, critical thinking, and the application of specialized knowledge.
 ## Key Characteristics

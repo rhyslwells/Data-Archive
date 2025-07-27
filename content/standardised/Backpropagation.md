@@ -1,14 +1,9 @@
 ---
-title: Backpropagation in Neural Networks
-tags:
-  - deep_learning
-  - ml_optimisation
-  - statistics
-aliases:
-  - Backprop
-  - BP
-  - backward propagation
+aliases: [Backprop, backward propagation, BP]
 category: ML
+date modified: 27-07-2025
+tags: [deep_learning, ml_optimisation, statistics]
+title: Backpropagation in Neural Networks
 ---
 Backpropagation is an algorithm for training neural networks by iteratively correcting prediction errors. It calculates the gradient of the [[loss function]] $L(\theta)$ with respect to each model parameter $\theta$, enabling updates via [[Gradient Descent]] to minimize the loss.
 

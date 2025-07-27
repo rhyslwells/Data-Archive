@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 A **Data Steward** is responsible for ensuring the quality, integrity, and governance of an organization's data assets. They act as a bridge between business users, IT teams, and data governance policies, ensuring that data is well-defined, accurate, and used appropriately.
 
 ### **Key Responsibilities of a Data Steward**

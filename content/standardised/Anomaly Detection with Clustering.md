@@ -1,8 +1,8 @@
 ---
-tags:
-  - anomaly_detection
-  - clustering
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [anomaly_detection, clustering]
 ---
 Outliers can often be detected using [[clustering]] methods because they either form small, distinct groups or are isolated from major clusters without strict statistical assumptions.
 

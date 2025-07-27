@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Word2Vec is a technique for generating vector representations of words. Developed by researchers at Google, it uses a shallow [[neural network]] to produce [[standardised/Vector Embedding|word embedding]] that capture [[Semantic Relationships]] and [[syntactic relationships]]. Word2Vec has two main architectures:
 
 In [[ML_Tools]] see: [[Word2Vec.py]]
@@ -14,4 +20,4 @@ Word2Vec generates dense, continuous vector representations where words with sim
 
 - `vector("king") - vector("man") + vector("woman") ≈ vector("queen")`
 
-
+Uses Negative Sampling.

@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Adaptive Learning Systems
 
 - **Overview**: Adaptive learning systems use technology to tailor educational experiences to individual student needs. RL is instrumental in personalizing these systems.

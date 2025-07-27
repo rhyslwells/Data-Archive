@@ -1,8 +1,8 @@
 ---
-tags:
-  - statistics
-  - analysis
+aliases: []
 category: STATISTICS
+date modified: 27-07-2025
+tags: [analysis, statistics]
 ---
 Spearman [[correlation]] is a rank-based measure of association, whereas Pearson correlation quantifies the strength of a linear relationship between two continuous variables.
 ### Key Differences

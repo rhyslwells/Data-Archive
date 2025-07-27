@@ -1,7 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
 model: 
-tags:
-  - regressor
+tags: [regressor]
 ---
 Linear regression assumes [[linearity]] between the input features and the target variable. Assumes that the relationship between the independent variable(s) and the dependent variable is linear.
 
@@ -18,7 +20,7 @@ $$y = b_0 + b_1x_1 + b_2x_2 + \ldots + b_nx_n$$
 
 The goal of linear regression is to find the values of coefficients $$b_0, b_1, b_2, \ldots, b_n$$ that ==minimize the sum of squared errors (SSE),== also known as the residual sum of squares (RSS) or (MSE - mean square error).
 
-You ==evaluate== the performance of your model by comparing its predictions to the actual values in a separate test dataset. Common metrics for evaluating regression models  are:
+You ==evaluate== the performance of your model by comparing its predictions to the actual values in a separate test dataset. Common metrics for evaluating regression models are:
 -  Mean Squared Error (MSE)
 -  Root Mean Squared Error (RMSE)
 -  [[R squared]].

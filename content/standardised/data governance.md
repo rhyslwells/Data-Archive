@@ -1,8 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: ["#data_governance", business]
 title: What is Data Governance?
-tags:
-  - business
-  - "#data_governance"
 ---
 [**Data governance**](https://www.talend.com/resources/what-is-data-governance/) **is a collection of processes, roles, policies, standards, and metrics that ensure the effective and efficient use of information in enabling an organization to achieve its goals.**
 

@@ -1,7 +1,8 @@
 ---
-tags:
-  - statistics
-  - portal
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [portal, statistics]
 ---
 Statisticians want to understand the world. The world is made of probabilities, we model probabilities with functions, and we model functions with parameters.
 

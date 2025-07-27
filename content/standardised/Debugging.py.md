@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 https://github.com/rhyslwells/ML_Tools/blob/main/Explorations/Utilities/Debugging.py
 
 This script includes examples of logging, using breakpoints, and reproducing a simple bug for practice

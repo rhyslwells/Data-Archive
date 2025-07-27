@@ -1,11 +1,8 @@
 ---
-tags: 
-aliases:
-  - Transactions
+aliases: [Transactions]
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: []
 ---
 Transactions are used for maintaining [[Data Integrity]] and should adhere to the [[ACID Transaction]].
 

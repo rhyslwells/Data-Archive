@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 To manage and create a database schema in SQLite, you can use the following commands:
 
 - To view all commands used to create a database, execute:

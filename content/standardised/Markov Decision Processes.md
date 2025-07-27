@@ -1,10 +1,9 @@
 ---
-title: 
-tags:
-  - model_algorithm
-aliases:
-  - MDP
+aliases: [MDP]
 category:
+date modified: 27-07-2025
+tags: [model_algorithm]
+title: 
 ---
 **Markov Decision Process ([[Markov Decision Processes|MDP]])** is a formal framework for decision-making where outcomes depend solely on the current state (Markov property).
 \

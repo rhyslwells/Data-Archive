@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 While [[Pyright]] and [[Pydantic]] serve different roles in Python development, they complement each other well. 
 
 Pyright helps ensure that the code adheres to ==type constraints before execution==, while Pydantic ensures that the ==data being processed== adheres to the expected types and formats during runtime. 

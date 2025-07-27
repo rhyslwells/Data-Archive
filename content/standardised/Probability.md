@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 ### Probability
 
 * Definition: The chance that an event occurs, expressed as a proportion of the total outcomes.

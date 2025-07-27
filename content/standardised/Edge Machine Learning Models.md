@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 **Edge ML** refers to deploying machine learning models directly on edge devices, such as IoT sensors, smartphones, or embedded systems, instead of relying on cloud-based processing. This is crucial in scenarios requiring low-latency, real-time decision-making, or environments with limited connectivity.
 
 #### Key Characteristics of Edge ML Models:

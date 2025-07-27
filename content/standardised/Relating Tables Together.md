@@ -1,7 +1,8 @@
 ---
-tags:
-  - data_integrity
-  - database_design
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_integrity, database_design]
 ---
 Implementing these concepts, database tables can be effectively related, ensuring [[Data Integrity]], efficient retrieval, and easy maintenance.
 

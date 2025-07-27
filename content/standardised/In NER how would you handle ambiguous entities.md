@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Handling ambiguous entities in Named Entity Recognition (NER) can be quite challenging. Here are some strategies that can be employed:
 
 1. **Contextual Analysis**: Utilize the surrounding ==context== of the ambiguous entity to determine its correct classification. For example, the word "Apple" could refer to the fruit or the company, but the context in which it appears can help disambiguate its meaning.

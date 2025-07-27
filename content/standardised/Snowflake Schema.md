@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Snowflake Schema
    - Description: A more [[Normalised Schema]] normalized form of a star schema where dimension tables are further broken down into additional tables.
    - Advantages: Reduces data redundancy and can save storage space, but may be more complex to query.

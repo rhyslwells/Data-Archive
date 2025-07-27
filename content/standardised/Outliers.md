@@ -1,11 +1,8 @@
 ---
-tags:
-  - statistics
-  - anomaly_detection
-  - data_cleaning
-aliases:
-  - anomalies
-  - Handling Outliers
+aliases: [anomalies, Handling Outliers]
+category:
+date modified: 27-07-2025
+tags: [anomaly_detection, data_cleaning, statistics]
 ---
 What are they?
 - Outliers are data points that differ significantly from other observations in the dataset. 

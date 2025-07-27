@@ -1,7 +1,8 @@
 ---
-tags:
-  - communication
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [communication]
 ---
 Jupyter Book is an open-source tool that lets you build publication-quality [[documentation]] or books from Jupyter notebooks (`.ipynb`), Markdown files, and other content.
 

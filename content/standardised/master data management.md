@@ -1,11 +1,9 @@
 ---
+aliases: [mdm]
+category:
+date modified: 27-07-2025
+tags: [data_governance, data_management, data_storage]
 title: What is Master Data Management (MDM)?
-tags:
-  - data_storage
-  - data_governance
-  - data_management
-aliases:
-  - mdm
 ---
 Master data management is a method to ==centralize== master data.
 

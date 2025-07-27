@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 In [[ML_Tools]] see: [[Addressing_Multicollinearity.py]]
 
 Multicollinearity can impact the performance and [[interpretability]] of regression models by causing instability in coefficient estimates and complicating the analysis of variable significance. Techniques like PCA can help by transforming correlated variables into uncorrelated principal components, thereby improving model stability and interpretability.

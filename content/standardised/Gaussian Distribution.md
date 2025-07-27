@@ -1,10 +1,7 @@
 ---
-tags: 
-aliases:
-  - normally distributed data
+aliases: [normally distributed data]
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: []
 ---
 Common assumption for a [[Distributions]].

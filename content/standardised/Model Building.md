@@ -1,11 +1,9 @@
 ---
-tags:
-   ml_optimisation
-   evaluation
-aliases:
-   Build
-title: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: []
+title: 
 ---
 The Model Building phase follows the [[Preprocessing]] phase, where data is organized and prepared for analysis. This phase focuses on selecting and setting up the appropriate machine learning models to solve the problem at hand.
 ## Key Steps

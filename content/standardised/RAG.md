@@ -1,14 +1,16 @@
 ---
-title: 
-tags:
-  - language_models
+aliases: []
+category:
+date modified: 27-07-2025
 resources: https://www.youtube.com/watch?v=T-D1OfcDW1M
+tags: [language_models]
+title: 
 ---
 Rag is a framework the help [[LLM]] be more up to date.
 
 RAG grounds the Gen AI in external data.
 
-Given a question sometimes the answer given is wrong, issue with [[LLM]] is no source of data and is out of date.  RAG is a specific architecture used in natural language processing ([[NLP]]), where a retrieval mechanism is combined with a generative model ([[Generative]]) (often a [[Transformer]] like GPT). RAG systems are designed to ==enhance the ability of a generative model to answer questions or generate content by incorporating factual knowledge retrieved from external data sources== (such as documents, databases, or knowledge repositories). RAG is the connection of [[LLM]]'s with external databases. 
+Given a question sometimes the answer given is wrong, issue with [[LLM]] is no source of data and is out of date. RAG is a specific architecture used in natural language processing ([[NLP]]), where a retrieval mechanism is combined with a generative model ([[Generative]]) (often a [[Transformer]] like GPT). RAG systems are designed to ==enhance the ability of a generative model to answer questions or generate content by incorporating factual knowledge retrieved from external data sources== (such as documents, databases, or knowledge repositories). RAG is the connection of [[LLM]]'s with external databases. 
 
  Example of a RAG System:
  - A user asks: *"What is the capital of France?"*
@@ -17,7 +19,7 @@ Given a question sometimes the answer given is wrong, issue with [[LLM]] is no s
 
 ### [[LLM]] Challenges
 - Responses are sometimes no sources and out of date.
-- LLM's are trained on some store of data (static).  We want this store to be updated.
+- LLM's are trained on some store of data (static). We want this store to be updated.
 ### Key characteristics of RAG:
 
 ![[Pasted image 20240928194559.png|500]]

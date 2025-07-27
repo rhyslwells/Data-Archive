@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Utilizes Docker images [[Docker Image]] to set up containers for consistent development and testing environments.
 
 Containers can include necessary dependencies like Python and pip.

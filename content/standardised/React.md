@@ -1,10 +1,8 @@
 ---
-tags: 
-aliases: 
+aliases: []
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: []
 ---
 React is a [[JavaScript]] library developed by Meta for building user interfaces, particularly in web development.
 

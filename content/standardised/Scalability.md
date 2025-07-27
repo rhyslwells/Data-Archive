@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_management]
+---
 Scalability refers to the capability of a system, network, or process to handle a growing amount of work or its potential to accommodate growth.
 
 ### Key Benefits of Scalability:
@@ -20,4 +26,4 @@ This involves ==adding more nodes or servers== to a system to distribute the loa
 Horizontal scaling allows for greater flexibility and can often be more cost-effective, as it enables the use of multiple lower-cost machines rather than relying on a single powerful machine.
 
 ### Tags
-- **Tags**: #data_management
+- **Tags**:

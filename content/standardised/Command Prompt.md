@@ -1,9 +1,8 @@
 ---
-tags:
-  - software
-aliases:
-  - cmd
+aliases: [cmd]
 category: DE
+date modified: 27-07-2025
+tags: [software]
 ---
 Command Prompt (cmd) is a text-based command-line interpreter for Windows. Although more limited than [[PowerShell]]—which supports object-oriented scripting—`cmd` remains useful for legacy compatibility, simple file and process operations, and lightweight scripting.
 

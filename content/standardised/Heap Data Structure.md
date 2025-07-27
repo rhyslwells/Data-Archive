@@ -1,7 +1,8 @@
 ---
-tags:
-  - data_structure
+aliases: []
 category: CS
+date modified: 27-07-2025
+tags: [data_structure]
 ---
 In [[algorithms]], a heap is a specialized [[binary tree]]-based data structure that satisfies the heap property: 
 

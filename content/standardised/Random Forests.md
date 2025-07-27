@@ -1,7 +1,8 @@
 ---
-tags:
-  - classifier
-  - drafting
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [classifier, drafting]
 ---
 
 A random forest is an [[Model Ensemble]] of [[Decision Tree]]s. Take many decision trees decisions to get better result.

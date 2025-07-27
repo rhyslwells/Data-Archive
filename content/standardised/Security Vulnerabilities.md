@@ -1,11 +1,8 @@
 ---
-tags:
-  - software
-aliases: 
+aliases: []
 category: DEVOPS
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [software]
 ---
 [[Data Security]] vulnerabilities can be encountered and mitigated in [[Software Development Portal]].
 

@@ -1,6 +1,12 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 [link](https://www.youtube.com/watch?v=UEtvV1D6B3s&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b&index=2)
 
-When training ML model need Orthogonalization in order to  Determine what to tune, and observe the effect it has.
+When training ML model need Orthogonalization in order to Determine what to tune, and observe the effect it has.
 
 Each button does one thing.
 

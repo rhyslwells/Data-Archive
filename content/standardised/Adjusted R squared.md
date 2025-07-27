@@ -1,7 +1,8 @@
 ---
-tags:
-  - statistics
-  - evaluation
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [evaluation, statistics]
 ---
 Adjusted R-squared is a [[Regression Metrics]]or assessing the quality of a regression model, ==especially when multiple predictors== are involved. It helps ensure that the model remains [[parsimonious]] while still providing a good fit to the data.
 

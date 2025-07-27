@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 To use **DuckDB** in Python, you can follow these steps to install the DuckDB library and perform basic operations such as creating a database, running queries, and manipulating data. Here's a simple guide:
 
 ### Step 1: Install DuckDB

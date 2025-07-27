@@ -1,9 +1,9 @@
 ---
+aliases: ["#data_orchestration"]
+category:
+date modified: 27-07-2025
+tags: [data_orchestration]
 title: 
-tags:
-  - data_orchestration
-aliases:
-  - "#data_orchestration"
 ---
 Data orchestration refers to the process of managing and coordinating the flow of data across various systems and environments, particularly in complex and heterogeneous cloud settings. A Data Orchestrator is responsible for modeling dependencies between different tasks, ensuring that data is processed and moved efficiently from one stage to another. It integrates with both legacy systems and modern cloud-based tools, as well as data lakes and data warehouses.
 

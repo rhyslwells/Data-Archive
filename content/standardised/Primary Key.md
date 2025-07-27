@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 A primary key (PK) is a unique identifier for each record in a database table.
 
 - **Uniqueness**: No two records can have the same primary key value.

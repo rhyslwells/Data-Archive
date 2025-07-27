@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Data drift refers to changes in the statistical properties of input data that a machine learning (ML) model encounters during production. Such shifts can lead to decreased model performance, as the model may struggle to make accurate predictions on data that differ from its training set. 
 
 Regular monitoring and prompt response to data drift are essential to maintain the effectiveness of ML models in dynamic production environments.

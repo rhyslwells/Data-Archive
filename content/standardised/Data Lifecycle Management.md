@@ -1,10 +1,9 @@
 ---
-title: 
-tags:
-  - data_management
-  - portal
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [data_management, portal]
+title: 
 ---
 This is the comprehensive process of managing data from its initial ingestion to its final use in downstream processes. 
 

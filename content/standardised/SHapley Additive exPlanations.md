@@ -1,6 +1,8 @@
 ---
-aliases:
-  - SHAP
+aliases: [SHAP]
+category:
+date modified: 27-07-2025
+tags: []
 ---
 SHAP provides a unified approach to measure [[Feature Importance]] by computing the contribution of each feature to each prediction, based on game theory.
 

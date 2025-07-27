@@ -1,11 +1,9 @@
 ---
-title: 
-tags:
-  - code_snippet
-  - evaluation
-aliases: 
+aliases: []
 category: 
-filename: Regression_Metrics.py
+date modified: 27-07-2025
+tags: [code_snippet, evaluation]
+title: 
 ---
 These metrics provide various ways to evaluate the performance of regression models.
 

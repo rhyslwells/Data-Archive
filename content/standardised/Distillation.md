@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 training smaller models with larger.
 
 [[Small Language Models]]

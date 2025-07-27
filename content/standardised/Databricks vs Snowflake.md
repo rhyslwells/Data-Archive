@@ -1,16 +1,13 @@
 ---
-title: 
-tags:
-  - software
-  - data_storage
-importance: 
-engagement: 
-recency_of_interest: 2024-10-05
+aliases: []
 category: DEVOPS
+date modified: 27-07-2025
+tags: [data_storage, software]
+title: 
 ---
 Comparison between **[[Databricks]]** and **[[Snowflake]]**:
 
-- **Databricks** is a  platform that emphasizes collaborative data science and engineering through interactive notebooks, making it suitable for advanced analytics and machine learning applications.
+- **Databricks** is a platform that emphasizes collaborative data science and engineering through interactive notebooks, making it suitable for advanced analytics and machine learning applications.
 - **Snowflake**, on the other hand, focuses on [[Data Warehouse]] and offers a robust SQL interface for analytics, making it a preferred choice for organizations prioritizing data storage and reporting capabilities.
 
 | Feature                      | **Databricks**                                                                                                                     | **Snowflake**                                                                                                      |

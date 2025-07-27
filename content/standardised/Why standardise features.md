@@ -1,8 +1,8 @@
 ---
-tags:
-  - preprocessing
-  - ml
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [ml, preprocessing]
 ---
 Standardizing ([[Standardisation]]) features is a common preprocessing step in machine learning and statistical modeling. It transforms each feature to have mean $0$ and standard deviation $1$.
 
@@ -40,7 +40,7 @@ Some algorithms are scale-sensitive and may require standardization for proper f
 
 * Distance-based: k-NN, k-means, SVM
 * Regularized models: Ridge, Lasso
-* Projection methods: PCA, LDA
+* Projection methods: PCA, [[Latent Dirichlet Allocation|LDA]]
 
 Without scaling, these models may behave unpredictably or suboptimally.
 ### 5. Consistent Treatment of Future Data

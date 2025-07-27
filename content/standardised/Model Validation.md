@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Model Validation refers to the process of evaluating a machine learning model's performance on a separate dataset (often called the validation set) to ensure it generalizes well to new, unseen data. This step is crucial for tuning [[model parameters]], selecting the best model, and preventing overfitting. Validation helps in assessing how well the model will perform in real-world scenarios.
 
 [[Model Observability]], on the other hand, involves monitoring and understanding the model's performance and behavior in production over time. It includes tracking metrics, detecting [[Performance Drift]], and ensuring the model continues to function as expected in dynamic environments.

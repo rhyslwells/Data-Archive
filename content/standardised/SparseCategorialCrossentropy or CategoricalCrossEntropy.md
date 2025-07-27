@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 To understand the differences and use cases for `SparseCategoricalCrossentropy` and `CategoricalCrossentropy` in [[TensorFlow]], let's break down each one:
 
 ### CategoricalCrossentropy

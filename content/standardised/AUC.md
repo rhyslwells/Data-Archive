@@ -1,11 +1,8 @@
 ---
-tags:
-  - evaluation
-aliases: 
+aliases: []
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [evaluation]
 ---
 **AUC (Area Under the Curve)** is a metric for binary classification problems, representing the area under the [[ROC (Receiver Operating Characteristic)]]
 

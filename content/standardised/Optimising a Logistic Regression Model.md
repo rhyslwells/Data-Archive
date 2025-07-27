@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 # Optimising a [[Logistic Regression]] Model
 
 In `sklearn`, the logistic regression model uses an optimization algorithm to find the best parameters (intercept and coefficients) that minimize a loss function, typically the logistic loss (cross-entropy loss). Here's an overview of how it works:

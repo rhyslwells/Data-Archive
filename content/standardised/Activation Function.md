@@ -1,6 +1,8 @@
 ---
-tags:
-  - deep_learning
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [deep_learning]
 ---
 Activation functions play a role in [[Neural network]] by introducing non-linearity, allowing models to learn from complex patterns and relationships in the data.
 

@@ -1,16 +1,14 @@
 ---
-tags: 
-aliases: 
+aliases: []
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: []
 ---
 Dash is an open-source framework for building interactive web applications using Python. 
 
 It is particularly well-suited for data visualization and dashboard creation. 
 
-Dash integrates  with popular libraries such as Plotly, Pandas, and NumPy, making it ideal for creating dynamic and interactive visualizations.
+Dash integrates with popular libraries such as Plotly, Pandas, and NumPy, making it ideal for creating dynamic and interactive visualizations.
 
 Examples: 
 - https://dash.gallery/Portal/?search=[ML]

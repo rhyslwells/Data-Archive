@@ -1,10 +1,9 @@
 ---
-title: Natural Language Processing
-tags:
-  - NLP
-aliases:
-  - Natural Language Processing
+aliases: [Natural Language Processing]
 category: LANG
+date modified: 27-07-2025
+tags: [NLP]
+title: Natural Language Processing
 ---
 Natural Language Processing (NLP) involves the interaction between computers and humans using natural language. It encompasses various techniques and models to process and analyze large amounts of natural language data.
 

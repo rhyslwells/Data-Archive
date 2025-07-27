@@ -1,6 +1,8 @@
 ---
-tags: 
+aliases: []
 category: 
+date modified: 27-07-2025
+tags: []
 ---
 An **EPUB** (short for *electronic publication*) file is a widely used **open eBook format** that is designed for **reflowable content**, meaning it can adapt its layout to fit various screen sizes—unlike PDFs, which preserve a fixed layout.
 

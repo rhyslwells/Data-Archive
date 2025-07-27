@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Methods for assessing the quality and relevance of LLM-generated outputs, critical for improving model performance.
 
 The evaluation of [[LLM]] outputs involves various methodologies to assess their quality and relevance. 

@@ -1,7 +1,8 @@
 ---
-tags:
-  - preprocessing
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [preprocessing]
 ---
 Standardisation is a [[Preprocessing|data preprocessing]] technique used to [[Data Transformation]]. Centers data with zero mean and unit [[variance]], suitable for algorithms sensitive to variance.
 

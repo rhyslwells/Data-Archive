@@ -1,9 +1,8 @@
 ---
-tags:
-  - ml_process
-  - ml_optimisation
-  - evaluation
-  - model_explainability
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [evaluation, ml_optimisation, ml_process, model_explainability]
 ---
 Tree models, such as Random Forests and Gradient Boosting, can also be regularized, although they don’t use L1 or L2 regularization directly. Instead, they are regularized through hyperparameters like max depth, min samples split, and learning rate to control the complexity of the trees.
 

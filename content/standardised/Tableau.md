@@ -1,8 +1,8 @@
 ---
-tags:
-  - data_visualization
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [data_visualization]
 ---
 ## Next Steps
 - Load a [[PostgreSQL]] database and perform analytics as an example.

@@ -1,8 +1,8 @@
 ---
-tags:
-  - graph
-  - data_integration
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [data_integration, graph]
 ---
 APOC (Awesome Procedures On Cypher) is a collection of advanced utilities and procedures that extend Neo4j's functionality. APOC is a powerful library, with features that cover:
 

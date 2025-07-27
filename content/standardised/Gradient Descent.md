@@ -1,9 +1,9 @@
 ---
+aliases: [GD]
+category:
+date modified: 27-07-2025
+tags: [ml_optimisation]
 title: 
-tags:
-  - ml_optimisation
-aliases:
-  - GD
 ---
 Gradient descent is an [[Optimisation function]] used to minimize errors in a model by adjusting its parameters iteratively. It works by moving in the direction of the steepest decrease of the [[Loss function]].
 

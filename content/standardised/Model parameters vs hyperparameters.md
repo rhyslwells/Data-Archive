@@ -1,6 +1,8 @@
 ---
-tags: 
+aliases: []
 category: ML
+date modified: 27-07-2025
+tags: []
 ---
 
 Model parameters and hyperparameters serve different roles:

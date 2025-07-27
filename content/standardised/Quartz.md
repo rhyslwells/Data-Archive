@@ -1,7 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [software]
 title: 
-tags:
-  - software
 ---
 [[Vim]]: telescope? Search preview feature?
 

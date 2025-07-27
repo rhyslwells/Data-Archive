@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 # Energy ABM
 
 - **Complex Systems Understanding**: Energy systems involve numerous stakeholders (producers, consumers, regulators) with diverse interests and behaviors. [[Agent-Based Modelling|ABM]] helps capture this complexity, providing a clearer picture of system dynamics.

@@ -1,7 +1,8 @@
 ---
-tags:
-  - software
+aliases: []
 category: CS
+date modified: 27-07-2025
+tags: [software]
 ---
 The distinction between a process and a thread is foundational in [[computer science]] and systems programming. 
 

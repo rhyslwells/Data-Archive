@@ -1,9 +1,8 @@
 ---
-tags:
-  - database
-  - data_storage
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [data_storage, database]
 ---
 A [Semantic Layer](semantic%20layer.md) is much more flexible and makes the most sense on top of [transformed data](Data%20Transformation.md) in a [Data Warehouse](Data%20Warehouse.md).
 

@@ -1,7 +1,13 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 model-agnostic [[feature importance]]
 ### Alternative for Non-Linear Models
 
-If you're working with non-linear models or want a  approach, consider:
+If you're working with non-linear models or want a approach, consider:
 
 * **Mutual Information:** `mutual_info_regression` (non-parametric)
 * **Permutation Importance:** Model-agnostic

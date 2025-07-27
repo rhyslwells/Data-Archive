@@ -1,8 +1,8 @@
 ---
-tags:
-  - anomaly_detection
-  - statistics
-  - ml
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [anomaly_detection, ml, statistics]
 ---
 Basic:
 - [[Z-Normalisation|Z-Score]]

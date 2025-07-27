@@ -1,6 +1,8 @@
 ---
-tags:
-  - clustering
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [clustering]
 ---
 USE: WCSS (within-cluster sum of squares)
 

@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 ### Many-to-Many Relationships
 
 Occurs when multiple records in one table are associated with multiple records in another table.

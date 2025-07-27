@@ -1,6 +1,11 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [clustering, graph_analysis]
+---
 In graph theory, a community (also known as a cluster or module) is a group of nodes that are more densely connected to each other than to the rest of the network.
-
-#graph_analysis #clustering 
+ 
 
 https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.community.louvain.louvain_communities.html
 

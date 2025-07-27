@@ -1,10 +1,8 @@
 ---
-tags: 
-aliases: 
+aliases: []
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: []
 ---
 If you have a perfectly balanced dataset (unlike [[Imbalanced Datasets]]) but still experience poor [[classification]] [[accuracy]], class separability might be an issue due to the following reasons:
 

@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Data Validation:
 
 - **Error Prevention**: It ensures data accuracy by preventing incorrect or inappropriate data entries.

@@ -1,14 +1,9 @@
 ---
-title: 
-tags:
-  - time_series
-  - deep_learning
-  - energy
-  - anomaly_detection
-importance: -3
-engagement: 
-recency_of_interest: 2024-10-14
+aliases: []
 category: INDUSTRY
+date modified: 27-07-2025
+tags: [anomaly_detection, deep_learning, energy, time_series]
+title: 
 ---
 
 For energy data problems, many interpretable machine learning algorithms can be applied in place of or alongside RNNs. These models offer transparency, making it easier to understand the relationships between features and predictions, which is critical in areas like energy management, where interpretability can be as important as accuracy.

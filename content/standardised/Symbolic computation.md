@@ -1,6 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
 title: 
-tags: 
 ---
 [[Mathematical Reasoning in Transformers]]
 ### Summary of Wolfram Alpha’s Approach:

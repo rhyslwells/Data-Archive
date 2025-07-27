@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 When working with decision trees, both [[Gini Impurity]] and [[Cross Entropy]] are metrics used to evaluate the quality of a split. They help determine how well a feature separates the classes in a dataset.
 
 ### Gini Impurity

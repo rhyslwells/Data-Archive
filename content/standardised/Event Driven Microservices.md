@@ -1,7 +1,8 @@
 ---
-tags: 
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: []
 ---
 Event-driven microservices refer to a [[software architecture]] pattern where [[microservices]] communicate and coordinate their actions through the production, detection, consumption, and reaction to [[Event Driven Events]]. This approach is designed to create a more decoupled and scalable system, where services can operate independently and react to changes in real-time.
 

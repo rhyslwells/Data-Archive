@@ -1,8 +1,9 @@
 ---
-title: 
-tags:
-  - drafting
 aliases: []
+category:
+date modified: 27-07-2025
+tags: [drafting]
+title: 
 ---
 [[GraphRAG]] is a [[RAG]] framework that utilizes [[Knowledge Graph]]s to enhance information retrieval and processing. A significant aspect of this framework is the use of large language models (LLMs) for [[Named Entity Recognition]] (NER) within [[Neo4j]].
 

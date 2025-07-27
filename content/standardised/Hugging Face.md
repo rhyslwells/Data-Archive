@@ -1,9 +1,8 @@
 ---
-tags:
-  - software
-  - GenAI
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [GenAI, software]
 ---
 Hugging Face is open-source platform known for its contributions to natural language processing (NLP) and machine learning. 
 

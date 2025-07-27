@@ -1,8 +1,9 @@
 ---
-title: 
-tags: 
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: []
+title: 
 ---
 In [[DE_Tools]] see:
 https://github.com/rhyslwells/DE_Tools/blob/main/DE_Tools/Explorations/Other/Terminal/Grep

@@ -1,6 +1,8 @@
 ---
-tags:
-  - model_architecture
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [model_architecture]
 ---
 Resources:
 [LINK](https://www.youtube.com/watch?v=LsK-xG1cLYA)

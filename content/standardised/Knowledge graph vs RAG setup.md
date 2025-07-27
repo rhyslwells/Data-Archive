@@ -1,9 +1,9 @@
 ---
-title: 
+aliases: []
+category:
+date modified: 27-07-2025
 tags: []
-importance: 2
-engagement: 5
-recency_of_interest: 2024-09-28
+title: 
 ---
 ### Comparison: Knowledge Graph vs. RAG Setup
 

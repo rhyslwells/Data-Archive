@@ -1,13 +1,8 @@
 ---
-tags:
-  - memory_management
-  - language_models
-aliases:
-  - Managing LLM memory
+aliases: [Managing LLM memory]
 category: ML
-phase: Model Selection
-topic: Managing LLM Memory
-filename: managing_llm_memory.py
+date modified: 27-07-2025
+tags: [language_models, memory_management]
 ---
 In managing the memory of a large language model (LLM), several key concepts and techniques play a crucial role in forming and maintaining relationships between data points:
 

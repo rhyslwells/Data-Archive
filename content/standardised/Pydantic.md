@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Pydantic is a Python library used for [[data validation]] and settings management using Python type annotations.
 
 It provides a way to define data models with type hints, and it automatically validates and parses input data to ensure it matches the specified types. 

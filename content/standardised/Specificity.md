@@ -1,8 +1,8 @@
 ---
-tags:
-  - evaluation
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [evaluation]
 ---
 **Specificity**, also known as the true negative rate, measures the proportion of actual negatives that are correctly identified by the model. It indicates how well the model is at identifying negative instances. Formula:
 

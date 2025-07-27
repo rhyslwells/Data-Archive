@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Syntactic relationships refer to the structural connections between words or phrases in a sentence, focusing on grammar and the arrangement of words. They determine how words combine to form phrases, clauses, and sentences, following the rules of syntax.
 
 [[Semantic relationships]], on the other hand, deal with the meaning and interpretation of words and phrases. They focus on how words relate to each other in terms of meaning, such as synonyms, antonyms, and hierarchical relationships like hypernyms and hyponyms.

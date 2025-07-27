@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 A checksum is a value calculated from a data set that is used to verify the integrity of that data. It acts as a fingerprint for the data, allowing systems to detect errors or alterations that may occur during storage, processing, or transmission.
 
 When data is sent or stored, a checksum is generated based on the contents of the data. This checksum is then sent or stored alongside the data. Upon retrieval or receipt, the checksum is recalculated from the data and compared to the original checksum. If the two checksums match, it indicates that the data has remained unchanged and is likely intact. If they do not match, it suggests that the data may have been corrupted or tampered with.
@@ -40,5 +46,5 @@ Checksums are commonly used in various applications, such as:
 
 5. **Verification**: If the calculated checksum matches the received checksum (1, 2, 0), the data is considered intact. If it does not match, it indicates that the data may have been corrupted during transmission.
 
-This is a basic example, and in practice, checksums can be computed using more complex [[algorithms]] (like CRC32, MD5, or SHA-1) to provide better error detection and  [[Data Security]]. 
+This is a basic example, and in practice, checksums can be computed using more complex [[algorithms]] (like CRC32, MD5, or SHA-1) to provide better error detection and [[Data Security]]. 
 

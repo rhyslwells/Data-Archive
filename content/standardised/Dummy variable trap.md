@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 ### Key Takeaways:
 
 - The dummy variable trap occurs due to [[multicollinearity]], where ==one dummy variable can be perfectly predicted from others.==

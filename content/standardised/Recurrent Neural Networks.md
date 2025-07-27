@@ -1,15 +1,9 @@
 ---
-title: 
-tags:
-  - deep_learning
-  - time_series
-aliases:
-  - RNN
-  - RNNs
-phase: 
-topic: 
-filename: RNN_Pytorch
+aliases: [RNN, RNNs]
 category: ML
+date modified: 27-07-2025
+tags: [deep_learning, time_series]
+title: 
 ---
 Recurrent Neural Networks (RNNs) are a type of [[neural network]] designed to process sequential data by maintaining a memory of previous inputs through hidden states. This makes them suitable for tasks where the order of data is needed, such as:
 

@@ -1,12 +1,8 @@
 ---
-tags:
-  - language_models
-  - NLP
-aliases: 
+aliases: []
 category: LANG
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [language_models, NLP]
 ---
 
 Prompt engineering is a technique in the field of natural language processing (NLP), particularly when working with [[LLM|large language models]] (LLMs). 

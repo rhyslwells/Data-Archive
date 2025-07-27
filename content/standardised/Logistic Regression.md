@@ -1,10 +1,9 @@
 ---
-title: 
-tags:
-  - classifier
-  - regressor
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [classifier, regressor]
+title: 
 ---
 ==Logistic regression models the log-odds of the probability as a linear function of the input features.==
 
@@ -14,7 +13,7 @@ The model establishes a decision boundary (threshold) in the feature space.
 
 Logistic regression is best suited for cases where the decision boundary is approximately linear in the feature space.
 
-Logistic [[Regression]]  can be used for [[Binary Classification]]tasks.
+Logistic [[Regression]] can be used for [[Binary Classification]]tasks.
 
 ### Related Notes:
 - [[Logistic Regression Statsmodel Summary table]]

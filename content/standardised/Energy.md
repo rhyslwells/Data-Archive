@@ -1,8 +1,9 @@
 ---
-title: 
-tags:
-  - energy
+aliases: []
 category: INDUSTRY
+date modified: 27-07-2025
+tags: [energy]
+title: 
 ---
 Areas of interest:
 - [[Smart Grids]]

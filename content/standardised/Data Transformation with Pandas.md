@@ -1,11 +1,8 @@
 ---
-tags:
-  - data_transformation
-aliases: 
+aliases: []
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [data_transformation]
 ---
 Using [[pandas]] we can do the following:
 

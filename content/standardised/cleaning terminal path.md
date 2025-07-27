@@ -1,9 +1,10 @@
 ---
-tags:
-  - software
-aliases: 
-type: 
+aliases: []
+category:
 created: 2024-06-22 21:06
+date modified: 27-07-2025
+tags: [software]
+type: 
 ---
 https://www.youtube.com/watch?v=18hUejOK0qk
 

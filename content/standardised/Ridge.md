@@ -1,8 +1,8 @@
 ---
-aliases:
-  - L2
-tags:
-  - drafting
+aliases: [L2]
+category:
+date modified: 27-07-2025
+tags: [drafting]
 ---
 L2 Regularization, also known as Ridge Regularization, adds a penalty term proportional to the square of the weights to the [[loss function]]. 
 

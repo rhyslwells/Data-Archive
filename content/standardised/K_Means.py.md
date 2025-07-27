@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 https://github.com/rhyslwells/ML_Tools/blob/main/Explorations/Build/Clustering/KMeans/K_Means.py
 ## Key Concepts Used in the Script
 

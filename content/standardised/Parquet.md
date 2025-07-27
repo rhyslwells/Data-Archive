@@ -1,11 +1,8 @@
 ---
-tags:
-  - data_storage
-aliases: 
+aliases: []
 category: DATA_ANALYSIS
-phase: Model Selection
-topic: Parquet File Handling
-filename: parquet_file_handling.py
+date modified: 27-07-2025
+tags: [data_storage]
 ---
 A **Parquet file** is a **columnar storage file format** specifically designed for storing large amounts of data efficiently. It is commonly used in [[Big Data]] ecosystems due to its optimised performance for both storage and querying.
 

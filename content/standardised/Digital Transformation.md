@@ -1,10 +1,9 @@
 ---
-title: 
-tags:
-  - business
-  - data_governance
-aliases: 
+aliases: []
 category: DEVOPS
+date modified: 27-07-2025
+tags: [business, data_governance]
+title: 
 ---
 Digital transformation should not only address today’s inefficiencies, but also prepare digital assets and infrastructure for future automation, analytics, and growth. This requires designing systems with future tracking and scalability in mind.
 

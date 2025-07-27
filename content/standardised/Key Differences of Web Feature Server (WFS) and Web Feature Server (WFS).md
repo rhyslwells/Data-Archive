@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 ### Key Differences of Web Feature Server (WFS) and Web Feature Server (WFS)
 
 1. **Data Type**:

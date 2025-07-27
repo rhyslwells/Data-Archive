@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Conceptual Model
    - Entities: Customer, Order, Book
    - Relationships: Customers place Orders, Orders include Books

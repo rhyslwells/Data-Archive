@@ -1,9 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [business, business_intelligence, data_management]
 title: What is a Data Product?
-tags:
-  - data_management
-  - business
-  - business_intelligence
 ---
 A data product is
 

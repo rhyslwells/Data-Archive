@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [123]
+---
 ## Structure of a goof [[Git]] Commit Message
 
 1. **Subject Line**
@@ -12,7 +18,7 @@
    - Wrap text at 72 characters.
 
 3. **Footer (Optional)**
-   - Include references to issues or pull requests (e.g., "Closes #123").
+   - Include references to issues or pull requests (e.g., "Closes").
    - Add any additional notes or metadata.
 
 ### **Good Examples**:

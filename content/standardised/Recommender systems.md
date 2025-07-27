@@ -1,7 +1,8 @@
 ---
-tags:
-  - evaluation
-  - model_algorithm
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [evaluation, model_algorithm]
 ---
 Crab on Python
 

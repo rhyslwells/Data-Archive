@@ -1,7 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
 media_link: https://www.youtube.com/watch?v=5eqRuVp65eY
-tags:
-  - drafting
+tags: [drafting]
 ---
 Even scaled model cannot cross tthe [[compute efficent frontier]]
 
@@ -25,7 +27,7 @@ During training we know next value, hence we have a [[Loss function]] to help le
 
 L1 - loss functions
 
-[[Cross Entropy]]-loss function (uses negative log of probability).  Why is cross enropy used over L1?
+[[Cross Entropy]]-loss function (uses negative log of probability). Why is cross enropy used over L1?
 
 unabigious next words. [[Entropy of natural language]] due to this will LLMs cannot drive [[Cross entropy loss]] to zero.
 

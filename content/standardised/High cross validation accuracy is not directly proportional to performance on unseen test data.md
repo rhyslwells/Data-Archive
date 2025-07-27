@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Reasons a Model with High [[Cross Validation]] Accuracy May Perform Poorly on Unseen Test Data
 
 [[Data Leakage]]: 
@@ -22,7 +28,7 @@ Small Dataset Size:
 
 Inappropriate Performance Metric: 
   - CV accuracy may not align with the true objective (e.g., [[imbalanced datasets]]).
-  - Solution: Choose appropriate [[Evaluation Metrics]]  based on the problem context.
+  - Solution: Choose appropriate [[Evaluation Metrics]] based on the problem context.
 
 ### Practical Recommendations
 - Evaluate the model on a completely independent test set after cross-validation.

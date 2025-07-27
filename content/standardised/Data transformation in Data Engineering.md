@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Data transformation in [[Data Engineering]] is a key step in data pipelines, often part of:  
 
 - [ETL (Extract, Transform, Load)](ETL.md) [[ETL]]: Data is transformed before loading into the target system.  

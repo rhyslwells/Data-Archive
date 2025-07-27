@@ -1,7 +1,8 @@
 ---
-tags:
-  - software
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [software]
 ---
 ### Note: Registering a Scheduled Task with a [[bat]] File
 

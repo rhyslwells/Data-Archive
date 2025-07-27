@@ -1,11 +1,8 @@
 ---
-tags:
-  - devops
-aliases: 
+aliases: []
 category: DEVOPS
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [devops]
 ---
 Vercel is a cloud platform for front-end frameworks and static sites, optimized for serverless [[Model Deployment|deployment]] and instant global delivery.
 

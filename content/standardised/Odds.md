@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 ### Odds
 
 * Definition: The ratio of favorable outcomes to unfavorable outcomes.

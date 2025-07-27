@@ -1,12 +1,10 @@
 ---
-type: process
-tags:
-  - evaluation
-  - deleted
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [deleted, evaluation]
 title: 
-importance: 
-engagement: 
-recency_of_interest:
+type: process
 ---
 Assess the model's performance using various metrics to ensure it meets the desired accuracy and reliability.
 
@@ -17,7 +15,7 @@ Appropriate evaluation metrics are used based on the problem type (classificatio
 - **Performance Assessment**: Models are evaluated on a testing set using metrics relevant to the problem type.
 - **Generalization and Bias**: Evaluation includes assessing how well the model generalizes to new data and identifying any biases.
 
-For categorical classifiers: [[Evaluation Metrics]]:  Use metrics such as accuracy, precision, recall, F1-score, and confusion matrix to evaluate performance.
+For categorical classifiers: [[Evaluation Metrics]]: Use metrics such as accuracy, precision, recall, F1-score, and confusion matrix to evaluate performance.
 
 For regression tasks: [[Regression Metrics]]: Metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R²) are used.
 

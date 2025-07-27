@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Statistical tests are methods used to determine if there is a significant difference between groups or if a relationship exists between variables. Each test has its specific [[Statistical Assumptions]] and applications.
 ## Types of Statistical Tests
 

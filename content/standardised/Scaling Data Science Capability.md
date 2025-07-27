@@ -1,7 +1,8 @@
 ---
-tags:
-  - business
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [business]
 ---
 Phases of Scaling:
 1. Lab Setting – Experimental, low-risk environment for vision development.

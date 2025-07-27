@@ -1,8 +1,8 @@
 ---
-tags:
-  - software
-  - Research
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [Research, software]
 ---
 
 Jupytext is a tool that lets you convert between Jupyter Notebooks (`.ipynb`) and plain text formats like:

@@ -1,6 +1,8 @@
 ---
-aliases:
-  - S3
+aliases: [S3]
+category:
+date modified: 27-07-2025
+tags: []
 ---
 # Amazon S3
 ## Amazon S3 buckets (onedrive essentially)

@@ -1,42 +1,44 @@
 ---
-tags: 
-aliases:
-  - LDA
+aliases: [LDA]
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [1, 2]
 ---
-Related terms:
-- [[topic modeling]]
-- [[Semantic Relationships]]
-- [[NLP]]
-
-**Latent Dirichlet Allocation (LDA)** is a generative probabilistic model used in Natural Language Processing (NLP) and machine learning for topic modeling. It assumes that documents are mixtures of topics, and topics are mixtures of words. The goal of LDA is to uncover the latent topics in a collection of text documents by identifying groups of words that frequently appear together in the same documents.
+Latent Dirichlet Allocation (LDA) is a generative probabilistic model used in Natural Language Processing (NLP) and machine learning for topic modeling. It assumes that documents are mixtures of topics, and topics are mixtures of words. The goal of LDA is to uncover the latent topics in a collection of text documents by identifying groups of words that frequently appear together in the same documents.
 
 Libraries like gensim in Python are highlighted as being particularly suitable for topic modeling
 
 ### Key Concepts:
-- **Topic**: A distribution over a fixed vocabulary of words. A topic might represent a certain theme, like "sports" or "politics."
-- **Document**: A mixture of topics. A document is modeled as a combination of topics with different proportions.
-- **Words**: Each word in the document is associated with a topic based on the topic proportions of that document.
+- Topic: A distribution over a fixed vocabulary of words. A topic might represent a certain theme, like "sports" or "politics."
+- Document: A mixture of topics. A document is modeled as a combination of topics with different proportions.
+- Words: Each word in the document is associated with a topic based on the topic proportions of that document.
 
 ### How LDA Works:
-1. **Assume each document has a mixture of topics**: Each document is made up of a certain proportion of topics. For example, a document could be 70% about "sports" and 30% about "politics."
-2. **Assume each topic is a distribution of words**: Each topic has a specific distribution over words. For example, the "sports" topic might have a high probability for words like "football," "game," and "score."
-3. **Infer the topics from the documents**: LDA tries to discover these hidden topics from the words in the documents, without knowing the topics in advance.
+1. Assume each document has a mixture of topics: Each document is made up of a certain proportion of topics. For example, a document could be 70% about "sports" and 30% about "politics."
+2. Assume each topic is a distribution of words: Each topic has a specific distribution over words. For example, the "sports" topic might have a high probability for words like "football," "game," and "score."
+3. Infer the topics from the documents: LDA tries to discover these hidden topics from the words in the documents, without knowing the topics in advance.
 
-### Example:
+### Why Use LDA?
+- Topic Discovery: It helps discover hidden themes in a large corpus of text data.
+- [[Dimensionality Reduction]]: LDA reduces the complexity of the text data by modeling it with a smaller number of topics instead of many individual words.
+
+Related terms:
+- [[topic modeling]]
+- [[Semantic Relationships]]
+- [[NLP]]
+- [[Unsupervised Learning]]
+
+## Example:
 
 Imagine you have a set of three simple documents:
 
-1. **Document 1**: "Football is a great sport"
-2. **Document 2**: "Basketball is also fun to play"
-3. **Document 3**: "Soccer and football are similar sports"
+1. Document 1: "Football is a great sport"
+2. Document 2: "Basketball is also fun to play"
+3. Document 3: "Soccer and football are similar sports"
 
 LDA might identify two topics:
-- **Topic 1**: Words related to "sports" (e.g., "football," "basketball," "soccer").
-- **Topic 2**: Words related to "competition" or "play" (e.g., "game," "score," "fun").
+- Topic 1: Words related to "sports" (e.g., "football," "basketball," "soccer").
+- Topic 2: Words related to "competition" or "play" (e.g., "game," "score," "fun").
 
 The algorithm would assign a mixture of these topics to each document based on the words in the documents.
 
@@ -81,13 +83,9 @@ for index, topic in enumerate(lda.components_):
 ```
 
 ### Output Explanation:
-- **Topic #1** might have words like **football**, **sports**, **game**, because these terms appear frequently in the documents related to sports.
-- **Topic #2** could have terms like **basketball**, **soccer**, **fun**, because these are associated with the activities discussed in the documents.
+- Topic might have words like football, sports, game, because these terms appear frequently in the documents related to sports.
+- Topic could have terms like basketball, soccer, fun, because these are associated with the activities discussed in the documents.
 
 ### How to Interpret:
-- **Document 1 ("Football is a great sport")**: LDA might classify this document as being 60% about Topic #1 (sports-related) and 40% about Topic #2 (competitive play).
-- **Document 2 ("Basketball is also fun to play")**: LDA might classify this document as being 80% about Topic #2 (competitive play) and 20% about Topic #1 (sports-related).
-
-### Why Use LDA?
-- **Topic Discovery**: It helps discover hidden themes in a large corpus of text data.
-- **Dimensionality Reduction**: LDA reduces the complexity of the text data by modeling it with a smaller number of topics instead of many individual words.
+- Document 1 ("Football is a great sport"): LDA might classify this document as being 60% about Topic (sports-related) and 40% about Topic (competitive play).
+- Document 2 ("Basketball is also fun to play"): LDA might classify this document as being 80% about Topic (competitive play) and 20% about Topic (sports-related).

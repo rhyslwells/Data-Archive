@@ -1,8 +1,8 @@
 ---
-tags:
-  - optimisation
-  - ml_optimisation
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [ml_optimisation, optimisation]
 ---
 https://developers.google.com/optimization/examples
 

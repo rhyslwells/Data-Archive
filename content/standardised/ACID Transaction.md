@@ -1,8 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_storage, database]
 title: 
-tags:
-  - database
-  - data_storage
 ---
 An ACID [[Transaction]] ensures that either all changes are successfully committed or rolled back, preventing the database from ending up in an inconsistent state. This guarantees the integrity of the data throughout the transaction process.
 

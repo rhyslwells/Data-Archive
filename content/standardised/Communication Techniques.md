@@ -1,14 +1,13 @@
 ---
-tags:
-  - communication
-  - business
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [business, communication]
 ---
 
 ## Overview
 
-Using these structured communication bridges can  enhance clarity and engagement, especially in spontaneous or high-stakes discussions or [[Project Management Portal]].
+Using these structured communication bridges can enhance clarity and engagement, especially in spontaneous or high-stakes discussions or [[Project Management Portal]].
 
 Tips for Using Communication Bridges
 1. Start Small: Begin by integrating 2-3 bridges that feel natural to you.

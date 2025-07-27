@@ -1,14 +1,8 @@
 ---
-tags:
-  - language_models
-  - NLP
-aliases:
-  - What is LLM memory
-  - context
+aliases: [context, What is LLM memory]
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [language_models, NLP]
 ---
 Memory in large [[language models]] (LLMs) involves managing context windows to enhance reasoning capabilities without the high costs associated with traditional training methods. The goal of [[LLM Memory]] is to address challenges like "forgetting," where LLMs struggle to retain context across interactions.
 ## Key Concepts:

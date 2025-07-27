@@ -1,6 +1,8 @@
 ---
-tags: 
+aliases: []
 category: 
+date modified: 27-07-2025
+tags: [architecture, cost, customisation, data_retrieval, engineering, evaluation, inference, memory_management, memory_representation, metrics, ml_optimisation, NLP, performance, versioning]
 ---
 Mem0 White paper: Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory
 
@@ -49,7 +51,7 @@ Notes:
 
 ###### Questions from chat
 
-##### #architecture #engineering
+#####
 
 - Could you explain the biggest engineering or architectural challenges in maintaining long-term memory at scale in production—especially in terms of latency, consistency, and cost?
     
@@ -57,7 +59,7 @@ Notes:
     
 - How would you adapt this architecture for use cases where agents need to reason or generate knowledge based on an existing database? Would you recommend agents interact and generate memories collaboratively?
 
-##### #ml_optimisation #performance #cost
+#####
 
 - How do you manage the cost while keeping contextual memory?
     
@@ -65,13 +67,13 @@ Notes:
     
 - Regarding the conflict detection mechanism described in the paper: doesn’t marking relationships as invalid instead of removing them lead to a bloated graph and higher costs?
 
-##### #memory_management #versioning
+#####
 
 - How do you handle versioning of memory—especially when the agent's behavior or model evolves?
     
 - Do you have any mechanisms in place for detecting memory drift or bias accumulation in long-term storage?
     
-##### #data_retrieval #inference
+#####
 
 - How many API requests are required to create/update and later retrieve memories?
     
@@ -82,7 +84,7 @@ Notes:
 - How does the open-source implementation of the memory architecture compare to the enterprise offering of mem0, especially in how facts are generated?
 
 
-##### #NLP #memory_representation
+#####
 
 - What is the difference between candidate facts and summary?
     
@@ -92,12 +94,12 @@ Notes:
     
 - Do we need to choose between mem0 and mem0g for specific domains, or can mem0g be used universally?
 
-##### #evaluation #metrics
+#####
 
 - What evaluation metrics are considered for Mem0 (e.g., F1 score)?
     
 - How does Mem0 quantitatively evaluate long-term memory effectiveness in terms of retrieval accuracy, memory relevance, and agent task performance over time?
     
-##### #ml_optimisation #customisation
+#####
 
 - If I need to fine-tune the quality of the memory for a specific application, what parameters or “knobs” can I adjust?

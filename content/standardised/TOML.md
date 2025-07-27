@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 A `.toml` file is a configuration file format that stands for "Tom's Obvious, Minimal Language." 
 
 It is designed to be easy to read due to its simple syntax. TOML files are often used for configuration because they are straightforward to parse and write for both humans and machines. 

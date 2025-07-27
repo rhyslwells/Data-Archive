@@ -1,6 +1,8 @@
 ---
-tags:
-  - statistics
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [statistics]
 ---
 The Central Limit Theorem states that the distribution of the sum (or average) of a large number of independent, identically distributed random variables approaches a normal distribution, regardless of the original distribution.
 

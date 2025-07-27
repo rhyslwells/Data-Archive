@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Transforming raw data into a meaningful format is necessary for building effective models.  
 
 - [[Supervised Learning]]: Annotating datasets with correct labels (e.g., labeling images of apples vs. other fruits).  

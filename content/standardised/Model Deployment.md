@@ -1,9 +1,8 @@
 ---
-tags:
-  - deleted
-  - model_architecture
-aliases:
-  - Deployment
+aliases: [Deployment]
+category:
+date modified: 27-07-2025
+tags: [deleted, model_architecture]
 ---
 Deploying a machine learning model involves moving it from a development environment to a production environment where it can make predictions on new data.
 
@@ -33,7 +32,7 @@ Deployment Options
 
 # Deploying using [[PyCaret]]
 
-**AWS:**  When deploying model on AWS S3, environment variables must be configured using the command-line interface. To configure AWS environment variables, type `aws configure` in terminal. The following information is required which can be generated using the Identity and Access Management (IAM) portal of your amazon console account:
+**AWS:** When deploying model on AWS S3, environment variables must be configured using the command-line interface. To configure AWS environment variables, type `aws configure` in terminal. The following information is required which can be generated using the Identity and Access Management (IAM) portal of your amazon console account:
 
 - AWS Access Key ID
 - AWS Secret Key Access

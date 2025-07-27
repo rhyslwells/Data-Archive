@@ -1,16 +1,29 @@
 ---
-tags:
-  - NLP
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [deep_learning, NLP]
 ---
-Sentence [[Transformer|Transformers]] are models built on top of transformer architectures like [[BERT]] to produce [[Semantic Relationships]] meaningful vector embeddings of sentences. They are optimized for tasks like semantic similarity, clustering, and information retrieval.
+Sentence [[Transformer|Transformers]] are models built on top of transformer architectures like [[BERT]], fine-tuned to generate semantic sentence embeddings. Unlike BERT, which produces token-level outputs pooled into sentence representations, Sentence Transformers are trained to directly capture meaningful sentence-level semantics through supervised training on sentence pairs.
 
-Use Cases:
-- Embedding sentences for [[semantic search]]
-- Clustering short texts
-- Measuring similarity between queries and documents
+Why Use Sentence Transformers Instead of BERT?
+- Standard BERT embeddings are not optimized for measuring [[Semantic Relationships|semantic similarity]]. They rely on simple pooling methods (e.g. mean pooling), which treat all tokens equally and often fail to reflect sentence meaning accurately.
 
-Exploratory Questions:
-- How does fine-tuning affect embedding quality?
-- When should I use Sentence-BERT over plain BERT?
-- See retrained models like all-MiniLM vs mpnet?
+Sentence Transformers overcome this by:
+* Using a twin (siamese) architecture where sentence pairs are passed through a shared encoder.
+* Being fine-tuned on tasks like semantic similarity, paraphrase detection, and natural language [[inference]], enabling them to learn relational meaning between sentences.
+* Producing embeddings that are directly comparable using metrics like [[cosine similarity]].
+
+As a result, Sentence Transformers perform significantly better on:
+* Semantic search
+* [[Vector Embedding|Embedding]] texts for semantic search and ranking
+* Clustering or grouping short texts
+* Comparing the similarity of sentence or query pairs
+
+ Key Questions to Explore
+* When is fine-tuning necessary, and how does it impact embedding quality?
+* Which model variants (e.g. `all-MiniLM`, `mpnet`) are best for your task?
+* [ ] When is Sentence -BERT preferable over base BERT or other transformer models?
+
+Related:
+- [[Sentence Transformer Workflow]]

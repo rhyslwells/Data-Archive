@@ -1,7 +1,8 @@
 ---
-tags:
-  - software
-  - business
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [business, software]
 ---
 API-driven microservices refer to a [[software architecture]] approach where [[microservices]] communicate with each other and with external systems primarily through well-defined [[API]] (Application Programming Interfaces). 
 

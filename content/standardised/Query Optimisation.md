@@ -1,6 +1,8 @@
 ---
-tags:
-  - database
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [database, performance_tuning, querying]
 ---
  [[Querying]] can be optimised for time, ==space efficiency==, and concurrency of queries.
  
@@ -32,4 +34,4 @@ SQLite's "VACUUM" command reclaims unused space after data deletion, reducing da
 
 
 [[Query Optimisation]]
-   **Tags**: #performance_tuning, #querying
+   **Tags**:,

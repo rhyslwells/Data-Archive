@@ -1,9 +1,8 @@
 ---
-tags:
-  - field
-  - drafting
-aliases: 
+aliases: []
 category: DS
+date modified: 27-07-2025
+tags: [drafting, field]
 ---
 ### Step 1: Start with Data
 

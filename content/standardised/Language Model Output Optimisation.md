@@ -1,9 +1,9 @@
 ---
-title: 
-tags: []
+aliases: []
 category: LANG
-engagement: 
-recency_of_interest:
+date modified: 27-07-2025
+tags: []
+title: 
 ---
 
 What techniques from [[information theory]] can be used to measure and optimize the amount of information conveyed by an language model?

@@ -1,8 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_modeling, data_storage]
 title: What is semi-structured data?
-tags:
-  - data_modeling
-  - data_storage
 ---
 
 Semi-structured data is data that lacks a rigid structure and that does not conform directly to a data model, but that has tags, metadata, or elements that describe the data. 

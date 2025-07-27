@@ -1,11 +1,12 @@
 ---
-tags:
-  - data_transformation
-  - data_transformation
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_transformation, data_transformation]
 ---
 Data selection is a crucial part of data manipulation and analysis. Pandas provides several methods to select data from a DataFrame.
 
-In [[DE_Tools]]  we explore how to do Data Selection with Pandas
+In [[DE_Tools]] we explore how to do Data Selection with Pandas
 - https://github.com/rhyslwells/DE_Tools/blob/main/Explorations/Transformation/selection.ipynb
 
 Related:

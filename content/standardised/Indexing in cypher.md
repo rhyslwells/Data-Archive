@@ -1,7 +1,8 @@
 ---
-tags:
-  - optimisation
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [optimisation]
 ---
 On large graphs, performance becomes critical. Neo4j supports [[Database Index|Index]] and tuning.
 

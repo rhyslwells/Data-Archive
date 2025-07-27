@@ -1,11 +1,9 @@
 ---
+aliases: [explainability, interpretable]
+category:
+date modified: 27-07-2025
+tags: [drafting, model_explainability]
 title: Interpretability
-tags:
-  - drafting
-  - model_explainability
-aliases:
-  - explainability
-  - interpretable
 ---
 # Links
 1. [Interpretability Importance](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html)

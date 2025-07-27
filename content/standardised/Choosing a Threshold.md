@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 The optimal threshold depends on the specific problem and the desired trade-off between different types of errors:
 
 1. Manual Selection: Based on domain expertise or prior knowledge, choose a threshold that seems reasonable.

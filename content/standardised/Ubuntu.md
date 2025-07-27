@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Ubuntu is a popular open-source operating system based on the [[Linux]] kernel. It is designed to be user-friendly:
 
 1. **Desktop Environment**: Ubuntu provides a graphical user interface (GUI) that makes it accessible to users who may not be familiar with command-line interfaces. It is often used as a desktop operating system for personal computers.

@@ -1,8 +1,9 @@
 ---
-title: What is Data Literacy?
-tags:
-  - "#business"
+aliases: []
 category: INDUSTRY
+date modified: 27-07-2025
+tags: ["#business"]
+title: What is Data Literacy?
 ---
 Part of [[Change Management]]
 

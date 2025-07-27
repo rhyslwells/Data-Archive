@@ -1,10 +1,9 @@
 ---
-title: 
-tags:
-  - classifier
-  - regressor
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [classifier, regressor]
+title: 
 ---
 A Decision Tree is a type of [[Supervised Learning]] algorithm used to predict a target variable based on input features. It involves splitting data into subsets to create a tree-like model.
 

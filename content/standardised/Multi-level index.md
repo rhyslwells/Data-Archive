@@ -1,6 +1,8 @@
 ---
-tags:
-  - data_transformation
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_transformation]
 ---
 Multi-level indexing in pandas—also called hierarchical indexing—enables you to work with higher-dimensional data in a 2D DataFrame. It's particularly useful for working with grouped or nested data structures.
 

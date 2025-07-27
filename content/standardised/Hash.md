@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 A hash is a fixed-size string of characters that is generated from input data of any size using a hash function. 
 
 Hashes are used to ensure [[data integrity]] by providing a unique representation of the data, making it easy to detect any changes or alterations.

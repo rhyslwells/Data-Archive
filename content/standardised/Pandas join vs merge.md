@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_cleaning, data_integration]
+---
 In pandas, both `.join()` and `pd.merge()` are used to combine DataFrames, but they differ in **syntax**, **defaults**, and **use cases**.
 
 [[Merge]] is better than Join.
@@ -10,5 +16,4 @@ In pandas, both `.join()` and `pd.merge()` are used to combine DataFrames, but t
 |**Index join**|Default behavior (index-to-index)|Requires `left_index=True`, `right_index=True`|
 |**Suffixes**|`lsuffix`, `rsuffix`|`suffixes=('_x', '_y')`|
 |**Complex joins**|Not well-suited|Supports full SQL-style joins|
-|**Use case**|Simple joins on index or one column|Complex joins with control over join behavior|
-#data_cleaning #data_integration 
+|**Use case**|Simple joins on index or one column|Complex joins with control over join behavior| 

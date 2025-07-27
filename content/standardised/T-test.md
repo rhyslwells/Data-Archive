@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 The T-test is a statistical method ==used to determine if there is a significant difference between the means of two groups, especially when the population [[standard deviation]] is unknown.== It is particularly useful when dealing with small sample sizes.
 
 ## Types of T-tests

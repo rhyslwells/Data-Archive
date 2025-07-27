@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 [[Documentation & Meetings]]
 
 There are class diagrams showing the hierarchy of classes [[Classes]] (Object orientated). 

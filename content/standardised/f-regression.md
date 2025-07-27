@@ -1,8 +1,8 @@
 ---
-tags:
-  - statistics
-  - model_explainability
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [model_explainability, statistics]
 ---
 
 `f_regression` is a statistical method provided by `sklearn.feature_selection` to evaluate the linear relationship between each independent variable in X and a continuous target variable y. It is a univariate [[feature selection]] method based on the [[F-statistic]] from simple linear regression.

@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 ### Proportion Test
 
 The proportion test is used to compare proportions between groups. It can be categorized into:

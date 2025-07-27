@@ -1,6 +1,8 @@
 ---
-tags:
-  - clustering
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [clustering]
 ---
 K-means clustering is an [[Unsupervised Learning]] algorithm that partitions data into (k) clusters. Each data point is assigned to the cluster with the nearest centroid.
 

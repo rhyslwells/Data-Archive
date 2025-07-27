@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Ruff is a fast [[Python]] linter and code formatter.
 
 It is designed to enforce coding style and catch potential errors in Python code. 

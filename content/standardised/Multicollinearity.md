@@ -1,7 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [statistics]
 type: 
-tags:
-  - statistics
 ---
 When two or more regressors are in [[Correlation]]
 

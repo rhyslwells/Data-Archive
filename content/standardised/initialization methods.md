@@ -1,8 +1,8 @@
 ---
-tags:
-  - deep_learning
-  - optimisation
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [deep_learning, optimisation]
 ---
 A weight initialization method sets the initial values of a [[neural network]]’s weights *before* training begins. This choice significantly affects how well and how fast the network learns.
 

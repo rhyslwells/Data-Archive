@@ -1,8 +1,8 @@
 ---
-tags:
-  - NLP
-  - language_models
+aliases: [semantic similarity]
 category: LANG
+date modified: 27-07-2025
+tags: [language_models, NLP]
 ---
 Semantic relationships (Semantic Similarity) refer to the connections and associations between words and concepts based on their meanings. 
 

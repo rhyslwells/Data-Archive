@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 In pandas, [[Groupby]] and [[Crosstab]] serve related but distinct purposes for data ==aggregation== and summarization.
 
 - groupby is more flexible for aggregation and transformations,

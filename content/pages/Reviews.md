@@ -13,6 +13,7 @@ Periodically do these:
 - Review Project Tracker (In Calendar)
 - Integrate Google Keep Notes (In Calendar)
 - Clear Physical Book Notes (In Calendar)
+- Review Blog Drafts  | Githubio (In Calendar)
 
 Further analysis:
 - Use [[Graph Analysis Plugin]] to investigate graph relations.

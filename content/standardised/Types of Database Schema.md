@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 There are several types of database schemas commonly used in data warehousing and database design.
 
 [[Star Schema]]

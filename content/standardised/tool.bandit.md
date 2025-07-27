@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 # Bandit: A Security Linter for Python
 
 ## Resources

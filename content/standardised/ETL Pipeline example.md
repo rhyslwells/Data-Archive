@@ -1,12 +1,14 @@
 ---
-tags:
-  - data_transformation
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_transformation]
 ---
 [Link](https://www.youtube.com/watch?v=uqRRjcsUGgk)
 
 [Github](https://github.com/syalanuj/youtube/blob/main/de_fundamentals_python/etl.py
 
-#### 1.  Extract using a API
+#### 1. Extract using a API
 
 Get data via api or download.
 

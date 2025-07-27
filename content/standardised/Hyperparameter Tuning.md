@@ -1,10 +1,8 @@
 ---
-tags: 
-aliases: 
+aliases: []
 category: 
-phase: optimisation
-topic: Hyperparameter_tuning
-filename:
+date modified: 27-07-2025
+tags: []
 ---
 Objective:
 - Tune the model’s hyperparameters to improve performance. For example, in regularized linear regression, the main hyperparameter to tune is the regularization strength (e.g., `alpha` in Ridge or Lasso).

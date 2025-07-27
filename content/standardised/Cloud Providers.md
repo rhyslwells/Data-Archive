@@ -1,7 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_storage]
 title: What are the top Cloud Providers?
-tags:
-  - data_storage
 ---
 Among the biggest cloud providers are [AWS](https://aws.amazon.com/), [Microsoft Azure](https://azure.microsoft.com/), [Google Cloud](https://cloud.google.com/). 
 

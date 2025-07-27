@@ -1,8 +1,8 @@
 ---
-tags:
-  - math
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [math]
 ---
 
 Information theory is a mathematical framework for quantifying the transmission, processing, and storage of information. 

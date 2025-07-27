@@ -1,11 +1,11 @@
 ---
-title: 
-tags:
-  - model_algorithm
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [model_algorithm]
+title: 
 ---
-Transfer learning is a  technique in machine learning that ==leverages knowledge gained from one setting (source domain) to improve performance on a different but related setting (target domain).== 
+Transfer learning is a technique in machine learning that ==leverages knowledge gained from one setting (source domain) to improve performance on a different but related setting (target domain).== 
 
 The core idea is to train a model on a large dataset in the source domain, learning rich feature representations that capture general patterns and relationships in the data.== These learned representations can then be transferred to the target domain, where they can be fine-tuned with a smaller dataset to achieve good performance on the target task.
 

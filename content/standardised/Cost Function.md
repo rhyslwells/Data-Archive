@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 The concept of a Cost Function is central to [[Model Optimisation]], particularly in training models.
 
 A cost function, also known as a loss function or error function, is a mathematical function used in optimization and machine learning to measure the difference between predicted values and actual values. It quantifies the error or "cost" of a model's predictions. The goal of many machine learning algorithms is to minimize this cost function, thereby improving the accuracy of the model. Common examples of cost functions include Mean Squared Error (MSE) for regression tasks and Cross-Entropy Loss for classification tasks.

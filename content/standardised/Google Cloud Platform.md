@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Google Cloud Platform is a suite of cloud computing services offered by Google. It provides a range of services including computing, storage, and application development that run on Google hardware.
 
 Resources:

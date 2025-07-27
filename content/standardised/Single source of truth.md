@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_management, data_storage]
+---
 Sending data from across an enterprise into a centralized system such as a:
 
 - [[Database]]
@@ -11,4 +17,4 @@ results in a single unified location for accessing and analyzing all the inform
 
 
 [[Single Source of Truth]]
-   **Tags**: #data_management, #data_storage
+   **Tags**:,

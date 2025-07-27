@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 [[Why use ER diagrams]]
 
 Cleaning a dataset before creating an [[ER Diagrams]] is crucial for ensuring accuracy and reliability in your database design

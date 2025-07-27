@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Gradio is an open-source platform that simplifies the process of ==creating user interfaces== for machine learning models. 
 
 It allows users to quickly build interactive demos and applications for their models without extensive front-end development knowledge. 

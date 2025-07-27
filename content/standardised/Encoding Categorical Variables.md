@@ -1,11 +1,9 @@
 ---
-title: 
-tags:
-  - regressor
-  - data_cleaning
-  - preprocessing
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [data_cleaning, preprocessing, regressor]
+title: 
 ---
 Categorical variables need to be converted into numerical representations to be used in models, particularly in [[Regression]] analysis. This process is essential for transforming categorical results into a format that algorithms can interpret.
 ### [[Label Encoding]]

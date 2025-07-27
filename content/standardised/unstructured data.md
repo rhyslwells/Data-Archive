@@ -1,8 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_modeling, data_storage]
 title: 
-tags:
-  - data_modeling
-  - data_storage
 ---
 >[!Important]
 > Unstructured data is data that does not conform to a data model and has no easily identifiable structure. 

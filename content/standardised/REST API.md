@@ -1,6 +1,8 @@
 ---
-tags: 
+aliases: []
 category: 
+date modified: 27-07-2025
+tags: []
 ---
 Postman is a free tool to test out REST API.
 #### REST API

@@ -1,11 +1,9 @@
 ---
-title: 
-tags:
-  - language_models
-aliases:
-  - LLMs
-  - Large Language Models
+aliases: [Large Language Models, LLMs]
 category:
+date modified: 27-07-2025
+tags: [language_models]
+title: 
 ---
 A Large Language Model (LLM) is a type of language model designed for language understanding and generation. They can perform a variety of tasks, including:
 

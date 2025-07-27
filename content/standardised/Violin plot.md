@@ -1,6 +1,8 @@
 ---
-tags:
-  - statistics
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [statistics]
 ---
 An extension of a [[Boxplot]] showing the data distribution. Useful when comparing distributions, skewness.
 

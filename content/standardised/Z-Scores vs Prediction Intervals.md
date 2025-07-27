@@ -1,11 +1,8 @@
 ---
-tags:
-  - statistics
-aliases: 
+aliases: []
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [statistics]
 ---
 [[Z-Score]] and [[Prediction Intervals]] serve different purposes. Z-scores assess existing values within a dataset, while prediction intervals estimate the likely range for future observations.
 

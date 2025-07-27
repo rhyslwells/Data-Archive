@@ -1,7 +1,8 @@
 ---
-tags:
-  - data_visualization
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [data_visualization]
 ---
 
 ## 1. Declarative vs. Procedural API

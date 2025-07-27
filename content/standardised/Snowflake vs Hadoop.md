@@ -1,9 +1,8 @@
 ---
-tags:
-  - software_architecture
-  - data_storage
-aliases: 
+aliases: []
 category: DEVOPS
+date modified: 27-07-2025
+tags: [data_storage, software_architecture]
 ---
 [[Snowflake]] and Hadoop are both [[Data Management]] systems, but they serve different purposes and have distinct architectures and functionalities. 
 

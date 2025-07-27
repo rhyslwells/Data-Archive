@@ -1,8 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_modeling, data_orchestration]
 title: What is a Lambda Architecture?
-tags:
-  - data_modeling
-  - data_orchestration
 ---
 Lambda architecture is a data-processing architecture designed to handle massive quantities of data by taking advantage of both batch and stream-processing methods. [[Data Streaming]]
 

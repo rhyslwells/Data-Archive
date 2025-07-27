@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 
 (Not Only SQL):** ==Non-relational== database management systems offering flexibility and scalability for unstructured or document-based data.
 

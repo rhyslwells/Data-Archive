@@ -1,7 +1,8 @@
 ---
-tags:
-  - NLP
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [NLP]
 ---
 
 Sentence similarity refers to the degree to which two sentences are alike in meaning. It is a crucial concept in natural language processing ([[NLP]]) tasks such as information retrieval, text summarization, and paraphrase detection. Measuring sentence similarity involves comparing the semantic content of sentences to determine how closely they relate to each other.

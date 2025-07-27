@@ -1,14 +1,8 @@
 ---
-tags:
-  - database_optimisation
-  - database_structure
-aliases:
-  - Indexing
-  - Index
+aliases: [Index, Indexing]
 category: DE
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [database_optimisation, database_structure]
 ---
 In [[DE_Tools]] see: 
 - https://github.com/rhyslwells/DE_Tools/blob/main/Explorations/SQLite/Indexing/Indexing.ipynb

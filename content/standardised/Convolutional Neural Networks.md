@@ -1,9 +1,9 @@
 ---
-title: 
-tags:
-  - deep_learning
-aliases: 
+aliases: []
 category: ML
+date modified: 27-07-2025
+tags: [deep_learning]
+title: 
 ---
 Convolutional networks, or CNNs, are specialized [[Deep Learning]] architectures designed for processing data with grid-like structures, such as images. 
 

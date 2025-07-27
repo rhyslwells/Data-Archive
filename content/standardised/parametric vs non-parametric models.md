@@ -1,12 +1,13 @@
 ---
-tags:
-  - statistics
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [statistics]
 ---
 
 ### Parametric Models [[parametric]]
 
-Definition: Models  that summarize data with a ==set of parameters of fixed size, regardless of the number of data points.==
+Definition: Models that summarize data with a ==set of parameters of fixed size, regardless of the number of data points.==
 
 Characteristics:
   - Assumes a specific form for the function mapping inputs to outputs (e.g., linear regression assumes a linear relationship).

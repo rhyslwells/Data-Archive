@@ -1,7 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [business]
 title: 
-tags:
-  - business
 ---
 CRISP-DM stands for Cross-Industry Standard Process for Data Mining, a widely adopted framework that provides a structured approach to planning, organizing, and conducting data mining projects. It was developed in 1996 by Daimler-Benz, SPSS, and NCR. 
 

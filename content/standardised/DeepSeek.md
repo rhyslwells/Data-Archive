@@ -1,10 +1,8 @@
 ---
-tags: 
-aliases: 
+aliases: []
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [drafting]
 ---
 [[LLM]] example 
 
@@ -22,8 +20,7 @@ can see it - ui choice
 [[Distillation]] - use gpt output and trains on it. 
 
 [[Data Security]]
-
-#drafting 
+ 
 
 [[jevon paradox]] - as cost decreases usage increases 
 

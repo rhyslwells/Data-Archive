@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 ### How to Add a Database to PostgreSQL  
 
 ### Using pgAdmin (GUI)  

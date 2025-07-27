@@ -1,8 +1,8 @@
 ---
-tags:
-  - drafting
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [drafting]
 ---
 Agentic solutions leverage multiple autonomous agents (usually [[Small Language Models|SLM]]) to achieve goals collaboratively. These systems distribute tasks across agents that operate individually or collectively to solve complex problems.
 

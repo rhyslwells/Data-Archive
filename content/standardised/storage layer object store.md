@@ -1,9 +1,9 @@
 ---
+aliases: [Object Store]
+category:
+date modified: 27-07-2025
+tags: [data_storage]
 title: What is a Storage Layer / Object Store?
-tags:
-  - data_storage
-aliases:
-  - Object Store
 ---
 A storage layer or object storage are services from the three big [[Cloud Providers]], 
 

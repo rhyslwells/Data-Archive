@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_management, data_quality]
+---
 Data integrity refers to the 
 - accuracy, 
 - consistency, and 
@@ -20,4 +26,4 @@ In the context of [[Database]] and information systems, data integrity can be en
 
 
 [[Data Integrity]]
-   **Tags**: #data_quality, #data_management
+   **Tags**:,

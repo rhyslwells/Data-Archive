@@ -1,7 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [career]
 title: 
-tags:
-  - career
 ---
 Industries to investigate related to my background & interests:
 - [[Energy]]

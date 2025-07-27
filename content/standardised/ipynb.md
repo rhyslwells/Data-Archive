@@ -1,6 +1,8 @@
 ---
-tags:
-  - software
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [software]
 ---
 At a system level, working with `.ipynb` (Jupyter Notebook) files involves understanding them as structured [[JSON]] documents, and then managing, manipulating, or integrating them into broader data workflows, systems, or tools. Here's a breakdown of what you can do at that level:
 

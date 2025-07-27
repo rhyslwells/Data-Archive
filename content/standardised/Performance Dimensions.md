@@ -1,11 +1,8 @@
 ---
-tags:
-  - portal
-aliases: 
+aliases: []
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [portal]
 ---
  Efficiency & Performance  
 - [[Cost-efficiency]]: Ensuring that the solutions used are cost-effective and provide value for money.  
@@ -14,7 +11,7 @@ filename:
 
  Flexibility & Scalability  
 - [[Flexibility]]: The capability to adapt to changing requirements and data sources.  
-- [[Scalability]]: Ensuring the system can handle increasing volumes of data without performance degradation.  Can handle large volumes of data, making it suitable for enterprise-level data warehousing.  
+- [[Scalability]]: Ensuring the system can handle increasing volumes of data without performance degradation. Can handle large volumes of data, making it suitable for enterprise-level data warehousing.  
 - [[Reusability]]: Designing components that can be reused across different projects or processes.  
 - [[Latency]]: Minimizing delays in data processing and retrieval.  
 

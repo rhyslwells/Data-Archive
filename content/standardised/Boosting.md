@@ -1,9 +1,10 @@
 ---
-tags:
-  - model_architecture
-  - model_explainability
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [model_architecture, model_explainability]
 ---
-Boosting is a type of [[Model Ensemble]] in machine learning that focuses on improving the accuracy of predictions by building a ==sequence of models==.    Each subsequent model focuses on correcting the errors made by the previous ones.
+Boosting is a type of [[Model Ensemble]] in machine learning that focuses on improving the accuracy of predictions by building a ==sequence of models==. Each subsequent model focuses on correcting the errors made by the previous ones.
 
 It combines [[Weak Learners]] (models that are slightly better than random guessing) to create a strong learner. 
 

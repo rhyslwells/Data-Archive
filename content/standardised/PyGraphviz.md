@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 PyGraphviz
 Interface: Thin wrapper around the C Graphviz API.
 Better integration with NetworkX, especially with graphviz_layout.

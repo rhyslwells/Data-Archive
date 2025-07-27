@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Justfile is a command runner designed to streamline workflows by allowing users to define simple, reusable commands for common tasks. 
 
 This approach minimizes the cognitive load associated with memorizing long command sequences, enhancing productivity. The underlying concept is to create a more efficient command execution environment.

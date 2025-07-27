@@ -1,8 +1,12 @@
 ---
-tags:
-  - software
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [software]
 ---
-Can we search with descriptions ? 
+Software to search through a computer effectively.
+
+- [ ] Can we search with descriptions ? 
 
 ## Tips
 

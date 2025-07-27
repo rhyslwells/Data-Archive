@@ -1,11 +1,9 @@
 ---
-title: 
-tags:
-  - statistics
-  - drafting
-aliases:
-  - Distribution
+aliases: [Distribution]
 category:
+date modified: 27-07-2025
+tags: [drafting, statistics]
+title: 
 ---
 In [[ML_Tools]] see:
 - [[Distribution_Analysis.py]]

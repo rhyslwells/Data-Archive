@@ -1,8 +1,8 @@
 ---
-tags:
-  - NLP
-  - data_integration
+aliases: []
 category: LANG
+date modified: 27-07-2025
+tags: [data_integration, NLP]
 ---
 Elasticsearch is an open source distributed [[search]] and analytics engine, often used to store and search through text data (e.g., logs, documents, articles). It's commonly integrated with NLP workflows for:
 

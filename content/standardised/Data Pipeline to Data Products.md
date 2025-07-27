@@ -1,15 +1,9 @@
 ---
-title: 
-tags:
-  - "#question"
-  - data_orchestration
-  - anomaly_detection
-  - data_pipeline
-  - data_products
+aliases: []
 category: DEVOPS
-engagement: 
-recency_of_interest: 2024-10-10
-importance:
+date modified: 27-07-2025
+tags: ["#question", anomaly_detection, data_orchestration, data_pipeline, data_products]
+title: 
 ---
 The journey from [[Data Pipeline]] to [[Data Product]] involves transforming raw data into valuable insights or applications that can be used to drive business decisions. This process typically includes several stages, each with its own set of tasks and objectives.
 

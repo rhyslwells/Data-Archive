@@ -1,8 +1,8 @@
 ---
-tags:
-  - statistics
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [statistics]
 ---
 A confidence interval is a range of values, derived from sample data, that is likely to contain the true population parameter. It is associated with a confidence level, such as 95%, indicating the probability that the interval captures the true parameter.
 

@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 **Chain of Thought (CoT) reasoning**
 
 Asking sequenced questions that guide someone (or yourself) through a reasoning path is a core technique in problem-solving and teaching. Examples:

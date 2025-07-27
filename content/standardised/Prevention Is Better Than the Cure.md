@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 To ensure data products are effective essential to prioritize prevention over remediation of [[Data Quality]]
 ### Prevention
 Preventing data quality issues is the most effective strategy. This involves identifying and addressing potential problems at the source, ensuring that data is accurately entered from the beginning.

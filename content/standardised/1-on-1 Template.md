@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 - Decisions
     - [Your name] _add decisions that need to be made_
     - [Other person's name] _add decisions that need to be made_
@@ -13,3 +19,6 @@
 - Updates (uni-directional - no action needed)
     - [Your name] _add updates with no action needed_
     - [Other person's name] _add updates with no action needed_
+
+Related:
+- [[1-to-1's with a Line Manager]]

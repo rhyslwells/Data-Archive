@@ -1,6 +1,8 @@
 ---
-aliases:
-  - LIME
+aliases: [LIME]
+category:
+date modified: 27-07-2025
+tags: []
 ---
 
 LIME explains individual predictions ==by approximating the model locally== with an interpretable model and calculating the feature importance based on the surrogate model.

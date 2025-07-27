@@ -1,6 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
 type: process
-tags:
 ---
 
 # Note
@@ -8,7 +11,7 @@ tags:
 Garbage in garbae out. It is the features that 
 # What is involved:
 
-Want to assess the  **usefulness** of chosen features
+Want to assess the **usefulness** of chosen features
 ### **Measuring feature importance:** 
 
 Quantifying the contribution of each feature to the model's predictions. This can be done through various methods like statistical tests, model-specific importance scores, or permutation importance.

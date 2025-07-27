@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 ### Overview
 Language models can be categorized into **large language models ([[LLM]])** and **small language models ([[SLM]])**. While LLMs boast extensive general-purpose knowledge and capabilities, SLMs offer distinct advantages in certain scenarios, particularly when it comes to efficiency, resource constraints, and task-specific environments.
 

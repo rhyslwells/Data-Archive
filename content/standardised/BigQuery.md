@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 cloud-based [[Data Warehouse]]
 
 BigQuery is a fully managed, serverless data warehouse offered by [[Google]] Cloud Platform (GCP). It is designed to handle large-scale data analytics and allows users to run fast SQL queries on massive datasets. 

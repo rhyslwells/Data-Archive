@@ -1,11 +1,8 @@
 ---
-tags:
-  - database_management
-aliases: 
+aliases: []
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [database_management]
 ---
 Lightweight [[Database Management System (DBMS)|DBMS]] used in various applications (phone apps, desktop apps, websites).
 

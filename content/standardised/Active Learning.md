@@ -1,7 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [classifier]
 title: 
-tags:
-  - classifier
 ---
 Think captchas for training.
   

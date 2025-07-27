@@ -1,11 +1,8 @@
 ---
-tags:
-  - data_visualization
-aliases: 
+aliases: []
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [data_visualization]
 ---
 https://seaborn.pydata.org/tutorial.html
 

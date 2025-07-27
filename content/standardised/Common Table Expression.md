@@ -1,10 +1,9 @@
 ---
+aliases: [CTE]
+category:
+date modified: 27-07-2025
+tags: [database, querying]
 title: 
-tags:
-  - database
-  - querying
-aliases:
-  - CTE
 ---
 A Common Table Expression (CTE) is a temporary named result set that you can reference within a SELECT, INSERT, UPDATE, or DELETE statement. 
 

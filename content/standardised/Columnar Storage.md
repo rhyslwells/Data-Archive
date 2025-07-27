@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 A database storage technique that stores ==data by columns== rather than rows, 
 
 Useful for read-heavy operations and ==large-scale data analytics==, as it enables the retrieval of specific columns without the need to access the entire row. 

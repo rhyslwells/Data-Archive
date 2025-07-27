@@ -1,6 +1,8 @@
 ---
-tags:
-  - model_architecture
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [model_architecture]
 ---
 What does the data look like [[continuous]] or [[categorical]]? 
 

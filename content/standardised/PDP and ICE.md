@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 link:
 
 https://scikit-learn.org/1.5/modules/partial_dependence.html#h2009

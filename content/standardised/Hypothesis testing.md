@@ -1,11 +1,8 @@
 ---
-tags:
-  - statistics
-aliases: 
+aliases: []
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [statistics]
 ---
 Used to draw inferences about population parameters based on sample data. The process involves the formulation of two competing hypotheses: the null hypothesis ($H_0$) and the alternative hypothesis ($H_1$). 
 

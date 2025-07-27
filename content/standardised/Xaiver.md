@@ -1,8 +1,8 @@
 ---
-tags:
-  - deep_learning
-  - optimisation
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [deep_learning, optimisation]
 ---
 Xavier initialization (also known as Glorot initialization) is a weight initialization technique designed to improve the training of deep neural networks. It maintains stable variance of activations and gradients across layers, helping prevent both the vanishing and exploding gradient problems. Proposed by Xavier Glorot and Yoshua Bengio in their 2010 paper _"Understanding the difficulty of training deep feedforward neural networks."_
 ## Purpose

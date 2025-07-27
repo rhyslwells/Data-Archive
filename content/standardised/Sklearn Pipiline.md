@@ -1,9 +1,8 @@
 ---
-tags:
-  - code_snippet
-  - data_transformation
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [code_snippet, data_transformation]
 ---
 ```python
 # Naivebayesfor email prediction

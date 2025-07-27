@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Statistical assumptions are essential conditions that must be met for various statistical methods and models to produce valid results. Necessary for robustness and reliability of statistical analyses. If any assumptions are violated, it may be necessary to employ alternative statistical methods or to transform the data accordingly.
 
 Purpose of Statistical Assumptions:

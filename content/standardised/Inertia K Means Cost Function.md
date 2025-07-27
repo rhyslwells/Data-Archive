@@ -1,6 +1,8 @@
 ---
-tags: 
+aliases: []
 category: 
+date modified: 27-07-2025
+tags: []
 ---
 **Definition:**  
 Inertia is the sum of squared distances from each point to its assigned cluster center. Lower values indicate more compact clusters.

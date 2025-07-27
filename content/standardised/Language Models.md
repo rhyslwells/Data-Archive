@@ -1,7 +1,8 @@
 ---
+aliases: []
 category: LANG
-tags:
-  - portal
+date modified: 27-07-2025
+tags: [portal]
 ---
 A language model is a machine learning model that is designed to understand, generate, and predict human language. 
 

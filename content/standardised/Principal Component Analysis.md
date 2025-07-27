@@ -1,11 +1,9 @@
 ---
-title: 
-tags:
-  - data_cleaning
-  - data_visualization
-aliases:
-  - PCA
+aliases: [PCA]
 category:
+date modified: 27-07-2025
+tags: [data_cleaning, data_visualization]
+title: 
 ---
 PCA is a tool for [[Dimensionality Reduction]] in [[Unsupervised Learning]] to reduce the dimensionality of data. 
 

@@ -1,7 +1,8 @@
 ---
-tags:
-  - anomaly_detection
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [anomaly_detection]
 ---
 
 Anomaly detection involves identifying [[standardised/Outliers|Outliers]]. Detecting these anomalies is necessary for maintaining [[data integrity]] and improving model performance.
@@ -42,7 +43,7 @@ Interpretation | Validation: Why is it unusual
    - Validate the detected anomalies by comparing them against known anomalies (if available) or using domain knowledge.
    - Adjust thresholds or methods based on validation results.
    - Finding an outlier is not enough. You must ask: "Why is this point different?" Necessary for Trust & Actionability.
-  - Example:  Anomalous electricity usage — is it fraud, error, or legitimate increased demand?
+  - Example: Anomalous electricity usage — is it fraud, error, or legitimate increased demand?
 
 Visualization
 - Visualize the results using plots (e.g., scatter plots, box plots) to understand the distribution of data and the identified anomalies.

@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 [[Feature Scaling]] is useful for models that use distances like [[Support Vector Machines|SVM]] and [[K-means]]
 ### When Scaling Is Unnecessary
 

@@ -1,8 +1,8 @@
 ---
-tags:
-  - data_modeling
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [data_modeling, data_warehouse]
 ---
 Dimensional modeling is a design technique used in [[Data Warehouse]]used to structure data for efficient ==retrieval== and analysis. It is particularly well-suited for organizing data in a way that supports complex [[Querying]] and reporting, making it easier for business users to understand and interact with the data. 
 
@@ -21,4 +21,4 @@ Benefits of Dimensional Modeling: [[Performance Dimensions]]
 
 
 [[Dimensional Modelling]]
-   **Tags**: #data_modeling, #data_warehouse
+   **Tags**:,

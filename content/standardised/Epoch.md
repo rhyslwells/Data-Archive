@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 
 An epoch in machine learning is a single pass through the entire training dataset. The number of epochs, denoted as $N$, determines how many times the data is applied to the model.
 

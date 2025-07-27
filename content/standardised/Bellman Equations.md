@@ -1,11 +1,9 @@
 ---
-title: 
-tags:
-  - "#question"
-importance: 
-engagement: 
-recency_of_interest: 
+aliases: []
 category: DS
+date modified: 27-07-2025
+tags: ["#question"]
+title: 
 ---
 [[What are the Bellman equations that are used in RL?]]
 

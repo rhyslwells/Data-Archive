@@ -1,11 +1,9 @@
 ---
-title: 
-tags:
-  - classifier
-  - ml
-aliases:
-  - KNN
+aliases: [KNN]
 category:
+date modified: 27-07-2025
+tags: [classifier, ml]
+title: 
 ---
 K-Nearest Neighbors is a [[non-parametric]], [[supervised learning]] algorithm used for both classification and regression tasks. It predicts the label of a new data point based on the labels of its $k$ nearest neighbors in the training data, where $k$ is a user-defined positive integer.
 

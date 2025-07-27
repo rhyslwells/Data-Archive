@@ -1,8 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_orchestration, math]
 title: 
-tags:
-  - math
-  - data_orchestration
 ---
 DAG stands for **Directed Acyclic Graph**. 
 

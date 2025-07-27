@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Test loss is used for [[Model Evaluation]] to assess how well a model generalizes to unseen data, which is essential for evaluating its performance in real-world applications.
 
 ## Importance of Test Loss
@@ -6,7 +12,7 @@ Test loss is used for [[Model Evaluation]] to assess how well a model generalize
 - ==Test Loss: Measures the magnitude of errors in predictions, providing complementary information to accuracy.==
 - Balancing Metrics: Depending on the application, you might prioritize [[Accuracy]] (e.g., in classification tasks) or loss (e.g., when evaluating prediction confidence or calibrating probabilistic models). Balancing both is crucial for most real-world problems.
 
-Test loss is an [[Evaluation Metrics]]  that uses the [[loss function]] to measure the model's performance on new, unseen data.
+Test loss is an [[Evaluation Metrics]] that uses the [[loss function]] to measure the model's performance on new, unseen data.
 ## Key Considerations
 
 Balance Between Accuracy and Error Magnitude:

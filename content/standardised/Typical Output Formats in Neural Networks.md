@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 The output format of a [[Neural network]] is largely determined by the specific task it is designed to perform.
 ## Classification
 

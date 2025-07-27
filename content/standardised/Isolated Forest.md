@@ -1,15 +1,9 @@
 ---
-title: Isolation Forest and Its Use in Anomaly Detection
-tags:
-  - anomaly_detection
-  - data_quality
-aliases:
-  - iForest
-  - anomaly isolation
+aliases: [anomaly isolation, iForest]
 category: ML
-importance: 
-engagement: 
-recency_of_interest: 2024-09-26
+date modified: 27-07-2025
+tags: [anomaly_detection, data_quality]
+title: Isolation Forest and Its Use in Anomaly Detection
 ---
 
  Isolation Forest (iForest) is an [[Model Ensemble]]-based method used for anomaly detection. It operates by isolating data points using a series of random binary splits.
@@ -40,7 +34,7 @@ Important
  - The method is sensitive to the [[Hyperparameter]] such as the number of trees and sample size.
 
 Follow up questions
- - How does the isolation forest compare to density-based methods like [[DBSCAN]] in terms of detecting complex anomalies?  [[Anomaly Detection with Clustering]]
+ - How does the isolation forest compare to density-based methods like [[DBSCAN]] in terms of detecting complex anomalies? [[Anomaly Detection with Clustering]]
  - What impact does the choice of sample size have on the performance and accuracy of isolation forests in high-dimensional data?
 
 Related Topics

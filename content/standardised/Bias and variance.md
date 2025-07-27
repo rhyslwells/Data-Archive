@@ -1,10 +1,9 @@
 ---
-title: 
-tags:
-  - model_architecture
-  - model_explainability
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [model_architecture, model_explainability]
+title: 
 ---
 ### Related to [[Overfitting]]
 

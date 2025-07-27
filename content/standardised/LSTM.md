@@ -1,12 +1,9 @@
 ---
-title: 
-tags:
-  - deep_learning
-  - time_series
-aliases:
-  - LSTM vs. Transformer
-  - RNN vs. Transformer
+aliases: [LSTM vs. Transformer, RNN vs. Transformer]
 category: DS
+date modified: 27-07-2025
+tags: [deep_learning, time_series]
+title: 
 ---
 # What is LSTM
 

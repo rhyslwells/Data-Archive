@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Choosing between **[[DuckDB]]** and **[[SQLite]]** for data processing in [[Python]] depends on your specific use case and requirements.
 
 While **SQLite** is an excellent choice for lightweight applications, local data storage, and simple transactional workloads.

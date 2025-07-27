@@ -1,9 +1,9 @@
 ---
-title: 
-tags:
-  - data_orchestration
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [data_orchestration, data_processing, data_workflow]
+title: 
 ---
 **Batch Processing** is a technique used to handle and process large datasets efficiently. It works by breaking the data into smaller chunks and processing them together in a single batch.
 
@@ -20,4 +20,4 @@ Batch processing is widely supported by cloud infrastructures like **Amazon EMR*
 
 
 [[Batch Processing]]
-   **Tags**: #data_processing, #data_workflow
+   **Tags**:,

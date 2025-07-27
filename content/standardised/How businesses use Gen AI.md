@@ -1,12 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [business, deleted, GenAI]
 title: 
-tags:
-  - business
-  - GenAI
-  - deleted
-importance: 5
-engagement: 5
-recency_of_interest: 2024-09-26
 ---
  
 Businesses leverage [[generative AI]] to transform various operations, using models like OpenAI, Gemini (Google Cloud), Anthropic, and Meta models. These models provide services through cloud providers, making them accessible via APIs. Key use cases include:

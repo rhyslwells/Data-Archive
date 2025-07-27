@@ -1,11 +1,9 @@
 ---
-title: 
-tags:
-  - energy
-importance: 
-engagement: 
-recency_of_interest: 
+aliases: []
 category: INDUSTRY
+date modified: 27-07-2025
+tags: [energy]
+title: 
 ---
 - **Overview**: Demand response programs encourage consumers to adjust their energy usage during peak periods in response to time-based rates or other incentives. RL can optimize how these programs are implemented.
 

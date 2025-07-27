@@ -1,9 +1,8 @@
 ---
-tags:
-  - business
-aliases:
-  - Change Program
-category:
+aliases: [Change Program]
+category: PM
+date modified: 27-07-2025
+tags: [business]
 ---
 Change management is a structured approach to transitioning individuals, teams, and organizations from a current state to a desired future state. It involves
 - preparing, 

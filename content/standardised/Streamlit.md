@@ -1,9 +1,8 @@
 ---
-tags:
-  - software
-  - data_visualization
-  - ml
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [data_visualization, ml, software]
 ---
 Streamlit is an open-source Python framework that lets you create interactive, data-driven web applications quickly and easily. It is designed for data scientists and machine learning engineers who want to turn Python scripts into shareable dashboards without needing front-end development skills. It’s widely used for building data exploration tools, ML model demos, and internal analytics apps.
 

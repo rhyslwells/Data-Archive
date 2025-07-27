@@ -1,6 +1,8 @@
 ---
-aliases:
-  - SMOTE
+aliases: [SMOTE]
+category:
+date modified: 27-07-2025
+tags: []
 ---
 SMOTE (Synthetic Minority Over-sampling Technique)
 

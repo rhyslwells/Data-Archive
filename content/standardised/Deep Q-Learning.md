@@ -1,10 +1,8 @@
 ---
-tags: 
-aliases: 
+aliases: []
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: []
 ---
 Deep [[Q-Learning]] is a type of [[reinforcement learning]] algorithm that combines Q-Learning with [[Neural network]]. Necessary when Q-Table grows too large.
 

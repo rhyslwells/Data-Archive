@@ -1,8 +1,8 @@
 ---
-tags: 
+aliases: [GIL]
 category: 
-aliases:
-  - GIL
+date modified: 27-07-2025
+tags: []
 ---
 
 In CPython, the Global Interpreter Lock allows only one thread to execute Python bytecode at a time. 

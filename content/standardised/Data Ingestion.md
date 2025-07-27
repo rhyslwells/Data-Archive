@@ -1,10 +1,8 @@
 ---
-tags: 
-aliases: 
+aliases: []
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [data_collection, data_management]
 ---
 Data ingestion is the process of collecting and importing raw data from various sources ([[Database]], [[API]], [[Data Streaming]] services) into a system for processing and analysis, and can be performed in batch and realtime ingestion. The goal is to gather raw data that can be processed and analyzed.
 
@@ -24,4 +22,4 @@ Related to:
 
 
 [[Data Ingestion]]
-   **Tags**: #data_collection, #data_management
+   **Tags**:,

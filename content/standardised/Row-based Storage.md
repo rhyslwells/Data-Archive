@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Data is stored in consecutive rows, allows [[CRUD]]
 
 Row-based storage is well-suited for transactional systems ([[OLTP]]) 

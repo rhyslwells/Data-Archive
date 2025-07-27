@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 What is the meaning of [[Correlation]] does not imply causation?
 
 Correlation measures the statistical association between two variables, while causation implies a cause-and-effect relationship. 

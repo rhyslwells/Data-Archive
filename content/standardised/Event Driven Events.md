@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Events can be stored in a [[Data Lake]] and analysed to find patterns/predictions.  
 
 [[Event Driven Microservices]] allow for [[Business observability]]

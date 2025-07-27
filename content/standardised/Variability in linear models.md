@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Variability in linear models
 
 Mathematically, SSE is a [[Loss function]] given by:

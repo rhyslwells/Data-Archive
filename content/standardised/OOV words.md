@@ -1,7 +1,8 @@
 ---
-tags:
-  - NLP
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [NLP]
 ---
 In [[NLP|Natural Language Processing]] (NLP), OOV words refers to:
 

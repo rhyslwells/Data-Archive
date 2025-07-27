@@ -1,7 +1,8 @@
 ---
-tags:
-  - database
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [database]
 ---
 
 Vector databases are specialized systems designed to handle and manage [[Vector Embedding]]. As most real-world data is unstructured, such as text, images, and audio, vector databases play a role in organizing and querying this data effectively. Used because data is [[unstructured data]] i.e image

@@ -1,7 +1,8 @@
 ---
-tags:
-  - portal
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [portal]
 ---
 
 
@@ -26,4 +27,4 @@ Focus knowledge retrieval
 
 FAQ 
 
-Note: #portal  can help with file extraction rem utils function (for [[NotebookLM]])
+Note: can help with file extraction rem utils function (for [[NotebookLM]])

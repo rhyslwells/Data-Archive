@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 # Logistic regression in sklearn & Gradient Descent
 
 sklearn's Logistic Regression implementation does not use [[Gradient Descent]] by default. Instead, it uses more sophisticated optimization techniques depending on the solver specified. These solvers are more efficient and robust for finding the optimal parameters for logistic regression. Here's a summary:

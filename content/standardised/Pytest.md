@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 ### **`@pytest.fixture` Explanation**
 
 `@pytest.fixture` is a decorator in `pytest` used to define reusable test setup functions. It allows tests to use shared resources without redundant code.

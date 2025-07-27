@@ -1,10 +1,8 @@
 ---
-tags: 
-aliases: 
+aliases: []
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: []
 ---
 Testing in coding projects refers to the systematic process of evaluating software to ensure it meets specified requirements and functions correctly. It enhances software robustness, reduces maintenance costs, and improves user satisfaction.
 

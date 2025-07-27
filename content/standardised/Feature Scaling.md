@@ -1,10 +1,9 @@
 ---
-title: 
-tags:
-  - data_cleaning
-  - data_processing
+aliases: []
 category: DS
-phase: preprocess
+date modified: 27-07-2025
+tags: [data_cleaning, data_processing]
+title: 
 ---
 Used in preparing data for machine learning models. 
 
@@ -31,7 +30,7 @@ Feature scaling is important for several reasons:
 
 [[Standardisation]]
 
-Min-Max Scaling:  Scales features to a fixed range (e.g., $[0, 1]$), preserving relative distances.
+Min-Max Scaling: Scales features to a fixed range (e.g., $[0, 1]$), preserving relative distances.
 ### Example of Scaling
 Here’s how you can scale a DataFrame using the `scale` function from `sklearn`:
 

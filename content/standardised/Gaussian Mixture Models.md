@@ -1,12 +1,8 @@
 ---
-tags:
-  - clustering
-aliases:
-  - GMM
+aliases: [GMM]
 category: DS
-phase: Model Selection
-topic: Gaussian Mixture Model Implementation
-filename: gaussian_mixture_model_implementation.py
+date modified: 27-07-2025
+tags: [clustering]
 ---
 
 Gaussian Mixture Models (GMMs) represent data as a mixture of multiple Gaussian [[distributions]], with each cluster corresponding to a different Gaussian component. GMMs are more effective than [[K-means]] because they consider the distributions of the data rather than relying solely on distance metrics.

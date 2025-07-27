@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 
 
 In logistic regression, the model predicts the ==odds of an event happening rather than directly predicting probabilities.== The odds are defined as:

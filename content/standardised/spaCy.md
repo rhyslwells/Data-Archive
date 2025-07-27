@@ -1,9 +1,8 @@
 ---
-tags:
-  - NLP
-  - python
-  - ml_process
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [ml_process, NLP, python]
 ---
 #### What is spaCy and how is it best used within Python? 
 

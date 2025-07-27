@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Star Schema
    - This schema consists of a central fact table surrounded by dimension tables. The fact table contains quantitative data, while the dimension tables provide descriptive attributes. The star schema is easy to understand and query, making it popular for OLAP applications.
 

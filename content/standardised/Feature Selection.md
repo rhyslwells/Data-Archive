@@ -1,7 +1,8 @@
 ---
-tags:
-  - ml_process
-  - drafting
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [drafting, ml_process]
 ---
 Purpose: The primary goal of feature selection is to identify and retain the most relevant features for model training while ==removing irrelevant or redundant ones==. This helps in simplifying the model, reducing overfitting, and improving computational efficiency.
 

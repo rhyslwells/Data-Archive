@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Scenarios where a simple [[Neural network|Neural Network]] work like this might be useful:
 
 **[[Regression]] with Multiple Features**

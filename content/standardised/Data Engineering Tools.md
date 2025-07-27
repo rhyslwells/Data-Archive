@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_management, data_tools]
+---
 
   - **[[Snowflake]]:** [[Cloud]]-based data warehousing for scalable storage and processing.
   - **Microsoft SQL Server:** [[SQL]]-based relational database management.
@@ -17,4 +23,4 @@ Tools: Amazon S3, Google BigQuery, Snowflake.
 [[dbt]]
 
 ### Tags
-- **Tags**: #data_tools, #data_management
+- **Tags**:,

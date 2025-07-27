@@ -1,11 +1,8 @@
 ---
-tags:
-  - language_models
-aliases: 
+aliases: []
 category: LANG
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [language_models]
 ---
 Use lmarena.ai as a bench marking tool. 
 web dev arena

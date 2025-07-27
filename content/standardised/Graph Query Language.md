@@ -1,8 +1,8 @@
 ---
-tags: 
+aliases: [GQL]
 category: 
-aliases:
-  - GQL
+date modified: 27-07-2025
+tags: []
 ---
 
 GQL is an emerging ISO standard for querying graph databases.

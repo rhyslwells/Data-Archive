@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 ### Definition
 - The F1 Score is the harmonic mean of precision and recall. It provides a balanced view of both metrics and is particularly useful when:
   - There is an uneven class distribution.

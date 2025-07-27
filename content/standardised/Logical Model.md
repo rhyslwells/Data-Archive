@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Logical Model
    - Customer: CustomerID, Name, Email
    - Order: OrderID, OrderDate, CustomerID

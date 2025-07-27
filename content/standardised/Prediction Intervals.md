@@ -1,12 +1,8 @@
 ---
-tags:
-  - statistics
-  - probability_theory
-aliases: 
+aliases: []
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [probability_theory, statistics]
 ---
 Prediction intervals estimate the range within which a future observation from the same distribution is likely to fall, with a specified confidence level.
 

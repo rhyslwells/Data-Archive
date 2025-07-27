@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_modeling, data_warehouse]
+---
 A dimension table is a key component of a [[star schema]] or snowflake schema in a data warehouse. It provides descriptive attributes (or dimensions) related to the [[Facts]] stored in a fact table.
 
 They provide the context and descriptive information necessary for analyzing the quantitative data stored in fact tables (e.g., product names, customer demographics, time periods).
@@ -27,4 +33,4 @@ Examples
 
 
 [[Dimension Table]]
-   **Tags**: #data_modeling, #data_warehouse
+   **Tags**:,

@@ -1,14 +1,9 @@
 ---
-title: What is a policy in RL
-tags:
-  - question
-  - "#question"
-aliases:
-  - policies
+aliases: [policies]
 category: DS
-importance: 
-engagement: 
-recency_of_interest:
+date modified: 27-07-2025
+tags: ["#question", question]
+title: What is a policy in RL
 ---
 In [[reinforcement learning]] (RL), a **policy** is a strategy or a rule that defines the actions an agent takes in a given state to achieve its goals. It essentially ==maps states of the environment to actions that the agent should take when in those states.==
 

@@ -1,12 +1,8 @@
 ---
-tags:
-  - portal
-  - math
-aliases: 
+aliases: []
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [math, portal]
 ---
 [[Johnson–Lindenstrauss lemma]]
 

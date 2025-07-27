@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 what happens in prod, pre prod.
 
 monitoring web frontend.

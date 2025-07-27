@@ -1,6 +1,11 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [math]
+---
 ## Johnson–Lindenstrauss lemma
-
-#math 
+ 
 
 https://youtu.be/9-Jl0dxWQs8?list=PLZx_FHIHR8AwKD9csfl6Sl_pgCXX19eer&t=1125
 

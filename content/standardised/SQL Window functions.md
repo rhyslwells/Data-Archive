@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_analysis, querying]
+---
 SQL Window Functions are a feature in SQL that allow you to perform calculations across a set of table rows that are somehow related to the current row. 
 
 Unlike regular aggregate functions, which return a single value for a group of rows, window functions return a value for each row in the result set while still allowing access to the individual row data.
@@ -87,4 +93,4 @@ Resulting Table:
 
 
 [[SQL Window functions]]
-   **Tags**: #data_analysis, #querying
+   **Tags**:,

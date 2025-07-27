@@ -1,7 +1,8 @@
 ---
-tags:
-  - software_architecture
-  - software
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [software, software_architecture]
 ---
 
 ### Using [[Plotly]]

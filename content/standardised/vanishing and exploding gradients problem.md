@@ -1,11 +1,9 @@
 ---
-title: 
-tags:
-  - deep_learning
-  - optimisation
-  - ml
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [deep_learning, ml, optimisation]
+title: 
 ---
 The vanishing gradient problem arises when gradients of the loss with respect to early layer weights approach zero, hindering learning in those layers. This typically occurs due to activation functions like sigmoid or tanh and deep architectures.
 

@@ -1,12 +1,13 @@
 ---
-tags:
-  - NLP
-  - code_snippet
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [code_snippet, NLP]
 ---
 [[Preprocessing]] in NLP tasks is called Normalization involves reducing words to their base or root form, converting them to lowercase, and removing stop words.
 ## Processes
 
-What are some steps involved in the pre-processing of a text?.  These include  making the text lower case, removal of punctuation, tokenize the text (split up the words in a sentence), remove stop words as they convey grammar rather than meaning, word stemming (reduce words to their stems).
+What are some steps involved in the pre-processing of a text?. These include making the text lower case, removal of punctuation, tokenize the text (split up the words in a sentence), remove stop words as they convey grammar rather than meaning, word stemming (reduce words to their stems).
 
 [[Tokenisation]]: Used to separate words or sentences.
 

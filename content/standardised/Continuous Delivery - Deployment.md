@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Continuous Delivery
    - Ensures that code changes are automatically prepared for a release to production.
    - Builds, tests, and releases are automated, but the deployment is manual.

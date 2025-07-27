@@ -1,6 +1,8 @@
 ---
-aliases:
-  - PR Curve
+aliases: [PR Curve]
+category:
+date modified: 27-07-2025
+tags: []
 ---
 A [[precision]]-[[recall]] curve is a graphical representation used to evaluate the performance of a [[Binary Classification]] model, particularly in scenarios where the classes are imbalanced. It plots [[precision]] (the positive predictive value) against [[recall]] (the true positive rate) for different threshold values.
 

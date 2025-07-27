@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Model parameters are also called weights and biases.
 
 These parameters are adjusted during the training process to optimize the model's performance on the given task.

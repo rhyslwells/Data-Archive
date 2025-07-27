@@ -1,16 +1,16 @@
 ---
-title: 
-tags:
-  - software
-aliases: 
+aliases: []
 category: DEVOPS
+date modified: 27-07-2025
+tags: [software]
+title: 
 ---
 An API (Application Programming Interfaces) allows one system (client) to ==request specific actions from another system== (server).
 
 Using a predefined set of rules and ==protocols==. 
 
 Good API documentation is necessary for developers to integrate and use APIs effectively.
-####  Resources:
+#### Resources:
 - [Link](https://www.youtube.com/watch?v=yBZO5Rb4ibo)
 - [[REST API]]
 - [[FastAPI]]

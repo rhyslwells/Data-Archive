@@ -1,12 +1,8 @@
 ---
-tags:
-  - ml_optimisation
-  - model_selection
-aliases: 
+aliases: []
 category: ML
-phase: Model Optimisation
-topic: Finding Optimal Model Parameters
-filename: optimal_model_parameters.py
+date modified: 27-07-2025
+tags: [ml_optimisation, model_selection]
 ---
 To find optimal [[Model Parameters]].
 ## Finding Optimal Model Parameters

@@ -1,16 +1,11 @@
 ---
-title: 
-tags:
-  - math
-  - language_models
-  - drafting
-aliases:
-  - embedding
-  - word embedding
-category:
+aliases: [embedding, word embedding]
+category: ML
+date modified: 27-07-2025
+tags: [language_models, math]
+title:
 ---
 Vector Embedding is a technique used in machine learning and [[NLP]] to represent data in a continuous vector space. This representation captures the [[Semantic Relationships]] of data, such as words or sentences, allowing similar items to be positioned close to each other in the vector space.
-
 ### Key Concepts
 
 - Data Compression: Embeddings compress data into a lower-dimensional space, making it easier to process and analyze. This is particularly useful for high-dimensional data like text or images.
@@ -61,15 +56,12 @@ Popular methods for generating vector (word) embeddings include:
 How to do vector embeddings in [[PyTorch]] that show [[Semantic Relationships]] between terms.
 
 In [[ML_Tools]] see: [[Vector_Embedding.py]]
-
 ## Articles
 
 https://blog.esciencecenter.nl/king-man-woman-king-9a7fd2935a85
 
 ## Related Terms
 
-[[How to search within a graph]]
-[[How would you decide between using TF-IDF and Word2Vec for text vectorization]]
-[[embeddings for OOV words]]
-
-
+- [ ] [[How to search within a graph]]
+- [[How would you decide between using TF-IDF and Word2Vec for text vectorization]]
+- [[embeddings for OOV words]]

@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 ## Benefits of [[Data Transformation]]  
 
 - Efficiency: Faster query performance.  

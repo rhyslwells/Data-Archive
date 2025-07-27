@@ -1,11 +1,8 @@
 ---
-tags:
-  - regressor
-aliases: 
+aliases: []
 category: ML
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [regressor]
 ---
 [[Linear Regression]]
 

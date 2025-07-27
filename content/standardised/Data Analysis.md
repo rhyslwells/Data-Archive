@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 What is it? Usually done with a [[Data Analyst]].After processing, data is analyzed to extract meaningful insights and derive value from the data.
 ### Types of analysis:
 

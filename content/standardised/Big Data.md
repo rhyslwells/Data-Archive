@@ -1,9 +1,9 @@
 ---
-title: 
-tags:
-  - data_storage
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [big_data, data_processing, data_storage]
+title: 
 ---
 The concept of Big Data revolves around datasets that are too large or complex to be managed using traditional data processing techniques. It’s characterized by four main attributes, commonly referred to as the ==Four V’s:==
 
@@ -29,4 +29,4 @@ Handling big data involves:
 
 
 [[Big Data]]
-   **Tags**: #big_data, #data_processing
+   **Tags**:,

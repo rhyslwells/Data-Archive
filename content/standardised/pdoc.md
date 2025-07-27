@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 [PDOC](https://pdoc.dev/) is a documentation generator specifically designed for Python projects. Here are some key features and details:
 
 1. **Automatic Documentation**: It scans your Python code and automatically generates documentation based on the docstrings you include in your code. This means that as long as you write clear comments and descriptions in your code, pdoc can create documentation without much extra work.

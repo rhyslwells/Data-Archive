@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Used to compute a simple cross-tabulation of two (or more) factors. It is particularly useful for computing frequency tables. Here's an example:
 
 ```python

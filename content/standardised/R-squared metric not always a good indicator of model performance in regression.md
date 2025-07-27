@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 R-squared (R²) is a commonly used metric for assessing the performance of regression models, but it is not always a reliable indicator of model quality. It should not be the sole criterion for evaluating model performance. It is essential to consider other metrics, such as [[Adjusted R squared]], [[Cross Validation]] results, and the overall context of the analysis.
 
 1. **Increased Complexity**: R² will never decrease when more predictors are added to a model, even if those predictors do not have a meaningful relationship with the dependent variable. This can lead to overfitting, where the model captures noise rather than the underlying data pattern.

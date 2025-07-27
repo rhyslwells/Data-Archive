@@ -1,12 +1,8 @@
 ---
-tags:
-  - GenAI
-  - software
-aliases: 
+aliases: []
 category: LANG
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [GenAI, software]
 ---
 Claude is better for code and uses Artifact for tracking code changes.
 

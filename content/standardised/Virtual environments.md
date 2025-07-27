@@ -1,6 +1,8 @@
 ---
-tags:
-  - software
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [software]
 ---
 [Setting up virtual env](https://www.youtube.com/watch?v=yG9kmBQAtW4)
 

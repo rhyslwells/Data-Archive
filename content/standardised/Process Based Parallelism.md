@@ -1,7 +1,8 @@
 ---
-tags:
-  - ml_process
+aliases: []
 category: DS
+date modified: 27-07-2025
+tags: [ml_process]
 ---
 ## What Is Process-Based Parallelism?
 

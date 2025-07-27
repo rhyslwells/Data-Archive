@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Stored procedures are a way to automate SQL statements, allowing them to be executed repeatedly without rewriting the code.
 
 **Demonstration with the Boston MFA Database**  

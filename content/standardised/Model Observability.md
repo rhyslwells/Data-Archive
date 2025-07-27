@@ -1,14 +1,9 @@
 ---
-title: 
-tags:
-  - deleted
-  - "#model_explainability"
-importance: 6
-engagement: 8
-recency_of_interest: 2024-09-28
-aliases:
-  - Observability
+aliases: [Observability]
 category:
+date modified: 27-07-2025
+tags: ["#model_explainability", deleted]
+title: 
 ---
 Monitor the model's performance over time (in production). Similar to [[Model Validation]].
 

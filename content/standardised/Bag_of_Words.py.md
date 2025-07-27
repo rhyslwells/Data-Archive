@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 ### Summary of What the Script Does:
 
 1. It takes a dataset of text (movie reviews in this case) and processes it to remove HTML tags, non-alphabetic characters, and stopwords.

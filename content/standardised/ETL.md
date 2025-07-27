@@ -1,7 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_integration, data_transformation]
 title: What is ETL?
-tags:
-  - data_transformation
 ---
 **ETL** (Extract, Transform, Load) is a data integration process that involves moving data from one system to another. It consists of three main stages:
 
@@ -38,4 +40,4 @@ To improve an ETL process, consider the following enhancements:
 
 
 [[ETL]]
-   **Tags**: #data_transformation, #data_integration
+   **Tags**:,

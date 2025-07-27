@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Used in [[Feature Selection]]. Wrapper methods are powerful because they directly optimize the performance of the machine learning model by selecting the most informative subset of features. 
 
 1. **Iterative Approach**: Unlike [[Filter method]], which assess the relevance of features based on statistical properties, wrapper methods ==directly involve the machine learning algorithm in the feature selection process.==

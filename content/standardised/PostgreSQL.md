@@ -1,12 +1,8 @@
 ---
-tags:
-  - relational_database
-  - data_management
-aliases: 
+aliases: []
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [data_management, relational_database]
 ---
 - [ ] Explore by using a small dataset. What can you do with it, difference from [[SQLite]]
 #### Installation

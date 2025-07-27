@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Removing [[Outliers]] May Improve Regression but Harm Classification
 
 ### Impact on Regression Model:

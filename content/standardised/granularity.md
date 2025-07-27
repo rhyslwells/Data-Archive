@@ -1,8 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_modeling, database]
 title: What is Granularity
-tags:
-  - database
-  - data_modeling
 ---
 Definition of Grain in [[Dimensional Modelling]]
    - The grain of a [[Fact Table]] defines what a single row in the table represents. It is the level of detail captured by the fact table.

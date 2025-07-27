@@ -1,14 +1,16 @@
 ---
-title: 
-tags:
-  - data_visualization
-  - drafting
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [data_visualization, drafting]
+title: 
 ---
 t-SNE (t-distributed Stochastic Neighbor Embedding) is a [[Dimensionality Reduction]] technique used primarily for visualizing high-dimensional data. Unlike methods such as [[Principal Component Analysis|PCA]] (Principal Component Analysis), which are linear, t-SNE is a non-linear method that excels at preserving the local structure of the data. 
 
 Example: https://dash.gallery/dash-tsne/
+
+Related:
+- [[UMAP]]
 ### Key Characteristics of t-SNE:
 - Non-linear Mapping: It attempts to capture non-linear relationships in the data by embedding it in a lower-dimensional space (usually 2D or 3D).
 - Local Similarities: t-SNE preserves the local structure of the data. This means that points that are close in the high-dimensional space remain close in the lower-dimensional space.
@@ -28,7 +30,6 @@ Example: https://dash.gallery/dash-tsne/
 - Random Initialization: Results can vary due to its sensitivity to initialization and the perplexity parameter (which controls how t-SNE balances attention between local and global data structure).
 - Difficult to Interpret: While t-SNE is great for visualization, interpreting the precise distances and positions of points can be tricky.
 ### Example
-
 
 ```python
 # Importing libraries

@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Each of these types of bugs can have significant impacts on software functionality and performance, and understanding them is crucial for effective [[Debugging]] and software development.
 ### Types of Computational Bugs
 1. **Cumulative Rounding Error**: This occurs when small rounding errors accumulate over time, potentially leading to significant inaccuracies. An example is the Vancouver Stock Exchange issue.

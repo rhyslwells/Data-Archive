@@ -1,8 +1,9 @@
 ---
-title: What is DevOps?
-tags:
-  - data_orchestration
+aliases: []
 category: DEVOPS
+date modified: 27-07-2025
+tags: [data_orchestration]
+title: What is DevOps?
 ---
 DevOps refers to practices for collaboration and automation between [[Software Development Portal]] (Dev) and IT operations (Ops) teams, aiming for faster, more reliable software delivery.
 

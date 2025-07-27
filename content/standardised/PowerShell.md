@@ -1,17 +1,15 @@
 ---
-tags:
-  - software
 aliases: []
 category: DE
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [software]
 ---
 PowerShell is a task automation and configuration management framework developed by Microsoft, consisting of a [[Command Line]] shell and an associated scripting language. It is designed to automate system administration tasks across local and remote Windows systems and, with PowerShell Core (now known as PowerShell 7+), across macOS and Linux as well.
 
 Related:
 - [[Command Prompt]]
 - [[Powershell versus Command Prompt]]
+- [[Powershell scripts]]
 
 
 Object-Oriented Architecture: Unlike `cmd`, which handles plain text, PowerShell processes .[[NET]] objects. This allows for structured data manipulation and precise control of outputs. Example:
@@ -20,7 +18,7 @@ Object-Oriented Architecture: Unlike `cmd`, which handles plain text, PowerShell
 Get-ChildItem | Select-Object Name, Length, LastWriteTime
 ```
     
-Integrated with .[[NET]]: PowerShell scripts can invoke .NET classes and use assemblies directly.  Example:
+Integrated with .[[NET]]: PowerShell scripts can invoke .NET classes and use assemblies directly. Example:
     
 ```powershell
 [System.IO.File]::ReadAllText("C:\path\to\file.txt")
@@ -32,7 +30,7 @@ Cmdlets: PowerShell uses built-in, standardized command modules (cmdlets) for co
 Restart-Service -Name "Spooler"
 ```
 
-Advanced Scripting Support: Supports rich scripting constructs such as functions, conditionals, loops, and error handling.  Example:
+Advanced Scripting Support: Supports rich scripting constructs such as functions, conditionals, loops, and error handling. Example:
 
 ```powershell
 if (Test-Path "file.txt") { Write-Output "Exists" } else { Write-Output "Missing" }
@@ -77,4 +75,4 @@ PowerShell can interact with multiple script formats and scripting environments:
 
 
 To Do:
-- [ ]  Explore the uses of [[PowerShell]]
+- [ ]  Explore the uses of [[PowerShell]]: see [[Powershell scripts]]

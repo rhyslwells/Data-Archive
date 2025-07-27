@@ -1,8 +1,8 @@
 ---
-tags:
-  - graph
-  - query_language
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [analysis, cypher, data_quality, data_visualization, database, graph, learning, query_language]
 ---
 Cypher is a graph query language designed to be:
 
@@ -99,11 +99,10 @@ RETURN path
 
 
 Excellent — let's go through these topics carefully and systematically, with simple examples and clear breakdowns.  
-#database #graph #cypher #learning
 
 ---
 
-# 1. Aggregations in Cypher (#cypher #analysis)
+# 1. Aggregations in Cypher (#cypher)
 
 In Cypher, you can aggregate data much like SQL — examples include `COUNT()`, `AVG()`, `SUM()`, `MIN()`, `MAX()`.
 
@@ -143,7 +142,7 @@ RETURN AVG(friend.age) AS avg_friend_age
 
 ---
 
-# 2. Returning Paths and Subgraphs (#cypher #data_visualization)
+# 2. Returning Paths and Subgraphs (#cypher)
 
 In Neo4j, you can return not only *nodes* but entire *paths*.
 
@@ -173,7 +172,7 @@ RETURN path
 
 ---
 
-# 3. `CREATE` vs `MERGE` (#cypher #data_quality)
+# 3. `CREATE` vs `MERGE` (#cypher)
 
 This is very important to understand:
 

@@ -1,13 +1,15 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_management]
 title: The Data Hierarchy of Needs
-tags:
-  - data_management
 ---
 ![[Pasted image 20241005170237.png|500]]
 
 The **Data Hierarchy of Needs** is a framework that outlines the stages required to effectively use data in organizations. It resembles Maslow’s hierarchy, progressing from basic data needs to advanced capabilities:
 
-1. **Data Collection**:  (bottom)
+1. **Data Collection**: (bottom)
    Start by collecting raw data from various sources, ensuring it's stored securely and reliably.
 
 2. **Data Storage and Access**:  
@@ -22,5 +24,5 @@ The **Data Hierarchy of Needs** is a framework that outlines the stages required
 5. **Data-Driven Decision Making**:  
    Use the insights from data analytics to inform and improve decision-making across the organization.
 
-6. **Advanced Data Capabilities (AI/ML)**:  (top)
+6. **Advanced Data Capabilities (AI/ML)**: (top)
    Once the foundation is in place, apply advanced techniques like machine learning and artificial intelligence for predictive and prescriptive insights.

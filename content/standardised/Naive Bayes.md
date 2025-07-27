@@ -1,14 +1,16 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
 projects: 
-tags:
-  - classifier
+tags: [classifier]
 ---
 
 Can values for X,y be categroical ? [[Encoding Categorical Variables]]
 
 BernoulliNB()
 
-Why Naive Bayes?;;Order doesn't matter, features are independent. Treated it as a [[Bag of words]]. Which ==simplifies==  the above equation.
+Why Naive Bayes?;;Order doesn't matter, features are independent. Treated it as a [[Bag of words]]. Which ==simplifies== the above equation.
 
 Want to use this in classifiers for ML
 Want to understand: [[Multinomial Naive bayes]] classifer 
@@ -33,7 +35,7 @@ Think of the line as "given".
 
 ### [Example](https://www.youtube.com/watch?v=yRl8Yq0M3TY) 2
 
-In the formula above P(A) is P(+),  P(B)=P(NEW)
+In the formula above P(A) is P(+), P(B)=P(NEW)
 
 P(B|A) = P(A=0|+)*... *P(C=0|+)
 

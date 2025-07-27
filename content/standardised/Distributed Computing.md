@@ -1,11 +1,9 @@
 ---
-title: 
-tags:
-  - data_management
-  - data_processing
-  - cloud_computing
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [cloud_computing, data_management, data_processing]
+title: 
 ---
 **Distributed Computing** is essential for managing **massive data volumes** by distributing tasks across multiple servers or machines. This enables scalability and efficient data processing.
 

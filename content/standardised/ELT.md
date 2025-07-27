@@ -1,7 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_integration, data_transformation]
 title: 
-tags:
-  - data_transformation
 ---
 **ELT** (Extract, Load, Transform) is a data integration approach that involves three main steps:
 
@@ -27,4 +29,4 @@ Historically, ETL was preferred for reasons that are now less relevant:
 
 
 [[ELT]]
-   **Tags**: #data_transformation, #data_integration
+   **Tags**:,

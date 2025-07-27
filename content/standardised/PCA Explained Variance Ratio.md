@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 [[PCA Explained Variance Ratio]]
 - The variance explained by each principal component is printed using `pca.explained_variance_ratio_`.
 - The sum of the explained variances is calculated and printed, which should ideally equal 1 (indicating that all variance in the data is accounted for by the principal components).

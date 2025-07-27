@@ -1,11 +1,10 @@
 ---
-tags:
-  - career
-  - business
-aliases: 
+aliases: []
 category: INDUSTRY
+date modified: 27-07-2025
+tags: [business, career]
 ---
-A thinking system is a point of view that helps solve a problem. Part of [[Knowledge Work]]. We view problems through the view of our own specialism (mathematics).  Thinking systems help with perspective.
+A thinking system is a point of view that helps solve a problem. Part of [[Knowledge Work]]. We view problems through the view of our own specialism (mathematics). Thinking systems help with perspective.
 
 Types of thinking systems:
 - Design

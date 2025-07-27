@@ -1,12 +1,8 @@
 ---
-tags:
-  - business
-  - software
-aliases: 
+aliases: []
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [business, software]
 ---
 Useful functions:
 - QUERY: Simple [[SQL]] commands such as [[Groupby]]
@@ -14,6 +10,11 @@ Useful functions:
 - Indirect
 - Xlookup
 - AI function
+- Sumproduct i.e. $\sum_{i,j}\alpha_i \beta_j$
+- SWITCH: Like a nested if statements
+- Percentile: 
+- Importrange:
+- Unique: removes duplicates
 
 Accessing google sheets from a script:
 https://www.youtube.com/watch?v=zCEJurLGFRk

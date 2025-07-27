@@ -1,8 +1,8 @@
 ---
-tags:
-  - relational_database
-  - data_management
+aliases: []
 category: DE
+date modified: 27-07-2025
+tags: [data_management, relational_database]
 ---
 
 MySQL has more ==granularity== with types than SQLite. For example, an integer could be `TINYINT`, `SMALLINT`, `MEDIUMINT`, `INT` or `BIGINT` based on the size of the number we want to store. 

@@ -1,8 +1,10 @@
 ---
-tags:
-  - ml_optimisation
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [ml_optimisation]
 ---
-The learning rate is a  [[Hyperparameter]] in machine learning that ==determines the step size at which a model's parameters are updated during training==. It plays a significant role in the optimization process, particularly in algorithms like [[Gradient Descent]] which are used to minimize the [[Loss function]].
+The learning rate is a [[Hyperparameter]] in machine learning that ==determines the step size at which a model's parameters are updated during training==. It plays a significant role in the optimization process, particularly in algorithms like [[Gradient Descent]] which are used to minimize the [[Loss function]].
 
 ### Key Points about Learning Rate:
 

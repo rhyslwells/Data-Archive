@@ -1,6 +1,8 @@
 ---
-tags: 
+aliases: []
 category: 
+date modified: 27-07-2025
+tags: []
 ---
 Links:
 - [Batch normalization | What it is and how to implement it](https://www.youtube.com/watch?v=yXOMHOpbon8&list=PLcWfeUsAys2nPgh-gYRlexc6xvscdvHqX&index=2)

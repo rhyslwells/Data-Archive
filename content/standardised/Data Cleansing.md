@@ -1,15 +1,10 @@
 ---
-tags:
-  - data_transformation
-  - data_cleaning
-  - portal
-title: 
-importance: 
-engagement: 
-recency_of_interest: 
-type: term
-aliases: 
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [data_cleaning, data_transformation, portal]
+title: 
+type: term
 ---
 Data cleansing is the process of correcting or removing inaccurate, incomplete, or inconsistent data to improve its [[Data Quality]] for analysis. Involves:
 

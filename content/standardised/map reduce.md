@@ -1,13 +1,15 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_cleaning]
 title: What is MapReduce?
-tags:
-  - data_cleaning
 ---
 MapReduce is a programming model and processing technique used for processing and generating large data sets with a parallel, distributed algorithm on a cluster. [[Distributed Computing]]
 
 It is a core component of the Apache Hadoop [[Hadoop]] framework, which is designed to handle vast amounts of data across many servers. The MapReduce model simplifies data processing across large clusters by breaking down the task into two main functions: **Map** and **Reduce**.
 
-MapReduce is particularly effective for [[Batch Processing]]  tasks where the data can be processed independently and aggregated later. However, it may not be the best choice for [[real-time processing]]  or tasks that require low-latency responses, where other frameworks like [[Apache Spark]] might be more suitable.
+MapReduce is particularly effective for [[Batch Processing]] tasks where the data can be processed independently and aggregated later. However, it may not be the best choice for [[real-time processing]] or tasks that require low-latency responses, where other frameworks like [[Apache Spark]] might be more suitable.
 ### Key Components of MapReduce
 
 1. **Map Function**:

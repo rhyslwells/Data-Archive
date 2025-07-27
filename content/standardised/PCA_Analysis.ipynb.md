@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 https://github.com/rhyslwells/ML_Tools/blob/main/Explorations/Preprocess/PCA/PCA_Analysis.ipynb
 
 This script performs Principal Component Analysis (PCA) on the Iris dataset to reduce its dimensionality while preserving key variance. 

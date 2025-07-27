@@ -1,11 +1,8 @@
 ---
-tags:
-  - portal
-aliases: 
+aliases: []
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: [portal]
 ---
 Standardizing data distributions for consistency. 
 

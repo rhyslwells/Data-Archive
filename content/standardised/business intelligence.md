@@ -1,7 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [business]
 title: What is Business Intelligence
-tags:
-  - business
 ---
 Business intelligence (BI) leverages software and services to [transform data](Data%20Transformation.md) into actionable insights that inform an organization’s business decisions. 
 

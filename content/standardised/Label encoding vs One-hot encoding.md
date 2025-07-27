@@ -1,6 +1,8 @@
 ---
-tags: 
+aliases: []
 category: ML
+date modified: 27-07-2025
+tags: []
 ---
 [[Label Encoding]] and [[One-hot encoding]] give different predictions because they represent categorical variables in fundamentally different ways. 
 

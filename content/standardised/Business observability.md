@@ -1,6 +1,8 @@
 ---
-tags:
-  - business
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [business]
 ---
 Business [[Model Observability|observability]] refers to the ability to gain insights into the internal state and performance of a business through the continuous monitoring and analysis of data. 
 

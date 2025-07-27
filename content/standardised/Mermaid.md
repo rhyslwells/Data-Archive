@@ -1,10 +1,12 @@
 ---
-tags:
-  - data_modeling
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [data_modeling]
 ---
 Step 1. Ask Chatgpt to make er diagram with mermaidcode.
 
-Step 2. Use  https://mermaid.js.org/
+Step 2. Use https://mermaid.js.org/
 
 Use obsidians built in feature:
 

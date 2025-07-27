@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 [[Agentic solutions]] propose an improvement over traditional Large Language Model ([[LLM]]) usage by employing networks of Small Language Models (SLMs). These systems aim to strike a balance between scalability, control, and performance, addressing specific tasks with precision while maintaining overall system adaptability.
 
 Ideas from MLOPs talk by MaltedAI.

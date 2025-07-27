@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 https://github.com/rhyslwells/ML_Tools/blob/main/Explorations/Deployment/Testing_unittest.py
 
 To explore testing in Python, let's focus on some key concepts and provide a simple example using the `unittest` framework, which is a built-in module for writing and running tests.

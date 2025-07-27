@@ -1,6 +1,8 @@
 ---
-tags: 
+aliases: []
 category: 
+date modified: 27-07-2025
+tags: []
 ---
 Silhouette analysis is a technique used to evaluate the quality of clustering results. It provides a measure of how similar an object is to its own cluster compared to other clusters. This analysis helps in determining the appropriateness of the number of clusters and the consistency within clusters.
 

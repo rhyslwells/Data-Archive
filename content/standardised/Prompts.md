@@ -1,7 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [prompt]
 title: Prompting
-tags:
-  - prompt
 ---
 Pre set prompts are most useful when they are easily accessible.
 

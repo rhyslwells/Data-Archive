@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 While regularization is tool to combat overfitting, it is not a always useful. It is crucial to consider the model's 
 - complexity,
 - the quality and 

@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Stands for [javascript object notation](https://www.json.org/json-en.html)
 - records separated by commas
 - keys & strings wrapped by double quotes

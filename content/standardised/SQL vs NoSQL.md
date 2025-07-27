@@ -1,13 +1,9 @@
 ---
-title: 
-tags:
-  - SQL
-  - data_storage
-  - data_modeling
-importance: 
-engagement: 
-recency_of_interest: 2024-10-08
+aliases: []
 category: DEVOPS
+date modified: 27-07-2025
+tags: [data_modeling, data_storage, SQL]
+title: 
 ---
 SQL and NoSQL are two broad classes of database technologies, distinguished by how they structure, query, and store data.
 

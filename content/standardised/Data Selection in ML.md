@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 When selecting data for machine learning models, several important considerations can significantly impact the model's performance/[[Model Optimisation]] and the insights you can derive from it. Here are key factors to consider:
 
 1. Relevance:

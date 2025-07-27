@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 #### Automation Scripts
 
 In [[ML_Tools]], see: [[Bash_folder]]

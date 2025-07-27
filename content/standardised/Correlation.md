@@ -1,6 +1,8 @@
 ---
-tags:
-  - statistics
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [statistics]
 ---
 Use in understanding relationships between variables in data analysis. 
 

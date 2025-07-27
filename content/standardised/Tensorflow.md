@@ -1,10 +1,9 @@
 ---
-title: 
-tags:
-  - deep_learning
-  - software
-aliases: 
+aliases: []
 category: ML
+date modified: 27-07-2025
+tags: [deep_learning, software]
+title: 
 ---
 Open sourced by Google
 Based on a dataflow graph

@@ -1,11 +1,9 @@
 ---
-title: What is a Metric?
-tags:
-  - business
-aliases:
-  - Measure
-  - KPI
+aliases: [KPI, Measure]
 category:
+date modified: 27-07-2025
+tags: [business]
+title: What is a Metric?
 ---
 ### Metrics in Machine Learning
 

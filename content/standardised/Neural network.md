@@ -1,13 +1,9 @@
 ---
+aliases: [Neural Network]
+category:
+date modified: 27-07-2025
+tags: ["#deep_learning", drafting]
 title: 
-tags:
-  - "#deep_learning"
-  - drafting
-importance: 6
-engagement: 7
-recency_of_interest: 2024-09-28
-aliases:
-  - Neural Network
 ---
 A [[Neural network|Neural Network]] is a computational model inspired by biological neural networks in the human brain. It consists of layers of interconnected nodes (neurons) that process and transmit information. Neural networks are fundamental to [[Deep Learning]].
 
@@ -30,14 +26,14 @@ Layers:
   - Hidden Layers: Process the inputs received from the previous layer. There can be multiple hidden layers, making a neural network "deep." These layers transform the data to learn complex relationships and patterns.
   - Output Layer: Produces the final prediction or result, such as a class label in classification tasks or a continuous value in regression.
 
-Weights and Biases:  [[Model Parameters]]
+Weights and Biases: [[Model Parameters]]
 - There are weights and biases at each layer. The shape of the weights is determined by the number of units in the previous layer and the number of units in the current layer.
 - Each connection between neurons has a weight that determines how much influence one neuron has on another. Weights are adjusted during the learning process to minimize prediction errors.
 - Biases allow the network to shift the output of the [[activation function]] and help it better fit the data.
 
-Training:  See [[Fitting weights and biases of a neural network]]
+Training: See [[Fitting weights and biases of a neural network]]
 
-Optimization:  See [[Optimisation techniques]]
+Optimization: See [[Optimisation techniques]]
 - The optimization process (often gradient descent) updates the network's weights to minimize the loss function, ensuring the model improves with training and generalizes well to new, unseen data.
 
 Inputs:

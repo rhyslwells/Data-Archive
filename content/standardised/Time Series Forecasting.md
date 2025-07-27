@@ -1,10 +1,8 @@
 ---
-tags: 
-aliases: 
+aliases: []
 category: 
-phase: preprocess
-topic: 
-filename:
+date modified: 27-07-2025
+tags: []
 ---
 With [[Time Series]] dataset we often want to predict future terms. These are methods to do so.
 

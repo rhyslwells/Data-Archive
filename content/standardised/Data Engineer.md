@@ -1,11 +1,9 @@
 ---
-title: 
-tags:
-  - career
-  - field
-aliases:
-  - Data Engineering
+aliases: [Data Engineering]
 category:
+date modified: 27-07-2025
+tags: [career, field]
+title: 
 ---
 The primary responsibility of a data engineer is to take data from its source and make it available for analysis. They focus on
 - automating the data collection, 

@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Used [[GridSeachCv]] to search through the [[Hyperparameter]] space
 
 ```python

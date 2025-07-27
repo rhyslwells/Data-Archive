@@ -1,12 +1,8 @@
 ---
-tags:
-  - statistics
-  - regressor
-aliases:
-  - regressive models
-  - predictive regression
-  - linear models
+aliases: [linear models, predictive regression, regressive models]
 category:
+date modified: 27-07-2025
+tags: [regressor, statistics]
 ---
  [[Regression]] analysis is a statistical method used to ==predict== a continuous variable based on one or more predictor variables. The most common form, [[Linear Regression]], assumes a linear relationship between the dependent variable $y$ and independent variables $x_1, x_2, \dots, x_n$. The goal is to minimize the residual sum of squares (RSS) between observed and predicted values. Other forms, such as [[Logistic Regression]], handle classification problems.
  

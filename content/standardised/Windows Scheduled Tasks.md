@@ -1,7 +1,8 @@
 ---
-tags:
-  - software
+aliases: []
 category:
+date modified: 27-07-2025
+tags: [software]
 ---
 Related to:
 - Similar to [[Cron jobs ]]in [[Unix]]

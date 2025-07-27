@@ -1,10 +1,8 @@
 ---
-tags: 
-aliases: 
+aliases: []
 category: 
-phase: 
-topic: 
-filename:
+date modified: 27-07-2025
+tags: []
 ---
 The choice between [[PowerShell]] and [[Bash]] largely depends on the user's needs and the environment in which they are working. Here are some considerations for each:
 

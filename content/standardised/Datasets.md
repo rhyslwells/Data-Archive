@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 This note collects notes on datasets that are good examples for exploring various concepts.
 ## Heart Failure Prediction Dataset
 - **Link**: [Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)

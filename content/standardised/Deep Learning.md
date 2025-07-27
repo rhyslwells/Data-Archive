@@ -1,10 +1,9 @@
 ---
-title: Deep Learning Overview
-tags:
-  - deep_learning
-aliases:
-  - DL
+aliases: [DL]
 category: ML
+date modified: 27-07-2025
+tags: [deep_learning]
+title: Deep Learning Overview
 ---
  Deep learning is a subset of machine learning that uses neural networks to process large-scale data for tasks like image and speech recognition, natural language processing, and recommendation systems. 
  

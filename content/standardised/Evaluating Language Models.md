@@ -1,11 +1,9 @@
 ---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: [evaluation, language_models]
 title: 
-tags:
-  - evaluation
-  - language_models
-importance: 7
-engagement: 5
-recency_of_interest: 2024-09-26
 ---
 The [[LMSYS]] Chatbot Arena is a platform where various large language models ([[LLM]]s), including versions of GPT and other prominent models like LLaMA or Claude, are compared through side-by-side interactions. The performance of these models is evaluated using human feedback based on the quality of their generated responses.
 

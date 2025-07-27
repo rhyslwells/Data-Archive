@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 Organizations may also consider adopting a data virtualization solution to integrate their data. 
 
 In this type of [[data integration]], data from multiple sources is left in place and is ==accessed== via a virtualization layer so that it ==_appears_== as a single data store. 

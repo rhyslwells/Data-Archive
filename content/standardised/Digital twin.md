@@ -1,11 +1,9 @@
 ---
-title: 
-tags:
-  - data_modeling
-importance: 3
-engagement: 4
-recency_of_interest: 2024-09-28
+aliases: []
 category: DE
+date modified: 27-07-2025
+tags: [data_modeling]
+title: 
 ---
 
 

@@ -11,7 +11,7 @@ Tags are more precise and contextual.
 
 Related:
 - [[Research Questions]]
-- [[Data Archive Graph Analysis]]
+- [[Data Archive Graph]]
 # Graph View
 
 Link:

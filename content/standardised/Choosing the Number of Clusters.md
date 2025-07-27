@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 27-07-2025
+tags: []
+---
 The optimal number of clusters ([[clustering]]) depends on the data and the desired level of [[granularity]]. Here are some common approaches:
 
 1. Elbow Method: [[WCSS and elbow method]]: Plot the within-cluster sum of squares (WCSS) as a function of the number of clusters. The optimal number of clusters is often the point where the WCSS starts to decrease slowly.
