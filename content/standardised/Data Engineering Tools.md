@@ -1,16 +1,18 @@
 ---
-aliases: []
-category:
+aliases: 
+category: DE
 date modified: 27-07-2025
-tags: [data_management, data_tools]
+tags:
+  - data_management
+  - data_tools
 ---
 
-  - **[[Snowflake]]:** [[Cloud]]-based data warehousing for scalable storage and processing.
-  - **Microsoft SQL Server:** [[SQL]]-based relational database management.
-  - **[[Azure]] SQL Database:** Managed relational database service on Azure.
-  - **Azure Data Lake Storage:** Scalable storage for big data analytics.
-  - **SQL and T-SQL:** Query languages for managing and querying relational databases.
-  - **AWS [[Amazon S3|S3]]:** Storage for data lakes.
+  - [[Snowflake]]: [[Cloud]]-based data warehousing for scalable storage and processing.
+  - Microsoft SQL Server: [[SQL]]-based relational database management.
+  - [[Azure]] SQL Database: Managed relational database service on Azure.
+  - Azure Data Lake Storage: Scalable storage for big data analytics.
+  - SQL and T-SQL: Query languages for managing and querying relational databases.
+  - AWS [[Amazon S3|S3]]: Storage for data lakes.
 
 [[Data Ingestion]] Tools and Technologies:
 - [[Apache Kafka]]
@@ -22,5 +24,3 @@ Tools: Amazon S3, Google BigQuery, Snowflake.
 
 [[dbt]]
 
-### Tags
-- **Tags**:,

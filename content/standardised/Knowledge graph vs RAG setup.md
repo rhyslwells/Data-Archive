@@ -1,9 +1,12 @@
 ---
-aliases: []
-category:
+aliases: 
+category: LANG
 date modified: 27-07-2025
-tags: []
-title: 
+tags:
+  - GenAI
+  - memory_management
+  - data_structure
+title:
 ---
 ### Comparison: Knowledge Graph vs. RAG Setup
 

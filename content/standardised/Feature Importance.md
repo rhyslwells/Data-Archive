@@ -27,3 +27,9 @@ Model-Agnostic Methods:
 - Permutation importance: This method measures the importance of a feature by randomly shuffling its values and observing the impact on the model's performance. The larger the decrease in performance, the more important the feature is.
 - [[SHapley Additive exPlanations]]
 - [[Local Interpretable Model-agnostic Explanations]]
+
+[[Feature Importance]]
+Quantify how much each feature influences model predictions using:
+* [[Statistical tests]] (e.g. ANOVA, chi-squared)
+* Model-based scores (e.g. Gini importance in trees)
+* Permutation importance

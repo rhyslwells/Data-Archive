@@ -1,8 +1,9 @@
 ---
-aliases: []
+aliases: 
 category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - python
 ---
 [[Python]]
 
@@ -20,9 +21,7 @@ tags: []
 | Type preservation          | Manual                            | Preserves types (to the extent CSV allows) |
 | Append mode                | Easy (`open(..., 'a')`)           | Possible but requires care                 |
 
----
-
-## 🔹 Example Comparison
+## Example Comparison
 
 ### 1. **Using `csv`**
 
@@ -42,8 +41,6 @@ with open('people.csv', 'w', newline='') as f:
 
 You are responsible for formatting rows as lists (or dicts with `DictWriter`).
 
----
-
 ### 2. **Using `pandas.to_csv()`**
 
 ```python
@@ -59,13 +56,11 @@ df.to_csv('people.csv', index=False)
 
 No manual row handling — `pandas` handles headers, data alignment, and types.
 
----
-
-## 🔸 When to Use Each
+## When to Use Each
 
 ### Use `csv` if:
 
-* You’re not using pandas.
+* You’re not using [[pandas]].
 * You need lightweight scripts with zero dependencies.
 * You're working with custom file formats (e.g., pipe-delimited, legacy systems).
 * You're writing line-by-line or in memory-constrained environments.

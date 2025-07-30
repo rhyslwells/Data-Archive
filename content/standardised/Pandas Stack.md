@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: [data_transformation, data_transformation]
+tags:
+  - data_transformation
 ---
 Tool for reshaping data, particularly when you need to pivot a DataFrame ([[Pandas Pivot Table]]) from a wide format to a long format. 
 

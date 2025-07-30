@@ -1,8 +1,11 @@
 ---
-aliases: []
-category:
+aliases: 
+category: DEVOPS
 date modified: 27-07-2025
-tags: [software]
+tags:
+  - software
+  - communication
+  - documentation
 ---
 SharePoint is a web-based collaboration platform developed by [[Microsoft]]. It is primarily used for creating intranet sites, document management, and team collaboration, providing a centralized platform for managing content and communication.
 

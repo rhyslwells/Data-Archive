@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: PM
 date modified: 27-07-2025
-tags: [business]
+tags:
+  - business
+  - communication
 ---
 ## Jobs to Be Done (JTBD) Framework
 
@@ -37,3 +39,6 @@ Example:
 If small business owners "hire" a service to handle taxes (functional), feel relief (emotional), and save time (physical), a fractional CFO service could offer that — if positioned correctly.
 
 ![[Pasted image 20250427074650.png]]
+
+Related:
+- [[Project Management Portal]]

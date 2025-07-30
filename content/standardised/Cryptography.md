@@ -1,8 +1,11 @@
 ---
-aliases: []
+aliases: 
 category: 
 date modified: 27-07-2025
-tags: [math]
+tags:
+  - math
+  - data_security
+  - code_snippet
 ---
 Cryptography is the foundation of digital [[Data Security]], enabling privacy and secure communication over the internet.
 
@@ -17,7 +20,7 @@ A hashing function takes an input of any length and outputs a fixed-length value
 
 - The same input always produces the same output.
 - It is computationally expensive to reverse the hash.
-- It has a low probability of collisions.
+- It has a low [[probability]] of collisions.
 
 ### Create a Hash in Node.js
 
@@ -71,7 +74,7 @@ console.log(login('foo@bar.com', 'password'));
 
 HMAC combines a hash with a secret key, ensuring authenticity and integrity.
 
-### HMAC in Node.js
+### HMAC in [[Node.js]]
 
 ```javascript
 const { createHmac } = require('crypto');

@@ -65,7 +65,7 @@ You can express a lot of [[preprocessing]] without leaving the plotting context.
 ### 4. Best for:
 
 * Exploratory data analysis ([[EDA]])
-* Interactive data dashboards (e.g. with Streamlit, Voila, or Panel)
+* Interactive data dashboards (e.g. with [[Streamlit]], Voila, or Panel)
 * Communicating insights with clean, web-ready charts
 
 ## When Not to Use Altair

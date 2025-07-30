@@ -1,9 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: ML
 date modified: 27-07-2025
-tags: [classifier]
-title: 
+tags:
+  - classifier
+title:
 ---
 Think captchas for training.
   

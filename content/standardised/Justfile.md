@@ -22,7 +22,7 @@ By leveraging Justfile, users can automate repetitive tasks, thereby reducing th
  - What are the potential security implications of using command runners like Justfile in production environments?
 ### Related Topics
  - Automation in software development  
- - Command line interface (CLI) tools and their impact on productivity  
+ - [[Command line]] interface (CLI) tools and their impact on productivity  
 ### Topics of interest:
 - Continuous integration and deployment (CI/CD) practices  
 - Scripting languages for task automation  

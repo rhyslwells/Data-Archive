@@ -53,7 +53,7 @@ sns.scatterplot(data=df, x='height', y='weight', hue='gender')
 
 ## 4. Ecosystem Integration
 
-* Altair integrates well with data‑streaming and dashboard tools (e.g. Streamlit, Panel).
+* Altair integrates well with data‑streaming and dashboard tools (e.g. [[Streamlit]], Panel).
 * Seaborn sits atop Matplotlib and is ideal for quick exploratory plots and publication‑quality static figures.
 
 ### When to choose which?

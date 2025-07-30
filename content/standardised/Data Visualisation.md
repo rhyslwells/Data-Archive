@@ -2,7 +2,7 @@
 aliases: []
 category: 
 date modified: 27-07-2025
-tags: [data_analysis]
+tags: [analysis]
 ---
 Data visualization involves presenting data in a visual format, enabling stakeholders to quickly grasp insights and make informed decisions. Effective visualization tools include dashboards and reports.
 

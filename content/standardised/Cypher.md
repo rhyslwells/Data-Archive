@@ -1,8 +1,13 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: [analysis, cypher, data_quality, data_visualization, database, graph, learning, query_language]
+tags:
+  - analysis
+  - data_quality
+  - data_visualization
+  - database
+  - graph
 ---
 Cypher is a graph query language designed to be:
 

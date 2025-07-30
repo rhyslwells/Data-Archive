@@ -15,4 +15,4 @@ Cluster density refers to how tightly packed the members of a cluster are. Often
 **Exploratory Questions:**
 - How does density interact with distance-based [[clustering]]?
 - How do you define density in non-Euclidean spaces?
-- What assumptions does DBSCAN make about density?
+- What assumptions does [[DBSCAN]] make about density?

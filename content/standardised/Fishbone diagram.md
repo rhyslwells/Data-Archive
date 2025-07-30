@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: PM
 date modified: 27-07-2025
-tags: []
+tags:
+  - documentation
+  - communication
 ---
 Fishbone diagram
 [[Documentation & Meetings]]

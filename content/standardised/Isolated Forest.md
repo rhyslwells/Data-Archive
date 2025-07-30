@@ -1,8 +1,12 @@
 ---
-aliases: [anomaly isolation, iForest]
+aliases:
+  - anomaly isolation
+  - iForest
 category: ML
 date modified: 27-07-2025
-tags: [anomaly_detection, data_quality]
+tags:
+  - anomaly_detection
+  - data_quality
 title: Isolation Forest and Its Use in Anomaly Detection
 ---
 

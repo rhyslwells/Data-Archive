@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: ML
 date modified: 27-07-2025
-tags: [model_architecture]
+tags:
+  - model_architecture
 ---
 What does the data look like [[continuous]] or [[categorical]]? 
 

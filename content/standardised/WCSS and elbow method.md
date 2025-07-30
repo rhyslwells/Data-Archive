@@ -6,7 +6,7 @@ tags: [clustering]
 ---
 USE: WCSS (within-cluster sum of squares)
 
-WCSS is a measure developed within the ANOVA framework. It gives a very good idea about the different distance between different clusters and within clusters, thus providing us a rule for deciding the appropriate number of clusters.
+WCSS is a measure developed within the [[ANOVA]] framework. It gives a very good idea about the different distance between different clusters and within clusters, thus providing us a rule for deciding the appropriate number of clusters.
 
 The plot will resemble an "elbow," and the goal is to find the point where the decrease in WCSS slows down, forming an elbow-like shape.
 

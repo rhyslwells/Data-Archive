@@ -39,7 +39,7 @@ Deployment Options
 - Default Region Name (can be seen under Global settings on your AWS console)
 - Default output format (must be left blank)
 
-**GCP:** To deploy a model on Google Cloud Platform ('gcp'), the project must be created using the command-line or GCP console. Once the project is created, you must create a service account and download the service account key as a JSON file to set environment variables in your local environment. Learn more about it: https://cloud.google.com/docs/authentication/production
+**[[Google Cloud Platform|GCP]]:** To deploy a model on Google Cloud Platform ('gcp'), the project must be created using the command-line or GCP console. Once the project is created, you must create a service account and download the service account key as a JSON file to set environment variables in your local environment. Learn more about it: https://cloud.google.com/docs/authentication/production
 
 **Azure:** To deploy a model on Microsoft Azure ('azure'), environment variables for the connection string must be set in your local environment. Go to settings of storage account on Azure portal to access the connection string required.
 AZURE_STORAGE_CONNECTION_STRING (required as environment variable)

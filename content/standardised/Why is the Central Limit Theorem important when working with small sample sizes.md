@@ -8,7 +8,7 @@ The [[Central Limit Theorem]] (CLT) is particularly important for data scientist
 
 1. **Assumption of Normality**: The CLT states that the sampling [[Distributions|distribution]] of the sample means will approximate a normal distribution, regardless of the underlying population distribution, as long as the sample size is sufficiently large. 
 2. 
-3. This is crucial for data scientists because many statistical methods and tests (such as t-tests, ANOVA, and regression analysis) rely on the [[assumption of normality]]. Even with small sample sizes, the CLT provides a foundation for making inferences about the population.
+3. This is crucial for data scientists because many statistical methods and tests (such as t-tests, [[ANOVA]], and regression analysis) rely on the [[assumption of normality]]. Even with small sample sizes, the CLT provides a foundation for making inferences about the population.
 
 4. **Confidence Intervals and [[Hypothesis Testing]]**: The CLT enables data scientists to construct confidence intervals and perform hypothesis tests even when the sample size is small. By using the sample mean and the standard error (which is derived from the sample size), data scientists can estimate the range within which the true population mean is likely to fall, and test hypotheses about population parameters.
 

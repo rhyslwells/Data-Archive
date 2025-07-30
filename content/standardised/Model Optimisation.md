@@ -24,7 +24,7 @@ Model optimization is a step in the machine learning workflow aimed at enhancing
 3. [[Model Evaluation]]
    - Evaluate the model using appropriate metrics based on the problem type (e.g., classification or regression).
    - Metrics for classification include accuracy, precision, recall, F1-score, and confusion matrix.
-   - Metrics for regression include Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R²).
+   - Metrics for regression include [[Mean Absolute Error]] (MAE), Mean Squared Error (MSE), [[Root Mean Squared Error]] (RMSE), and R-squared (R²).
 
 4. [[Cross Validation]]
    - A technique to assess the model's performance by splitting the data into multiple subsets for training and testing.

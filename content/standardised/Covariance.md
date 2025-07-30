@@ -2,7 +2,7 @@
 aliases: []
 category: STATISTICS
 date modified: 27-07-2025
-tags: [data_analysis, statistics]
+tags: [analysis, statistics]
 ---
 
 In statistics, covariance is a measure of the degree to which two random variables change together. It indicates the direction of the linear relationship between the variables. Specifically, covariance can be defined as follows:

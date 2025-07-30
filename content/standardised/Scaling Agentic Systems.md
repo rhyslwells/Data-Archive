@@ -39,7 +39,7 @@ LLMs (Large Language Models):
     - Complex graph structures enable intelligent conversations between models.
     - RAG setups leverage teacher-student frameworks for effective task distribution.
 
-1. Distillation Networks of SLMs:
+1. [[Distillation]] Networks of SLMs:
     - SMEs (Subject Matter Experts) guide teacher models that distill their expertise into student SLMs.
     - Enhances task scalability while controlling costs.
 

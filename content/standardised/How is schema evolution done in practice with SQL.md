@@ -6,3 +6,6 @@ tags: ["#question"]
 title: 
 ---
 
+Related:
+- [[Database Schema|schema]]
+- [[SQL]]

@@ -80,7 +80,7 @@ Every time the task runs, it appends a timestamp to `task_log.txt` in the same d
  Right-click on the Task Scheduler Library
  Click "Enable All Tasks History"
 
-6. Use Command Line to Check Last Run Time
+6. Use [[Command Line]] to Check Last Run Time
 
 ```cmd
 schtasks /query /tn "QuickTestTask" /v /fo LIST

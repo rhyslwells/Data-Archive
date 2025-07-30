@@ -6,3 +6,6 @@ tags: [data_exploration, data_transformation]
 ---
 An open source tool for data exploration.
 
+Related:
+- [[EDA]]
+- [[Data Transformation]]

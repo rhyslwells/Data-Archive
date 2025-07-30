@@ -22,7 +22,7 @@ The goal of linear regression is to find the values of coefficients $$b_0, b_1, 
 
 You ==evaluate== the performance of your model by comparing its predictions to the actual values in a separate test dataset. Common metrics for evaluating regression models are:
 -  Mean Squared Error (MSE)
--  Root Mean Squared Error (RMSE)
+-  [[Root Mean Squared Error]] (RMSE)
 -  [[R squared]].
 
 Related terms:

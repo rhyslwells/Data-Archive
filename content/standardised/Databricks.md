@@ -11,7 +11,7 @@ Databricks is a cloud-based platform for [[big data]] processing built on [[Apac
 
 
 **Cloud Platform Compatibility**: 
-  - Supports the big three cloud providers (AWS, Azure, GCP).
+  - Supports the big three cloud providers (AWS, Azure, [[Google Cloud Platform|GCP]]).
 - **Integration with Other Technologies**: 
   - Combines capabilities of:
     - **Apache Spark**

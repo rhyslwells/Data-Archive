@@ -1,7 +1,6 @@
 ---
 created: 
-tags:
-  - quarterlyReview
+tags: []
 ---
 Once done add to Inbox/Career
 

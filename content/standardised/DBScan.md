@@ -36,3 +36,17 @@ This will cluster the data and visualize it, highlighting core points and markin
 ## Sources
 1. [hex.tech - When and Why To Choose Density-Based Methods](https://hex.tech/blog/comparing-density-based-methods/#:~:text=DBSCAN%20is%20a%20density%2Dbased)
 2. [newhorizons.com - DBSCAN vs. K-Means: A Guide in Python](https://www.newhorizons.com/resources/blog/dbscan-vs-kmeans-a-guide-in-python)
+
+
+
+## [[DBSCAN]]
+
+Purpose:  
+  - Detects anomalies based on density rather than explicit statistical models.
+
+Key Idea:  
+  - Points in low-density regions are identified as anomalies.
+
+Steps:
+  1. Cluster data points based on neighborhood density.
+  2. Identify points that do not belong to any dense cluster (noise) as anomalies.

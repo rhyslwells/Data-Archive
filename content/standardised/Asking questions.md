@@ -1,8 +1,13 @@
 ---
-aliases: []
+aliases: 
 category: PM
 date modified: 27-07-2025
-tags: [business, GenAI, learning, NLP, querying]
+tags:
+  - business
+  - GenAI
+  - learning
+  - NLP
+  - communication
 ---
 ### Why Ask Better Questions?
 
@@ -62,7 +67,7 @@ Questions can be classified by their **function**, **depth**, or **structure**.
 | **Open/Expansive** | Invites multiple viewpoints or lines of reasoning             |
 | **Challenging** | Pushes beyond defaults or surface-level answers                  |
 | **Precise**    | Minimizes ambiguity while leaving room for elaboration           |
-| **Sequenced**  | Ordered to build thought step-by-step (chain of thought)        |
+| **Sequenced**  | Ordered to build thought step-by-step ([[chain of thought]])        |
 
 ### Related Concepts
 - [[Chain of Thought]]

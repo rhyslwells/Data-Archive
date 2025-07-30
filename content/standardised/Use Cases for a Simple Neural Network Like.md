@@ -21,6 +21,6 @@ If you have time series data with multiple variables, you can feed it into this 
 
 **Training and Optimization (Next Steps)**
 The provided code only defines the network and performs a **forward pass**, but to use this model for real-world tasks, you would need to:
-- **Define a loss function** (e.g., Mean Squared Error for regression or Cross-Entropy Loss for classification).
+- **Define a loss function** (e.g., [[Mean Squared Error]] for regression or Cross-Entropy Loss for classification).
 - **Train the network** using an optimizer like **Stochastic Gradient Descent (SGD)**, **Adam**, or another optimization algorithm.
 - **Backpropagate** the gradients to update the model’s weights using gradient descent.

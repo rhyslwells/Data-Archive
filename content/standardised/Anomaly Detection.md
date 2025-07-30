@@ -12,7 +12,7 @@ Outlier detection needs formalized criteria (e.g., statistical models, distance 
 
 In [[ML_Tools]] see: 
 - [[Pycaret_Anomaly.ipynb]]
-- Explore [[PyOD]]
+- [ ] Explore [[PyOD]]
 ## Process of Detection
 
 Data Preparation

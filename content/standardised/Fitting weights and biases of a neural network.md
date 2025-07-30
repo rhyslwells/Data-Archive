@@ -46,7 +46,7 @@ The loss function quantifies the difference between predicted outputs and true l
 
 - Binary Cross-Entropy: For [[Binary Classification]].
 - Categorical Cross-Entropy: For multi-class classification.
-- Mean Squared Error (MSE): For regression tasks.
+- [[Mean Squared Error]] (MSE): For regression tasks.
 
 Example:
 ```python

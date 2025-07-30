@@ -50,15 +50,15 @@ Welcome to the Data Archive, an archive of data-related concepts inspired by the
 | Focus: Communication, Project work               |
 | ------------------------------------------------ |
 | #career #field #question #drafting <br>#business |
-
 ### Others
 
-| Focus: computational tags          |
-| ---------------------------------- |
-| #statistics #math #data_structure  |
+| Focus: computational tags                            |
+| ---------------------------------------------------- |
+| #statistics #math #data_structure<br>#python #graph  |
 
-|Focus: GenAI, LLMs, NLP|
-|---|
-|#GenAI #language_models #NLP|
+| Focus: GenAI, LLMs, NLP                            |
+| -------------------------------------------------- |
+| #GenAI #language_models #NLP<br>#memory_management |
 
 ![[Pasted image 20250412163226.png]]
+

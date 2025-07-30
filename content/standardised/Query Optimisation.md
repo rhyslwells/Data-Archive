@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: [database, performance_tuning, querying]
+tags:
+  - database
+  - querying
 ---
  [[Querying]] can be optimised for time, ==space efficiency==, and concurrency of queries.
  

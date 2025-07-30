@@ -20,7 +20,7 @@ A Large Language Model (LLM) is a type of language model designed for language u
 - [[Relationships in memory|Managing LLM memory]]
 - [[Mixture of Experts]]: having multiple experts instead of one big model.
 - [[Distillation]]
-- Mathematics on the parameter usage [[Attention mechanism]]
+- [[Mathematics]] on the parameter usage [[Attention mechanism]]
 - Use of [[Reinforcement learning]] in training [[Chain of thought]] methods in LLM's (deepseek)
 
 ## How do Large Language Models (LLMs) Work?

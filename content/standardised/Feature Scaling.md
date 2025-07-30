@@ -1,9 +1,12 @@
 ---
-aliases: []
+aliases: 
 category: DS
 date modified: 27-07-2025
-tags: [data_cleaning, data_processing]
-title: 
+tags:
+  - data_cleaning
+  - data_processing
+  - preprocessing
+title:
 ---
 Used in preparing data for machine learning models. 
 
@@ -25,10 +28,19 @@ Feature scaling is important for several reasons:
 
 3. Gradient Descent Optimization: In optimization algorithms like gradient descent, features with larger ranges can cause inefficient convergence. Scaling ensures that all features are on a similar scale, allowing for faster and more stable convergence to the optimal solution.
 
-### Common Scaling Methods
-[[Normalisation]]
+[[Feature Scaling]] is useful for models that use distances like [[Support Vector Machines|SVM]] and [[K-means]]
+### When Scaling Is Unnecessary
 
-[[Standardisation]]
+1. Tree-based Algorithms:
+    - Algorithms like [[Decision Tree]], [[Random Forests]], and Gradient Boosted Trees are invariant to feature scaling because they split data based on thresholds, not distances.
+    - Example: Splits are determined by feature values, not their magnitude.
+      
+2. Data with Uniform Scales:
+    - If all features have the same range or are already normalized (e.g., percentages), scaling may not be required.
+
+### Common Scaling Methods
+- [[Normalisation]]
+- [[Standardisation]]
 
 Min-Max Scaling: Scales features to a fixed range (e.g., $[0, 1]$), preserving relative distances.
 ### Example of Scaling
@@ -41,8 +53,7 @@ df_scaled = preprocessing.scale(df)  # Scales each variable (column) with respec
 
 This returns an array where each feature is standardized.
 
-**Note:**
-
+### Note:
 - Scaling is done when one feature is at a significantly different scale.
 - For each data point, subtract the mean and divide by the range (max-min).
 

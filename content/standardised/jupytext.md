@@ -1,20 +1,19 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: [Research, software]
+tags:
+  - software
+  - communication
 ---
-
-Jupytext is a tool that lets you convert between Jupyter Notebooks (`.ipynb`) and plain text formats like:
-
-* Python scripts (`.py`)
+Jupytext is a tool that lets you convert between Jupyter Notebooks (`.[[ipynb]]`) and plain text formats like:
+* [[Python]] scripts (`.py`)
 * Markdown (`.md`)
-* R (`.R`)
+* [[R]] (`.R`)
 * Julia (`.jl`)
-
 ### What Can You Do with It?
 
-* Edit notebooks in your favorite text editor (e.g., VS Code, Vim, Emacs)
+* Edit notebooks in your favourite text editor (e.g., VS Code, Vim, Emacs)
 * Version-control notebooks easily using Git (avoids messy JSON diffs)
 * Convert `.py` ↔ `.ipynb`:
 

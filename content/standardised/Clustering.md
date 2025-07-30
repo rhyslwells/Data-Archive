@@ -11,7 +11,7 @@ Clustering is a tool for normality detection - not only grouping but finding *no
 ## Methods
 
 - [[K-means]]
-- [[DBScan]]
+- [[DBSCAN]]
 - [[Hierarchical Clustering]]
 - [[Gaussian Mixture Models]]
 ## [[Interpretability]]

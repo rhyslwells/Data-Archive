@@ -1,9 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: [data_visualization, drafting]
-title: 
+tags:
+  - data_visualization
+title:
 ---
 t-SNE (t-distributed Stochastic Neighbor Embedding) is a [[Dimensionality Reduction]] technique used primarily for visualizing high-dimensional data. Unlike methods such as [[Principal Component Analysis|PCA]] (Principal Component Analysis), which are linear, t-SNE is a non-linear method that excels at preserving the local structure of the data. 
 

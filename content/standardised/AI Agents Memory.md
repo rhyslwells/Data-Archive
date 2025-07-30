@@ -1,8 +1,11 @@
 ---
-aliases: []
-category: 
+aliases: 
+category: LANG
 date modified: 27-07-2025
-tags: [architecture, cost, customisation, data_retrieval, engineering, evaluation, inference, memory_management, memory_representation, metrics, ml_optimisation, NLP, performance, versioning]
+tags:
+  - evaluation
+  - ml_optimisation
+  - NLP
 ---
 Mem0 White paper: Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory
 

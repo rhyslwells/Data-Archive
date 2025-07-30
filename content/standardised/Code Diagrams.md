@@ -1,19 +1,28 @@
 ---
-aliases: []
-category:
+aliases: 
+category: DEVOPS
 date modified: 27-07-2025
-tags: []
+tags:
+  - documentation
+  - communication
 ---
+Class Diagrams
+- Show the hierarchy and relationships of classes. See: [[Classes]] (Object-Oriented).
+
+Architecture Diagrams
+- Depict the overall structure of the system.
+- Show how main components fit together and interact.
+
+See: [[Architecture Diagram]]
+- Sequence Diagrams
+- Show how components interact over time.
+
+Useful for visualising the flow of communication between parts of the system.
+
+See: [[Sequence diagram]]
+
+Tools
+- Diagrams can be produced in [[Mermaid]].
+
+Related
 [[Documentation & Meetings]]
-
-There are class diagrams showing the hierarchy of classes [[Classes]] (Object orientated). 
-
-Done in [[Mermaid]].
-
-Overall [[Architecture Diagram]]: showing how software components interact.
-
-[[Sequence diagram]] of componets interact. 
-
-Sequence diagraph: how the componets interact 
-Architecture diagram : main componts fitting together
-

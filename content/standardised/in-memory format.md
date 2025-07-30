@@ -1,11 +1,13 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: [data_storage]
+tags:
+  - data_storage
+  - system
 title: What is an In-Memory Format?
 ---
-The term "in-memory format" refers to the way data is stored and managed directly in a ==computer's RAM== (Random Access Memory) rather than on disk storage like a hard drive or SSD. This approach is used to optimize performance, as accessing data in RAM is significantly faster than accessing data on disk.
+The term "in-memory format" refers to the way data is stored and managed directly in a ==computer's RAM== ([[Random Access Memory]]) rather than on disk storage like a hard drive or SSD. This approach is used to optimize performance, as accessing data in RAM is significantly faster than accessing data on disk.
 
 In-memory formats are often used in applications that require high-speed data processing, such as real-time analytics, caching systems, and certain types of databases (e.g., in-memory databases like Redis or SAP HANA). By keeping data in memory, these systems can reduce latency and improve throughput, enabling faster data retrieval and processing.
 

@@ -19,7 +19,7 @@ It works by building an [[Model Ensemble]] - ensemble of decision trees, where e
 
 3. Objective Function:
    - The objective function in XGBoost consists of two parts: the loss function and a regularization term.
-   - [[Loss function]]: Measures how well the model fits the training data. For regression, this might be mean squared error; for classification, it could be logistic loss.
+   - [[Loss function]]: Measures how well the model fits the training data. For regression, this might be [[mean squared error]]; for classification, it could be logistic loss.
    - [[Regularisation]]: Helps prevent overfitting by penalizing complex models. XGBoost supports both L1 (Lasso) and L2 (Ridge) regularization.
 
 4. Additive Training:

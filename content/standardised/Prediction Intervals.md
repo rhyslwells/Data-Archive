@@ -1,8 +1,9 @@
 ---
-aliases: []
+aliases: 
 category: 
 date modified: 27-07-2025
-tags: [probability_theory, statistics]
+tags:
+  - statistics
 ---
 Prediction intervals estimate the range within which a future observation from the same distribution is likely to fall, with a specified confidence level.
 
@@ -26,3 +27,6 @@ $$\bar{x} \pm t_{\alpha/2, n-1} \cdot s \cdot \sqrt{1 + \frac{1}{n}}$$
 **Use Cases**:
 - Forecasting where a new measurement is likely to fall.
 - Risk assessment and operational thresholds.
+
+Related:
+- [[Probability]]

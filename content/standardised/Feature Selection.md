@@ -1,14 +1,24 @@
 ---
-aliases: []
-category:
+aliases: 
+category: ML
 date modified: 27-07-2025
-tags: [drafting, ml_process]
+tags:
+  - ml_process
+  - data_modeling
+  - model_explainability
+  - evaluation
 ---
-Purpose: The primary goal of feature selection is to identify and retain the most relevant features for model training while ==removing irrelevant or redundant ones==. This helps in simplifying the model, reducing overfitting, and improving computational efficiency.
+Feature selection is to identify and retain the most relevant features for model training while ==removing irrelevant or redundant ones==. This helps in simplifying the model, reducing overfitting, and improving computational efficiency.
 
-Process: Feature selection is typically performed before model training. It involves evaluating features based on certain criteria or algorithms to decide which features to keep or discard.
+Feature selection is typically performed before model training. It involves evaluating features based on certain criteria or algorithms to decide which features to keep or discard.
 
 Through an iterative process, feature selection experiments with different methods, adjusts parameters, and evaluates model performance until an optimal set of features is found.
+
+When selecting features we ask:
+- Which play the biggest role.
+- Can we control it/select it?
+- Can we control it easily & what do we gain from it
+- is it a sensible variable?
 
 See [[Feature Selection vs Feature Importance]]
 ### Methods
@@ -27,13 +37,11 @@ After selecting features, it's essential to evaluate your model's performance ([
 
 - [[Dimensionality Reduction]] Techniques: Techniques like [[Principal Component Analysis]] or Singular Value Decomposition ([[SVD]]) can transform the features into a lower-dimensional space while preserving as much variance as possible. Features with low contribution to the principal components can be considered for removal.
 
-- Visualizations: Plotting pairwise scatter plots or [[Heatmap]] of feature [[Correlation]] can provide visual insights into redundant features. Clusters of highly correlated features or scatter plots showing no discernible pattern with the target variable can indicate noisy or redundant features.
+- [[Data Visualisation]]: Plotting pairwise scatter plots or [[Heatmap]] of feature [[Correlation]] can provide visual insights into redundant features. Clusters of highly correlated features or scatter plots showing no discernible pattern with the target variable can indicate noisy or redundant features.
 ### Investigating Features
 
 1. Variance Thresholding: Check the [[Variance]] & [[Distributions]] of each feature. Features with very low variance (close to zero) contribute little information and may be considered noisy. Removing such features can help simplify the model without sacrificing much predictive power.
 
 2. Univariate Feature Selection: Use statistical tests like chi-square for categorical variables or [[ANOVA]] for numerical variables to assess the relationship between each feature and the target variable. Features with low test scores or high p-values may be less relevant and can be pruned.
-
 ### Related
-
 - [[Standardisation]]

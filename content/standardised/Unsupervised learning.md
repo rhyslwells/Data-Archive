@@ -28,7 +28,7 @@ Example: Customer segmentation in marketing, where a clustering algorithm divide
 Popular Algorithms:
   - [[K-means]]: Divides the data into \( k \) clusters, where each data point belongs to the nearest cluster.
   - Hierarchical Clustering
-  - [[DBScan]]
+  - [[DBSCAN]]
   - [[Support Vector Machines]]
   - [[K-nearest neighbours]]
 

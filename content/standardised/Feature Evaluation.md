@@ -1,34 +1,31 @@
 ---
-aliases: []
-category:
+aliases: 
+category: ML
 date modified: 27-07-2025
-tags: []
+tags:
+  - evaluation
+  - data_exploration
 type: process
 ---
+Effective models depend on high-quality, ==informative features==. Feature evaluation helps identify which features contribute meaningfully to model performance and which may be redundant or harmful.
 
-# Note
+#### Objectives
+* Determine the relevance, predictive power, and redundancy of features.
+* Guide [[feature selection]], engineering, and model interpretation.
 
-Garbage in garbae out. It is the features that 
-# What is involved:
+#### Core Aspects
 
-Want to assess the **usefulness** of chosen features
-### **Measuring feature importance:** 
+[[Feature Importance]]
 
-Quantifying the contribution of each feature to the model's predictions. This can be done through various methods like statistical tests, model-specific importance scores, or permutation importance.
-### **Analysing feature relationships:** 
+Feature Relationships Assess:
+* [[Correlation]] between features to detect redundancy
+* Interactions that may impact the target variable
 
-Investigating correlations and redundancy,
+Performance Impact: Measure how feature inclusion/exclusion affects:
+* Model accuracy, precision, [[AUC]], etc.
+* Stability and generalisability of results
 
-### **Assessing feature impact on model performance:** 
-
-
-# Example:
-
-
-
-# When are we done:
-
-- **Reaching a stable and satisfactory model performance
-- **No further room for improvement
-- **Understanding the model's decision-making process
-
+#### When Evaluation is Complete
+* Feature set achieves optimal model performance
+* Further changes offer no significant improvement
+* Feature effects are [[interpretability|interpretable]] and aligned with domain knowledge

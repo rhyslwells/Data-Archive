@@ -1,0 +1,6 @@
+---
+tags: 
+category: 
+aliases:
+  - RAM
+---

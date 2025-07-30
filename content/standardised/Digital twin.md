@@ -1,9 +1,12 @@
 ---
-aliases: []
+aliases: 
 category: DE
 date modified: 27-07-2025
-tags: [data_modeling]
-title: 
+tags:
+  - data_modeling
+  - data_engineering
+  - model_explainability
+title:
 ---
 
 
@@ -21,7 +24,7 @@ title:
 2. **Digital Model**:
    - A virtual replica of the physical entity, designed using data models, physics-based simulations, and other analytical tools. The digital model reflects the structure, behavior, and function of the physical object or process.
 
-3. **Data Integration**:
+3. **[[Data Integration]]**:
    - The digital twin ==relies on real-time data from sensors,== IoT devices, or historical databases connected to the physical counterpart. This data flow enables the twin to reflect current operating conditions and states.
 
 4. **Analytics and Simulation**:
@@ -92,7 +95,7 @@ title:
 3. **Security**:
    - Because digital twins rely on real-time data transmission, they are vulnerable to cyberattacks, which can lead to compromised systems or intellectual property theft.
 
-4. **Scalability**:
+4. **[[Scalability]]**:
    - Scaling digital twin models to encompass entire cities or large systems involves high computational and infrastructural requirements.
 
 

@@ -7,7 +7,7 @@ published:
 created: 2025-02-09
 description: "Arthur Turrell is an economic data scientist."
 tags:
-  - "clippings"
+  - "delete"
 ---
 There have been a series of sometimes jaw-dropping developments in data science in the last few years, with large language models by far the most prominent (and with good reason). But another story has been the huge explosion in time series packages.
 

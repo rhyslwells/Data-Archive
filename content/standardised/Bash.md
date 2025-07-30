@@ -19,7 +19,7 @@ In [[ML_Tools]], see: [[Bash_folder]]
    ```
 3. **Search for a Word in a File**: 
    ```bash
-   grep "word" filename.txt
+   [[grep]] "word" filename.txt
    ```
 4. **Replace Text in a File (Output Only)**: 
    ```bash

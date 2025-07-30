@@ -1,8 +1,10 @@
 ---
-aliases: []
-category: 
+aliases: 
+category: DE
 date modified: 27-07-2025
-tags: [portal]
+tags:
+  - portal
+  - database
 ---
 Techniques:
 - [[Soft Deletion]]

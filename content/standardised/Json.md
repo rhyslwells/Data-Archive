@@ -16,3 +16,44 @@ JSON data embedded inside of a string, is an example of semi-structured data. Th
 |---------| -----------|
 |Record 1| \"{'id': 1, 'name': 'Mary X'}\" |
 |Record 2| \"{'id': 2, 'name': 'John D'}\"|
+
+```JSON
+{
+  "json": [
+    "rigid",
+    "better for data interchange"
+  ],
+  "yaml": [
+    "slim and flexible",
+    "better for configuration"
+  ],
+  "object": {
+    "key": "value",
+    "array": [
+      {
+        "null_value": null
+      },
+      {
+        "boolean": true
+      },
+      {
+        "integer": 1
+      },
+      {
+        "alias": "aliases are like variables"
+      },
+      {
+        "alias": "aliases are like variables"
+      }
+    ]
+  },
+  "paragraph": "Blank lines denote\nparagraph breaks\n",
+  "content": "Or we\ncan auto\nconvert line breaks\nto save space",
+  "alias": {
+    "bar": "baz"
+  },
+  "alias_reuse": {
+    "bar": "baz"
+  }
+}
+```
