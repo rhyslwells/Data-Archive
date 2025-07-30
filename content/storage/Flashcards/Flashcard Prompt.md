@@ -21,4 +21,4 @@ Format the output like this:
 - Entropy is defined as a {{measure of disorder or randomness}} in a system.
 - The second law of thermodynamics states that {{entropy in an isolated system always increases}}.
 
-Please process all notes tagged `#<<TAG>>`.
+Please process all notes tagged `#<<tag>>`.

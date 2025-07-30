@@ -1,9 +1,93 @@
 ---
 tags:
   - "#flashcards"
-  - ana
 category:
 ---
+## database
+
+### [[Relating Tables Together]]
+- A [[Primary Key]] uniquely identifies each record in a table, {{ensuring that no two records can have the same key}}.
+- A [[Foreign Key]] establishes {{a link}} between two tables, allowing for relationships to be maintained and ensuring data integrity.
+- One-to-One relationships mean that {{each record in Table A relates to one record in Table B}} and vice versa.
+- One-to-Many relationships allow {{a single record in Table A to relate to multiple records in Table B}}.
+- Junction tables are used to manage {{many-to-many relationships}} by containing {{foreign keys}} from both tables it connects.
+
+### [[Database Schema]]
+- A [[Database Schema]] defines how data is organized in a database, specifying {{tables, columns, relationships, and constraints}}.
+- The importance of a schema lies in its ability to ensure that data is stored {{consistently and can be queried efficiently}}.
+- Schema on Write enforces structure when data is written, while Schema on Read applies structure when data is accessed.
+- A well-defined schema helps in organizing data, making it {{manageable and meaningful}}.
+
+### [[Data Storage]]
+- Structured data is formatted into a {{well-defined schema}}, allowing it to be easily understood and queried by machines.
+- Examples of structured fields include {{age, name, phone number, credit card numbers, or address}}.
+- Unstructured data does not conform to a data model and is difficult to analyze, such as the contents of an {{email or social media data}}.
+### [[Data Principles]]
+- Data principles ensure that data is managed, used, and maintained {{effectively and ethically}}.
+- High-quality data is crucial for making {{informed decisions}} and involves ensuring {{data accuracy, completeness, and reliability}}.
+- Data governance establishes {{clear policies and procedures for data management}}, ensuring compliance with regulations and data integrity.
+
+### [[Data Modelling]]
+- Data modelling is the process of creating a {{visual representation}} of a system's data and the relationships between different data elements.
+- The workflow of data modeling includes a {{conceptual model, logical model, and physical model}} to ensure data is logically structured and organized.
+
+## ML
+
+### [Feature Extraction.md](obsidian://open?vault=content&file=standardised%2FFeature%20Extraction.md)
+
+- Feature extraction is the process of transforming raw data into a {{structured set of informative features}} that are most relevant to a machine learning task.
+- A core strategy in feature extraction is {{Dimensionality Reduction}}, which compresses data while preserving its most important variance.
+- The purpose of feature extraction is to extract {{key attributes}} from raw data to enable learning algorithms to detect patterns and make accurate predictions.
+- Informative features help reduce complexity by generating a {{smaller, more meaningful set of features}}.
+- Feature extraction enhances both model performance and efficiency by simplifying input data and focusing on its most {{meaningful attributes}}.
+
+### [[Machine Learning Algorithms]]
+- Machine learning algorithms are used to {{automate tasks, extract insights, and make more informed decisions}}.
+- Common classification algorithms include {{Logistic Regression, Support Vector Machines, and Decision Trees}}.
+- Common regression algorithms include {{Linear Regression and Support Vector Regression}}.
+- Choosing the right algorithm involves understanding the {{task, characteristics of the data, and strengths and limitations of different algorithms}}.
+
+### [[Model Optimisation]]
+- Model optimization aims to enhance a model's performance by fine-tuning its {{parameters and hyperparameters}}.
+- The goal of model optimization is to improve the model's {{accuracy, efficiency, and ability to generalize}} to new data.
+- Techniques like {{grid search, random search, or Bayesian optimization}} can be used for hyperparameter tuning.
+- Evaluating the model using appropriate metrics is crucial for {{detecting overfitting and providing reliable performance estimates}}.
+- A technique to assess the model's performance by splitting the data into multiple subsets for training and testing is called {{Cross Validation}}.
+- Metrics for classification include {{accuracy, precision, recall, F1-score}}, and for regression include {{Mean Absolute Error (MAE), Mean Squared Error (MSE)}}.
+
+### [[Machine Learning Operations]]
+- MLOps emphasizes the importance of {{monitoring and maintaining models}} over time.
+- Continuous monitoring of model performance is crucial in MLOps, as it helps identify when a model needs {{retraining}} due to changes in data patterns.
+
+### [Supervised Learning.md](obsidian://open?vault=content&file=standardised%2FSupervised%20Learning.md)
+
+- Supervised learning is a type of machine learning where an algorithm learns from {{**labeled data**}} to make predictions or decisions.
+
+### [Classification.md](obsidian://open?vault=content&file=standardised%2FClassification.md)
+
+- Classification is a type of supervised learning in machine learning, where the algorithm learns from {{labeled data}} to predict which {{category or class a new, unlabeled data point belongs to.}}
+- The goal is to assign the correct label to input data based on patterns learned from the training set.
+- Common classifiers include {{[Naive Bayes.md](obsidian://open?vault=content&file=standardised%2FNaive%20Bayes.md), [Decision Trees](app://obsidian.md/Decision%20Trees), and [Support Vector Machines.md](obsidian://open?vault=content&file=standardised%2FSupport%20Vector%20Machines.md).}}
+
+### [Overfitting.md](obsidian://open?vault=content&file=standardised%2FOverfitting.md)
+
+- Overfitting in machine learning occurs when a model captures {{not only the underlying patterns in the training data but also the noise}}, leading to poor performance on unseen data.
+- Overfitting indicates high variance in the model’s performance, which can be identified by a significant {{drop in accuracy}} between {{training and test datasets}}.
+
+### [Bagging.md](obsidian://open?vault=content&file=standardised%2FBagging.md)
+
+- Bagging, short for Bootstrap Aggregating, is an {{ensemble technique}} designed to improve the stability and accuracy of machine learning algorithms. It works by training multiple instances of the same learning algorithm on different subsets of the training data and then combining their predictions.
+- A well-known example of a bagging technique is {{the [[Random Forests.md]]}} algorithm.
+
+### [Gradient Boosting.md](obsidian://open?vault=content&file=standardised%2FGradient%20Boosting.md)
+
+- Gradient Boosting is a technique used for building predictive models, particularly in tasks like regression and classification. It combines the concepts of boosting and gradient descent to create strong models by {{sequentially combining multiple weak learners.}} Each new model focuses on {{correcting the mistakes made by the previous ones}} by fitting to the residuals.
+
+### [Cross Validation.md](obsidian://open?vault=content&file=standardised%2FCross%20Validation.md)
+
+- Cross-validation is a statistical technique used in machine learning to assess how well a model will {{generalize to an independent dataset.}}
+- Cross-validation involves dividing the dataset into equal-sized subsets (folds) and using each fold as a {{validation}} set once, while the remaining  folds are used for {{training}}.
+- With cross validation the model's performance is averaged across all  folds to provide a more robust {{estimate of its generalization performance.}}
 ## communication
 
 ### [[Communication Techniques]]
@@ -57,6 +141,7 @@ category:
 - In hypothesis testing, the {{null hypothesis}} ($H_0$) states that there is no effect or difference.
 - A small p-value (typically {{< 0.05}}) suggests that we should reject the null hypothesis.
 - The Central Limit Theorem states that the distribution of the sum of a large number of independent random variables approaches a {{normal distribution}}.
+- Statistics is the science of collecting, analyzing, interpreting, presenting, and organizing data to understand the world, which is made of {{probabilities}}.
 
 ### [[Hypothesis testing]]
 - In hypothesis testing, the {{null hypothesis}} ($H_0$) is tested against the alternative hypothesis ($H_1$).
