@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: ML
 date modified: 27-07-2025
-tags: []
+tags:
+  - anomaly_detection
 ---
 Removing [[Outliers]] May Improve Regression but Harm Classification
 

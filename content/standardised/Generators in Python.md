@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: [data_pipeline, ml_process, python]
+tags:
+  - python
+  - data_structure
 ---
 #### Why use generators for processing large data? 
 

@@ -1,9 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: [data_storage, database, database_management]
-title: 
+tags:
+  - portal
+title:
 ---
 Databases manage large data volumes with scalability, speed, and flexibility. Key systems include:
 

@@ -11,7 +11,7 @@ https://github.com/rhyslwells/DE_Tools/blob/main/DE_Tools/Explorations/Other/Ter
 
 #### Example of what Grep can do 
 
- 1. Search for a pattern in files
+ 1. [[Search]] for a pattern in files
 
 ```bash
 grep "error" logfile.txt
@@ -36,7 +36,7 @@ grep -n "fail" test_results.txt
 ```
 
 * Shows line numbers where `"fail"` appears.
-* Helpful for debugging or jumping to the right place in a large file.
+* Helpful for [[debugging]] or jumping to the right place in a large file.
 
  4. Show only matching part of the line
 

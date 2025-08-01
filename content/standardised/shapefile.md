@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: [software]
+tags:
+  - file_type
 ---
 A shapefile is a popular geospatial vector data format for geographic information system (GIS) software. It is widely used for storing the location, shape, and attributes of geographic features. Developed by Esri, shapefiles are commonly used in the GIS community for exchanging and managing geospatial data.
 

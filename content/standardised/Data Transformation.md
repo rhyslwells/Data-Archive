@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [data_cleaning, data_transformation]
+tags: [cleaning, transformation]
 title: What is data transformation?
 ---
 Data transformation is the process of converting data from one format to another. 

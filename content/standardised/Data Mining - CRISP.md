@@ -24,7 +24,7 @@ graph TD
    
 2. Data Understanding: Involves collecting, exploring, and understanding the data to ensure its quality and to get insights relevant to the problem.
    
-3. Data Preparation: This phase includes all activities needed to construct the final dataset, such as data cleaning, transformation, and feature selection.
+3. Data Preparation: This phase includes all activities needed to construct the final dataset, such as data cleaning, transformation, and [[feature selection]].
    
 4. Modeling: Various modeling techniques are applied to the data, and parameters are tuned to improve performance. Models like decision trees, neural networks, or [[Clustering]] may be used.
    

@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: [GenAI, ml_process]
+tags:
+  - GenAI
+  - python
 ---
 LangChain is a [[Python]] framework designed to facilitate the development of applications powered by [[LLM]]s (Large [[Language Models]]). It enables developers to build end-to-end, composable workflows that involve LLM interaction, integration with data sources, memory, tools, and agentic decision-making.
 

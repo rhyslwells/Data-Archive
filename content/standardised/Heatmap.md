@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [code_snippet, data_visualization]
+tags: [code_snippet, visualization]
 title: 
 ---
 ### Description

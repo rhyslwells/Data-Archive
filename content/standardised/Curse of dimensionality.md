@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [data_cleaning]
+tags: [cleaning]
 title: 
 ---
 The **curse of dimensionality** refers to the various phenomena that arise when working with data in high-dimensional spaces.

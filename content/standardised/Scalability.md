@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [data_management]
+tags: [management]
 ---
 Scalability refers to the capability of a system, network, or process to handle a growing amount of work or its potential to accommodate growth.
 

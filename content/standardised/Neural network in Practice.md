@@ -36,7 +36,7 @@ Monitoring the cost, or loss, during training is essential for understanding how
 **Monitoring Progress**: 
   - Track the progress of gradient descent by observing the cost, referred to as `loss` in TensorFlow. Ideally, the loss should decrease as training progresses.
 **Loss Display**: 
-  - The loss is displayed at each epoch during the execution of `model.fit`, providing real-time feedback on training performance.
+  - The loss is displayed at each [[epoch]] during the execution of `model.fit`, providing real-time feedback on training performance.
 **History Variable**: 
   - The `.fit` method returns a `history` object containing various metrics, including the loss. This object is stored in the `history` variable for further analysis.
 

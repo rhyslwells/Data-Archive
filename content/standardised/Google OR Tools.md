@@ -3,13 +3,12 @@ aliases:
 category: ML
 date modified: 27-07-2025
 tags:
-  - ml_optimisation
   - optimisation
   - math
 ---
 https://developers.google.com/optimization/examples
 
-Google provides several tools, platforms, and libraries aimed at optimisation in different contexts:
+[[Google]] provides several tools, platforms, and libraries aimed at [[Model Optimisation|optimisation]] in different contexts:
 
 Google OR-Tools (Operations Research Tools)
 

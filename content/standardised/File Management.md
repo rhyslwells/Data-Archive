@@ -2,7 +2,7 @@
 aliases: []
 category: DE
 date modified: 27-07-2025
-tags: [data_management]
+tags: [management]
 ---
 It is possible to create a [[SQLite]] [[Database]] for a folder and then [[Querying|Query]] it.
 

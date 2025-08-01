@@ -1,10 +1,11 @@
 ---
-aliases: []
-category:
+aliases: 
+category: DS
 date modified: 27-07-2025
-tags: []
+tags:
+  - exploration
 ---
-debugging jupyter cells
+[[debugging]] jupyter cells
 
 https://www.youtube.com/watch?v=CY6uZIoF_kQ
 

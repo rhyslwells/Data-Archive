@@ -1,10 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: DEVOPS
-date modified: 27-07-2025
-tags:
-  - data_collection
-  - data_management
+date modified: 1-08-2025
+tags: [management, preprocessing]
 type: process
 ---
 Data ingestion is the process of collecting and importing raw data from various sources ([[Database]], [[API]], [[Data Streaming]] services) into a system for processing and analysis, and can be performed in batch and realtime ingestion. The goal is to gather raw data that can be processed and analysed.

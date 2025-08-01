@@ -18,7 +18,7 @@ In [[DE_Tools]] see:
 
 - Reduces SQL complexity: Write Python code instead of SQL queries.
 - Prevents [[SQL Injection]]: ORM prevents unsafe queries.
-- Improves [[maintainability]]: Easier to refactor code.
+- Improves [[Maintainability]]: Easier to refactor code.
 - Handles connection pooling: Manages database connections efficiently.
 - Works with Pandas: Can load and save data directly to databases.
 ### Key Features of SQLAlchemy

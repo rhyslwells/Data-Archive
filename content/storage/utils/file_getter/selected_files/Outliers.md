@@ -1,7 +1,7 @@
 ---
 tags:
   - statistics
-  - data_cleaning
+  - cleaning
 aliases:
   - anomalies
   - Handling Outliers

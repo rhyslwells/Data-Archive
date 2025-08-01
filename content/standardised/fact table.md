@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [data_modeling, data_warehouse]
+tags: [modeling, database]
 ---
 A fact table is a central component of a star [[Database Schema|schema]] or snowflake schema in a [[data warehouse]], it stores [[Facts]].
 

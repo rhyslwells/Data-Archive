@@ -17,6 +17,6 @@ Epoch 1/10
 ```
 
 - **Epoch 1/10:** Indicates the model is currently on the first epoch out of a total of 10.
-- **Batches:** For efficiency, the dataset is divided into smaller groups called 'batches'. In TensorFlow, the default batch size is 32. With 200,000 examples, this results in 6,250 batches.
+- **Batches:** For efficiency, the dataset is divided into smaller groups called 'batches'. In [[TensorFlow]], the default batch size is 32. With 200,000 examples, this results in 6,250 batches.
 - **Batch Execution:** The notation `6250/6250` shows the progress of batch execution within the current epoch.
 

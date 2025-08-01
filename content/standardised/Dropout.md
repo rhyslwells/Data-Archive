@@ -2,7 +2,7 @@
 aliases: []
 category: 
 date modified: 27-07-2025
-tags: [deep_learning, ml_optimisation]
+tags: [deep_learning, optimisation]
 ---
 **Dropout** is a [[Regularisation]] technique used in [[Neural network]] training to prevent [[overfitting]]. It works by randomly dropping units (neurons) during training, which helps the network to not rely too heavily on any single neuron.
 

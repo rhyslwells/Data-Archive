@@ -2,11 +2,11 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [software_architecture]
+tags: [architecture]
 ---
 A monolith, in the context of [[software architecture]], refers to a ==single, unified application where all components and functionalities are interconnected and interdependent==. In a monolithic architecture, the entire application is typically built as a ==single codebase==, and all functions and modules are tightly coupled.
 
-While monolithic architectures can be simpler to develop and deploy initially, they can become cumbersome as the application grows in complexity. Many organizations eventually transition to [[microservices]] or other modular architectures to improve scalability, flexibility, and maintainability. However, monoliths can still be effective for smaller applications or teams with limited resources.
+While monolithic architectures can be simpler to develop and deploy initially, they can become cumbersome as the application grows in complexity. Many organizations eventually transition to [[microservices]] or other modular architectures to improve scalability, flexibility, and [[Maintainability]]. However, monoliths can still be effective for smaller applications or teams with limited resources.
 
 When we talk about a "function call-driven" monolith, we are referring to the way in which different parts of the application interact with each other. In such a system:
 

@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [data_modeling, database_design]
+tags: [modeling, database]
 ---
 Data modelling is the process of creating a visual representation of a system's data and the relationships between different data elements. 
 

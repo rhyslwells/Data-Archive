@@ -33,7 +33,7 @@ In [[ML_Tools]] see:
     - NLP: `pycaret.nlp`
     - Time Series Forecasting: `pycaret.time_series`
 3. Automated Machine Learning (AutoML): PyCaret automates data preprocessing, feature engineering, model selection, and [[hyperparameter tuning]].
-4. Integration: PyCaret integrates well with other Python libraries, such as Pandas, NumPy, and Plotly.
+4. Integration: PyCaret integrates well with other Python libraries, such as Pandas, NumPy, and [[Plotly]].
 5. Model Evaluation and Comparison: [[Model Selection]]: It provides an easy way to compare multiple models and their performance metrics in a single function call.
 6. Deployment [[Model Deployment]]: Facilitates the deployment of trained models using tools like Flask, FastAPI, or Microsoft Power BI.
 

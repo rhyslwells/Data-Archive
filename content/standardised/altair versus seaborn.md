@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [data_visualization]
+tags: [visualization]
 ---
 
 ## 1. Declarative vs. Procedural API

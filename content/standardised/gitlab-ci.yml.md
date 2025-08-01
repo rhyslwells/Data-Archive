@@ -1,10 +1,14 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - file_type
 ---
-The purpose of a `gitlab-ci.yml` file is to define and configure the **GitLab CI/CD pipeline** for automating tasks such as building, testing, and deploying your code. It is the core configuration file that GitLab uses to orchestrate and execute CI/CD workflows in a repository.
+The purpose of a `gitlab-ci.yml` file is to define and configure the **GitLab CI/CD pipeline** for automating tasks such as building, [[testing]], and deploying your code. It is the core configuration file that GitLab uses to orchestrate and execute CI/CD workflows in a repository. 
+
+[[Continuous Integration]]
+[[yaml]]
 
 ### Key Purposes:
 
@@ -18,7 +22,7 @@ The purpose of a `gitlab-ci.yml` file is to define and configure the **GitLab CI
 3. **Consistency and Reliability:**
     - Ensures consistent execution of tasks across environments, reducing errors caused by manual intervention.
       
-4. **Integration with GitLab:**
+4. **Integration with [[GitLab]]:**
     - Automatically triggers pipelines in response to events such as code pushes, merge requests, or scheduled runs.
       
 5. **Environment Management:**
@@ -63,7 +67,7 @@ test_job:
 deploy_job:
   stage: deploy          # Assign this job to the 'deploy' stage
   script:                # Commands to execute during this job
-    - echo "Deploying the application" # Example deployment command (replace with actual deployment steps)
+    - echo "Deploying the application" # Example [[Model Deployment|deployment]] command (replace with actual deployment steps)
   only:                  # Specify when this job should run
     - main               # Only run this job for commits to the 'main' branch
 

@@ -35,7 +35,7 @@ Testing Assumptions: It is important to test these assumptions before conducting
   - Visual Inspection: Using plots (e.g., Q-Q plots, residual plots) to visually assess normality and homoscedasticity.
   - [[Statistical Tests]]: Employing tests like the Shapiro-Wilk test for normality or Levene's test for homoscedasticity.
 
-Consequences of Violating Assumptions: Understanding the implications of assumption violations is crucial. For example, violating the assumption of normality can lead to:
+Consequences of Violating Assumptions: Understanding the implications of assumption violations is crucial. For example, violating the [[Assumption of Normality]] can lead to:
   - Increased Type I or Type II error rates.
   - Misleading confidence intervals and p-values.
 

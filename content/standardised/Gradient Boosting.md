@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [ml_optimisation]
+tags: [optimisation]
 ---
 Gradient Boosting is a technique used for building predictive models [[Model Building]], particularly in tasks like regression and classification. It combines the concepts of [[Boosting]] and [[Gradient Descent]] to create strong models by sequentially combining multiple [[Weak Learners]] ([[Decision Tree]]. 
 

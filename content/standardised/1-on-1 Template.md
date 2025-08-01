@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: INDUSTRY
 date modified: 27-07-2025
-tags: []
+tags:
+  - documentation
 ---
 - Decisions
     - [Your name] _add decisions that need to be made_

@@ -2,7 +2,7 @@
 aliases: [explainability, interpretable]
 category:
 date modified: 27-07-2025
-tags: [drafting, model_explainability]
+tags: [drafting, explainability]
 title: Interpretability
 ---
 # Links

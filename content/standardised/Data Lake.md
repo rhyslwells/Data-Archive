@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [data_storage]
+tags: [storage]
 title: What is a Data Lake?
 ---
 A Data Lake is a storage system with vast amounts of [[unstructured data]] and [[structured data]], stored as-is, without a specific purpose in mind, that can be built on multiple technologies such as Hadoop, NoSQL, Amazon Simple Storage Service, a relational database, or various combinations and different formats (e.g. Excel, CSV, Text, Logs, etc.).

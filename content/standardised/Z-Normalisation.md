@@ -1,8 +1,10 @@
 ---
-aliases: []
-category: 
+aliases: 
+category: STATISTICS
 date modified: 27-07-2025
-tags: []
+tags:
+  - transformation
+  - preprocessing
 ---
 https://github.com/rhyslwells/ML_Tools/blob/main/Explorations/Preprocess/Outliers/outliers_z_score.py
 

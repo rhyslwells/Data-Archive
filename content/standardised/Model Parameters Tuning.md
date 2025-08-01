@@ -2,7 +2,7 @@
 aliases: []
 category: ML
 date modified: 27-07-2025
-tags: [ml_optimisation, model_selection]
+tags: [optimisation, selection]
 ---
 To find optimal [[Model Parameters]].
 ## Finding Optimal Model Parameters

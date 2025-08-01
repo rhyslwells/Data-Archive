@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [deep_learning, ml_optimisation, model_architecture]
+tags: [deep_learning, optimisation, architecture]
 ---
 Loss functions are used in training machine learning models. Also known as a [[cost function]], error function, or objective function. Serves as a metric for [[model evaluation]].
 

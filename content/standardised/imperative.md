@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [data_orchestration]
+tags: [orchestration]
 title: What is imperative?
 ---
 An **imperative** pipeline tells ==_how_ to proceed== at each step in a procedural manner. 

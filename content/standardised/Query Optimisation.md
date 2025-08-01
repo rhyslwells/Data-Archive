@@ -3,7 +3,6 @@ aliases:
 category: 
 date modified: 27-07-2025
 tags:
-  - database
   - querying
 ---
  [[Querying]] can be optimised for time, ==space efficiency==, and concurrency of queries.

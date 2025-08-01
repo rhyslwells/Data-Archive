@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [data_management, data_storage]
+tags: [management, storage]
 ---
 Compared to spreadsheets, databases offer:
 

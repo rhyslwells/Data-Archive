@@ -2,7 +2,7 @@
 aliases: [accuracy drift, concept drift, model degradation]
 category:
 date modified: 27-07-2025
-tags: [data_quality, evaluation, model_explainability]
+tags: [data_quality, evaluation, explainability]
 title: Performance Drift in Machine Learning
 ---
 Not [[Data Drift]]

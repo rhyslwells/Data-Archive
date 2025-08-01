@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: ML
 date modified: 27-07-2025
-tags: [deleted, evaluation]
+tags:
+  - evaluation
+  - modeling
 title: 
 type: process
 ---

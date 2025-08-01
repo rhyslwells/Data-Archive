@@ -1,9 +1,11 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: [ml_process, model_algorithm]
-title: 
+tags:
+  - modeling
+  - algorithm
+title:
 ---
  Machine learning [[Algorithms]] are used to automate tasks, extract insights, and make more informed decisions.
 

@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [data_visualization, graph]
+tags: [visualization, graph]
 ---
 PageRank is an algorithm originally developed by Larry Page and Sergey Brin (founders of Google) to rank web pages in search engine results. It measures the relative importance of each node (e.g., webpage) in a directed graph based on the structure of incoming links.
 ### Intuition

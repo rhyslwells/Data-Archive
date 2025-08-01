@@ -2,7 +2,7 @@
 aliases: []
 category: DATA_ANALYSIS
 date modified: 27-07-2025
-tags: [data_exploration, data_transformation]
+tags: [exploration, transformation]
 ---
 A log transformation is a mathematical operation that applies the logarithm function to each value in a dataset. This transformation is commonly used in data analysis and machine learning to address issues such as skewness, reduce the impact of outliers, and stabilize variance across a dataset.
 ### Purpose of Log Transformation

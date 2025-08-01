@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: [software]
+tags:
+  - file_type
 ---
 ### Batch Files in Windows: Capabilities and Use Cases
 

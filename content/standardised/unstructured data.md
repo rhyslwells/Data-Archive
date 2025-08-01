@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [data_modeling, data_storage]
+tags: [modeling, storage]
 title: 
 ---
 >[!Important]

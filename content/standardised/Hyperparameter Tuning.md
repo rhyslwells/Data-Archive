@@ -1,8 +1,10 @@
 ---
-aliases: []
-category: 
+aliases: 
+category: ML
 date modified: 27-07-2025
-tags: []
+tags:
+  - process
+  - optimisation
 ---
 Objective:
 - Tune the model’s hyperparameters to improve performance. For example, in regularized linear regression, the main hyperparameter to tune is the regularization strength (e.g., `alpha` in Ridge or Lasso).
@@ -11,7 +13,7 @@ Objective:
 Optimization Techniques:
 - [[GridSeachCv]]: Exhaustively searches through a specified subset of hyperparameters.
 - Random Search: Randomly samples from the hyperparameter space, often more efficient than grid search.
-- [[standardised/Optuna]]
+- [[Optuna]]
 - [[Regularisation]]: Often part of the hyperparameter tuning process, especially in models prone to overfitting.
 
 Key Considerations

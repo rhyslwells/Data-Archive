@@ -2,7 +2,7 @@
 aliases: []
 category: ML
 date modified: 27-07-2025
-tags: [ml_optimisation, model_selection]
+tags: [optimisation, selection]
 ---
 Optimization functions adjust the [[Model Parameters]] to minimize the [[Loss function]], which measures how well the model performs. This is a fundamental step in training machine learning models.  
 

@@ -1,6 +1,6 @@
 ---
 aliases: 
-category: 
+category: INDUSTRY
 date modified: 27-07-2025
 tags:
   - business
@@ -29,8 +29,8 @@ Foundations for Success:
  - **Trust-building is essential**; people must understand and value the role they play.
 
 Enabling Mechanisms:
- - Cybersecurity as a leading case of resilience in practice.
- - Data & Analytics provide insight into business operations and emerging risks.
+ - Cybersecurity ([[Data Security]]) as a leading case of resilience in practice.
+ - [[Data Analysis]] provide insight into business operations and emerging risks.
  - Resilience supports value retention and efficiency gains through better preparedness.
 
 Strategic View:

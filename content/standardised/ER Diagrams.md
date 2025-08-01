@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: [data_visualization, database, database_design]
+tags:
+  - visualization
+  - database
 ---
 ER Diagrams are a visual representation of the database structure.
 

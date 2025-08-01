@@ -6,7 +6,6 @@ tags: [database]
 ---
 Views are virtual tables defined by SQL [[Querying|Query]] that ==simplify complex data representation.== They can remove unnecessary columns, aggregate results, partition data, and secure sensitive information.
 
-
 In [[DE_Tools]] see:
 https://github.com/rhyslwells/DE_Tools/blob/main/Explorations/SQLite/Viewing/Viewing.ipynb
 
@@ -32,7 +31,7 @@ Related topics:
 2. **Security**:
    - Views restrict access to specific data by granting users access to views instead of underlying tables, which can help protect sensitive information. Note: Access controls may vary by database system (e.g., not available in [[SQLite]]).
 
-3. **Reusability and Maintainability**:
+3. **Reusability and [[Maintainability]]**:
    - Define complex queries once in a view and reuse them across multiple applications, simplifying maintenance when logic changes.
 
 4. **Data Consistency and Integrity**:

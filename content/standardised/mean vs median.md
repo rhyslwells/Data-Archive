@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [data_visualization, statistics]
+tags: [visualization, statistics]
 ---
 The mean represents the arithmetic average, sensitive to [[standardised/Outliers|outliers]], while the median is the middle value, robust to skewed data.  
 

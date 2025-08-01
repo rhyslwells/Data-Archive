@@ -2,7 +2,7 @@
 aliases: []
 category: DATA_ANALYSIS
 date modified: 27-07-2025
-tags: [data_storage]
+tags: [storage]
 ---
 A **Parquet file** is a **columnar storage file format** specifically designed for storing large amounts of data efficiently. It is commonly used in [[Big Data]] ecosystems due to its optimised performance for both storage and querying.
 

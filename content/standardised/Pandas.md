@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: [data_transformation]
+tags:
+  - transformation
+  - python
 type: grouping
 ---
 In [[ML_Tools]] see:
@@ -12,9 +14,5 @@ Areas:
 - [[Handling Missing Data]] 
 - [[Data Selection]]
 - [[Data Transformation]]
-
-
-
-
 
 

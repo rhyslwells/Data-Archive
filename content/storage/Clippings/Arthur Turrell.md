@@ -1,13 +1,12 @@
 ---
-title: "Arthur Turrell"
-source: "https://aeturrell.com/blog/posts/time-series-explosion/?utm_source=substack&utm_medium=email"
+title: Arthur Turrell
+source: https://aeturrell.com/blog/posts/time-series-explosion/?utm_source=substack&utm_medium=email
 author:
   - "[[Arthur Turrell]]"
-published:
+published: 
 created: 2025-02-09
-description: "Arthur Turrell is an economic data scientist."
-tags:
-  - "delete"
+description: Arthur Turrell is an economic data scientist.
+tags: []
 ---
 There have been a series of sometimes jaw-dropping developments in data science in the last few years, with large language models by far the most prominent (and with good reason). But another story has been the huge explosion in time series packages.
 

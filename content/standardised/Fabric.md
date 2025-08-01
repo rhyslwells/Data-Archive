@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: DE
 date modified: 27-07-2025
-tags: [software]
+tags:
+  - cloud
 ---
 Fabric is a unified analytics platform that operates in the cloud, eliminating the need for local installations. It provides an integrated environment for data analysis, similar to how [[Microsoft]] Office serves as a suite for productivity tasks.
 

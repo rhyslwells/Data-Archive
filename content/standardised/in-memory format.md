@@ -3,7 +3,7 @@ aliases:
 category: 
 date modified: 27-07-2025
 tags:
-  - data_storage
+  - storage
   - system
 title: What is an In-Memory Format?
 ---

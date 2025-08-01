@@ -3,7 +3,7 @@ aliases:
 category: DEVOPS
 date modified: 27-07-2025
 tags:
-  - software_architecture
+  - architecture
 ---
 ### Snowflake
 

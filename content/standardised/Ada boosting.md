@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [model_architecture]
+tags: [architecture]
 ---
 Resources:
 [LINK](https://www.youtube.com/watch?v=LsK-xG1cLYA)

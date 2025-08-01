@@ -4,7 +4,7 @@ category: ML
 date modified: 27-07-2025
 tags:
   - evaluation
-  - data_exploration
+  - exploration
 type: process
 ---
 Effective models depend on high-quality, ==informative features==. Feature evaluation helps identify which features contribute meaningfully to model performance and which may be redundant or harmful.

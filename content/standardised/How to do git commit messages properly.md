@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: [123]
+tags:
+  - process
 ---
 ## Structure of a goof [[Git]] Commit Message
 
@@ -45,7 +46,7 @@ tags: [123]
 4. **Refactor Code**  
    ```
    Refactor data fetching logic in the dashboard
-   The data fetching logic was consolidated into a reusable service to improve maintainability and reduce duplication.
+   The data fetching logic was consolidated into a reusable service to improve [[maintainability]] and reduce duplication.
    ```
    
 5. **Add Unit Tests**  
@@ -86,8 +87,6 @@ tags: [123]
    ```
    *The message could be expanded to include more context about why the variable was removed and what impact it had.*
 
----
-
 ### **Tips Expanded**:
 
 - **Be Descriptive**: Commit messages should give a clear understanding of the changes. Describe what was changed, *why* it was changed, and *how* (if necessary).
@@ -95,8 +94,6 @@ tags: [123]
 - **Use Active Voice**: Avoid passive voice. Focus on the subject doing something (`Add`, `Fix`, `Implement`).
 - **Wrap Text Appropriately**: Ensure lines don’t exceed 72 characters for better readability in Git log and discussions.
 - **Be Concise**: Subject lines should be short (preferably under 50 characters), clear, and to the point without unnecessary detail.
-
----
 
 ### **Common Pitfalls** to Avoid:
 

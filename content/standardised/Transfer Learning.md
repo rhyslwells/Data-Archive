@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [model_algorithm]
+tags: [modeling]
 title: 
 ---
 Transfer learning is a technique in machine learning that ==leverages knowledge gained from one setting (source domain) to improve performance on a different but related setting (target domain).== 

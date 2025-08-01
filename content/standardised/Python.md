@@ -1,9 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 created: 2024-06-20 16:38
 date modified: 27-07-2025
-tags: [software]
+tags:
+  - python
 type: language
 ---
 dynamic language

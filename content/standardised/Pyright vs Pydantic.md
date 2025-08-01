@@ -31,6 +31,6 @@ Pyright helps ensure that the code adheres to ==type constraints before executio
    - Both tools provide mechanisms for error reporting, although they do so at different stages (compile-time for Pyright and runtime for Pydantic).
 
 6. **Improving Code Quality**:
-   - Both contribute to overall code quality and maintainability, albeit through different approaches—Pyright through static analysis and Pydantic through runtime validation.
+   - Both contribute to overall code quality and [[Maintainability]], albeit through different approaches—Pyright through static analysis and Pydantic through runtime validation.
 
 

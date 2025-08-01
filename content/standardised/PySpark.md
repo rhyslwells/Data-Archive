@@ -1,9 +1,11 @@
 ---
-aliases: []
-category:
-created:
+aliases: 
+category: 
+created: 
 date modified: 27-07-2025
-tags: ["#data_orchestration", software]
+tags:
+  - "#orchestration"
+  - python
 type: term
 ---
 

@@ -2,7 +2,7 @@
 aliases: [schema, Schema]
 category:
 date modified: 27-07-2025
-tags: [data_modeling, database_structure]
+tags: [modeling, database]
 title: 
 ---
 A [[Database Schema|schema]] is the structure that defines how data is organized in a [[Database]], used in [[Data Management]]. It specifies the tables, columns, relationships, and constraints within the database. The schema is used for ensuring data is stored consistently and can be queried efficiently.

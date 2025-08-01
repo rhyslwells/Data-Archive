@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [evaluation, ml_process, model_explainability]
+tags: [evaluation, process, explainability]
 title: 
 ---
 Feature importance refers to ==techniques that assign scores to input features== (predictors) in a machine learning model to ==indicate their relative impact on the model's predictions.==

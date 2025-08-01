@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - optimisation
 ---
 Used in [[Feature Selection]]. Wrapper methods are powerful because they directly optimize the performance of the machine learning model by selecting the most informative subset of features. 
 

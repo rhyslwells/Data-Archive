@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: STATISTICS
 date modified: 27-07-2025
-tags: []
+tags:
+  - statistics
 ---
 The Z-test is a statistical method used to determine if there is a ==significant difference between the means of two groups or to compare a sample mean to a known population mean when the population [[standard deviation]] is known==. 
 

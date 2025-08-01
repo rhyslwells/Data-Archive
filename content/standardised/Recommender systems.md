@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [evaluation, model_algorithm]
+tags: [evaluation, modeling]
 ---
 Crab on Python
 

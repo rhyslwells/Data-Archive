@@ -6,7 +6,7 @@ tags: [deep_learning]
 ---
 GPU support for [[Deep Learning]] operations.
 ## Example 
-Here is the performance comparison for 1 epoch,
+Here is the performance comparison for 1 [[epoch]],
 
 | Epoch | CPU | GPU  |
 |:------|:------|:------|

@@ -4,7 +4,7 @@ category:
 date modified: 27-07-2025
 tags:
   - math
-  - data_security
+  - security
   - code_snippet
 ---
 Cryptography is the foundation of digital [[Data Security]], enabling privacy and secure communication over the internet.

@@ -2,7 +2,7 @@
 aliases: []
 category: ML
 date modified: 27-07-2025
-tags: [ml_optimisation]
+tags: [optimisation]
 ---
 In machine learning, the terms "loss function" and "cost function" are often used interchangeably, but they can have slightly different meanings depending on the context:
 

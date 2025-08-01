@@ -1,22 +1,23 @@
 ---
-aliases: []
-category:
+aliases: 
+category: ML
 date modified: 27-07-2025
-tags: []
+tags:
+  - anomaly_detection
 ---
 In [[Time Series]]
 
 In [[ML_Tools]] see:
 - [[TS_Anomaly_Detection.py]]
 
-To perform anomaly detection specifically for time series data, you can utilize various techniques that account for the ==temporal nature== of the data. Here are some common methods:
+To perform [[anomaly detection]] specifically for time series data, you can utilize various techniques that account for the ==temporal nature== of the data. Here are some common methods:
 
 1. Statistical Methods:
    - Moving Average: Calculate a moving average and identify points that deviate significantly from this average.
    - Seasonal Decomposition: Decompose the time series into trend, seasonal, and residual components. Anomalies can be identified in the residuals.
 
 2. Time Series Models:
-   - AutoRegressive Integrated Moving Average: Fit an ARIMA model to the time series data and analyze the residuals for anomalies.
+   - AutoRegressive Integrated Moving Average: Fit an [[ARIMA]] model to the time series data and analyze the residuals for anomalies.
    - State Space Model (ETS): Similar to ARIMA, this model can be used to forecast and identify anomalies in the residuals.
 
 3. Machine Learning Approaches:

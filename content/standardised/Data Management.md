@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [data_management, data_quality]
+tags: [management, data_quality]
 title: 
 ---
 Data management involves overseeing processes to maintain data integrity and quality. It includes:

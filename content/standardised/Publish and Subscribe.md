@@ -1,8 +1,10 @@
 ---
-aliases: []
+aliases: 
 category: 
 date modified: 27-07-2025
-tags: [data_streaming, event_driven]
+tags:
+  - devops
+  - orchestration
 ---
 The **Publish-Subscribe (Pub-Sub) model** is a messaging pattern that enables real-time data distribution by decoupling message producers from consumers. This architecture is widely used in [[data streaming]], [[Event-Driven Architecture]], and [[Distributed Computing]].
 

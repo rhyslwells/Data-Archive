@@ -1,10 +1,14 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: [data_modeling]
+tags:
+  - modeling
+  - documentation
 ---
+Universal modeling language.
 
+Sometimes diagrams are good enough.
 
 https://www.drawio.com/
 

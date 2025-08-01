@@ -1,9 +1,10 @@
 ---
-aliases: []
+aliases: 
 category: DEVOPS
 date modified: 27-07-2025
-tags: [data_storage, software]
-title: 
+tags:
+  - cloud
+title:
 ---
 Comparison between **[[Databricks]]** and **[[Snowflake]]**:
 

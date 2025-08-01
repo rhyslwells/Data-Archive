@@ -1,14 +1,18 @@
 ---
-aliases: []
-category:
+aliases: 
+category: DEVOPS
 date modified: 27-07-2025
-tags: []
+tags:
+  - orchestration
+  - governance
 ---
 what happens in prod, pre prod.
 
-monitoring web frontend.
+monitoring web [[frontend]].
 
 how is infrastructure working in prod
+
+observability
 
 Datadog
 

@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [data_modeling]
+tags: [modeling]
 title: 
 ---
 Dimensions are the categorical buckets that can be used to segment, filter, or group—such as sales amount region, city, product, color, and distribution channel. 

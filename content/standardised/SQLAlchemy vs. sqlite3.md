@@ -90,4 +90,4 @@ The choice between [[SQLAlchemy]] and [[SQLite]] depends on your specific needs.
 ### Final Recommendation
 
 - For simple SQLite-based projects: Use `sqlite3` (faster, simpler).
-- For larger applications needing scalability and maintainability: Use `SQLAlchemy`.
+- For larger applications needing scalability and [[Maintainability]]: Use `SQLAlchemy`.

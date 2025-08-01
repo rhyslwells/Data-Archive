@@ -1,13 +1,15 @@
 ---
-aliases: [S3]
-category:
+aliases:
+  - S3
+category: DEVOPS
 date modified: 27-07-2025
-tags: []
+tags:
+  - cloud
+  - storage
 ---
-# Amazon S3
 ## Amazon S3 buckets (onedrive essentially)
 
-Amazon Simple Storage Service (S3) is a versatile ==object storage solution== known for its scalability, data availability, security, and performance.
+Amazon Simple Storage Service (S3) is a versatile ==object storage solution== known for its [[scalability]], data availability, security, and performance.
 
 Stands for Simple Storage Service.
 
@@ -26,7 +28,7 @@ It's an object storage service, allowing you to upload and store various types o
 
 1. **Creating a Bucket**: Start by navigating to the AWS Management Console and selecting S3. Create a bucket with a unique name and choose the region closest to your application.
 2. **Uploading a File**: Once the bucket is created, upload a file using the console. You can add metadata and set permissions as needed.
-3. **Exploring Settings**: Dive into bucket settings to configure options like versioning, logging, encryption, and lifecycle management. Block public access to ensure data security.
+3. **Exploring Settings**: Dive into bucket settings to configure options like versioning, logging, encryption, and lifecycle management. Block public access to ensure [[data security]].
 
 **Additional Features**
 

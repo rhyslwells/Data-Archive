@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [data_cleaning, data_transformation, portal]
+tags: [cleaning, transformation, portal]
 title: 
 type: term
 ---

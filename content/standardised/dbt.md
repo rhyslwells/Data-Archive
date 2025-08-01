@@ -1,9 +1,12 @@
 ---
-aliases: [data build tool]
-category:
+aliases:
+  - data build tool
+category: 
 date modified: 27-07-2025
-tags: [data_tools, data_transformation, software]
-title: 
+tags:
+  - tool
+  - transformation
+title:
 ---
 Data build tool is an open-source framework designed for [[Data Transformation]] within a modern data stack. 
 

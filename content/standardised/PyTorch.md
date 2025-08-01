@@ -1,9 +1,12 @@
 ---
-aliases: [PyTorch]
+aliases:
+  - PyTorch
 category: ML
 date modified: 27-07-2025
-tags: [deep_learning, software]
-title: 
+tags:
+  - deep_learning
+  - python
+title:
 ---
 [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/) want for [[PyTorch]]
 
@@ -191,7 +194,7 @@ optimizer = optim.SGD(model.parameters(), lr=0.01) # stochastic gradient descent
 
 # Training loop
 for epoch in range(100):
-    # Forward pass #- **Forward pass**: For each epoch, the model makes predictions (`y_pred`) by passing the input `x` through the linear model.
+    # Forward pass #- **Forward pass**: For each [[epoch]], the model makes predictions (`y_pred`) by passing the input `x` through the linear model.
     y_pred = model(x)
     loss = criterion(y_pred, y)# - **Loss calculation**: The loss is computed by comparing `y_pred` with the true values `y` using the MSE loss function.
 

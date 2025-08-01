@@ -1,10 +1,11 @@
 ---
-aliases: []
-category:
+aliases: 
+category: DATA_ANALYSIS
 date modified: 27-07-2025
-tags: []
+tags:
+  - analysis
 ---
-What is it? Usually done with a [[Data Analyst]].After processing, data is analyzed to extract meaningful insights and derive value from the data.
+Usually done with a [[Data Analyst]]. After processing, data is analyzed to extract meaningful insights and derive value from the data.
 ### Types of analysis:
 
 Exploration and understanding:

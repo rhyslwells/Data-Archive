@@ -3,7 +3,7 @@ aliases:
 category: INDUSTRY
 date modified: 27-07-2025
 tags:
-  - data_governance
+  - governance
   - GenAI
 ---
 AI governance refers to the frameworks, policies, and standards that ensure the responsible development and use of artificial intelligence.

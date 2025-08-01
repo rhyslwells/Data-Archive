@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases:
+  - CD
+category: DEVOPS
 date modified: 27-07-2025
-tags: []
+tags:
 ---
 Continuous Delivery
    - Ensures that code changes are automatically prepared for a release to production.
@@ -12,6 +13,7 @@ Continuous Deployment:
    - Extends continuous delivery by automating the deployment process.
    - Every change that passes the automated tests is deployed to production automatically.
 
-[[Model Deployment]]
-
 A continuous integration and continuous deployment (CI/CD) pipeline is **a series of steps that must be performed in order to deliver a new version of software**
+
+[[Continuous Integration|CI]]
+[[Model Deployment]]

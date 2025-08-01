@@ -1,10 +1,10 @@
 ---
-aliases: []
-category: 
+aliases: 
+category: DE
 date modified: 27-07-2025
-tags: []
+tags:
+  - security
 ---
-
 ### Bot Detection and MFA
 
 - Bot detectors analyze user behavior (e.g., rapid typing, unusual navigation patterns).

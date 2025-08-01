@@ -2,7 +2,7 @@
 aliases: [Entity Recognition, NER]
 category: LANG
 date modified: 27-07-2025
-tags: [model_algorithm, NLP]
+tags: [modeling, NLP]
 title: Technical Analysis of Named Entity Recognition  
 ---
 Named Entity Recognition (NER) is a subtask of [[NLP|Natural Language Processing]] (NLP) that involves identifying and classifying key entities in text into predefined categories such as names, organizations, locations.

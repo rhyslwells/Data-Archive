@@ -1,9 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: DE
 date modified: 27-07-2025
-tags: [data_integration, data_transformation]
-title: 
+tags:
+  - transformation
+title:
 ---
 **ELT** (Extract, Load, Transform) is a data integration approach that involves three main steps:
 
@@ -25,8 +26,3 @@ Historically, ETL was preferred for reasons that are now less relevant:
 - **Cost Savings**: ETL was believed to save costs by filtering out unwanted data before loading. However, this is less significant with modern cloud solutions.
   
 - **Complexity Management**: ETL minimizes the complexity of post-loading transformations. Yet, contemporary tools like [[dbt]] simplify this process, making it easier to perform transformations after loading.
-
-
-
-[[ELT]]
-   **Tags**:,

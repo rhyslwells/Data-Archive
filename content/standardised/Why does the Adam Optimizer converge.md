@@ -1,23 +1,24 @@
 ---
-aliases: []
-category:
+aliases: 
+category: ML
 date modified: 27-07-2025
-tags: []
+tags:
+  - optimisation
 ---
-### Why the Adam Optimizer Converges
+### Why the [[Adam Optimizer]] Converges
 
-The Adam optimizer is able to efficiently handle sparse gradients and adaptively adjust learning rates. The convergence of Adam, often observed as a flattening of the cost function, can be attributed to several factors inherent to its design and the characteristics of the dataset being used.
+The Adam optimizer is able to efficiently handle sparse gradients and adaptively adjust learning rates. The convergence of Adam, often observed as a flattening of the [[cost function]], can be attributed to several factors inherent to its design and the characteristics of the dataset being used.
 
 The convergence of the Adam optimizer, resulting in a stable cost value, is a product of its adaptive learning rate, regularization effects, numerical stability mechanisms, and the dataset's characteristics. 
 #### 1. Convergence to Local Minimum or Saddle Point
 
-**Adaptive Learning Rate:** Adam adjusts the learning rate for each parameter individually, allowing it to quickly converge towards a local minimum or saddle point. This adaptability helps in navigating complex cost landscapes but may also cause the optimizer to plateau at a local minimum rather than reaching the global minimum. This plateauing effect can result in a stable final cost value, such as 0.146.
+**Adaptive [[Learning Rate]]:** Adam adjusts the learning rate for each parameter individually, allowing it to quickly converge towards a local minimum or saddle point. This adaptability helps in navigating complex cost landscapes but may also cause the optimizer to plateau at a local minimum rather than reaching the global minimum. This plateauing effect can result in a stable final cost value, such as 0.146.
 
 **Gradient Behaviour:** As Adam converges, the gradients often become small or near zero, slowing down the learning process and leading to a flattened cost curve.
 
 #### 2. Learning Rate
 
-**Impact of Learning Rate (\(\alpha\)):** The choice of learning rate significantly influences convergence speed. A larger learning rate might cause overshooting, while a smaller one might lead to slow convergence. Common values like 0.001, 0.005, 0.01, and 0.1 are used to balance these effects.
+**Impact of Learning Rate (\(\alpha\)):** The choice of learning rate significantly influences convergence speed. A larger [[learning rate]] might cause overshooting, while a smaller one might lead to slow convergence. Common values like 0.001, 0.005, 0.01, and 0.1 are used to balance these effects.
 
 **Stability in Suboptimal Regions:** If the learning rate is not optimal, Adam might get stuck in a suboptimal region, such as a local minimum or saddle point, resulting in a stable cost value.
 

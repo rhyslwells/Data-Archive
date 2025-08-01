@@ -290,7 +290,7 @@ category:
 - Key concepts in NLP include [[Feature Preprocessing]], which involves {{normalization of text}} and [[Part of Speech Tagging]].
 - The [[Bag of Words]] model represents text data by counting the {{occurrence of each word}} in a document.
 - [[TF-IDF]] stands for {{Term Frequency-Inverse Document Frequency}} and improves on Bag of Words by considering the importance of a word in a document relative to its frequency across multiple documents.
-- [[One Hot Encoding]] converts categorical data into a {{binary vector representation}}.
+- [[One-hot encoding]] converts categorical data into a {{binary vector representation}}.
 
 ### [[nltk]]
 - NLTK (Natural Language Toolkit) is a Python library for working with {{human language data}}. It provides tools for text processing, linguistic analysis, and building natural language processing ([[NLP]]) models.

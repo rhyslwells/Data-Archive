@@ -2,7 +2,7 @@
 aliases: [high variance models, model overfitting]
 category:
 date modified: 27-07-2025
-tags: [model_architecture]
+tags: [architecture]
 title: Overfitting in Machine Learning
 ---
 

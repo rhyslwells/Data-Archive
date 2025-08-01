@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - orchestration
 ---
 If you’re working with a streaming dataset ([[Data Streaming]]), why might [[batch processing]] not be suitable, and what alternatives would you consider?  
 

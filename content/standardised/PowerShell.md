@@ -2,7 +2,11 @@
 aliases: []
 category: DE
 date modified: 27-07-2025
-tags: [software]
+tags:
+  - software
+  - system
+created: 2024-06-22 21:06
+type:
 ---
 PowerShell is a task automation and configuration management framework developed by Microsoft, consisting of a [[Command Line]] shell and an associated scripting language. It is designed to automate system administration tasks across local and remote Windows systems and, with PowerShell Core (now known as PowerShell 7+), across macOS and Linux as well.
 
@@ -76,3 +80,26 @@ PowerShell can interact with multiple script formats and scripting environments:
 
 To Do:
 - [ ]  Explore the uses of [[PowerShell]]: see [[Powershell scripts]]
+
+https://www.youtube.com/watch?v=18hUejOK0qk
+
+```cmd
+prompt $g
+```
+
+### powershell
+```powershell
+$profile
+
+microsfot_Powershell_profile have
+
+function prompt{
+$p = -path
+"$p> "
+}
+```
+
+getting the script working 
+
+https://stackoverflow.com/questions/41117421/ps1-cannot-be-loaded-because-running-scripts-is-disabled-on-this-system
+

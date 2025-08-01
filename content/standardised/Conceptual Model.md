@@ -1,14 +1,13 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - communication
 ---
 Conceptual Model
    - Entities: Customer, Order, Book
    - Relationships: Customers place Orders, Orders include Books
-
-
 
 Conceptual Model
    - Focuses on high-level business requirements.

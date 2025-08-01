@@ -19,7 +19,7 @@ Natural Language Processing (NLP) involves the interaction between computers and
 - **Vectorization**: Converting text into numerical vectors. Techniques like Bag of Words, TF-IDF, or [[standardised/Vector Embedding]] (e.g., Word2Vec, GloVe) are used to represent text data numerically.
 
 ### Analysis
-- **[[One Hot Encoding]]**: Converts categorical data into a binary vector representation, indicating the presence or absence of a word from a list in the given text.
+- **[[One-hot encoding]]**: Converts categorical data into a binary vector representation, indicating the presence or absence of a word from a list in the given text.
 
 ### Methods
 - **[[Ngrams]]**: Creates tokens from groupings of words, not just single words. Useful for capturing context and meaning in text data.

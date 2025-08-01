@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [data_transformation, ml, preprocessing]
+tags: [transformation, ml, preprocessing]
 title: 
 ---
 Feature extraction is the process of transforming raw data into a structured set of informative features that are most relevant to a machine learning task. This process enhances both model performance and efficiency by simplifying input data and focusing on its most meaningful attributes.

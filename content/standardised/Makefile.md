@@ -1,8 +1,9 @@
 ---
-aliases: []
+aliases: 
 category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - file_type
 ---
 A Makefile is a special file used by the `make` build automation tool to manage the build process of a project. It defines a set of tasks to be executed, typically to compile and link a program. Here are some key functions of a Makefile:
 

@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [data_modeling, database]
+tags: [modeling, database]
 title: What is Granularity
 ---
 Definition of Grain in [[Dimensional Modelling]]

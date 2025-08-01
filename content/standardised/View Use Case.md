@@ -66,7 +66,7 @@ This query retrieves all employees with an average performance score of 4.0 or h
 
 2. **Reusability**: The view can be reused for different reports, such as quarterly reviews or department-specific performance assessments.
 
-3. **Maintainability**: If the logic for calculating performance scores changes, the HR team only needs to update the view definition, not every individual query.
+3. **[[Maintainability]]**: If the logic for calculating performance scores changes, the HR team only needs to update the view definition, not every individual query.
 
 4. **Data Consistency**: All reports generated from the view will be consistent, as they rely on the same underlying logic for calculating average scores.
 

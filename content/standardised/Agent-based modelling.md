@@ -1,9 +1,11 @@
 ---
-aliases: [ABM]
-category:
+aliases:
+  - ABM
+category: ML
 date modified: 27-07-2025
-tags: [reinforcement_learning]
-title: 
+tags:
+  - modeling
+title:
 ---
 (ABM) is a computational approach that simulates the interactions of individual agents within a defined environment to observe complex phenomena and [[emergent behavior]] at a system level. 
 

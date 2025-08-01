@@ -1,8 +1,9 @@
 ---
-aliases: []
-category: 
+aliases: 
+category: STATISTICS
 date modified: 27-07-2025
-tags: [statistics]
+tags:
+  - statistics
 ---
 Z-scores standardize a value relative to a distribution by measuring how many standard deviations it is from the mean. This is useful for [[standardised/Outliers|Outliers]] and [[Normalisation]].
 

@@ -18,7 +18,7 @@ By leveraging Justfile, users can automate repetitive tasks, thereby reducing th
  An example of using Justfile could be defining a command to automate the deployment process of an application, allowing users to execute a single command instead of multiple steps.
 
 ### Follow up questions
- - How does the use of Justfile compare to traditional Makefile in terms of flexibility and ease of use?
+ - How does the use of Justfile compare to traditional [[Makefile]] in terms of flexibility and ease of use?
  - What are the potential security implications of using command runners like Justfile in production environments?
 ### Related Topics
  - Automation in software development  

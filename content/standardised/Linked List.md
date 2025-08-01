@@ -1,34 +1,34 @@
 ---
 aliases: 
-category: 
+category: DS
 date modified: 27-07-2025
 tags:
   - data_structure
   - code_snippet
 ---
-A **linked list** is a linear data structure in which elements (called **nodes**) are linked together using pointers. Unlike arrays, linked lists do not store elements in contiguous memory locations; instead, each node contains:
+A linked list is a linear data structure in which elements (called nodes) are linked together using pointers. Unlike arrays, linked lists do not store elements in contiguous [[memory]] locations; instead, each node contains:
 
-1. **Data** – The actual value stored in the node.
-2. **Pointer (or Reference)** – A reference to the next node in the sequence.
+1. Data – The actual value stored in the node.
+2. Pointer (or Reference) – A reference to the next node in the sequence.
 
 ### Types of Linked Lists:
 
-1. **Singly Linked List** – Each node has a pointer to the next node only.
-2. **Doubly Linked List** – Each node has pointers to both the previous and next nodes.
-3. **Circular Linked List** – The last node points back to the first node, forming a circular structure.
-    - Circular **singly** linked list: Last node points to the first node.
-    - Circular **doubly** linked list: Last node points to the first node, and first node points back to the last.
+1. Singly Linked List – Each node has a pointer to the next node only.
+2. Doubly Linked List – Each node has pointers to both the previous and next nodes.
+3. Circular Linked List – The last node points back to the first node, forming a circular structure.
+    - Circular singly linked list: Last node points to the first node.
+    - Circular doubly linked list: Last node points to the first node, and first node points back to the last.
 
 ### Advantages of Linked Lists:
 
-- **Dynamic size** – Unlike arrays, they do not have a fixed size.
-- **Efficient insertions/deletions** – Adding or removing elements does not require shifting (unlike arrays).
-- **Efficient memory utilization** – Memory is allocated as needed.
+- Dynamic size – Unlike arrays, they do not have a fixed size.
+- Efficient insertions/deletions – Adding or removing elements does not require shifting (unlike arrays).
+- Efficient memory utilization – Memory is allocated as needed.
 
 ### Disadvantages of Linked Lists:
 
-- **Extra memory usage** – Each node requires additional storage for pointers.
-- **Slower access time** – No direct access like arrays; traversal is required.
+- Extra memory usage – Each node requires additional storage for pointers.
+- Slower access time – No direct access like arrays; traversal is required.
 
 ```python
 class Node:

@@ -1,10 +1,18 @@
 ---
-aliases: [Data Preprocessing, Feature Preprocessing, Preprocess]
-category:
+aliases:
+  - Data Preprocessing
+  - Feature Preprocessing
+  - Preprocess
+category: 
 date modified: 27-07-2025
-tags: ["#ml_optimisation", data_cleaning, data_collection, data_transformation, portal]
+tags:
+  - "#optimisation"
+  - cleaning
+  - transformation
+  - portal
+  - preprocessing
 title: 
-type: 
+type:
 ---
 ### Data Preprocessing
 

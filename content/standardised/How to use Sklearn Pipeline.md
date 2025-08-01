@@ -1,7 +1,10 @@
 ---
-aliases: []
+aliases: 
 category: ML
 date modified: 27-07-2025
-tags: ["#question"]
-title: 
+tags:
+  - "#question"
+  - python
+title:
 ---
+[[Scikit-Learn]]

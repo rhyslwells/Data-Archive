@@ -2,7 +2,7 @@
 aliases: []
 category:
 date modified: 27-07-2025
-tags: [data_cleaning]
+tags: [cleaning]
 title: What is MapReduce?
 ---
 MapReduce is a programming model and processing technique used for processing and generating large data sets with a parallel, distributed algorithm on a cluster. [[Distributed Computing]]

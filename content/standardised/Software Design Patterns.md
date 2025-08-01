@@ -4,7 +4,7 @@ category: DE
 date modified: 27-07-2025
 tags:
   - software
-  - software_architecture
+  - architecture
   - communication
 ---
 [10 Design Patterns Explained in 10 Minutes](https://www.youtube.com/watch?v=tv-_1er1mWI)

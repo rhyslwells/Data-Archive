@@ -1,11 +1,11 @@
 ---
-aliases: []
-category:
+aliases: 
+category: DE
 date modified: 27-07-2025
-tags: []
+tags:
+  - transformation
+  - analysis
 ---
-Aggregation
-
 Summarizing data for analysis ([[Pandas Pivot Table]] and [[Groupby]]).
 
 In [[DE_Tools]] see:

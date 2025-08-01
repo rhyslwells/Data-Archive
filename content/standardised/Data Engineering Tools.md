@@ -3,8 +3,8 @@ aliases:
 category: DE
 date modified: 27-07-2025
 tags:
-  - data_management
-  - data_tools
+  - management
+  - tool
 ---
 
   - [[Snowflake]]: [[Cloud]]-based data warehousing for scalable storage and processing.
@@ -20,7 +20,7 @@ tags:
 - Google Pub/Sub: A messaging service that allows for asynchronous communication between applications, supporting real-time data ingestion.
 
 [[Data Storage]]
-Tools: Amazon S3, Google BigQuery, Snowflake.
+Tools: Amazon [[Amazon S3|S3]], Google BigQuery, Snowflake.
 
 [[dbt]]
 

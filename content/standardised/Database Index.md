@@ -2,7 +2,7 @@
 aliases: [Index, Indexing]
 category: DE
 date modified: 27-07-2025
-tags: [database_optimisation, database_structure]
+tags: [optimisation, database]
 ---
 In [[DE_Tools]] see: 
 - https://github.com/rhyslwells/DE_Tools/blob/main/Explorations/SQLite/Indexing/Indexing.ipynb

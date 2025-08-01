@@ -3,8 +3,7 @@ aliases:
 category: DS
 date modified: 27-07-2025
 tags:
-  - data_cleaning
-  - data_processing
+  - cleaning
   - preprocessing
 title:
 ---

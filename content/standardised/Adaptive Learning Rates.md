@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: ML
 date modified: 27-07-2025
-tags: []
+tags:
+  - learning
+  - modeling
 ---
  [[Adam Optimizer]]
 

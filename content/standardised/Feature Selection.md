@@ -3,10 +3,11 @@ aliases:
 category: ML
 date modified: 27-07-2025
 tags:
-  - ml_process
-  - data_modeling
-  - model_explainability
+  - process
+  - modeling
+  - explainability
   - evaluation
+  - selection
 ---
 Feature selection is to identify and retain the most relevant features for model training while ==removing irrelevant or redundant ones==. This helps in simplifying the model, reducing overfitting, and improving computational efficiency.
 

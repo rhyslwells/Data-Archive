@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: [data_transformation, data_transformation]
+tags:
+  - transformation
+  - selection
 ---
 Data selection is a crucial part of data manipulation and analysis. Pandas provides several methods to select data from a DataFrame.
 

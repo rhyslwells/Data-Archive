@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - file_type
 ---
 JSON is preferred over Pickle when dealing with untrusted data, as it minimizes [[Data Security]] risks and offers better interoperability and readability.
 

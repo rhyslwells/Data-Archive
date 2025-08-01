@@ -3,8 +3,6 @@ aliases:
 category: DE
 date modified: 27-07-2025
 tags:
-  - ml_process
-  - software
   - system
 ---
 ## What Is Multiprocessing?

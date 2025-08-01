@@ -6,7 +6,7 @@ tags: [statistics]
 ---
 The Central Limit Theorem states that the distribution of the sum (or average) of a large number of independent, identically distributed random variables approaches a normal distribution, regardless of the original distribution.
 
-[[Why is the Central Limit Theorem important when working with small sample sizes]]
+[[Central Limit Theorem & Small Sample Sizes]]
 
 ### Key Points
 

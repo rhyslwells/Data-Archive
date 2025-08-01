@@ -4,7 +4,7 @@ category: LANG
 date modified: 27-07-2025
 tags:
   - evaluation
-  - ml_optimisation
+  - optimisation
   - NLP
 ---
 Mem0 White paper: Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory
