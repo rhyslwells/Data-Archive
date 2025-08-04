@@ -1,7 +1,7 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [evaluation]
 ---
 **Precision Score** is a metric used to evaluate the [[Accuracy]] of a [[Classification]] model, specifically focusing on the positive class.

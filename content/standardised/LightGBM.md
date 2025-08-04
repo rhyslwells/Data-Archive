@@ -1,7 +1,7 @@
 ---
 aliases: [LGBM]
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [optimisation]
 ---
 LightGBM is a gradient boosting framework that is designed for speed and efficiency. It is particularly well-suited for handling large datasets and high-dimensional data.

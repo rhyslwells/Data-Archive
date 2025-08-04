@@ -1,7 +1,7 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: []
 ---
 PyCaret is an open-source, low-code Python library designed to simplify machine learning workflows. 
@@ -31,10 +31,10 @@ In [[ML_Tools]] see:
     - Clustering: `pycaret.clustering`
     - Anomaly Detection: `pycaret.anomaly`
     - NLP: `pycaret.nlp`
-    - Time Series Forecasting: `pycaret.time_series`
+    - [[Time Series Forecasting]]: `pycaret.time_series`
 3. Automated Machine Learning (AutoML): PyCaret automates data preprocessing, feature engineering, model selection, and [[hyperparameter tuning]].
 4. Integration: PyCaret integrates well with other Python libraries, such as Pandas, NumPy, and [[Plotly]].
-5. Model Evaluation and Comparison: [[Model Selection]]: It provides an easy way to compare multiple models and their performance metrics in a single function call.
+5. [[Model Evaluation]] and Comparison: [[Model Selection]]: It provides an easy way to compare multiple models and their performance metrics in a single function call.
 6. Deployment [[Model Deployment]]: Facilitates the deployment of trained models using tools like Flask, FastAPI, or Microsoft Power BI.
 
 ### Notes

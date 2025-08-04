@@ -1,9 +1,8 @@
 ---
 aliases: []
 category: INDUSTRY
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [energy]
-title: 
 ---
 Areas of interest:
 - [[Smart Grids]]

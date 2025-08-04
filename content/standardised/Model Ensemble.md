@@ -1,10 +1,10 @@
 ---
 aliases: 
 category: ML
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags:
   - architecture
-title:
+  - modeling
 ---
 Ensemble models in machine learning are techniques that ==combine the predictions of multiple individual models== to improve overall performance. Ensemble methods can achieve better accuracy and robustness than any single model alone. 
 

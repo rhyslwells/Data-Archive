@@ -1,9 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
-tags: [orchestration, orchestration, software]
-title: What is Apache Airflow?
+date modified: 1-08-2025
+tags: [orchestration, software]
 ---
 Schedular think CROM jobs with python.
 

@@ -1,7 +1,7 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [architecture]
 ---
 # Overview:
@@ -12,7 +12,7 @@ It works by ==training multiple instances of the same learning algorithm on diff
 
 ### How Bagging Works:
 
-1. **Bootstrap Sampling**: Bagging involves creating multiple subsets of the training data by sampling with replacement. This means that each subset, or "bootstrap sample," is drawn randomly from the original dataset, and some data points may appear multiple times in a subset while others may not appear at all.
+1. **[[Bootstrap Sampling]]**: Bagging involves creating multiple subsets of the training data by [[sampling]] with replacement. This means that each subset, or "bootstrap sample," is drawn randomly from the original dataset, and some data points may appear multiple times in a subset while others may not appear at all.
 
 2. **Parallel Training**: Each bootstrap sample is used to train a separate instance of the same base learning algorithm. These models are trained independently and in parallel, which makes bagging computationally efficient.
 

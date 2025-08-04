@@ -1,7 +1,7 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [database]
 ---
 Views are virtual tables defined by SQL [[Querying|Query]] that ==simplify complex data representation.== They can remove unnecessary columns, aggregate results, partition data, and secure sensitive information.

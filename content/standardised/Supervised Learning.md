@@ -1,9 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [field]
-title: 
 ---
 Supervised learning is a type of machine learning where an algorithm learns from **==labeled data==** to make predictions or decisions. 
 

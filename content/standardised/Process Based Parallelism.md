@@ -1,9 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: DS
-date modified: 27-07-2025
-tags:
-  - system
+date modified: 1-08-2025
+tags: [system]
 ---
 ## What Is Process-Based Parallelism?
 

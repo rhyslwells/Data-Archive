@@ -1,9 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [database]
-title: What is Schema Evolution?
 ---
 [[Database Schema|Schema]] Evolution means adding new columns without breaking anything or even enlarging some types. 
 

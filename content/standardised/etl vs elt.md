@@ -1,9 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [transformation]
-title: ETL vs. ELT
 ---
 [ETL](ETL.md) (Extract, Transform, and Load) and [ELT](term/elt.md) (Extract, Load, and Transform) are two paradigms for moving data from one system to another.
 

@@ -1,9 +1,8 @@
 ---
 aliases: []
 category: INDUSTRY
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [anomaly_detection, deep_learning, energy, time_series]
-title: 
 ---
 
 For energy data problems, many interpretable machine learning algorithms can be applied in place of or alongside RNNs. These models offer transparency, making it easier to understand the relationships between features and predictions, which is critical in areas like energy management, where interpretability can be as important as accuracy.
@@ -29,7 +28,7 @@ For each of the energy data questions that RNNs might solve, interpretable alter
    - Why: These algorithms can provide insights into the key weather conditions driving renewable energy generation and give transparent predictions for decision-making.
 ### 3. Energy Price Forecasting
    - Algorithms:
-     - ARIMA (AutoRegressive Integrated Moving Average): A traditional time series forecasting method that models linear relationships in energy prices over time.
+     - ARIMA (AutoRegressive Integrated Moving Average): A traditional [[time series forecasting]] method that models linear relationships in energy prices over time.
      - Linear Regression: Can model the impact of factors like demand, supply, and historical prices in an interpretable way.
      - Decision Trees: Easy to interpret and can show thresholds where prices change based on inputs like demand or fuel costs.
      - XGBoost: Provides interpretability through SHAP values or feature importance, explaining which market factors (e.g., demand, fuel prices) drive price changes.

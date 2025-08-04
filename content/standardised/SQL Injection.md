@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - SQL
 ---
 SQL injection is a code injection technique that targets applications using SQL databases. It occurs when a malicious user injects harmful SQL code into a query executing unintended commands, potentially compromising the [[Data Security]] of the database. 
 

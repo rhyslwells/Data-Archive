@@ -1,9 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: LANG
-date modified: 27-07-2025
-tags:
-  - tool
+date modified: 1-08-2025
+tags: [tool]
 ---
 
 https://www.youtube.com/watch?v=EOmgC3-hznM

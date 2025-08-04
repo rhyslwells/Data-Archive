@@ -1,8 +1,9 @@
 ---
-aliases: []
-category: 
+aliases: 
+category: DS
 date modified: 27-07-2025
-tags: []
+tags:
+  - time_series
 ---
 With [[Time Series]] dataset we often want to predict future terms. These are methods to do so.
 
@@ -16,6 +17,5 @@ Resources:
 
 ### Machine Learning Methods
 
-[[XGBoost]]
-
-[[LightGBM]]
+- [[XGBoost]]
+- [[LightGBM]]

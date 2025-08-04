@@ -1,8 +1,9 @@
 ---
-aliases: []
-category: 
+aliases: 
+category: DEVOPS
 date modified: 27-07-2025
-tags: []
+tags:
+  - blank
 ---
 ### **`@patch` (from `unittest.mock`) Explanation**
 
@@ -27,7 +28,6 @@ Copy code
 - Speeds up testing by mocking expensive operations.
 - Allows control over return values and side effects.
 
----
 
 ### **Your Case:**
 

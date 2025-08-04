@@ -1,9 +1,8 @@
 ---
 aliases: []
 category: 
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [code_snippet, evaluation]
-title: 
 ---
 These metrics provide various ways to evaluate the performance of regression models.
 ### Evaluating Regression Models

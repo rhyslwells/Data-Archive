@@ -1,10 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - python
-  - data_structure
+date modified: 1-08-2025
+tags: [data_structure, python]
 ---
 #### Why use generators for processing large data? 
 

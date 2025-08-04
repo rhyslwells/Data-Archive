@@ -15,7 +15,7 @@ tags: []
 
 Math on words: Turn words into coordinates.
 Statistics on words: Given context what is the probability of whats next.
-Vectors on words. Cosine similarity
+Vectors on words. [[Cosine similarity]]
 How train: Use [[Markov chain]] for prediction of the next [[Tokenisation]]
 
 

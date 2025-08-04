@@ -1,9 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [business, GenAI]
-title: 
 ---
 
 Reducing the need for frequent [[Generative AI]] (Gen AI) responses can be done by leveraging techniques such as [[caching]] and setting up predefined [[transactional journeys]]. Here's a breakdown:

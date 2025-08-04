@@ -37,7 +37,7 @@ The covariance structure describes:
 ### Why Covariance Structure Is Important
 
 1. In [[Statistics]]:
-    - It is crucial for multivariate statistical methods like principal component analysis ([[Principal Component Analysis|PCA]]), factor analysis, and regression.
+    - It is crucial for multivariate statistical methods like principal component analysis ([[Principal Component Analysis|PCA]]), [[factor analysis]], and regression.
     - Helps in understanding how features interact and in reducing dimensionality.
 
 2. In Machine Learning:

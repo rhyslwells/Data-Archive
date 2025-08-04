@@ -1,10 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - software
-  - communication
+date modified: 1-08-2025
+tags: [communication, software]
 ---
 Jupytext is a tool that lets you convert between Jupyter Notebooks (`.[[ipynb]]`) and plain text formats like:
 * [[Python]] scripts (`.py`)

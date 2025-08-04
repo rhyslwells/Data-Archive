@@ -1,7 +1,8 @@
 ---
-aliases: []
-category: 
+aliases: 
+category: DS
 date modified: 27-07-2025
-tags: []
+tags:
+  - visualization
 ---
 Use hue for a 3rd (discrete or continuous) variable in 2d plots.

@@ -1,8 +1,8 @@
 ---
 aliases: []
 category: 
-date modified: 27-07-2025
-tags: [management, database]
+date modified: 1-08-2025
+tags: [database, management]
 ---
 - [ ] Explore by using a small dataset. What can you do with it, difference from [[SQLite]]
 #### Installation

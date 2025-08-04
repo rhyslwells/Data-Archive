@@ -1,9 +1,10 @@
 ---
 aliases: 
-category: 
-date modified: 27-07-2025
+category: DE
+date modified: 1-08-2025
 tags:
   - querying
+  - optimisation
 ---
  [[Querying]] can be optimised for time, ==space efficiency==, and concurrency of queries.
  
@@ -28,11 +29,4 @@ Trade-offs when using indexes
 
 ### To remove redundancy use [[Transaction|Transactions]]
 
-### Vacuum
-
-SQLite's "VACUUM" command reclaims unused space after data deletion, reducing database size.
-
-
-
-[[Query Optimisation]]
-   **Tags**:,
+[[Vacuum]]

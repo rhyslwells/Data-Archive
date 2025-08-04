@@ -1,9 +1,8 @@
 ---
 aliases: []
 category: LANG
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: ["#question"]
-title: 
 ---
 **transformer-based models** that address mathematical reasoning either through pretraining, hybrid systems, or fine-tuning on specific mathematical tasks
 

@@ -1,9 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - documentation
+date modified: 1-08-2025
+tags: [documentation]
 ---
 Cleaning a dataset before creating an [[ER Diagrams]] is crucial for ensuring accuracy and reliability in your database design
 

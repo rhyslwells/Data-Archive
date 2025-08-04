@@ -1,7 +1,7 @@
 ---
 aliases: []
 category: ML
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [optimisation, selection]
 ---
 To find optimal [[Model Parameters]].

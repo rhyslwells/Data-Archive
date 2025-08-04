@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - business
 ---
 A data team is a specialized group within an organization responsible for managing, analyzing, and leveraging data to drive business decisions and strategies. 
 

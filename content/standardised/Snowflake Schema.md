@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: DE
 date modified: 27-07-2025
-tags: []
+tags:
+  - database
+  - orchestration
 ---
 Snowflake Schema
    - Description: A more [[Normalised Schema]] normalized form of a star schema where dimension tables are further broken down into additional tables.

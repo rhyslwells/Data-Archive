@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - devops
+  - system
 ---
 Solution 1: Set Environment Variables Permanently (Recommended)
 This ensures that environment variables persist across sessions.

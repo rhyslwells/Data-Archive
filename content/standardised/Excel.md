@@ -1,11 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - software
-  - business
-  - file_type
+date modified: 1-08-2025
+tags: [business, file_type, software]
 ---
 Data Modeling and Integration
 * Power Pivot: Enables creation of advanced data models and supports large datasets with fast calculations using DAX.

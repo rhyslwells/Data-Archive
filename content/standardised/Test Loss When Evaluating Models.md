@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
-date modified: 27-07-2025
-tags: []
+aliases: 
+category: ML
+date modified: 1-08-2025
+tags:
+  - evaluation
 ---
 Test loss is used for [[Model Evaluation]] to assess how well a model generalizes to unseen data, which is essential for evaluating its performance in real-world applications.
 

@@ -1,7 +1,7 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [statistics]
 ---
 
@@ -16,7 +16,7 @@ Characteristics:
   - Risk of underfitting if the model assumptions do not align well with the data.
 
   Examples: 
-  - Linear [[regression]], [[logistic regression]], neural networks (with a fixed architecture).
+  - Linear [[Regression]], [[logistic regression]], neural networks (with a fixed architecture).
 
 ### Non-parametric Models [[non-parametric]] Models
 

@@ -1,11 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: DE
-date modified: 27-07-2025
-tags:
-  - governance
-  - data_quality
-  - portal
+date modified: 1-08-2025
+tags: [data_quality, governance, portal]
 ---
 Data principles are essential for ensuring that data is managed, used, and maintained effectively and ethically.
 

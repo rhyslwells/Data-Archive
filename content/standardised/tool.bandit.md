@@ -1,8 +1,11 @@
 ---
-aliases: []
-category:
+aliases: 
+category: DEVOPS
 date modified: 27-07-2025
-tags: []
+tags:
+  - security
+  - python
+  - documentation
 ---
 # Bandit: A Security Linter for Python
 

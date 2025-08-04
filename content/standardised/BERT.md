@@ -1,9 +1,8 @@
 ---
 aliases: []
 category: LANG
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [deep_learning, language_models, NLP]
-title: 
 ---
 ### Overview
 * [[BERT]] (Bidirectional Encoder Representations from [[Transformer]]) is a [[transformer]]-based model developed by [[Google]] in 2018 (transformers are often better than traditional [[NLP]] methods.

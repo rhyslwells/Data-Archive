@@ -1,8 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
-tags: [management, data_quality]
+date modified: 1-08-2025
+tags: [data_quality, management]
 ---
 Data integrity refers to the 
 - accuracy, 

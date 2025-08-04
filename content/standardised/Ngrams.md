@@ -1,9 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: []
-title: 
 ---
 N-grams are used in NLP that allow for the analysis of text data by breaking it down into smaller, manageable sequences. 
 

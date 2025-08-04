@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - security
+  - algorithm
 ---
 A checksum is a value calculated from a data set that is used to verify the integrity of that data. It acts as a fingerprint for the data, allowing systems to detect errors or alterations that may occur during storage, processing, or transmission.
 

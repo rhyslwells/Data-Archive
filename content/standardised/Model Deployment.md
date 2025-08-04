@@ -1,10 +1,8 @@
 ---
-aliases:
-  - Deployment
+aliases: [Deployment]
 category: 
-date modified: 27-07-2025
-tags:
-  - architecture
+date modified: 1-08-2025
+tags: [architecture]
 ---
 Deploying a machine learning model involves moving it from a development environment to a production environment where it can make predictions on new data.
 

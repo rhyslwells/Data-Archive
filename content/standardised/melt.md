@@ -1,10 +1,9 @@
 ---
-aliases: 
+aliases: []
 category: DATA_ANALYSIS
 created: 2024-06-21 15:32
-date modified: 27-07-2025
-tags:
-  - transformation
+date modified: 1-08-2025
+tags: [transformation]
 type:
 ---
 In pandas, the `melt` function is used to ==transform ([[Data Transformation]]) a DataFrame from a wide format to a long format==. This is especially useful for data analysis and visualization tasks where long-format data is preferred or required. The wide format typically has multiple columns for different variables, whereas the long format has a single column for variable names and a single column for values. 

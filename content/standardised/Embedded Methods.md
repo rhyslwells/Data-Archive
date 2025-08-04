@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
-date modified: 27-07-2025
-tags: []
+aliases: 
+category: 
+date modified: 1-08-2025
+tags:
+  - selection
 ---
 Embedded methods for [[Feature Selection]] ==integrate [[feature selection]] directly into the model training process.==
 

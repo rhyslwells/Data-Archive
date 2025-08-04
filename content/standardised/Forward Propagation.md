@@ -1,15 +1,14 @@
 ---
 aliases: [feedforward pass, forward pass]
 category: DS
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [deep_learning, statistics]
-title: Forward Propagation in Neural Networks
 ---
 
 >[!Summary]  
 > Forward propagation is the process by which input data moves through a neural network, layer by layer, to produce an output. During this process, each layer’s weights and biases are applied to the input data, and an activation function is used to transform the data at each layer. 
 > 
-> Mathematically, for each layer, the input $x$ is transformed into an output $y$ through the equation $y = f(Wx + b)$, where $W$ represents the weights, $b$ is the bias, and $f$ is the activation function (e.g., ReLU, sigmoid). The output from one layer becomes the input to the next, and this continues until the final layer produces the predicted output. 
+> Mathematically, for each layer, the input $x$ is transformed into an output $y$ through the equation $y = f(Wx + b)$, where $W$ represents the weights, $b$ is the bias, and $f$ is the activation function (e.g., [[ReLU]], sigmoid). The output from one layer becomes the input to the next, and this continues until the final layer produces the predicted output. 
 > 
 > This process does not involve learning; it only ==computes the prediction based on current weights.==
 

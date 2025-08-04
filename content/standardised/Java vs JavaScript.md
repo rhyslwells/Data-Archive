@@ -1,10 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: CS
-date modified: 27-07-2025
-tags:
-  - software
-title:
+date modified: 1-08-2025
+tags: [software]
 ---
 ### Difference Between [[Java]] and [[JavaScript]]
 

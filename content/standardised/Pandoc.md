@@ -1,8 +1,6 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - tool
-  - documentation
+date modified: 1-08-2025
+tags: [documentation, tool]
 ---

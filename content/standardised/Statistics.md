@@ -18,7 +18,7 @@ Portal for all statistics notes:
 
 [[Statistical Assumptions]]
 
-[[Type 1 error and Power]]
+[[Type I Error (False Positive)]]
 
 [[Distributions]]
 
@@ -53,7 +53,7 @@ Portal for all statistics notes:
 
 [[Casual Inference]]
 
-[[Bootstrap]]
+[[Bootstrap Sampling]]
 
 [[Adaptive decision analysis]]: interrupting the experiment in the middle
 
@@ -61,7 +61,7 @@ Estimation Problems: using data to estimate model parameters
 - [[Maximum Likelihood Estimation]]
 - [[Expectation Maximisation Algorithm]]
 
-[[Likelihood ratio]]: [[Type 1 error and Power]] UMP test. used to maximise power. [[T-test]] is a consequence of this.
+[[Likelihood ratio]]: [[Type I Error (False Positive)]] UMP test. used to maximise power. [[T-test]] is a consequence of this.
 
 [[Estimator]]
 

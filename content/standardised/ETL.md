@@ -1,10 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: DE
-date modified: 27-07-2025
-tags:
-  - transformation
-title: What is ETL?
+date modified: 1-08-2025
+tags: [transformation]
 ---
 **ETL** (Extract, Transform, Load) is a data integration process that involves moving data from one system to another. It consists of three main stages:
 

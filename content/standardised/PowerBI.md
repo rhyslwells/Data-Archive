@@ -1,8 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
-tags: [visualization, software]
+date modified: 1-08-2025
+tags: [software, visualization]
 ---
 
 [tutorial](https://www.youtube.com/watch?v=TmhQCQr_DCA)

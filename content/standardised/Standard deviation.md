@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: STATISTICS
 date modified: 27-07-2025
-tags: []
+tags:
+  - math
+  - communication
 ---
 Standard deviation is a statistical measure that quantifies the amount of variation or dispersion in a set of data values. It indicates how much individual data points deviate from the mean (average) of the dataset.
 

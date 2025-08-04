@@ -1,7 +1,7 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [business, learning]
 ---
 The Gartner Hype Cycle is a [[conceptual model]] represent the typical progression of new technologies and innovations through five key phases of public attention and adoption.

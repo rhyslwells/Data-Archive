@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: STATISTICS
 date modified: 27-07-2025
-tags: []
+tags:
+  - statistics
 ---
 Variance in a dataset is a statistical measure that represents the degree of spread or dispersion of the data points around the mean (average) of the dataset. 
 

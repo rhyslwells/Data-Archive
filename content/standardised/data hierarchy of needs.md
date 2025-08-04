@@ -1,9 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [management]
-title: The Data Hierarchy of Needs
 ---
 The Data Hierarchy of Needs is a framework that outlines the stages required to effectively use data in organizations. It resembles Maslow’s hierarchy, progressing from basic data needs to advanced capabilities:
 

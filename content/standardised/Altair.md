@@ -1,12 +1,12 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [visualization]
 ---
 ## What Is Altair?
 
-Altair provides a [[declarative]] interface where you specify *what* you want to visualize (e.g. variables, encodings, transformations), and the library handles *how* to render it.
+Altair provides a [[Declarative Data Pipeline]] interface where you specify *what* you want to visualize (e.g. variables, encodings, transformations), and the library handles *how* to render it.
 
 It is powered by Vega-Lite, a JavaScript-based visualization grammar, and outputs charts as HTML/[[JSON]] that can be embedded in Jupyter notebooks, web apps, and dashboards.
 

@@ -1,8 +1,11 @@
 ---
-aliases: []
+aliases: 
 category: LANG
 date modified: 27-07-2025
-tags: []
+tags:
+  - NLP
+  - devops
+  - architecture
 ---
 In this mechanism, the model applies attention to itself. This means each word in the input sequence attends to all other words in the sequence, including itself. Self-attention is used in models like [[Transformer]] to capture dependencies within a sentence.
 

@@ -1,7 +1,7 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [architecture, explainability]
 ---
 Boosting is a type of [[Model Ensemble]] in machine learning that focuses on improving the accuracy of predictions by building a ==sequence of models==. Each subsequent model focuses on correcting the errors made by the previous ones.

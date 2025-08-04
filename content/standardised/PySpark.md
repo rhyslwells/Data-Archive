@@ -1,11 +1,9 @@
 ---
-aliases: 
+aliases: []
 category: 
 created: 
-date modified: 27-07-2025
-tags:
-  - "#orchestration"
-  - python
+date modified: 1-08-2025
+tags: ["#orchestration", python]
 type: term
 ---
 

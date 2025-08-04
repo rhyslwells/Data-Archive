@@ -1,9 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [classifier, regressor]
-title: 
 ---
 ==Logistic regression models the log-odds of the probability as a linear function of the input features.==
 

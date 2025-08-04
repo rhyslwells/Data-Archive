@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 28-07-2025
-tags: []
+tags:
+  - statistics
 ---
 #### Root Mean Squared Error
    - Definition: RMSE is the square root of MSE, providing an error metric in the same units as the target variable.

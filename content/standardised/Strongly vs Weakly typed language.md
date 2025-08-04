@@ -1,9 +1,9 @@
 ---
 aliases: 
 category: CS
-date modified: 27-07-2025
-tags: 
-title:
+date modified: 1-08-2025
+tags:
+  - software
 ---
 A **strongly typed** programming language is one where ==types== are strictly enforced. This means that once a variable is assigned a type, it cannot be implicitly converted to another type without an explicit conversion. The goal is to ==minimize errors related to incorrect type handling,== as the compiler or interpreter will detect type mismatches early in the development process.
 

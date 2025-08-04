@@ -1,9 +1,8 @@
 ---
 aliases: [data_management]
 category: DE
-date modified: 27-07-2025
-tags: [storage, database]
-title: 
+date modified: 1-08-2025
+tags: [database, storage]
 ---
 Data storage is a fundamental aspect of [[Data Engineering]], influencing processes such as 
 - (occurring after [[Data Ingestion]])

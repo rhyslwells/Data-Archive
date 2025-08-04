@@ -1,10 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - NLP
-  - python
+date modified: 1-08-2025
+tags: [NLP, python]
 ---
 FAISS (Facebook AI [[Similarity Search]]) is a library developed by Facebook AI Research that enables efficient [[similarity search]] and [[clustering]] of dense vectors. It is especially well-suited for applications involving high-dimensional vector data, such as [[NLP]]
 ### Core Concept

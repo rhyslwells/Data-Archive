@@ -1,9 +1,8 @@
 ---
 aliases: []
 category: LANG
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [deep_learning, NLP]
-title:
 ---
 Multi-head attention extends the standard [[attention mechanism]] by enabling the model to attend to different parts of an input sequence simultaneously, capturing diverse relationships-both local and global.
 

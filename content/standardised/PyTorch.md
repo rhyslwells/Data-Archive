@@ -1,12 +1,8 @@
 ---
-aliases:
-  - PyTorch
+aliases: [PyTorch]
 category: ML
-date modified: 27-07-2025
-tags:
-  - deep_learning
-  - python
-title:
+date modified: 1-08-2025
+tags: [deep_learning, python]
 ---
 [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/) want for [[PyTorch]]
 

@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - statistics
 ---
 [[Covariance]] provides a basic measure of how two variables move together, correlation offers a more [[interpretability]] and standardized way to understand their relationship.
 
@@ -15,7 +16,7 @@ Formula:
    $$
    r = \frac{\text{Cov}(X, Y)}{\sigma_X \sigma_Y}
    $$
-   where $\sigma_X$ and $\sigma_Y$ are the standard deviations of $X$and $Y $, respectively. This formula shows that correlation is essentially the covariance normalized by the product of the standard deviations of the two variables.
+   where $\sigma_X$ and $\sigma_Y$ are the standard deviations of $X$ and $Y$, respectively. This formula shows that correlation is essentially the covariance normalized by the product of the standard deviations of the two variables.
 
 Interpretation:
    - While covariance can indicate the direction of the relationship (positive or negative), it does not provide information about the strength of that relationship. 

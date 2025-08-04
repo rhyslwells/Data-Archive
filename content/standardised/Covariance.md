@@ -1,7 +1,7 @@
 ---
 aliases: []
 category: STATISTICS
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [analysis, statistics]
 ---
 
@@ -27,3 +27,6 @@ where:
 Covariance is used in:
 - in the calculation of [[correlation]] coefficients 
 - and in multivariate statistics, such as in [[Gaussian Mixture Models]] where it helps describe the shape and orientation of the data distribution.
+
+Related:
+- [[Covariance vs Correlation]]

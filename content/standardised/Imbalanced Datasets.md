@@ -1,8 +1,8 @@
 ---
 aliases: [Class Imbalance]
 category:
-date modified: 27-07-2025
-tags: [cleaning, exploration, data_quality]
+date modified: 1-08-2025
+tags: [cleaning, data_quality, exploration]
 ---
 Handling imbalanced datasets to ensure robustness of models is a common challenge in machine learning, particularly in classification tasks where one class significantly outnumbers the other(s). 
 

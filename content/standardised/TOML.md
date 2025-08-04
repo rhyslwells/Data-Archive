@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: DEVOPS
 date modified: 27-07-2025
-tags: []
+tags:
+  - file_type
+  - documentation
 ---
 A `.toml` file is a configuration file format that stands for "Tom's Obvious, Minimal Language." 
 

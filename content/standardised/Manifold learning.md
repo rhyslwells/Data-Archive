@@ -1,10 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: ML
-date modified: 27-07-2025
-tags:
-  - exploration
-title:
+date modified: 1-08-2025
+tags: [exploration]
 ---
 **Manifold learning** is a powerful approach for high-dimensional data exploration, focusing on uncovering the lower-dimensional manifold that the data resides on. These algorithms aim to identify and map the underlying low-dimensional structure, or **manifold**, that the data is assumed to lie on, within the high-dimensional space. This is particularly useful for reducing dimensionality while preserving the intrinsic properties of the data.
 

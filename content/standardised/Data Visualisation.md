@@ -1,7 +1,7 @@
 ---
 aliases: []
 category: 
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [analysis]
 ---
 Data visualization involves presenting data in a visual format, enabling stakeholders to quickly grasp insights and make informed decisions. Effective visualization tools include dashboards and reports.
@@ -14,5 +14,4 @@ Can generate reports using:
 Types of plots:
 - [[Scatter Plots]]
 - [[Boxplot]]
-- 
 

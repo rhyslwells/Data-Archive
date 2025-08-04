@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
-date modified: 27-07-2025
-tags: []
+aliases: 
+category: 
+date modified: 1-08-2025
+tags:
+  - ml
+  - optimisation
 ---
 The concept of a Cost Function is central to [[Model Optimisation]], particularly in training models.
 

@@ -1,9 +1,8 @@
 ---
 aliases: [embedding, word embedding]
 category: ML
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [language_models, math]
-title:
 ---
 Vector Embedding is a technique used in machine learning and [[NLP]] to represent data in a continuous vector space. This representation captures the [[Semantic Relationships]] of data, such as words or sentences, allowing similar items to be positioned close to each other in the vector space.
 ### Key Concepts

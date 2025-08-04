@@ -1,10 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: ML
-date modified: 27-07-2025
-tags:
-  - optimisation
-  - math
+date modified: 1-08-2025
+tags: [math, optimisation]
 ---
 https://developers.google.com/optimization/examples
 

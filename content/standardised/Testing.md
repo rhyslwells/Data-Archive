@@ -1,8 +1,10 @@
 ---
-aliases: []
-category: 
+aliases: 
+category: DEVOPS
 date modified: 27-07-2025
-tags: []
+tags:
+  - python
+  - software
 ---
 Testing in coding projects refers to the systematic process of evaluating software to ensure it meets specified requirements and functions correctly. It enhances software robustness, reduces maintenance costs, and improves user satisfaction.
 

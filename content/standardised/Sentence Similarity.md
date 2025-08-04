@@ -18,7 +18,7 @@ There are several methods to measure sentence similarity:
 
 3. **Semantic Similarity**: This goes beyond surface-level word matching to understand the meaning of sentences:
    - **Word Embeddings** ([[Vector Embedding]]): Using models like [[Word2Vec]], GloVe, or FastText to represent words in a continuous vector space, then averaging these vectors to represent sentences.
-   - **Sentence Embeddings**: Using models like Universal Sentence Encoder, BERT, or Sentence-[[BERT]] to directly obtain embeddings for entire sentences, which can then be compared using cosine similarity or other distance metrics.
+   - **Sentence Embeddings**: Using models like Universal Sentence Encoder, BERT, or Sentence-[[BERT]] to directly obtain embeddings for entire sentences, which can then be compared using [[cosine similarity]] or other distance metrics.
 
 4. **Neural Network Models**: Advanced models like BERT, RoBERTa, or GPT can be fine-tuned on specific tasks to directly predict similarity scores between sentence pairs.
 

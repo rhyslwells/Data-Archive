@@ -1,11 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: LANG
-date modified: 27-07-2025
-tags:
-  - evaluation
-  - optimisation
-  - NLP
+date modified: 1-08-2025
+tags: [evaluation, NLP, optimisation]
 ---
 Mem0 White paper: Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory
 
@@ -80,7 +77,7 @@ Notes:
 
 - How many API requests are required to create/update and later retrieve memories?
     
-- For Mem0, how does inference/retrieval work when answering a question? Does it fetch top similar memories (e.g., top 10 using cosine similarity with OpenAI embeddings)?
+- For Mem0, how does inference/retrieval work when answering a question? Does it fetch top similar memories (e.g., top 10 using [[cosine similarity]] with OpenAI embeddings)?
     
 - With mem0, can you configure the number of historical messages retrieved when generating new facts?
     

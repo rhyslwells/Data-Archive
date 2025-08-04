@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: LANG
 date modified: 27-07-2025
-tags: []
+tags:
+  - language_models
 ---
 Syntactic relationships refer to the structural connections between words or phrases in a sentence, focusing on grammar and the arrangement of words. They determine how words combine to form phrases, clauses, and sentences, following the rules of syntax.
 

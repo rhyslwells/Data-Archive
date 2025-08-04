@@ -1,9 +1,8 @@
 ---
 aliases: []
 category: PM
-date modified: 27-07-2025
-tags:
-  - portal
+date modified: 1-08-2025
+tags: [portal]
 ---
 How to manage clients and get jobs done.
 

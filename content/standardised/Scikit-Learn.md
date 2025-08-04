@@ -1,15 +1,16 @@
 ---
-aliases: []
+aliases:
+  - sklearn
 category: ML
 date modified: 27-07-2025
-tags: [analysis]
-type: 
+tags:
+  - analysis
+type:
 ---
 ### Examples
 
 https://scikit-learn.org/stable/auto_examples/applications/index.html
 
-### [[Scikit-Learn]]
 
 **Focus**: 
   Sci-kit Learn is a simple and efficient tool for data mining and data analysis, built on NumPy, SciPy, and matplotlib. It is primarily used for traditional machine learning techniques such as classification, regression, clustering, and dimensionality reduction.

@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases:
+  - L1
+category: 
 date modified: 27-07-2025
-tags: [drafting]
+tags:
+  - drafting
 ---
 
 1. **L1 Regularization (Lasso Regression)**:
@@ -33,4 +35,4 @@ In L1 regularization, a penalty term proportional to the absolute value of the w
 - Encourages sparsity by ==driving some coefficients to exactly zero.==
 - Useful for [[Feature Selection]] , as it tends to eliminate less important features by setting their corresponding coefficients to zero.
 - Can result in a sparse model with fewer features retained.
--  Lasso regression adds a penalty term to the loss function proportional to the absolute value of the coefficients of the features. This encourages sparsity in the coefficient vector, effectively setting some coefficients to zero and performing feature selection.
+- Lasso regression adds a penalty term to the loss function proportional to the absolute value of the coefficients of the features. This encourages sparsity in the coefficient vector, effectively setting some coefficients to zero and performing feature selection.

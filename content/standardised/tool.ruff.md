@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: DEVOPS
 date modified: 27-07-2025
-tags: []
+tags:
+  - security
 ---
 Ruff is a fast [[Python]] linter and code formatter.
 

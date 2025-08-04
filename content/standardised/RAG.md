@@ -1,10 +1,9 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 resources: https://www.youtube.com/watch?v=T-D1OfcDW1M
 tags: [language_models]
-title: 
 ---
 Rag is a framework the help [[LLM]] be more up to date.
 

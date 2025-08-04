@@ -1,11 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - documentation
-  - software
-  - tool
+date modified: 1-08-2025
+tags: [documentation, software, tool]
 ---
 
 `nbconvert` is a powerful command-line tool for converting Jupyter notebooks into other formats such as HTML, PDF, Markdown, LaTeX, slides, and more. It supports exporting, cleaning, and customizing output, making it ideal for documentation, presentations, and reporting.

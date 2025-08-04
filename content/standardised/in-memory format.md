@@ -1,11 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - storage
-  - system
-title: What is an In-Memory Format?
+date modified: 1-08-2025
+tags: [storage, system]
 ---
 The term "in-memory format" refers to the way data is stored and managed directly in a ==computer's RAM== ([[Random Access Memory]]) rather than on disk storage like a hard drive or SSD. This approach is used to optimize performance, as accessing data in RAM is significantly faster than accessing data on disk.
 

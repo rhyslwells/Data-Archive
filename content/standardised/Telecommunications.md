@@ -1,9 +1,9 @@
 ---
-aliases: []
+aliases: 
 category: INDUSTRY
-date modified: 27-07-2025
-tags: []
-title: 
+date modified: 1-08-2025
+tags:
+  - career
 ---
 Network Optimization
 

@@ -1,8 +1,11 @@
 ---
 aliases: 
 category: ML
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags:
+  - GenAI
+  - ml
+  - language_models
 ---
 Training smaller models with larger.
 

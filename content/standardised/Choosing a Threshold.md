@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: DS
 date modified: 27-07-2025
-tags: []
+tags:
+  - evaluation
+  - ml
 ---
 The optimal threshold depends on the specific problem and the desired trade-off between different types of errors:
 

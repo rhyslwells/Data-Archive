@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - statistics
+  - analysis
 ---
 What is the meaning of [[Correlation]] does not imply causation?
 

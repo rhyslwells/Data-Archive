@@ -1,11 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: STATISTICS
-date modified: 27-07-2025
-tags:
-  - math
-  - statistics
-title:
+date modified: 1-08-2025
+tags: [math, statistics]
 ---
 The terms [[Odds]] and [[Probability]] are related but distinct concepts used to describe the likelihood of events.
 

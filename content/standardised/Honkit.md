@@ -1,9 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: DE
-date modified: 27-07-2025
-tags:
-  - tool
+date modified: 1-08-2025
+tags: [tool]
 ---
 https://honkit.netlify.app/examples
 

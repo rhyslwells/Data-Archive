@@ -1,9 +1,8 @@
 ---
 aliases: [Data Activation, Operational Analytics]
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [transformation]
-title: What is Reverse ETL?
 ---
 Reverse [[ETL]] is the flip side of the [ETL](ETL.md)/[ELT](term/elt.md). **With Reverse ETL, the data warehouse becomes the source rather than the destination**. Data is taken from the warehouse, transformed to match the destination's data formatting requirements, and loaded into an application – for example, a CRM like Salesforce – to enable action.
 

@@ -1,9 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
-tags: [business, analysis, management]
-title: What is a Data Product?
+date modified: 1-08-2025
+tags: [analysis, business, management]
 ---
 A data product is
 

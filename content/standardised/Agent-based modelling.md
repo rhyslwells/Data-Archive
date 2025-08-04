@@ -1,11 +1,8 @@
 ---
-aliases:
-  - ABM
+aliases: [ABM]
 category: ML
-date modified: 27-07-2025
-tags:
-  - modeling
-title:
+date modified: 1-08-2025
+tags: [modeling]
 ---
 (ABM) is a computational approach that simulates the interactions of individual agents within a defined environment to observe complex phenomena and [[emergent behavior]] at a system level. 
 

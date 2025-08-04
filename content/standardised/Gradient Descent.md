@@ -1,9 +1,8 @@
 ---
 aliases: [GD]
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [optimisation]
-title: 
 ---
 Gradient descent is an [[Optimisation function]] used to minimize errors in a model by adjusting its parameters iteratively. It works by moving in the direction of the steepest decrease of the [[Loss function]].
 
@@ -53,7 +52,7 @@ $\theta = \theta - \alpha \nabla_{\theta} \text{Cost}(\theta)$
 Where:
 - $\theta$ are the parameters (intercept and coefficients).
 - $\alpha$ is the learning rate (step size for updates).
-- $\nabla_{\theta} \text{Cost}(\theta)$ is the gradient of the [[cost function]] with respect to the parameters $\theta$.
+- $\nabla_{\theta} \text{Cost}(\theta)$ is the gradient of the [[Cost Function]] with respect to the parameters $\theta$.
 
 #### Process:
 

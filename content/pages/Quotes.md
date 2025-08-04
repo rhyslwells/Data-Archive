@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 1-08-2025
+tags: []
+---
 ### Burn Out
 
 > "The modern man thinks that everything ought to be done for the sake of something else, and never for its own sake.

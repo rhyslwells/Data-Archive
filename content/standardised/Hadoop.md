@@ -1,9 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [software]
-title: 
 ---
    Hadoop provides the backbone for distributed storage and computation. It uses HDFS (Hadoop Distributed File System) to split large datasets across clusters of servers, while MapReduce enables parallel processing. It’s well-suited for [[Batch Processing]]asks, though newer tools like [[Apache Spark|Spark]] often outperform Hadoop in terms of speed and ease of use.
 

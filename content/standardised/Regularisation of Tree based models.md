@@ -1,11 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - evaluation
-  - optimisation
-  - explainability
+date modified: 1-08-2025
+tags: [evaluation, explainability, optimisation]
 ---
 Tree models, such as Random Forests and Gradient Boosting, can also be regularized, although they don’t use L1 or L2 regularization directly. Instead, they are regularized through hyperparameters like max depth, min samples split, and learning rate to control the complexity of the trees.
 
@@ -22,7 +19,7 @@ These hyperparameters restrict the growth of the tree, preventing it from becomi
 For [[Model Ensemble]] methods like Random Forests and Gradient Boosting, additional regularization techniques like 
 
 - subsampling, 
-- bootstrap sampling, 
+- [[bootstrap sampling]], 
 - and learning rate control
 
 to help prevent overfitting. These techniques effectively restrict the model complexity, leading to better generalization .

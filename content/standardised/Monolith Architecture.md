@@ -1,7 +1,7 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [architecture]
 ---
 A monolith, in the context of [[software architecture]], refers to a ==single, unified application where all components and functionalities are interconnected and interdependent==. In a monolithic architecture, the entire application is typically built as a ==single codebase==, and all functions and modules are tightly coupled.

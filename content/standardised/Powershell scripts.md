@@ -1,9 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - system
+date modified: 1-08-2025
+tags: [system]
 ---
 You can save that [[PowerShell]] command as a `.ps1` ([[ps1]]) script file and run it on Windows using PowerShell.
 ## Example

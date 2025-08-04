@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: ML
 date modified: 27-07-2025
-tags: []
+tags:
+  - math
 ---
 Variability in linear models
 
@@ -12,7 +13,7 @@ $$SSE = \sum_{i=1}^{N} (y_i - \hat{y}_i)^2$$
 
 where $N$ is the number of observations, $y_i$ is the actual value of the dependent variable for observation $i$, and $\hat{y}_i$ is the predicted value based on the linear regression model.
 
-The formula for the Regression Sum of Squares (SSR) in the context of linear regression is:
+The formula for the Regression Sum of Squares (SSR) in the context of [[Linear Regression]] is:
 
 $$SSR = \sum_{i=1}^{N} (\hat{y}_i - \bar{y})^2 $$
 

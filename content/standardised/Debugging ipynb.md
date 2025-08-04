@@ -1,9 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: DS
-date modified: 27-07-2025
-tags:
-  - exploration
+date modified: 1-08-2025
+tags: [exploration]
 ---
 [[debugging]] jupyter cells
 

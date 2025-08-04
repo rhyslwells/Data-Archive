@@ -1,10 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: DEVOPS
-date modified: 27-07-2025
-tags:
-  - documentation
-  - communication
+date modified: 1-08-2025
+tags: [communication, documentation]
 ---
 Class Diagrams
 - Show the hierarchy and relationships of classes. See: [[Classes]] (Object-Oriented).

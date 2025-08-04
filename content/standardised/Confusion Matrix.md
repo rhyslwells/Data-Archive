@@ -1,9 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [evaluation]
-title: 
 ---
 A Confusion Matrix is a table used to evaluate the performance of a [[Classification]] model. It provides a detailed breakdown of the model's predictions across different classes, showing the number of true positives, true negatives, false positives, and false negatives.
 ## Purpose

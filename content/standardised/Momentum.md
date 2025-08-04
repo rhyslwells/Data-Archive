@@ -1,11 +1,10 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - optimisation
+date modified: 1-08-2025
+tags: [optimisation]
 ---
-Momentum is an [[Model Optimisation|Optimisation]] technique used to accelerate the [[Gradient Descent]] algorithm by incorporating the concept of inertia. It helps in reducing oscillations and speeding up convergence, especially in scenarios where the [[cost function]] has a complex landscape (surface). Momentum helps in dampening oscillations and achieving faster convergence. Momentum is a technique that helps accelerate gradient descent by adding a fraction of the previous update to the current update. Formula:
+Momentum is an [[Model Optimisation|Optimisation]] technique used to accelerate the [[Gradient Descent]] algorithm by incorporating the concept of inertia. It helps in reducing oscillations and speeding up convergence, especially in scenarios where the [[Cost Function]] has a complex landscape (surface). Momentum helps in dampening oscillations and achieving faster convergence. Momentum is a technique that helps accelerate gradient descent by adding a fraction of the previous update to the current update. Formula:
   $$
   v_{t+1} = \beta v_t + (1 - \beta) \nabla_{\theta} J(\theta)
   $$

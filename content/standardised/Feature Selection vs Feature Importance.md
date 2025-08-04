@@ -1,7 +1,7 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: []
 ---
 - [[Feature Selection]] is about choosing which features to include in the model ==before training==, aiming to improve model performance and efficiency.

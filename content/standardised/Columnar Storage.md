@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - storage
 ---
 A database storage technique that stores ==data by columns== rather than rows, 
 

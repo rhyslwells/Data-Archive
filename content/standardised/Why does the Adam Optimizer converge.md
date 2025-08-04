@@ -1,13 +1,12 @@
 ---
-aliases: 
+aliases: []
 category: ML
-date modified: 27-07-2025
-tags:
-  - optimisation
+date modified: 1-08-2025
+tags: [optimisation]
 ---
 ### Why the [[Adam Optimizer]] Converges
 
-The Adam optimizer is able to efficiently handle sparse gradients and adaptively adjust learning rates. The convergence of Adam, often observed as a flattening of the [[cost function]], can be attributed to several factors inherent to its design and the characteristics of the dataset being used.
+The Adam optimizer is able to efficiently handle sparse gradients and adaptively adjust learning rates. The convergence of Adam, often observed as a flattening of the [[Cost Function]], can be attributed to several factors inherent to its design and the characteristics of the dataset being used.
 
 The convergence of the Adam optimizer, resulting in a stable cost value, is a product of its adaptive learning rate, regularization effects, numerical stability mechanisms, and the dataset's characteristics. 
 #### 1. Convergence to Local Minimum or Saddle Point

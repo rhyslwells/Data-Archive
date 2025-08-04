@@ -23,17 +23,17 @@ Welcome to the Data Archive, an archive of data-related concepts inspired by the
 | --------------------------------------------- |
 | #cleaning #transformation                     |
 
-| Focus: managing, securing, and validating data across systems      |
-| ------------------------------------------------------------------ |
-| #governance #management #data_quality<br>#security  |
+| Focus: managing, securing, and validating data across systems |
+| ------------------------------------------------------------- |
+| #governance #management #data_quality<br>#security            |
 
-| Focus: designing and optimizing data systems and databases                                         |
-| ------------------------------------------------------------------------------------------------------ |
-| #database #database #database<br>#optimisation #storage #modeling |
+| Focus: designing and optimizing data systems and databases |
+| ---------------------------------------------------------- |
+| #database #optimisation <br>#storage #modeling #SQL        |
 
-| Focus: orchestration, architecture, streaming        |
-| ---------------------------------------------------- |
-| #devops #orchestration #cloud<br>#database #querying |
+| Focus: orchestration, architecture, streaming                  |
+| -------------------------------------------------------------- |
+| #devops #orchestration #cloud<br>#database #querying #frontend |
 
 ### [[Data Analysis Portal]]
 
@@ -52,13 +52,12 @@ Welcome to the Data Archive, an archive of data-related concepts inspired by the
 | #career #field #question #drafting <br>#business |
 ### Others
 
-| Focus: computational tags                            |
-| ---------------------------------------------------- |
-| #statistics #math #data_structure<br>#python #graph  |
+| Focus: computational tags                                         |
+| ----------------------------------------------------------------- |
+| #statistics #math #data_structure<br>#python #graph #promgramming |
 
 | Focus: GenAI, LLMs, NLP                            |
 | -------------------------------------------------- |
 | #GenAI #language_models #NLP<br>#memory_management |
 
 ![[Pasted image 20250412163226.png]]
-

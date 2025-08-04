@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: ML
 date modified: 27-07-2025
-tags: []
+tags:
+  - transformation
 ---
 **Question:** Can we autodetect meaningful features.
 
@@ -12,7 +13,7 @@ tags: []
 
 Below are some popular open-source libraries for automated feature engineering:
 
-- Pycaret – [PyCaret](https://pycaret.org/)
+- [[Pycaret]] – [PyCaret](https://pycaret.org/)
 - Featuretools for advanced usage – [Home](https://www.featuretools.com/) | [What is Featuretools? — Featuretools 1.1.0 documentation](https://featuretools.alteryx.com/en/stable/)
 - Optuna – [A hyperparameter optimization framework](https://optuna.org/)
 - Feature-engine – [A Python library for Feature Engineering for Machine Learning — 1.1.2](https://feature-engine.readthedocs.io/en/1.1.x/)

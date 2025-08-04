@@ -1,11 +1,12 @@
 ---
-aliases: [Transactions]
-category: 
+aliases:
+  - Transactions
+category: DE
 date modified: 27-07-2025
-tags: []
+tags:
+  - database
 ---
 Transactions are used for maintaining [[Data Integrity]] and should adhere to the [[ACID Transaction]].
-
 ## Transaction Operations
 
 - Commit: Saves all changes made during the transaction.

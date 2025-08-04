@@ -1,9 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [business, GenAI]
-title: 
 ---
 Controlling a [[Generative AI]] in business through the use of [[Guardrails]] ensures that the AI remains aligned with specific business goals and avoids unintended or harmful outputs. Guardrails are essential for maintaining security, compliance, and reliability in AI systems. Here's an outline based on your notes:
 

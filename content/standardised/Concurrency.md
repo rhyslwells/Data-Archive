@@ -1,8 +1,9 @@
 ---
-aliases: []
+aliases: 
 category: CS
 date modified: 27-07-2025
-tags: []
+tags:
+  - system
 ---
 > Concurrency is about *dealing with many things at once*, not necessarily *doing* them at the same time.
 

@@ -1,11 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: CS
-date modified: 27-07-2025
-tags:
-  - software
-  - business
-  - documentation
+date modified: 1-08-2025
+tags: [business, documentation, software]
 ---
 Technical debt refers to the concept in software development where developers take shortcuts or make suboptimal decisions to spped up the delivery of a project. 
 

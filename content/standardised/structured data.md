@@ -1,9 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [modeling, storage]
-title: What is structured data?
 ---
 Structured data refers to data that has been formatted into a well-defined schema ([[Database Schema]]). An example would be data that is stored with precisely defined columns in a relational [[Database]] or excel spreadsheet. Examples of ==structured fields could be age, name, phone number, credit card numbers or address.== Storing data in a structured format allows it to be easily understood and queried by machines and with tools such as SQL.
 
@@ -54,4 +53,4 @@ Structured data can also be contrasted with [semi-structured data](term/semi-str
 
 Examples of semi-structured data are [[JSON]] or [[XML]] files. Semi-structured data often contains enough information that it can be relatively easily converted into structured data. 
 
-==[structured data](term/structured%20data.md) refers to data that has been formatted into a well-defined schema==. An example would be data that is stored with precisely defined columns in a relational database or excel spreadsheet. Examples of structured fields could be age, name, phone number, credit card numbers or address.
+==[structured data](term/structured%20data.md) refers to data that has been formatted into a well-defined schema==. An example would be data that is stored with precisely defined columns in a [[relational database]] or excel spreadsheet. Examples of structured fields could be age, name, phone number, credit card numbers or address.

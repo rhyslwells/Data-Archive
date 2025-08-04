@@ -1,8 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
-tags: [database, database]
+date modified: 1-08-2025
+tags: [database]
 ---
 Implementing these concepts, database tables can be effectively related, ensuring [[Data Integrity]], efficient retrieval, and easy maintenance.
 

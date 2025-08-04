@@ -1,9 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - statistics
+date modified: 1-08-2025
+tags: [statistics]
 ---
 Prediction intervals estimate the range within which a future observation from the same distribution is likely to fall, with a specified confidence level.
 

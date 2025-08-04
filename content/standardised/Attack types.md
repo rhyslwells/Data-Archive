@@ -1,9 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - security
+date modified: 1-08-2025
+tags: [security]
 ---
 Related notes:
 - [[Attack mitigation]]

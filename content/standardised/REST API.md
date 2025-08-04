@@ -1,18 +1,19 @@
 ---
-aliases: []
+aliases: 
 category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - devops
 ---
-Postman is a free tool to test out REST API.
-#### REST API
+[[Postman]] is a free tool to test out REST API.
+#### REST [[API]]
 - REST stands for Representational State Transfer.
 - It is a ==standardized== software architecture style used for API communication between a client and a server.
 
 **Benefits of REST APIs:**
 1. **Simplicity and Standardization:**
    - Data formatting and request structuring are standardized and widely adopted.
-2. **Scalability and Statelessness:**
+2. **[[Scalability]] and Statelessness:**
    - Easily modifiable as service complexity grows without tracking data states across client and server.
 3. **High Performance:**
    - Supports ==caching==, maintaining high performance even as complexity increases.

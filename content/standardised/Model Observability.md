@@ -1,12 +1,8 @@
 ---
-aliases:
-  - Observability
+aliases: [Observability]
 category: 
-date modified: 27-07-2025
-tags:
-  - "#explainability"
-  - modeling
-title:
+date modified: 1-08-2025
+tags: ["#explainability", modeling]
 ---
 Monitor the model's performance over time (in production). Similar to [[Model Validation]].
 

@@ -1,8 +1,11 @@
 ---
-aliases: [CAT]
-category:
+aliases:
+  - CAT
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - ml
+  - python
 ---
 CatBoost is a [[Gradient Boosting]] library developed by Yandex, designed to handle [[categorical]] features efficiently and provide robust performance with minimal [[Hyperparameter|Hyperparameter tuning]]
 

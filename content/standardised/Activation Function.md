@@ -17,7 +17,7 @@ Activation functions play a role in [[Neural network]] by introducing non-linear
 
 Linear: Outputs a continuous value, suitable for regression.
 
-ReLU (Rectified Linear Unit): 
+[[ReLU]] (Rectified Linear Unit): 
   - Purpose: ReLU is used to introduce non-linearity by turning neurons "on" or "off." It outputs the input directly if it is positive; otherwise, it outputs zero. This helps in efficiently training deep networks by mitigating the vanishing gradient problem.
   - Function:$f(x) = \max(0, x)$
 

@@ -15,6 +15,7 @@ Useful functions:
 - Percentile: 
 - Importrange:
 - Unique: removes duplicates
+- Forecast : [[Time Series Forecasting]]
 
 Accessing google sheets from a script:
 https://www.youtube.com/watch?v=zCEJurLGFRk

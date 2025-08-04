@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - statistics
 ---
 R-squared (R²) is a commonly used metric for assessing the performance of regression models, but it is not always a reliable indicator of model quality. It should not be the sole criterion for evaluating model performance. It is essential to consider other metrics, such as [[Adjusted R squared]], [[Cross Validation]] results, and the overall context of the analysis.
 

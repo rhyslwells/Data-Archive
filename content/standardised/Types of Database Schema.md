@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: DE
 date modified: 27-07-2025
-tags: []
+tags:
+  - database
+  - management
 ---
 There are several types of database schemas commonly used in data warehousing and database design.
 
@@ -22,5 +24,5 @@ Entity-Relationship Model ([[ER Diagrams]])
    - This is a conceptual schema that represents the data and its relationships in a graphical format. It is often used during the design phase of a database to visualize how entities (tables) relate to one another.
 
 Columnar Schema:
-   - In a [[Columnar Storage]] database, data is stored in columns rather than rows. This schema is optimized for read-heavy operations and analytical queries, making it suitable for data warehousing applications. Examples include Apache Cassandra and Google BigQuery.
+   - In a [[Columnar Storage]] database, data is stored in columns rather than rows. This schema is optimized for read-heavy operations and analytical queries, making it suitable for data warehousing applications. Examples include Apache Cassandra and Google [[BigQuery]].
 

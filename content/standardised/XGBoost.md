@@ -1,7 +1,7 @@
 ---
 aliases: [XGM]
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [optimisation]
 ---
 XGBoost (eXtreme Gradient Boosting) is a highly efficient and flexible implementation of [[Gradient Boosting]] that is widely used for its accuracy and performance in machine learning tasks.

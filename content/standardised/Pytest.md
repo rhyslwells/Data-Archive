@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: DEVOPS
 date modified: 27-07-2025
-tags: []
+tags:
+  - devops
+  - python
 ---
 ### **`@pytest.fixture` Explanation**
 

@@ -19,7 +19,7 @@ Alternative to using a [[REST API]].
 
 [[REST API]]
 - GET or POST to endpoints, many endpoints
-- Server interacts with a database using CRUD
+- Server interacts with a database using [[CRUD]]
 - drawbacks at scale and complexity
 	- Overfetching of data: GraphQL get specific
 	- Underfetching, need to go to many different places.

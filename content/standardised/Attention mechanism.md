@@ -1,9 +1,8 @@
 ---
 aliases: []
 category: LANG
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [language_models]
-title: 
 ---
 The attention mechanism is inspired by how humans read: we don’t give equal focus to every word-we ==concentrate on those most relevant to understanding the context==. Neural networks apply the same principle, dynamically weighting parts of the input sequence based on relevance.
 

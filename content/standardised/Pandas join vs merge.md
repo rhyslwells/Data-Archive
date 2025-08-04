@@ -1,10 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - cleaning
-  - transformation
+date modified: 1-08-2025
+tags: [cleaning, transformation]
 ---
 In pandas, both `.join()` and `pd.merge()` are used to combine DataFrames, but they differ in **syntax**, **defaults**, and **use cases**.
 

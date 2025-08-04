@@ -1,9 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: LANG
-date modified: 27-07-2025
-tags:
-  - NLP
+date modified: 1-08-2025
+tags: [NLP]
 ---
 WordNet, a lexical database that groups words into sets of **cognitive synonym**s called synsets. These synsets are linked together in a hierarchy based on semantic relations, including:
 

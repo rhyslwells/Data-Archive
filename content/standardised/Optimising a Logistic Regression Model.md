@@ -1,7 +1,7 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: []
 ---
 # Optimising a [[Logistic Regression]] Model
@@ -22,7 +22,7 @@ Where:
 - $m$ is the number of samples.
 - $\theta$ is the vector of parameters (intercept and coefficients).
   
-The goal is to minimize this [[cost function]] by finding the optimal $\theta$ values (intercept and coefficients).
+The goal is to minimize this [[Cost Function]] by finding the optimal $\theta$ values (intercept and coefficients).
 
 ### Optimization Algorithm (Solvers)
 

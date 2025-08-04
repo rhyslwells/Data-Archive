@@ -1,9 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [database]
-title: What is Normalization?
 ---
 In a normalized schema, data is organized into multiple related tables to minimize redundancy and dependency, and improve data integrity.
 

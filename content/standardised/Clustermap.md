@@ -1,13 +1,15 @@
 ---
-aliases: []
-category:
+aliases: 
+category: DS
 date modified: 27-07-2025
-tags: []
+tags:
+  - ml
+  - preprocessing
 ---
 ## Clustermap
 
 Related to:
-[[Preprocessing|Preprocess]]
+- [[Preprocessing|Preprocess]]
 
 - Purpose: Identify which features are most similar using [[Dendrograms]].
 - Visualization: Regions of color show clustering, similar to a heatmap.

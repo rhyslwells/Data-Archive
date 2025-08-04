@@ -1,10 +1,8 @@
 ---
-aliases:
-  - GNN
+aliases: [GNN]
 category: ML
-date modified: 27-07-2025
-tags:
-  - graph
+date modified: 1-08-2025
+tags: [graph]
 ---
 A Graph Neural Network (GNN) is a type of neural network designed to operate on graph-structured data. See `PyTorch Geometric` or `DGL`.
 

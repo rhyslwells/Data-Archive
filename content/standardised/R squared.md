@@ -1,11 +1,10 @@
 ---
-aliases: 
+aliases: []
 category: STATISTICS
-date modified: 27-07-2025
-tags:
-  - statistics
+date modified: 1-08-2025
+tags: [statistics]
 ---
-R², or the coefficient of determination, ==measures the proportion of variance in the dependent variable that is explained by the independent variables== in a [[regression]] model.
+R², or the coefficient of determination, ==measures the proportion of variance in the dependent variable that is explained by the independent variables== in a [[Regression]] model.
 
 **Interpretation**:  
 - R² values range from 0 to 1.

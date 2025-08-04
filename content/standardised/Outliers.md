@@ -1,7 +1,7 @@
 ---
 aliases: [anomalies, Handling Outliers]
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [anomaly_detection, cleaning, statistics]
 ---
 What are they?

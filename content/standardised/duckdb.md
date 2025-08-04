@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - database
+  - analysis
 ---
 **DuckDB** is an open-source analytical database management system designed for efficient data processing and analysis. It is optimized for running complex queries on large datasets and is particularly well-suited for data science and analytics tasks. Here are some key features and characteristics of DuckDB:
 

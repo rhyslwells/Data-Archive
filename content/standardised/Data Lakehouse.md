@@ -1,9 +1,8 @@
 ---
 aliases: [Lakehouse]
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [storage]
-title: What is a Data Lakehouse?
 ---
 A Data Lakehouse open [[Data Management]] architecture that combines the flexibility, cost-efficiency, and scale of [[Data Lake]] with the data management and [[ACID Transaction]]s of [[Data Warehouse]]  with Data Lake Table Formats ([[Delta Lake]], [[Apache Iceberg]]) that enable Business Intelligence (BI) and Machine Learning (ML) on all data.
 

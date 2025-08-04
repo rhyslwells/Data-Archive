@@ -1,8 +1,9 @@
 ---
 aliases: 
 category: STATISTICS
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags:
+  - statistics
 ---
 The [[Central Limit Theorem]] (CLT) is particularly important for data scientists working with small sample sizes. It enables the use of various statistical methods, and helps in making valid inferences about the population from limited data.
 

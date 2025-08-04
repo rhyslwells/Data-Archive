@@ -1,7 +1,7 @@
 ---
 aliases: [sensitivity]
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [evaluation]
 ---
 **Recall Score** is a [[Evaluation Metrics]] used to evaluate the performance of a [[Classification]] model, focusing on the model's ability to **identify all relevant instances of the positive class**.

@@ -1,10 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - transformation
-  - python
+date modified: 1-08-2025
+tags: [python, transformation]
 type: grouping
 ---
 In [[ML_Tools]] see:

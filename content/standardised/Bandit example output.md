@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - blank
 ---
 ## Complicated example output of bandit
 Running bandit on [[ML_Tools]] file [[Bandit_Example_Nonfixed.py]] gives. Fixing this gives [[Bandit_Example_Fixed.py]]

@@ -1,7 +1,7 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: []
 ---
 Justfile is a command runner designed to streamline workflows by allowing users to define simple, reusable commands for common tasks. 

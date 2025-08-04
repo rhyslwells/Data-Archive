@@ -1,12 +1,8 @@
 ---
-aliases:
-  - data build tool
+aliases: [data build tool]
 category: 
-date modified: 27-07-2025
-tags:
-  - tool
-  - transformation
-title:
+date modified: 1-08-2025
+tags: [tool, transformation]
 ---
 Data build tool is an open-source framework designed for [[Data Transformation]] within a modern data stack. 
 
@@ -25,7 +21,7 @@ It enables analysts and engineers to transform, model, and manage data using [[S
 
 6. **[[Data Lineage]]**: dbt automatically tracks the lineage of your data by mapping dependencies between models. This makes it easy to understand how data flows through the pipeline and where any upstream or downstream issues might originate.
 
-7. **Extensibility**: dbt has a plugin architecture that allows users to extend functionality. For example, there are adapters for popular data warehouses like [[Snowflake]], BigQuery, Redshift, and others, making dbt highly flexible in different data stack environments.
+7. **Extensibility**: dbt has a plugin architecture that allows users to extend functionality. For example, there are adapters for popular data warehouses like [[Snowflake]], [[BigQuery]], Redshift, and others, making dbt highly flexible in different data stack environments.
 
 8. **Cloud and Core Versions**: 
    - **dbt Core** is the open-source version that you run locally or in your cloud infrastructure.

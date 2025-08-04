@@ -1,10 +1,10 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: []
 ---
-LBFGS stands for Limited-memory Broyden-Fletcher-Goldfarb-Shanno, which is an [[Optimisation function]]optimization algorithm used to find the minimum of a function. In the context of [[logistic regression]], LBFGS is a method for optimizing the cost function to find the optimal [[model parameters]] (such as the intercept and coefficients).
+LBFGS stands for Limited-memory Broyden-Fletcher-Goldfarb-Shanno, which is an [[Optimisation function]]optimization algorithm used to find the minimum of a function. In the context of [[logistic regression]], LBFGS is a method for optimizing the cost function to find the optimal [[Model Parameters]] (such as the intercept and coefficients).
 
 Here's a breakdown of the key features of LBFGS:
 
@@ -12,7 +12,7 @@ Here's a breakdown of the key features of LBFGS:
     
 2. Limited Memory: The "limited-memory" part refers to the fact that LBFGS does not store the entire Hessian matrix, which is computationally expensive and memory-intensive. Instead, it keeps a limited amount of information from previous iterations, making it well-suited for large-scale problems where full memory-based methods might not be feasible.
     
-3. Optimization for Smooth, Differentiable Functions: It is designed to optimize smooth, differentiable functions like the [[cost function]] in logistic regression.
+3. Optimization for Smooth, Differentiable Functions: It is designed to optimize smooth, differentiable functions like the [[Cost Function]] in logistic regression.
     
 
 In the context of logistic regression with sklearn, LBFGS is used as a solver for optimization. When you set `solver='lbfgs'`, [[Scikit-Learn]]'s logistic regression uses this algorithm to iteratively adjust the model parameters (the intercept and coefficients) to minimize the logistic loss (the cost function) while possibly incorporating regularization.

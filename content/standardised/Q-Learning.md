@@ -1,10 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: ML
-date modified: 27-07-2025
-tags:
-  - regressor
-  - algorithm
+date modified: 1-08-2025
+tags: [algorithm, regressor]
 ---
 Q-learning is a value-based, model-free [[Reinforcement learning]] algorithm where the agent learns the optimal [[policy]] by updating Q-values based on the rewards received. It is particularly useful in discrete environments like grids.
 

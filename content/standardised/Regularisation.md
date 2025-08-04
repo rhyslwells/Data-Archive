@@ -1,15 +1,8 @@
 ---
-aliases:
-  - Regularisation techniques
-  - Regulation in ML
+aliases: [Regularisation techniques, Regulation in ML]
 category: ML
-date modified: 27-07-2025
-tags:
-  - visualization
-  - optimisation
-  - process
-  - explainability
-title: Regularization in Machine Learning
+date modified: 1-08-2025
+tags: [explainability, optimisation, process, visualization]
 ---
 Regularization is a technique in machine learning that reduces the risk of overfitting by adding a penalty to the [[Loss function]] during model training. This penalty term restricts the magnitude of the model's parameters, thereby controlling the complexity of the model. It is especially useful in linear models but can also be applied to more complex models like neural networks.
 

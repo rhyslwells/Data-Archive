@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: DEVOPS
 date modified: 27-07-2025
-tags: []
+tags:
+  - devops
+  - software
 ---
 Each of these types of bugs can have significant impacts on software functionality and performance, and understanding them is crucial for effective [[Debugging]] and software development.
 ### Types of Computational Bugs

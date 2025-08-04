@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
-date modified: 27-07-2025
-tags: []
+aliases: 
+category: LANG
+date modified: 1-08-2025
+tags:
+  - GenAI
+  - language_models
 ---
 [[Agentic solutions]] propose an improvement over traditional Large Language Model ([[LLM]]) usage by employing networks of Small Language Models (SLMs). These systems aim to strike a balance between scalability, control, and performance, addressing specific tasks with precision while maintaining overall system adaptability.
 

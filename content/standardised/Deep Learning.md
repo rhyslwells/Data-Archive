@@ -1,13 +1,12 @@
 ---
 aliases: [DL]
 category: ML
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [deep_learning]
-title: Deep Learning Overview
 ---
  Deep learning is a subset of machine learning that uses neural networks to process large-scale data for tasks like image and speech recognition, natural language processing, and recommendation systems. 
  
- A neural network consists of layers of nodes where each node performs weighted sums of its inputs, applies activation functions like ReLU or sigmoid, and produces an output. 
+ A neural network consists of layers of nodes where each node performs weighted sums of its inputs, applies activation functions like [[ReLU]] or sigmoid, and produces an output. 
  
  [[Backpropagation]] is the primary algorithm for training neural networks by minimizing error through [[Gradient Descent]]. Regularization techniques, such as dropout, prevent overfitting. 
  

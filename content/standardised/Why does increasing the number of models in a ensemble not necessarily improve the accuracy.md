@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: ML
 date modified: 27-07-2025
-tags: []
+tags:
+  - modeling
 ---
 
 Increasing the number of models in an ensemble ([[Model Ensemble]]) does not always lead to improved accuracy due to several limiting factors:

@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - SQL
 ---
 In [[DE_Tools]] see:
 - https://github.com/rhyslwells/DE_Tools/blob/main/Explorations/Transformation/Joining.ipynb

@@ -1,11 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: DS
-date modified: 27-07-2025
-tags:
-  - cleaning
-  - preprocessing
-title:
+date modified: 1-08-2025
+tags: [cleaning, preprocessing]
 ---
 Used in preparing data for machine learning models. 
 

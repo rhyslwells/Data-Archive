@@ -1,11 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - GenAI
-  - math
-title:
+date modified: 1-08-2025
+tags: [GenAI, math]
 ---
 Transformers rely on pattern recognition and language-based reasoning.
 

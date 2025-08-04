@@ -1,8 +1,9 @@
 ---
-aliases: []
+aliases: 
 category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - security
 ---
 ### Secrets Management: Why Scan for Keys?
 

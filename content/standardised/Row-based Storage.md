@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - storage
 ---
 Data is stored in consecutive rows, allows [[CRUD]]
 

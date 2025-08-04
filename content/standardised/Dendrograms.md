@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - clustering
+  - visualization
 ---
 Dendrograms show **close** vectors is the data where taken as a vector.
 

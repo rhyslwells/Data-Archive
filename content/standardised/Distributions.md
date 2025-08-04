@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Distribution
+aliases: [Distribution]
 category: 
-date modified: 27-07-2025
-tags:
-  - statistics
-title:
+date modified: 1-08-2025
+tags: [statistics]
 ---
 In [[ML_Tools]] see:
 - [[Distribution_Analysis.py]]

@@ -1,7 +1,7 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [modeling, storage]
 ---
 Apache Iceberg is an open table format for huge analytic datasets. It manages large-scale data stored in files (like [[Parquet]] or ORC) on distributed storage systems (like HDFS, [[Amazon S3|S3]], or GCS).

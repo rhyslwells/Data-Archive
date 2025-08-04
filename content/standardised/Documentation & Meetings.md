@@ -1,10 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: INDUSTRY
-date modified: 27-07-2025
-tags:
-  - business
-  - communication
+date modified: 1-08-2025
+tags: [business, communication]
 ---
 ## Tools  
 - [[pdoc]] – Auto-generate Python API documentation  

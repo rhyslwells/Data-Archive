@@ -1,7 +1,7 @@
 ---
 aliases: []
 category: DATA_ANALYSIS
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [analysis, exploration, transformation]
 ---
 EDA is an approach to analyzing datasets to summarize their main characteristics, often through visual and statistical methods. It helps with:

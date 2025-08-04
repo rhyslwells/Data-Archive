@@ -1,10 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: ML
-date modified: 27-07-2025
-tags:
-  - field
-  - ml
+date modified: 1-08-2025
+tags: [field, ml]
 ---
 Reinforcement Learning ( [[Reinforcement learning|RL]]) is a branch of machine learning where an agent learns to make decisions by interacting with an environment. The agent receives rewards or penalties based on its actions, and its goal is to ==maximize cumulative reward.==
 #### Current Research Problems

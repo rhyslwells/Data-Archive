@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: DS
 date modified: 27-07-2025
-tags: []
+tags:
+  - deep_learning
+  - classifier
 ---
 To understand the differences and use cases for `SparseCategoricalCrossentropy` and `CategoricalCrossentropy` in [[TensorFlow]], let's break down each one:
 

@@ -1,8 +1,8 @@
 ---
 aliases: []
 category: ML
-date modified: 27-07-2025
-tags: [visualization, process]
+date modified: 1-08-2025
+tags: [process, visualization]
 ---
 Dimensionality reduction is a step in the [[Preprocessing]] phase of machine learning that helps simplify models, enhance interpretability, and improve computational efficiency.
 

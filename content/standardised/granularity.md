@@ -1,9 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
-tags: [modeling, database]
-title: What is Granularity
+date modified: 1-08-2025
+tags: [database, modeling]
 ---
 Definition of Grain in [[Dimensional Modelling]]
    - The grain of a [[Fact Table]] defines what a single row in the table represents. It is the level of detail captured by the fact table.
@@ -25,7 +24,7 @@ Semantic Layer:
 
 Granularity, or grain, refers to the ==level of detail== represented by a single row in a fact table within a data warehouse. 
 
-The choice of granularity depends on the business requirements and the types of analyses you want to support. Finer granularity (e.g., transaction-level) provides more detailed insights but requires more storage and processing power. Coarser granularity (e.g., monthly product-level) reduces storage needs and can improve query performance but may limit the depth of analysis.
+The choice of granularity depends on the business requirements and the types of analyses you want to support. Finer granularity (e.g., [[transaction]]-level) provides more detailed insights but requires more storage and processing power. Coarser granularity (e.g., monthly product-level) reduces storage needs and can improve query performance but may limit the depth of analysis.
 
 By clearly defining the grain, you ensure that all dimensions and facts in the data model are consistent and aligned with the intended analytical use cases.
 

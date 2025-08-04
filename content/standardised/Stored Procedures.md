@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - algorithm
+  - database
 ---
 Stored procedures are a way to automate SQL statements, allowing them to be executed repeatedly without rewriting the code.
 
@@ -64,7 +66,7 @@ We will use the Boston MFA database to illustrate stored procedures. Previously,
 
 Stored procedures can accept parameters. For example, we can create a procedure to handle the sale of artwork.
 
-1. **Create the Transactions Table**:
+1. **Create the [[Transaction|Transactions]] Table**:
    ```sql
    CREATE TABLE `transactions` (
        `id` INT AUTO_INCREMENT,

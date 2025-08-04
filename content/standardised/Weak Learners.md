@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: ML
 date modified: 27-07-2025
-tags: []
+tags:
+  - modeling
 ---
 Weak learners are simple models that perform slightly better than random guessing. They are often used as the building blocks in [[Model Ensemble]] methods to create a strong predictive model.
 

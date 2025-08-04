@@ -1,10 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - NLP
-  - python
+date modified: 1-08-2025
+tags: [NLP, python]
 ---
 #### What is spaCy and how is it best used within Python? 
 

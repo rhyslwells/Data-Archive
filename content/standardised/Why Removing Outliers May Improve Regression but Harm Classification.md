@@ -1,15 +1,14 @@
 ---
-aliases: 
+aliases: []
 category: ML
-date modified: 27-07-2025
-tags:
-  - anomaly_detection
+date modified: 1-08-2025
+tags: [anomaly_detection]
 ---
 Removing [[Outliers]] May Improve Regression but Harm Classification
 
 ### Impact on Regression Model:
 
-Regression models, particularly linear [[regression]], are sensitive to outliers because they attempt to minimize the sum of squared errors. By removing outliers, the model can better capture the underlying trend of the data, leading to improved performance metrics such as R-squared and reduced [[mean squared error]].
+Regression models, particularly linear [[Regression]], are sensitive to outliers because they attempt to minimize the sum of squared errors. By removing outliers, the model can better capture the underlying trend of the data, leading to improved performance metrics such as R-squared and reduced [[mean squared error]].
 
 ### Impact on [[Classification]] Models
 

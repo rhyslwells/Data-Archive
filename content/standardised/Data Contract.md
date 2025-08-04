@@ -1,12 +1,11 @@
 ---
-aliases: []
-category:
+aliases: 
+category: DE
 date modified: 27-07-2025
-tags: []
+tags:
+  - business
 ---
-### [[Data Contract]]
-
-pattern to handle schema changes
+Pattern to handle schema changes
 
 Pattern to apply to organisation using tools they have.
 

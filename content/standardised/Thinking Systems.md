@@ -21,7 +21,7 @@ This puts human at the center, and focus on thinking about ==pain points== of th
 Remember:
 - User segments are not the same and should be handled separately.  
 - It is important to understand how the user interacts with the environment/other beings  
-- ==Ludic properties== reduce design load, for example chatgpt and chat feature, or use of the iphone.
+- ==Ludic properties== reduce design load, for example [[chatgpt]] and chat feature, or use of the iphone.
 
 ### Scientific thinking:  
 

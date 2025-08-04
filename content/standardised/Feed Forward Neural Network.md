@@ -1,9 +1,8 @@
 ---
 aliases: [FFNN]
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [classifier, deep_learning]
-title: 
 ---
 A **Feedforward Neural Network (FFNN)** is the simplest type of [[Neural network]]. In this model, connections between neurons do not form a cycle, allowing data to flow in one direction—from the input layer, through the hidden layers, to the output layer—without any loops or backward connections. This straightforward design is primarily used for [[supervised learning]] tasks.
 

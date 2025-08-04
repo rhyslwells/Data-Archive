@@ -1,11 +1,8 @@
 ---
-aliases:
-  - LDA
+aliases: [LDA]
 category: 
-date modified: 27-07-2025
-tags:
-  - NLP
-  - explainability
+date modified: 1-08-2025
+tags: [explainability, NLP]
 ---
 Latent Dirichlet Allocation (LDA) is a generative probabilistic model used in Natural Language Processing (NLP) and machine learning for topic modeling. It assumes that documents are mixtures of topics, and topics are mixtures of words. The goal of LDA is to uncover the latent topics in a collection of text documents by identifying groups of words that frequently appear together in the same documents.
 

@@ -1,14 +1,17 @@
 ---
-aliases: []
-category:
-date modified: 27-07-2025
-tags: []
+aliases: 
+category: DE
+date modified: 1-08-2025
+tags:
+  - explainability
+  - cleaning
+  - transformation
 ---
 ## View Use Case
 
 ### Scenario
 
-A company wants to generate monthly performance reports for its employees. The performance data is spread across multiple tables, including `employees`, `departments`, and `performance_reviews`. Instead of writing complex queries every time a report is needed, the company can create a view that simplifies data retrieval.
+A company wants to generate monthly performance reports for its employees. The performance data is spread across multiple tables, including `employees`, `departments`, and `performance_reviews`. ==Instead of writing complex queries== every time a report is needed, the company can create a view that simplifies data retrieval.
 
 ### Step 1: Define the Tables
 
@@ -70,4 +73,4 @@ This query retrieves all employees with an average performance score of 4.0 or h
 
 4. **Data Consistency**: All reports generated from the view will be consistent, as they rely on the same underlying logic for calculating average scores.
 
-5. **Security**: If sensitive employee data needs to be protected, the view can be designed to exclude certain columns, ensuring that only necessary information is accessible.
+5. **[[Data Security]]**: If sensitive employee data needs to be protected, the view can be designed to exclude certain columns, ensuring that only necessary information is accessible.

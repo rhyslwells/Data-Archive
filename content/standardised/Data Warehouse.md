@@ -1,9 +1,8 @@
 ---
 aliases: [DWH, Warehouse]
 category:
-date modified: 27-07-2025
-tags: [storage, database]
-title: What is a Data Warehouse?
+date modified: 1-08-2025
+tags: [database, storage]
 ---
 A Data Warehouse (DWH) is a centralized repository designed for [[Querying]] and analysis, storing large volumes of structured data from various sources within an organization. It supports reporting and decision-making by providing a consolidated view of data.
 ### Key Features

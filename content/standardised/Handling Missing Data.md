@@ -1,10 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: DS
-date modified: 27-07-2025
-tags:
-  - transformation
-  - preprocessing
+date modified: 1-08-2025
+tags: [preprocessing, transformation]
 ---
 Missing data can provide insights into the data collection process. It's important to determine whether the missing data is randomly distributed or specific to certain features. Filling in data is a type of [[Data Transformation]].
 

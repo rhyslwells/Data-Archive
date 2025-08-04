@@ -1,11 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - database
-  - software
-title: What is SQL?
+date modified: 1-08-2025
+tags: [database, software]
 ---
 Structured Query Language (SQL) is the standard language for interacting with relational databases, enabling efficient data [[Querying]] and manipulation. It serves as a common interface for [[Database]]s and data lakes.
 

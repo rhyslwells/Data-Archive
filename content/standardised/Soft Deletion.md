@@ -1,9 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [database, management]
-title: What is a Soft Delete?
 ---
 Soft deletion is a technique used in databases to ==mark records as deleted without physically removing them from the database==. 
 

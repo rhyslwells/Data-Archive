@@ -1,9 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [classifier, regressor]
-title: 
 ---
 A Decision Tree is a type of [[Supervised Learning]] algorithm used to predict a target variable based on input features. It involves splitting data into subsets to create a tree-like model.
 
@@ -36,7 +35,7 @@ Splitting Criteria:
 #### Building Process
 
 1. **Initial Splitting**:
-   - Begin at the root node and select the best feature to split the data. This selection is based on impurity measures such as Gini impurity or entropy for [[classification]] tasks, and variance reduction for regression tasks.
+   - Begin at the root node and select the best feature to split the data. This selection is based on impurity measures such as Gini impurity or entropy for [[Classification]] tasks, and variance reduction for regression tasks.
    - The goal is to create subsets that are as homogeneous as possible with respect to the target variable.
 
 2. **Recursive Partitioning**:

@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: LANG
 date modified: 27-07-2025
-tags: []
+tags:
+  - language_models
 ---
 Named Entity Recognition (NER) is considered a challenging task for several reasons:
 

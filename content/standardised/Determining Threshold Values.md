@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - evaluation
+  - selection
 ---
 In [[Binary Classification]] problems, a threshold value is used to convert predicted probabilities into discrete class labels. The choice of threshold significantly impacts the model's performance, affecting [[Evaluation Metrics]].
 

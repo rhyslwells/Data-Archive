@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: CS
 date modified: 27-07-2025
-tags: []
+tags:
+  - system
 ---
 Ubuntu is a popular open-source operating system based on the [[Linux]] kernel. It is designed to be user-friendly:
 

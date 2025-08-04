@@ -1,9 +1,8 @@
 ---
 aliases: [Kafka]
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [orchestration, software]
-title: 
 ---
 Apache Kafka is an open-source distributed event streaming platform used for building real-time data pipelines and data streaming applications. It is designed to handle high-throughput, fault-tolerant, and scalable messaging. 
 

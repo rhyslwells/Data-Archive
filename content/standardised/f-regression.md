@@ -1,7 +1,7 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [explainability, statistics]
 ---
 
@@ -37,7 +37,7 @@ Do not use `f_regression` when:
 
 * Your model is non-linear or non-parametric.
 * Feature interactions are essential to the model’s behavior.
-* You're working with [[classification]] tasks — instead, use `f_classif`.
+* You're working with [[Classification]] tasks — instead, use `f_classif`.
 
 ## Example: Computing P-values with `f_regression`
 

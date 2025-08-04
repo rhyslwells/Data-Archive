@@ -84,7 +84,7 @@ By using Pydantic, you focus on defining the rules, and it ensures the data fits
 While Pydantic uses classes and inheritance (features of OOP), it is **not purely OOP in intent or design**. Instead, it is:
 
 - **Data-centric**: Focused on defining and validating data structures rather than encapsulating behavior like traditional OOP.
-- **Declarative**: Pydantic models are [[declarative]] in nature. You define the "shape" of your data (fields and their types) and rely on Pydantic to handle validation, parsing, and serialization.
+- **Declarative**: Pydantic models are [[Declarative Data Pipeline]] in nature. You define the "shape" of your data (fields and their types) and rely on Pydantic to handle validation, parsing, and serialization.
 
 #### Differences from Typical OOP:
 

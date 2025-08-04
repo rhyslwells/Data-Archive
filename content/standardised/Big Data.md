@@ -1,11 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - storage
-  - orchestration
-title:
+date modified: 1-08-2025
+tags: [orchestration, storage]
 ---
 The concept of Big Data revolves around datasets that are too large or complex to be managed using traditional data processing techniques. It’s characterized by four main attributes, commonly referred to as the ==Four V’s:==
 

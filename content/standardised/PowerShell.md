@@ -1,11 +1,9 @@
 ---
 aliases: []
 category: DE
-date modified: 27-07-2025
-tags:
-  - software
-  - system
 created: 2024-06-22 21:06
+date modified: 1-08-2025
+tags: [software, system]
 type:
 ---
 PowerShell is a task automation and configuration management framework developed by Microsoft, consisting of a [[Command Line]] shell and an associated scripting language. It is designed to automate system administration tasks across local and remote Windows systems and, with PowerShell Core (now known as PowerShell 7+), across macOS and Linux as well.

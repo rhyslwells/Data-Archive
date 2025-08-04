@@ -1,11 +1,8 @@
 ---
-aliases:
-  - ETL Pipeline
+aliases: [ETL Pipeline]
 category: DEVOPS
-date modified: 27-07-2025
-tags:
-  - management
-  - process
+date modified: 1-08-2025
+tags: [management, process]
 ---
 A data pipeline is a series of processes that automate the movement and transformation of data from various sources to a destination where it can be stored, analyzed, and used to generate insights. 
 

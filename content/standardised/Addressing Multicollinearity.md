@@ -1,9 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: STATISTICS
-date modified: 27-07-2025
-tags:
-  - statistics
+date modified: 1-08-2025
+tags: [statistics]
 ---
 In [[ML_Tools]] see: [[Addressing_Multicollinearity.py]]
 

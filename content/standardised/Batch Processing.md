@@ -1,12 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - orchestration
-  - system
-  - process
-title:
+date modified: 1-08-2025
+tags: [orchestration, process, system]
 ---
 **Batch Processing** is a technique used to handle and process large datasets efficiently. It works by breaking the data into smaller chunks and processing them together in a single batch.
 

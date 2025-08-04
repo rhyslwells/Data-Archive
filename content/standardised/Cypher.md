@@ -1,10 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - graph
-  - querying
+date modified: 1-08-2025
+tags: [graph, querying]
 ---
 Cypher is a graph query language designed to be:
 

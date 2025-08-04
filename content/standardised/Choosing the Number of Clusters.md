@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: DS
 date modified: 27-07-2025
-tags: []
+tags:
+  - preprocessing
+  - clustering
 ---
 The optimal number of clusters ([[clustering]]) depends on the data and the desired level of [[granularity]]. Here are some common approaches:
 

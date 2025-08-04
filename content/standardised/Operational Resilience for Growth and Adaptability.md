@@ -1,9 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: INDUSTRY
-date modified: 27-07-2025
-tags:
-  - business
+date modified: 1-08-2025
+tags: [business]
 ---
 Core Principles:
  - Operational Resilience involves preparation, foundational planning, and adaptability to **future disruptions** (economic, regulatory, climate, supply chain, energy).

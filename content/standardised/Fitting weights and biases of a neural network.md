@@ -1,7 +1,7 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: []
 ---
 For a neural network model, fitting weights and biases involves optimizing these [[Model Parameters]] so the model learns to map input features ($X$) to target outputs ($y$) effectively. This is achieved through the training process, which minimizes the error between predictions and actual values.
@@ -24,7 +24,7 @@ Proper initialization is critical for training to converge efficiently. Poor ini
 
 Weights:
 - Use small random values (e.g., drawn from Gaussian or uniform [[distributions]]) to break symmetry and ensure that neurons learn different features.
-- Initialization techniques like He initialization (for ReLU activations) or Xavier initialization (for sigmoid/tanh activations) are commonly used because they help maintain the scale of gradients across layers, promoting stable and faster convergence.
+- Initialization techniques like He initialization (for [[ReLU]] activations) or Xavier initialization (for sigmoid/tanh activations) are commonly used because they help maintain the scale of gradients across layers, promoting stable and faster convergence.
 
 ```python
 from tensorflow.keras.layers import Dense

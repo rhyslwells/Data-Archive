@@ -1,18 +1,20 @@
 ---
-aliases: []
+aliases:
+  - SVC
 category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - classifier
 ---
 ## Overview
 
-**Support Vector Classifiers (SVCs)** are a fundamental component of [[Support Vector Machines|SVM]]s, designed to find the optimal hyperplane that separates data into distinct classes. The primary objective of an SVC is to maximize the margin between different classes, ensuring that the separation is as clear as possible.
+**Support Vector Classifiers (SVCs)** are a fundamental component of [[Support Vector Machines|SVM]]s, designed to find the optimal hyperplane that separates data into distinct classes. The primary objective of an SVC is to ==maximize the margin between different classes==, ensuring that the separation is as clear as possible.
 
 ## Key Concepts
 
 - **Hyperplane**: A decision boundary that separates different classes in the feature space. In a two-dimensional space, this is a line; in higher dimensions, it becomes a plane or hyperplane.
 - **Support Vectors**: The data points that are closest to the hyperplane. These points are critical as they define the position and orientation of the hyperplane.
-- **Margin**: The distance between the hyperplane and the nearest data point from either class. SVC aims to maximize this margin to improve classification robustness.
+- **Margin**: The distance between the hyperplane and the nearest data point from either class. SVC aims to maximize this margin to improve [[classification]] robustness.
 
 ## SVC vs. SVM
 

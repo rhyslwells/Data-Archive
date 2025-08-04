@@ -17,7 +17,7 @@ Used to draw inferences about population parameters based on sample data. The pr
 Hypothesis testing is subject to Type I errors (false positives) and Type II errors (false negatives). A small p-value does not guarantee practical significance or causation, and results can be influenced by sample variability.
 
 ### Example
-An example of hypothesis testing is conducting a t-test to compare the means of two groups. The null hypothesis states that the means are equal ($H_0: \mu_1 = \mu_2$), while the alternative hypothesis states they are not equal ($H_1: \mu_1 \neq \mu_2$).
+An example of hypothesis testing is conducting a [[t-test]] to compare the means of two groups. The null hypothesis states that the means are equal ($H_0: \mu_1 = \mu_2$), while the alternative hypothesis states they are not equal ($H_1: \mu_1 \neq \mu_2$).
 
 ### Important Notes
 - Hypothesis testing relies on the formulation of $H_0$ and $H_1$, and the decision to accept or reject $H_0$ is based on the [[p values]].

@@ -1,3 +1,9 @@
+---
+aliases: []
+category:
+date modified: 1-08-2025
+tags: []
+---
 This note contains dataview queries and they will not display. I will insert those of interest above the queries.
 # Papers that I am currently reading
 

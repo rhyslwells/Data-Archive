@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - exploration
 ---
 This note collects notes on datasets that are good examples for exploring various concepts.
 ## Heart Failure Prediction Dataset

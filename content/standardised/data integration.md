@@ -1,9 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [orchestration, storage]
-title: What is Data Integration?
 ---
 Data integration is the process of combining data from disparate source systems into a single unified view, moving data to a [[Single Source of Truth]].
 

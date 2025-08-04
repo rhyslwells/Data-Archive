@@ -1,9 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: ML
-date modified: 27-07-2025
-tags:
-  - anomaly_detection
+date modified: 1-08-2025
+tags: [anomaly_detection]
 ---
 In [[Time Series]]
 

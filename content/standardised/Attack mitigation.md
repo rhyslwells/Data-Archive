@@ -1,9 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: DE
-date modified: 27-07-2025
-tags:
-  - security
+date modified: 1-08-2025
+tags: [security]
 ---
 ### Bot Detection and MFA
 

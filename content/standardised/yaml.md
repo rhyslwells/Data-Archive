@@ -1,9 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [software]
-title: What is YAML?
 ---
 Stands for [YAML ain't markup language](https://github.com/yaml/yaml-spec) and is a superset of JSON
 

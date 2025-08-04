@@ -1,11 +1,10 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [orchestration]
-title: What is Dagster?
 ---
-[Dagster](https://dagster.io/) is a [data orchestrator] focusing on data-aware scheduling that supports the whole development [[Data Lifecycle Management]] lifecycle, with integrated lineage and observability, a [[declarative]] programming model, and best-in-class testability.
+[Dagster](https://dagster.io/) is a [data orchestrator] focusing on data-aware scheduling that supports the whole development [[Data Lifecycle Management]] lifecycle, with integrated lineage and observability, a [[Declarative Data Pipeline]] programming model, and best-in-class testability.
 
 Key features are: 
 - Manage your data assets with code

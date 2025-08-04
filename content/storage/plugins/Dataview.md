@@ -1,11 +1,20 @@
 ---
 tags: []
 ---
+
 https://www.youtube.com/watch?v=8yjNuiSBSAM&ab_channel=FromSergio
 
 https://www.youtube.com/watch?v=ccN5vJzXwvo
 
 I want to be able to extract all the notes fora given querey. Like the local graph. Maybe so that I can add comments and filter effectively
+
+### Get all inline and out links for a given file
+
+```dataview
+TABLE
+FROM "standardised"
+```
+
 
 ### Tasks from a specific header.
 
@@ -30,10 +39,10 @@ Adding tags to single line and lists will appear in tasks folder
 ```dataview
 task from #Gamestonks/active
 ```
+
 ### Set up/ using dataview
 
 [Basis of dataview](https://www.youtube.com/watch?v=7kFEl7Ovsr8&ab_channel=FilipeDonadio)
-
 
 
 ```dataview
@@ -57,8 +66,6 @@ FROM "02 Archive"
 SORT file.size DESC
 LIMIT 10
 ```
-
-
 
 
 ## queries:

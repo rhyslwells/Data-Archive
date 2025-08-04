@@ -1,10 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: DE
-date modified: 27-07-2025
-tags:
-  - transformation
-  - analysis
+date modified: 1-08-2025
+tags: [analysis, transformation]
 ---
 Summarizing data for analysis ([[Pandas Pivot Table]] and [[Groupby]]).
 

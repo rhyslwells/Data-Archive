@@ -1,8 +1,9 @@
 ---
-aliases: []
-category: 
+aliases: 
+category: DEVOPS
 date modified: 27-07-2025
-tags: []
+tags:
+  - frontend
 ---
 React is a [[JavaScript]] library developed by Meta for building user interfaces, particularly in web development.
 

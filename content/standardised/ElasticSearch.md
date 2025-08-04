@@ -1,12 +1,10 @@
 ---
-aliases: 
+aliases: []
 category: LANG
-date modified: 27-07-2025
-tags:
-  - NLP
-  - tool
+date modified: 1-08-2025
+tags: [NLP, tool]
 ---
-Elasticsearch is an open source distributed [[search]] and analytics engine, often used to store and search through text data (e.g., logs, documents, articles). It's commonly integrated with NLP workflows for:
+Elasticsearch is an open source distributed [[search]] and analytics engine, often used to store and [[search]] through text data (e.g., logs, documents, articles). It's commonly integrated with NLP workflows for:
 
  - Storing extracted named entities or keywords
  - Enabling full-text search over processed corpora

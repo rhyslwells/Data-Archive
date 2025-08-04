@@ -1,7 +1,7 @@
 ---
 aliases: []
 category: ML
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [GenAI, question]
 ---
 - [ ] How to find the best prompt? ⏫ 

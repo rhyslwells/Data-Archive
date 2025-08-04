@@ -1,9 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [math]
-title: What is the Big-O Notation?
 ---
 Big-O Notation is an analysis of the algorithm using [Big – O asymptotic notation](https://www.geeksforgeeks.org/analysis-of-algorithms-set-3asymptotic-notations/).  
 

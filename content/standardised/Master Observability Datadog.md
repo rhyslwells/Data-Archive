@@ -1,10 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: DEVOPS
-date modified: 27-07-2025
-tags:
-  - orchestration
-  - governance
+date modified: 1-08-2025
+tags: [governance, orchestration]
 ---
 what happens in prod, pre prod.
 

@@ -1,9 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [management]
-title: What is Data Lineage?
 ---
 Data lineage uncovers the [[Data Lifecycle Management]] life cycle of data. It aims to show the complete data flow from start to finish. 
 

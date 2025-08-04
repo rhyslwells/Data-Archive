@@ -1,11 +1,10 @@
 ---
 aliases: [SVM]
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [classifier, clustering]
-title: 
 ---
-Support Vector Machines (SVM) are a type of [supervised learning](app://obsidian.md/supervised%20learning) algorithm primarily used for [[classification]] tasks, though they can also be adapted for regression. The main idea is to find an optimal hyperplane that divides data into different classes by maximizing the margin between them. The support vectors are the data points closest to the hyperplane, influencing its position and orientation.
+Support Vector Machines (SVM) are a type of [supervised learning](app://obsidian.md/supervised%20learning) algorithm primarily used for [[Classification]] tasks, though they can also be adapted for regression. The main idea is to find an optimal hyperplane that divides data into different classes by maximizing the margin between them. The support vectors are the data points closest to the hyperplane, influencing its position and orientation.
 
 Key Features
 - Hyperplane: Finds a hyperplane that maximizes the margin between classes.

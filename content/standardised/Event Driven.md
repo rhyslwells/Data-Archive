@@ -1,9 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - devops
+date modified: 1-08-2025
+tags: [devops]
 ---
 Event-driven refers to a ==programming paradigm== or architectural style where the flow of the program is determined by events—changes in state or conditions that trigger specific actions or responses. 
 

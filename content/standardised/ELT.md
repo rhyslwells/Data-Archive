@@ -1,10 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: DE
-date modified: 27-07-2025
-tags:
-  - transformation
-title:
+date modified: 1-08-2025
+tags: [transformation]
 ---
 **ELT** (Extract, Load, Transform) is a data integration approach that involves three main steps:
 

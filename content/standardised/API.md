@@ -1,9 +1,8 @@
 ---
 aliases: []
 category: DEVOPS
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [software]
-title: 
 ---
 An API (Application Programming Interfaces) allows one system (client) to ==request specific actions from another system== (server).
 

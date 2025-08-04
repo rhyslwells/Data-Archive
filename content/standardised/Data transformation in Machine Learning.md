@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - transformation
+  - ml
 ---
 Transforming raw data into a meaningful format is necessary for building effective models.  
 

@@ -1,9 +1,8 @@
 ---
 aliases: [SCD]
 category: DE
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [database]
-title: What is Slowly Changing Dimension?
 ---
 A Slowly Changing Dimension (SCD) is **a dimension that stores and manages both current and historical data over time in a [Data Warehouse](Data%20Warehouse.md)**.
 

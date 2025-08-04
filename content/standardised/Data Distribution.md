@@ -1,8 +1,11 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - analysis
+  - communication
+  - business
 ---
 Data distribution refers to the process of making processed and analyzed data available for downstream applications and systems. 
 

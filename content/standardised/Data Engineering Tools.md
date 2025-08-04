@@ -1,14 +1,12 @@
 ---
-aliases: 
+aliases: []
 category: DE
-date modified: 27-07-2025
-tags:
-  - management
-  - tool
+date modified: 1-08-2025
+tags: [management, tool]
 ---
 
   - [[Snowflake]]: [[Cloud]]-based data warehousing for scalable storage and processing.
-  - Microsoft SQL Server: [[SQL]]-based relational database management.
+  - Microsoft SQL Server: [[SQL]]-based [[relational database]] management.
   - [[Azure]] SQL Database: Managed relational database service on Azure.
   - Azure Data Lake Storage: Scalable storage for big data analytics.
   - SQL and T-SQL: Query languages for managing and querying relational databases.
@@ -20,7 +18,7 @@ tags:
 - Google Pub/Sub: A messaging service that allows for asynchronous communication between applications, supporting real-time data ingestion.
 
 [[Data Storage]]
-Tools: Amazon [[Amazon S3|S3]], Google BigQuery, Snowflake.
+Tools: Amazon [[Amazon S3|S3]], Google [[BigQuery]], Snowflake.
 
 [[dbt]]
 

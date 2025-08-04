@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: DE
 date modified: 27-07-2025
-tags: []
+tags:
+  - business
+  - orchestration
 ---
 Organizations may also consider adopting a data virtualization solution to integrate their data. 
 

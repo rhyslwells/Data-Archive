@@ -12,7 +12,7 @@ A good [[Vector Embedding|embedding]] should place semantically similar sentence
 
  a) [[Cosine Similarity]]
 
-* Compute the cosine similarity between embedding vectors.
+* Compute the [[cosine similarity]] between embedding vectors.
 * Higher similarity between semantically related pairs (e.g., *"Paris is the capital of France"* vs *"France’s capital is Paris"*) indicates better embedding quality.
 * Compare scores across methods:
 

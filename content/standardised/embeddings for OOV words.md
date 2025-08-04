@@ -1,10 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - optimisation
-  - NLP
+date modified: 1-08-2025
+tags: [NLP, optimisation]
 ---
 
 Can you find words in a [[Vector Embedding|word embedding]] that where not used to creates the embedding? These are [[OOV words]].

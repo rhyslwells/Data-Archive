@@ -1,9 +1,8 @@
 ---
 aliases: [MLOPs]
 category: ML
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: [drafting]
-title: 
 ---
 Machine Learning Operations (MLOps) is a set of practices and tools designed to streamline the entire lifecycle of machine learning models, from development to deployment and maintenance. It aims to integrate machine learning with [[DevOps]] principles to ensure that models are reliable, scalable, and efficient in production environments. 
 

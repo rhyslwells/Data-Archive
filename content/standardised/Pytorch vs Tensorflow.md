@@ -1,9 +1,10 @@
 ---
-aliases: []
-category:
-date modified: 27-07-2025
-tags: []
-title: 
+aliases: 
+category: 
+date modified: 1-08-2025
+tags:
+  - deep_learning
+  - ml
 ---
 
 - [[Tensorflow]] is widely adopted but pytorch picking up

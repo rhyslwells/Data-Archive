@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
-date modified: 27-07-2025
-tags: []
+aliases: 
+category: ML
+date modified: 1-08-2025
+tags:
+  - deep_learning
 ---
 Scenarios where a simple [[Neural network|Neural Network]] work like this might be useful:
 
@@ -22,5 +23,5 @@ If you have time series data with multiple variables, you can feed it into this 
 **Training and Optimization (Next Steps)**
 The provided code only defines the network and performs a **forward pass**, but to use this model for real-world tasks, you would need to:
 - **Define a loss function** (e.g., [[Mean Squared Error]] for regression or Cross-Entropy Loss for classification).
-- **Train the network** using an optimizer like **Stochastic Gradient Descent (SGD)**, **Adam**, or another optimization algorithm.
+- **Train the network** using an optimizer like **[[Stochastic Gradient Descent]] (SGD)**, **[[Adam Optimizer]]**, or another optimization algorithm.
 - **Backpropagate** the gradients to update the model’s weights using gradient descent.

@@ -1,9 +1,8 @@
 ---
 aliases: []
 category:
-date modified: 27-07-2025
-tags: [storage, database, database]
-title: 
+date modified: 1-08-2025
+tags: [database, storage]
 ---
 Databases manage large data volumes with scalability, speed, and flexibility. Key systems include:
 
@@ -14,8 +13,8 @@ Databases manage large data volumes with scalability, speed, and flexibility. Ke
 They facilitate efficient [[CRUD]] operations and transactional processing ([[OLTP]]) structured by [[Database Schema|schema]] that organizes data into tables and relationships.
 
 Key Features
-- **[[Structured Data]]**: Organized for efficient CRUD operations, allowing reliable access.
-- **Relational Databases**: Use SQL to manage data in tables with relationships expressed through foreign keys and joins, minimizing redundancy.
+- **[[Structured Data]]**: Organized for efficient [[CRUD]] operations, allowing reliable access.
+- [[Relational Database]]: Use SQL to manage data in tables with relationships expressed through foreign keys and joins, minimizing redundancy.
 
 Structure
 - Data is organized into tables (like spreadsheets) with columns (fields) and rows (records), enabling efficient storage and retrieval.

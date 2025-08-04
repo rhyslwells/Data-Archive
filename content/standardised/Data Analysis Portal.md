@@ -1,10 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: DATA_ANALYSIS
-date modified: 27-07-2025
-tags:
-  - analysis
-  - portal
+date modified: 1-08-2025
+tags: [analysis, portal]
 ---
-[[Data Analyst]]
-[[Data Visualisation]]
+- [[Data Analyst]]
+- [[Data Visualisation]]

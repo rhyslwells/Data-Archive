@@ -1,9 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: CS
-date modified: 27-07-2025
-tags:
-  - algorithm
+date modified: 1-08-2025
+tags: [algorithm]
 ---
 ### [[Recursive Algorithm]]
 

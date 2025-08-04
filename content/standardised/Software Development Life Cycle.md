@@ -1,7 +1,7 @@
 ---
 aliases: [sdlc]
 category:
-date modified: 27-07-2025
+date modified: 1-08-2025
 tags: ["#orchestration"]
 ---
 A structured approach like the Software Development Life Cycle (SDLC) ensures ==systematic progression through various stages of development==. SDLC remains relevant today by outlining the essential stages a product must undergo to achieve success.

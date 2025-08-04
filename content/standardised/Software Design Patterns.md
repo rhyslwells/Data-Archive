@@ -1,11 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: DE
-date modified: 27-07-2025
-tags:
-  - software
-  - architecture
-  - communication
+date modified: 1-08-2025
+tags: [architecture, communication, software]
 ---
 [10 Design Patterns Explained in 10 Minutes](https://www.youtube.com/watch?v=tv-_1er1mWI)
 

@@ -1,9 +1,8 @@
 ---
-aliases: 
+aliases: []
 category: 
-date modified: 27-07-2025
-tags:
-  - documentation
+date modified: 1-08-2025
+tags: [documentation]
 ---
 An HTML file is the foundational format for structuring content on the web. 
 
@@ -20,7 +19,7 @@ An HTML file is the foundational format for structuring content on the web.
 * Embed interactive charts using libraries like Chart.js, D3.js, or [[Plotly]]
 
 #### Offline Use
-* Use HTML for standalone [[documentation]], dashboards, or reports
+* Use HTML for standalone [[Documentation]], dashboards, or reports
 * Convert Jupyter Notebooks or Markdown into HTML for distribution
 
 #### Custom Tools and Prototypes

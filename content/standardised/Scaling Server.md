@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: DE
 date modified: 27-07-2025
-tags: []
+tags:
+  - devops
 ---
 Scaling Server
   - Horizontal Scaling: Adding more servers, preferred for scalability.
