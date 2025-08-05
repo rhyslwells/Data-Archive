@@ -1,8 +1,10 @@
 ---
-aliases: []
+aliases: 
 category: LANG
 date modified: 27-07-2025
-tags: []
+tags:
+  - NLP
+  - math
 ---
 ### Key Components of Attention and Formula
 

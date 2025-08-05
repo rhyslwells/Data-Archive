@@ -1,8 +1,9 @@
 ---
-aliases: []
+aliases: 
 category: DS
 date modified: 1-08-2025
-tags: []
+tags:
+  - deep_learning
 ---
 The sources touch upon reinforcement learning as an area beyond the scope of their discussion. However, the combination of [[Reinforcement learning]] with [[Deep Learning]] has shown remarkable results in recent years, particularly in areas like game playing and robotics. 
 

@@ -1,8 +1,10 @@
 ---
-aliases: []
+aliases: 
 category: ML
 date modified: 27-07-2025
-tags: []
+tags:
+  - transformation
+  - preprocessing
 ---
 Related terms:
 - Why do we need to drop one of the dummy columns? [[Dummy variable trap]]: 

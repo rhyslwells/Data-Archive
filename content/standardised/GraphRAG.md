@@ -1,8 +1,9 @@
 ---
 aliases: []
-category:
-date modified: 1-08-2025
-tags: [drafting]
+category: 
+date modified: 27-07-2025
+tags:
+  - drafting
 ---
 [[GraphRAG]] is a [[RAG]] framework that utilizes [[Knowledge Graph]]s to enhance information retrieval and processing. A significant aspect of this framework is the use of large language models (LLMs) for [[Named Entity Recognition]] (NER) within [[Neo4j]].
 
@@ -11,8 +12,7 @@ tags: [drafting]
 - **[[Text2Cypher]]**: This feature allows users to interact with the graph in a user-friendly manner, converting natural language queries into Cypher queries.
 - How to move datasets into a graph database.
 - Graphrag patterns.
-- The role of [[interpretability]] in understanding graph-based retrieval.
-- [[GraphRAG The Marriage of Knowledge Graphs and RAG]]
+- The role of [[interpretability]] in understanding graph-based retrieval[[GraphRAG]]AG]]
 
 ### Implementation
 
@@ -24,3 +24,8 @@ In [[ML_Tools]] see: [[Wikipedia_API.py]]
 
 - [GraphRAG Site](https://graphrag.com/concepts/intro-to-graphrag/)
 - [Neo4j: Building Better GenAI: Your Intro to RAG & Graphs](https://www.youtube.com/watch?v=OuyTENdRcNs)
+
+Link: https://www.youtube.com/watch?v=knDDGYHnnSI
+
+
+

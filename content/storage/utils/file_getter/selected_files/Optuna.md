@@ -5,7 +5,7 @@ Optuna automates the process of tuning hyperparameters by defining an objective 
 [[Hyperparameter Tuning]]
 ## Benefits of Using Optuna
 
-1. Efficient Search: Utilizes algorithms like TPE (Tree-structured Parzen Estimator) to search the hyperparameter space more efficiently than grid search.
+1. Efficient Search: Utilizes algorithms like TPE (Tree-structured Parzen [[Estimator]]) to search the hyperparameter space more efficiently than grid search.
 2. Dynamic Search Space: Can explore continuous, categorical, and discrete spaces.
 3. Automatic Pruning: Supports pruning of unpromising trials during training, improving computational efficiency.
 4. Visualization: Offers built-in tools for visualizing the optimization process, aiding in understanding the impact of hyperparameters.

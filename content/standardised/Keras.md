@@ -1,8 +1,10 @@
 ---
-aliases: []
+aliases: 
 category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - python
+  - deep_learning
 ---
 Keras is a high-level deep learning API in Python, designed to simplify building and training neural networks.
 
@@ -23,4 +25,4 @@ Related:
   Designed to enable fast experimentation, Keras is ideal for beginners and researchers who need to quickly prototype and test new ideas.
   
 **Performance**: 
-  While Keras simplifies model building, it may not be as performant as lower-level frameworks like TensorFlow when it comes to fine-tuning and optimizing models for production.
+  While Keras simplifies [[model building]], it may not be as performant as lower-level frameworks like TensorFlow when it comes to fine-tuning and optimizing models for production.

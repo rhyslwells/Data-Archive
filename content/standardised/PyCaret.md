@@ -1,8 +1,11 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 1-08-2025
-tags: []
+tags:
+  - python
+  - software
+  - ml
 ---
 PyCaret is an open-source, low-code Python library designed to simplify machine learning workflows. 
 

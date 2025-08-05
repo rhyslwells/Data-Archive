@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - cloud
+  - software
 ---
 Gradio is an open-source platform that simplifies the process of ==creating user interfaces== for machine learning models. 
 

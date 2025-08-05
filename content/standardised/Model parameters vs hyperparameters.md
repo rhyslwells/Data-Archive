@@ -1,8 +1,9 @@
 ---
-aliases: []
+aliases: 
 category: ML
 date modified: 1-08-2025
-tags: []
+tags:
+  - modeling
 ---
 
 Model parameters and hyperparameters serve different roles:

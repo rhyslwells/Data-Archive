@@ -1,8 +1,11 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - data_quality
+  - modeling
+  - statistics
 ---
 Normalization is the process of structuring data from the source into a format appropriate for consumption in the destination. 
 

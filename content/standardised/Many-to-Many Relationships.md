@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - database
+  - data_structure
 ---
 ### Many-to-Many Relationships
 

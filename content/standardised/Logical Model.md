@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - documentation
+  - database
 ---
 Logical Model
    - Customer: CustomerID, Name, Email

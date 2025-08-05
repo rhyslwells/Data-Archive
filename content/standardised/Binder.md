@@ -8,6 +8,6 @@ tags:
 ---
 https://mybinder.org/
 
-Similar to [[Google Collab]]. 
+Similar to [[Google Colab]]. 
 
 [[Data Visualisation]]

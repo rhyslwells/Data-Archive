@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - python
+  - management
 ---
 Pydantic is a Python library used for [[data validation]] and settings management using Python type annotations.
 
@@ -39,7 +41,7 @@ In [[ML_Tools]] see:
     Pydantic supports nested models and complex data structures, enabling you to handle hierarchical data easily.
     
 5. **Settings Management**  
-    Pydantic can load configuration from environment variables or other sources using its `BaseSettings` class, making it handy for managing application settings.
+    Pydantic can load configuration from [[environment variables]] or other sources using its `BaseSettings` class, making it handy for managing application settings.
     
 6. **Serialization and Deserialization**  
     Pydantic models support converting data into [[JSON]] or dictionaries, making it easy to work with web APIs or store validated data.
@@ -55,7 +57,7 @@ In [[ML_Tools]] see:
 3. **Error Reporting**:  
     Pydantic provides clear and structured error messages, making [[debugging]] simpler.
     
-4. **Interoperability**:  
+4. **[[Interoperability]]**:  
     It works well with libraries like [[FastAPI]], where it powers request/response validation and serialization.
 
 ### Use Cases:

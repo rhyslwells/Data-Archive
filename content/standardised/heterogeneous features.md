@@ -23,7 +23,7 @@ In machine learning, heterogeneous features refer to a situation where the input
    - **Image Features:** Visual data represented by pixels in an image, used in tasks like image recognition or object detection.
 
 ### 4. **Challenges and Considerations:**
-   - Handling heterogeneous features requires specialized techniques in [[Preprocessing]] and model building.
+   - Handling heterogeneous features requires specialized techniques in [[Preprocessing]] and [[model building]].
    - Different types of features may need different preprocessing steps, such as encoding categorical variables, scaling numerical features, or extracting features from text or images.
    - Models need to be capable of handling diverse data types, either through feature engineering or using algorithms specifically designed for heterogeneous data.
 

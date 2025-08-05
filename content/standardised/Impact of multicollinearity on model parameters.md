@@ -1,15 +1,18 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - modeling
+  - evaluation
+  - statistics
 ---
 See https://youtu.be/StSAJIZuqws?t=655
 
 ```R
 )
 
-# Monte Carlo Simulation: Multicollinearity & Harm
+# [[Monte Carlo Simulation]]: Multicollinearity & Harm
 results = expand_grid(
 rho = seq(0, 0.95, 0.05),
 rep = 1:1000

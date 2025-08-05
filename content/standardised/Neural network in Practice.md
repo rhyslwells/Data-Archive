@@ -1,8 +1,9 @@
 ---
-aliases: []
+aliases: 
 category: 
 date modified: 1-08-2025
-tags: []
+tags:
+  - deep_learning
 ---
 This guide provides practical insights into building and using [[Neural network]].
 
@@ -23,7 +24,7 @@ Numerical stability is crucial. One way to enhance stability is by grouping the 
   loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True)
   ```
 **Target Form**: 
-  - The target format remains unchanged. For instance, with SparseCategoricalCrossentropy, the target is the expected class label (e.g., digits 0-9 in the MNIST dataset).
+  - The target format remains unchanged. For instance, with SparseCategoricalCrossentropy, the target is the expected class label (e.g., digits 0-9 in the [[MNIST]] dataset).
   - See [[SparseCategorialCrossentropy or CategoricalCrossEntropy]]
 
 **Output Probabilities**: 

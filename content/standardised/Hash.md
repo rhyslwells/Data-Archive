@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - data_structure
 ---
 A hash is a fixed-size string of characters that is generated from input data of any size using a hash function. 
 

@@ -42,9 +42,9 @@ Welcome to the Data Archive, an archive of data-related concepts inspired by the
 | #exploration #communication #visualization<br>#analysis |
 ### [[Software Development Portal]]
 
-| Focus: software development, tools, and system design                                      |
-| ------------------------------------------------------------------------------------------ |
-| #software #orchestration #software<br> #code_snippet #architecture #system<br> #file_type  |
+| Focus: software development, tools, and system design                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------- |
+| #software #orchestration #software<br> #code_snippet #architecture #system<br> #file_type #test #programming<br> #term |
 ### [[Project Management Portal]]
 
 | Focus: Communication, Project work               |
@@ -54,10 +54,10 @@ Welcome to the Data Archive, an archive of data-related concepts inspired by the
 
 | Focus: computational tags                                         |
 | ----------------------------------------------------------------- |
-| #statistics #math #data_structure<br>#python #graph #promgramming |
+| #statistics #math #data_structure<br>#python #graph #programming |
 
-| Focus: GenAI, LLMs, NLP                            |
-| -------------------------------------------------- |
-| #GenAI #language_models #NLP<br>#memory_management |
+| Focus: GenAI, LLMs, NLP                                     |
+| ----------------------------------------------------------- |
+| #GenAI #language_models #NLP<br>#memory_management #agents  |
 
 ![[Pasted image 20250412163226.png]]

@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 1-08-2025
-tags: []
+tags:
+  - evaluation
+  - optimisation
 ---
 [[Model Evaluation]]focuses on assessing a model's performance, while [[Model Optimisation]]aims to improve that performance through various techniques. 
 

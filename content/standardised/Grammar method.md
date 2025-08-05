@@ -1,7 +1,8 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - NLP
 ---
-can understand the Grammar as a method for acceptable sentences.
+Can understand the Grammar as a method for acceptable sentences.

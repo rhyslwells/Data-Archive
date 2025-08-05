@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 1-08-2025
-tags: []
+tags:
+  - deep_learning
+  - ml
 ---
 For a neural network model, fitting weights and biases involves optimizing these [[Model Parameters]] so the model learns to map input features ($X$) to target outputs ($y$) effectively. This is achieved through the training process, which minimizes the error between predictions and actual values.
 

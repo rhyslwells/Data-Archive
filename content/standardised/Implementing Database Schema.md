@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - database
+  - data_structure
 ---
 To manage and create a database schema in SQLite, you can use the following commands:
 

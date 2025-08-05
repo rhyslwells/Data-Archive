@@ -1,8 +1,10 @@
 ---
-aliases: []
+aliases: 
 category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - python
+  - graph
 ---
 **Neomodel** is a Python library that provides an Object-Graph Mapping (OGM) layer for [[Neo4j]], a [[GraphRAG|graph database]]. It allows you to interact with a Neo4j graph database using Python objects, making it easier to work with the data stored in a graph structure without manually writing raw Cypher [[Querying]]. Neomodel simplifies the process of creating and manipulating nodes and relationships in a graph while providing an object-oriented approach.
 

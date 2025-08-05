@@ -1,8 +1,11 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - business
+  - analysis
+  - communication
 ---
 Looker studio is [[Google]] version of [[PowerBI]], but its free.
 ### Connectors to data

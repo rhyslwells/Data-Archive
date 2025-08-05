@@ -1,8 +1,9 @@
 ---
-aliases: []
+aliases: 
 category: CS
 date modified: 27-07-2025
-tags: []
+tags:
+  - memory_management
 ---
 
 In systems and programming, the heap is a region of a program’s memory used for ==dynamic memory allocation.==

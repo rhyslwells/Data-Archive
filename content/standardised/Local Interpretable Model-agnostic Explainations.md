@@ -1,8 +1,10 @@
 ---
-aliases: [LIME]
+aliases:
+  - LIME
 category: ML
 date modified: 1-08-2025
-tags: []
+tags:
+  - explainability
 ---
 
 LIME explains individual predictions ==by approximating the model locally== with an [[interpretability|interpretable]] model and calculating the [[feature importance]] based on the surrogate model.

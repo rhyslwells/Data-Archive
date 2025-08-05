@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - explainability
 ---
 Model [[interpretability]] tools are crucial in ensuring that machine learning models are transparent, explainable, and understandable to stakeholders, particularly in industries where decisions need to be justifiable (e.g., finance, healthcare). 
 
@@ -12,7 +13,7 @@ These tools are becoming standard for ensuring trustworthiness and transparency 
 
 [[SHapley Additive exPlanations]]
 
-[[Local Interpretable Model-agnostic Explanations]]
+[[Local Interpretable Model-agnostic Explainations]]
 
 Counterfactual Explanations:
 

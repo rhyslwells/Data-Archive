@@ -1,8 +1,10 @@
 ---
-aliases: []
+aliases: 
 category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - analysis
+  - statistics
 ---
 Factor Analysis (FA) is a statistical method used for:
 - [[dimensionality reduction]],

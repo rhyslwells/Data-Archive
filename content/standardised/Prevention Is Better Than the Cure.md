@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - data_quality
 ---
 To ensure data products are effective essential to prioritize prevention over remediation of [[Data Quality]]
 ### Prevention

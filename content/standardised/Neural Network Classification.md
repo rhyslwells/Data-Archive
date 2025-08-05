@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 1-08-2025
-tags: []
+tags:
+  - deep_learning
 ---
 
 Choosing Thresholds/Clusters in [[Neural network]] [[Classification]]

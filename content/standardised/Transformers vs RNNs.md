@@ -24,7 +24,7 @@ RNNs still have use cases, especially for tasks where memory constraints are cri
 ### 1. Architecture
 - RNNs: 
   - RNNs ==process data sequentially,== one time step at a time. They maintain a ==hidden state== that is updated as the model processes each token in the sequence, making them suitable for time-dependent tasks.
-  - Common variants include [[LSTM]] (Long Short-Term Memory) and GRU ([[Gated Recurrent Units]]), which are designed to capture ==long-term dependencies== more effectively.
+  - Common variants include [[LSTM]] (Long Short-Term Memory) and [[GRU]] ([[Gated Recurrent Units]]), which are designed to capture ==long-term dependencies== more effectively.
 
 - [[Transformer]]:
   - Transformers do not process data sequentially. Instead, they ==process the entire sequence in parallel==, allowing them to ==model relationships between tokens regardless of their position==. This is achieved through the self-attention mechanism.

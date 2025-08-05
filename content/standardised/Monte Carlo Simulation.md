@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - statistics
+  - algorithm
 ---
 Resources:
 - https://www.youtube.com/watch?v=r7cn3WS5x9c

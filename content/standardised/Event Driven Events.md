@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - devops
 ---
 Events can be stored in a [[Data Lake]] and analysed to find patterns/predictions.  
 

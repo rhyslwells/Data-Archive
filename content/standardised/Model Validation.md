@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 1-08-2025
-tags: []
+tags:
+  - modeling
+  - evaluation
 ---
 Model Validation refers to the process of evaluating a machine learning model's performance on a separate dataset (often called the validation set) to ensure it generalizes well to new, unseen data. This step is crucial for tuning [[Model Parameters]], selecting the best model, and preventing overfitting. Validation helps in assessing how well the model will perform in real-world scenarios.
 

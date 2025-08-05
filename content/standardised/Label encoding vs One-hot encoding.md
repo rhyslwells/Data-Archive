@@ -1,12 +1,13 @@
 ---
-aliases: []
+aliases: 
 category: ML
 date modified: 27-07-2025
-tags: []
+tags:
+  - preprocessing
 ---
 [[Label Encoding]] and [[One-hot encoding]] give different predictions because they represent categorical variables in fundamentally different ways. 
 
-- Label Encoding might cause issues by implying an ==ordinal== relationship between categories, leading to biased predictions.
+- [[Label Encoding]] might cause issues by implying an ==ordinal== relationship between categories, leading to biased predictions.
 - One-Hot Encoding prevents this by treating categories independently, resulting in more accurate predictions when there's no natural order among the categories.
 
 Key Differences in Predictions:

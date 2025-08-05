@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - clustering
 ---
 Hierarchical clustering builds a treelike structure of clusters, with similar clusters merged together at higher levels.
 

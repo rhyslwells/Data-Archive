@@ -18,7 +18,7 @@ Balancing Granularity:
 
 Semantic Layer:
    - A [[semantic layer]] sits on top of transformed data in a data warehouse, providing flexibility and enabling ad-hoc analysis without needing to store every possible data representation.
-   - This is akin to [[OLAP]] cubes, where you can perform complex queries (slice-and-dice) on large datasets without pre-storing all combinations.
+   - This is akin to [[OLAP (online analytical processing)]] cubes, where you can perform complex queries (slice-and-dice) on large datasets without pre-storing all combinations.
 
 ## Choosing the level of granularity
 

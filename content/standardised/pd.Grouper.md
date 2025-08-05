@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - transformation
 ---
 `pd.Grouper` is a utility in pandas used with `.groupby()` to flexibly group data by a specific column, often useful for time-based grouping, multi-index grouping, or applying custom frequency aggregation.
 

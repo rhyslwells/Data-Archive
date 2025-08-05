@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - explainability
 ---
 [[PCA Explained Variance Ratio]]
 - The variance explained by each principal component is printed using `pca.explained_variance_ratio_`.

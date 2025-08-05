@@ -21,7 +21,7 @@ Refernences:
 
 Context:  
 
-HBOS is a non-parametric method that detects anomalies by analyzing the distribution of individual features independently. It relies on histograms, which estimate feature density.
+HBOS is a [[non-parametric]] method that detects anomalies by analyzing the distribution of individual features independently. It relies on histograms, which estimate feature density.
 
 Purpose:  
 To identify outliers as data points falling in bins with low frequencies or densities.

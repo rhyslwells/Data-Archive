@@ -32,5 +32,5 @@ $$
 
 - Q-learning is well-suited for environments where the state and action spaces are discrete and manageable in size.
 - The algorithm is designed to converge to the optimal policy, even in non-deterministic environments, as long as each state-action pair is sufficiently explored.
-- [[Exploration vs. Exploitation]]
+- [[Exploration vs Exploitation]]
 

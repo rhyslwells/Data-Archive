@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 1-08-2025
-tags: []
+tags:
+  - modeling
+  - selection
 ---
 The Model Building phase follows the [[Preprocessing]] phase, where data is organized and prepared for analysis. This phase focuses on selecting and setting up the appropriate machine learning models to solve the problem at hand.
 ## Key Steps
@@ -16,6 +18,6 @@ Setting Up a Model:
 - Divide the data into [[Train-Dev-Test Sets]] to ensure robust evaluation and tuning.
 - Optimize [[Model Parameters]] and configurations for best performance.
 
-Model Selection:
+[[Model Selection]]:
 - Evaluate the appropriateness of models in the [[Model Selection]] phase.
 

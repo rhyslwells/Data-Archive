@@ -30,7 +30,7 @@ Model Assumptions: These are overarching assumptions that apply to specific stat
 
 Distribution Assumptions: Different statistical tests make specific assumptions about the distribution of the data:
   - Parametric Tests: Assume that the data follows a certain distribution (e.g., normal).
-  - Non-parametric Tests: Do not require such distributional assumptions and can be applied to data that does not meet these criteria.
+  - [[Non-parametric Tests]]: Do not require such distributional assumptions and can be applied to data that does not meet these criteria.
 #### Additional Considerations:
 
 Testing Assumptions: It is important to test these assumptions before conducting statistical analyses. Common methods include:
@@ -43,5 +43,5 @@ Consequences of Violating Assumptions: Understanding the implications of assumpt
 
 Transformations and Alternatives: When assumptions are violated, consider:
   - Data Transformations: Such as log, square root, or Box-Cox transformations to meet assumptions.
-  - Alternative Methods: Using robust statistical techniques that are less sensitive to assumption violations, such as bootstrapping or non-parametric tests.
+  - Alternative Methods: Using robust statistical techniques that are less sensitive to assumption violations, such as bootstrapping or [[non-parametric]] tests.
   - Contextual Relevance: The relevance of specific assumptions may vary depending on the context of the analysis and the nature of the data. Always consider the specific characteristics of the dataset when evaluating assumptions.

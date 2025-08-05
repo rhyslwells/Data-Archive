@@ -25,7 +25,7 @@ tags: [portal]
 - [[Data Quality]]: Maintaining high-quality data for reliable insights.  
 - [[Availability]]: Ensuring that data is available when required by authorized users.  
 
- Interoperability  
+ [[Interoperability]]  
 - [[Interoperability]]: Ensuring that different systems and tools can work together seamlessly.  
 - [[Data Compatibility]]: Ensuring data is compatible with different systems.
 

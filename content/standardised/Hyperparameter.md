@@ -1,8 +1,10 @@
 ---
-aliases: []
+aliases: 
 category: 
 date modified: 1-08-2025
-tags: []
+tags:
+  - modeling
+  - optimisation
 ---
 Hyperparameters are parameters set before training that control the learning process, such as:
 - the number of nodes in a [[Neural network]] 

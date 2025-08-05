@@ -10,7 +10,7 @@ Recurrent Neural Networks (RNNs) are a type of [[neural network]] designed to pr
 - speech recognition, 
 - and [[NLP|natural language processing]] (NLP). 
 
-RNNs have loops in their architecture, ==allowing information to persist across sequence steps.== However, they face challenges with long sequences due to [[vanishing and exploding gradients problem]]. To address these issues, variants like Long Short-Term Memory ([[LSTM]]) and [[Gated Recurrent Unit]] (GRU) have been developed.
+RNNs have loops in their architecture, ==allowing information to persist across sequence steps.== However, they face challenges with long sequences due to [[vanishing and exploding gradients problem]]. To address these issues, variants like Long Short-Term Memory ([[LSTM]]) and [[GRU]] (GRU) have been developed.
 ### Resources:
 [Video link](https://www.youtube.com/watch?v=TLLqsEyt8NI&list=PLcWfeUsAys2nPgh-gYRlexc6xvscdvHqX&index=9)
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks

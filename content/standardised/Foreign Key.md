@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - database
 ---
 A foreign key is a field in one table that uniquely identifies a row in another table, linking to the primary key of that table.
 
@@ -10,7 +11,7 @@ For example, `DepartmentID` in the ==Employees== table links to `DepartmentID` i
 
 Foreign keys establish relationships between tables and maintain referential integrity by ensuring valid connections between records.
 
-**Departments Table**
+Departments Table
 
 | DepartmentID | DepartmentName      |
 |--------------|----------------------|
@@ -18,7 +19,7 @@ Foreign keys establish relationships between tables and maintain referential int
 | 2            | IT                   |
 | 3            | Marketing            |
 
-**Employees Table**
+Employees Table
 
 | EmployeeID | EmployeeName | DepartmentID |
 |------------|--------------|---------------|

@@ -1,8 +1,10 @@
 ---
-aliases: []
+aliases: 
 category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - system
+  - management
 ---
 Modern version of setting up dependencies instead of requirements.txt ([[dependency manager]])
 

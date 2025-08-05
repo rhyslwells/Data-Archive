@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - evaluation
 ---
 Methods for assessing the quality and relevance of LLM-generated outputs, critical for improving model performance.
 

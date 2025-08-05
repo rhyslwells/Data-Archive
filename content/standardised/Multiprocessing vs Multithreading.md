@@ -1,8 +1,9 @@
 ---
-aliases: []
+aliases: 
 category: CS
 date modified: 27-07-2025
-tags: []
+tags:
+  - programming
 ---
 The difference between [[multiprocessing]] and multithreading lies primarily in how [[concurrency]] is achieved, the resources used, and Python-specific constraints like the Global Interpreter Lock (GIL).
 

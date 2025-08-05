@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - file_type
+  - software
 ---
 Geographic information system.
 
@@ -16,6 +18,6 @@ The Web Map Tile Service (WMTS) and Web Feature Server (WFS) are both specificat
 
 [[shapefile]]
 
-There are free GIS softwares
+There are free GIS software
 
 

@@ -1,7 +1,8 @@
 ---
-aliases: []
+aliases: 
 category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - database
 ---
 Use to facilitate many to many relationships.

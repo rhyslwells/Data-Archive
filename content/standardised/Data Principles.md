@@ -18,7 +18,7 @@ Data principles are essential for ensuring that data is managed, used, and maint
 
 6. Data Transparency: Maintain transparency about data collection, usage, and sharing practices. This helps build trust with stakeholders and ensures accountability.
 
-7. Data Consistency: Standardize data formats and definitions across the organization to ensure consistency and interoperability.
+7. Data Consistency: Standardize data formats and definitions across the organization to ensure consistency and [[interoperability]].
 
 8. Data Stewardship: Assign data stewards to oversee [[data management]] practices, ensuring data quality, compliance, and proper usage.
 

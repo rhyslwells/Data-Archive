@@ -9,7 +9,7 @@ Reinforcement Learning ( [[Reinforcement learning|RL]]) is a branch of machine l
 
 1. Sample Efficiency: Many RL algorithms require a large number of interactions with the environment to learn effectively. Research is focused on developing methods to improve sample efficiency, such as model-based approaches and transfer learning.
     
-2. [[Exploration vs. Exploitation]]: Balancing exploration (trying new actions) and exploitation (choosing known rewarding actions) remains a challenge. New strategies, such as curiosity-driven learning and bandit algorithms, are being investigated.
+2. [[Exploration vs Exploitation]]: Balancing exploration (trying new actions) and exploitation (choosing known rewarding actions) remains a challenge. New strategies, such as curiosity-driven learning and bandit algorithms, are being investigated.
     
 3. [[Multi-Agent Reinforcement Learning]]: Extending RL to environments with multiple interacting agents introduces complexity in learning optimal strategies. Research includes coordination, competition, and communication between agents.
     

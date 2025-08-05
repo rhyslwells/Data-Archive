@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - frontend
+  - devops
 ---
 **FastAPI** is a modern web framework for building APIs with Python. It is designed to be fast and easy to use, leveraging Python's type hints to provide features like:
 

@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - system
 ---
 Memory Caching
-  - Use in-memory caches to store frequently accessed data closer to the user, reducing latency.
+  - Use in-memory caches to store frequently accessed data closer to the user, reducing [[latency]].

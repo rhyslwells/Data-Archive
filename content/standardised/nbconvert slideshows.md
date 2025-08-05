@@ -1,9 +1,12 @@
 ---
-aliases: []
+aliases: 
 category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - documentation
+  - communication
 ---
+[[nbconvert]]
 
 Examples:
 - https://digitalhumanities.hkust.edu.hk/tutorials/turn-your-jupyter-notebook-into-interactive-presentation-slides-using-anaconda/

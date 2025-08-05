@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - transformation
 ---
 ### Joining Datasets
 
@@ -10,7 +11,7 @@ In [[DE_Tools]] see:
 - https://github.com/rhyslwells/DE_Tools/blob/main/Explorations/Transformation/Joining.ipynb
 
 ```python
-# Merge
+# [[Merge]]
 df1 = pd.DataFrame({'key': ['A', 'B'], 'value': [1, 2]})
 df2 = pd.DataFrame({'key': ['A', 'B'], 'value': [3, 4]})
 merged_df = pd.merge(df1, df2, on='key')

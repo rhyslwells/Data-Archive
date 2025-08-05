@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 1-08-2025
-tags: []
+tags:
+  - regressor
+  - optimisation
 ---
 LBFGS stands for Limited-memory Broyden-Fletcher-Goldfarb-Shanno, which is an [[Optimisation function]]optimization algorithm used to find the minimum of a function. In the context of [[logistic regression]], LBFGS is a method for optimizing the cost function to find the optimal [[Model Parameters]] (such as the intercept and coefficients).
 

@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - statistics
+  - management
 ---
 Handling different [[distributions]] is needed for developing robust, fair, and accurate machine learning models that can adapt to a wide range of data environments.
 

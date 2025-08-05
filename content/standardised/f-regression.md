@@ -35,7 +35,7 @@ Use `f_regression` when:
 
 Do not use `f_regression` when:
 
-* Your model is non-linear or non-parametric.
+* Your model is non-linear or [[non-parametric]].
 * Feature interactions are essential to the model’s behavior.
 * You're working with [[Classification]] tasks — instead, use `f_classif`.
 

@@ -27,7 +27,7 @@ Benefits:
 ![[Pasted image 20241219071904.png]]
 
 
-### Example: 
+### Example: [[MNIST]]
 
 ```python
 import tensorflow as tf

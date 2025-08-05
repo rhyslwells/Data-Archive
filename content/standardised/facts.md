@@ -1,8 +1,9 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 27-07-2025
-tags: []
+tags:
+  - business
 ---
 Facts are quantitative data points that are typically stored in the [[Fact Table]].
 

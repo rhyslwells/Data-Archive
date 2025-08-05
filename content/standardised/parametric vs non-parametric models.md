@@ -18,7 +18,7 @@ Characteristics:
   Examples: 
   - Linear [[Regression]], [[logistic regression]], neural networks (with a fixed architecture).
 
-### Non-parametric Models [[non-parametric]] Models
+### [[Non-parametric]] Models [[non-parametric]] Models
 
 Definition: Models that do ==not assume a fixed form for the function== mapping inputs to outputs and can grow in complexity with more data.
 

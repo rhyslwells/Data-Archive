@@ -14,7 +14,7 @@ The choice between [[SQLAlchemy]] and [[SQLite]] depends on your specific needs.
 
 | Feature     | SQLAlchemy                                 | sqlite3                          |
 | ----------- | ------------------------------------------ | -------------------------------- |
-| Abstraction | High-level ORM (Object Relational Mapping) | Low-level, direct SQL execution  |
+| Abstraction | High-level [[Object Relational Mapper|ORM]] (Object Relational Mapping) | Low-level, direct SQL execution  |
 | Ease of Use | Pythonic API for working with databases    | Requires writing raw SQL queries |
 | Best for    | Large projects, scalable applications      | Simple scripts, small projects   |
 

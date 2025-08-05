@@ -14,7 +14,7 @@ Context:
 - LMMs tend to forget
 - Tend to forget over sessions due to fixed context windows
 - Want to avoid user frustration
-- Large context results in high cost, and large latency.
+- Large context results in high cost, and large [[latency]].
 - Dont want memory based on input size
 
 

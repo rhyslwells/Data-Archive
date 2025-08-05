@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 1-08-2025
-tags: []
+tags:
+  - python
+  - data_quality
 ---
 While [[Pyright]] and [[Pydantic]] serve different roles in Python development, they complement each other well. 
 
