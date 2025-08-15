@@ -1,8 +1,10 @@
 ---
-aliases: []
+aliases: 
 category: DE
 date modified: 1-08-2025
-tags: [database]
+tags:
+  - database
+  - SQL
 ---
 ### How to Add a Database to PostgreSQL  
 

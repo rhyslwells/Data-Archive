@@ -1,8 +1,11 @@
 ---
-aliases: []
+aliases: 
 category: 
 date modified: 1-08-2025
-tags: [database]
+tags:
+  - database
+  - SQL
+  - programming
 ---
 Lightweight [[Database Management System (DBMS)|DBMS]] used in various applications (phone apps, desktop apps, websites).
 

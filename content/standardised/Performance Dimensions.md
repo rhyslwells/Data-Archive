@@ -1,8 +1,10 @@
 ---
-aliases: []
+aliases: 
 category: 
 date modified: 1-08-2025
-tags: [portal]
+tags:
+  - portal
+  - term
 ---
  Efficiency & Performance  
 - [[Cost-efficiency]]: Ensuring that the solutions used are cost-effective and provide value for money.  
@@ -19,6 +21,7 @@ tags: [portal]
 - [[Simplicity]]: Keeping the system easy to manage and understand, reducing complexity.  
 - [[Usability]]: Providing a clear and intuitive structure that is easy for business users to understand and navigate.  
 - [[Accessibility]]: Ensuring that data is accessible when needed by authorized users.
+- [[Capability]]
 
  Data Quality & Integrity  
 - [[Data Integrity]]: Ensuring data accuracy and consistency.  
@@ -27,7 +30,8 @@ tags: [portal]
 
  [[Interoperability]]  
 - [[Interoperability]]: Ensuring that different systems and tools can work together seamlessly.  
-- [[Data Compatibility]]: Ensuring data is compatible with different systems.
+- [[Compatibility]]: Ensuring data is compatible with different systems.
+- [[portability]]
 
 
 [[Maintainability]]

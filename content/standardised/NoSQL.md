@@ -11,9 +11,6 @@ tags:
  **NoSQL Databases**: Accommodate unstructured data and can be represented through graph theory or document-based structures, allowing for flexible data models.
 
 
-
-### [[NoSQL]]
-
 Definition: A family of databases that store data in non-tabular formats, often optimized for scalability, flexibility, or specific access patterns.
 
 #### Types:

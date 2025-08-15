@@ -5,6 +5,7 @@ date modified: 1-08-2025
 tags:
   - database
   - python
+  - SQL
 ---
 ### SQLAlchemy vs. sqlite3: Which One Should You Use?
 

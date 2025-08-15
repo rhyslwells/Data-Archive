@@ -5,6 +5,7 @@ date modified: 27-07-2025
 tags:
   - python
   - database
+  - SQL
 ---
 Choosing between **[[DuckDB]]** and **[[SQLite]]** for data processing in [[Python]] depends on your specific use case and requirements.
 

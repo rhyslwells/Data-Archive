@@ -1,26 +1,22 @@
 ---
-aliases: []
+aliases: 
 category: 
 date modified: 1-08-2025
-tags: [database, management]
+tags:
+  - database
+  - management
+  - SQL
 ---
-- [ ] Explore by using a small dataset. What can you do with it, difference from [[SQLite]]
-#### Installation
-[How to set up a Postgres database on your Windows 10 PC](https://www.youtube.com/watch?v=4J0V3AaiOns)
+Think of PostgreSQL as the “brains” — it does the actual work of managing data.
 
-In [[Tableau]] can connect to a database here.
+- Type: Database management system (DBMS).
+- Role: The actual database engine that stores, processes, and manages your data.
+- Nature: Runs as a server process and is accessed via SQL queries (e.g., through `psql`, scripts, or applications).
+- Usage:
+    - Define schemas, tables, indexes, and relationships.
+    - Insert, query, update, and delete data.
+    - Handle transactions, concurrency, and security.
+- Interface: Can be used purely via command line or programmatically through APIs/drivers (Python `psycopg2`, JDBC, etc.).
 
-There are plugins.
-
-Spatial objects?
-
-Connections to database tables: hosted
-
-#### Connecting
-
-[[Adding a database to PostgreSQL]]
-
-#### PGAdmin
-pgadmin tools: to check system information
-
-![[Pasted image 20250329081752.png]]
+Related:
+- [[pgAdmin]]

@@ -6,6 +6,8 @@ tags:
   - documentation
   - communication
 ---
+This tool converts [[ipynb]] into a slideshow.
+
 [[nbconvert]]
 
 Examples:

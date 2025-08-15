@@ -1,10 +1,13 @@
 ---
-aliases: []
+aliases:
+  - Batch
 category: 
 date modified: 1-08-2025
-tags: [file_type]
+tags:
+  - file_type
+  - system
 ---
-### Batch Files in Windows: Capabilities and Use Cases
+### Batch Files in [[Windows]]: Capabilities and Use Cases
 
 Batch (`.bat`) files are plain-text scripts interpreted by `cmd.exe`. ([[Command Prompt]]). They allow users to automate tasks, orchestrate program execution, and manage files or system state using built-in Windows commands. While simple, they are effective for both personal automation and lightweight operational workflows.
 

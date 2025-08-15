@@ -20,6 +20,11 @@ Periodically do these:
 - Integrate Google Keep Notes (In Calendar)
 - Clear Physical Book Notes (In Calendar)
 - Review Blog Drafts | Githubio (In Calendar)
+- Generate/Review Flashcards (In Calendar)
+
+Once in a while:
+- Review tags
+- Use [[Linter]]
 
 Further analysis:
 - Use [[Graph Analysis Plugin]] to investigate graph relations.

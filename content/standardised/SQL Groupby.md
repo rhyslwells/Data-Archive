@@ -1,8 +1,10 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 1-08-2025
-tags: [querying, transformation]
+tags:
+  - transformation
+  - SQL
 ---
 The [[SQL]] `GROUP BY` clause is used to group rows that have the same values in specified columns into summary rows, like "total sales per region" or "average age per department." 
 

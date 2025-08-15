@@ -15,17 +15,9 @@ Workflow of Data Modeling:
 2) [[Logical Model]]
 3) [[Physical Model]]
 
-
 Types of Modeling:
 - Relational: Organizes data into tables.
 - Object-Oriented: Focuses on objects and their state changes, e.g., robots in a car factory.
 - Entity: Uses [[ER Diagrams]] to represent data entities and relationships.
 - Network: An extension of hierarchical models.
 - Hierarchical: Organizes data in a tree-like structure.
-
-
-
-
-
-[[Data Modelling]]
-   **Tags**:,

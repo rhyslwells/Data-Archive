@@ -4,6 +4,7 @@ category:
 date modified: 27-07-2025
 tags:
   - SQL
+  - security
 ---
 SQL injection is a code injection technique that targets applications using SQL databases. It occurs when a malicious user injects harmful SQL code into a query executing unintended commands, potentially compromising the [[Data Security]] of the database. 
 
@@ -77,7 +78,7 @@ SET @id = 1;
 EXECUTE `balance_check` USING @id;
 ```
 
-Here, the `SET` statement simulates obtaining the user’s ID through the application, with the `@` symbol denoting a variable in MySQL.
+Here, the `SET` statement simulates obtaining the user’s ID through the application, with the `@` symbol denoting a variable in [[MySQL]].
 
 ### Testing with Malicious Input
 

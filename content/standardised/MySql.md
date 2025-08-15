@@ -1,11 +1,14 @@
 ---
-aliases: []
+aliases: 
 category: DE
 date modified: 1-08-2025
-tags: [database, management]
+tags:
+  - database
+  - management
+  - SQL
 ---
 
-MySQL has more ==granularity== with types than SQLite. For example, an integer could be `TINYINT`, `SMALLINT`, `MEDIUMINT`, `INT` or `BIGINT` based on the size of the number we want to store. 
+MySQL has more ==[[granularity]]== with types than [[SQLite]]. For example, an integer could be `TINYINT`, `SMALLINT`, `MEDIUMINT`, `INT` or `BIGINT` based on the size of the number we want to store. 
 
 The following table shows us the size and range of numbers we can store in each of the integer types.
     

@@ -10,13 +10,13 @@ Welcome to the Data Archive, an archive of data-related concepts inspired by the
 | ----------------------------------------------------------------------------------- |
 | #classifier #regressor #clustering<br>#deep_learning #anomaly_detection #algorithm  |
 
-| Focus: modeling techniques, ML lifecycle, explainability          |
-| ----------------------------------------------------------------- |
-| #process #optimisation #explainability<br>#evaluation |
+| Focus: modeling techniques, ML lifecycle, explainability             |
+| -------------------------------------------------------------------- |
+| #process #optimisation #explainability<br>#evaluation #modeling #ml  |
 
 | Focus: ML model structure, algorithms, and architecture |
 | ------------------------------------------------------- |
-| #modeling #architecture                    |
+| #modeling #architecture #algorithm <br>                 |
 ### [[Data Engineering Portal]]
 
 | Focus: cleaning, transforming, and processing |
@@ -42,9 +42,9 @@ Welcome to the Data Archive, an archive of data-related concepts inspired by the
 | #exploration #communication #visualization<br>#analysis |
 ### [[Software Development Portal]]
 
-| Focus: software development, tools, and system design                                                                  |
-| ---------------------------------------------------------------------------------------------------------------------- |
-| #software #orchestration #software<br> #code_snippet #architecture #system<br> #file_type #test #programming<br> #term |
+| Focus: software development, tools, and system design                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------- |
+| #software #orchestration #software<br> #code_snippet #architecture #system<br> #file_type #test #programming<br> #term #automation  |
 ### [[Project Management Portal]]
 
 | Focus: Communication, Project work               |

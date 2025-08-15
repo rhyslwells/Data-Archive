@@ -5,7 +5,6 @@ date modified: 27-07-2025
 tags: [software]
 ---
 At a system level, working with `.ipynb` (Jupyter Notebook) files involves understanding them as structured [[JSON]] documents, and then managing, manipulating, or integrating them into broader data workflows, systems, or tools. Here's a breakdown of what you can do at that level:
-
 ### Programmatic Manipulation (as JSON)
 
 `.ipynb` files are JSON-structured documents. At a system level, you can:
@@ -29,7 +28,6 @@ Convert notebooks into various formats:
 * Python scripts (`nbconvert`)
 * Slideshows ([[Reveal.js]])
 * Markdown for publishing
-
 ### Embedding and Serving
 * Serve as interactive documentation or reports (e.g., [[Jupyter Book]])
 * Used in browser-based notebook environments (JupyterHub, [[Google Colab]]).

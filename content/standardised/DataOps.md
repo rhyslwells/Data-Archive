@@ -1,0 +1,4 @@
+- Cross functional
+- stake holder involvement
+- Governance
+- Increased speed to value.

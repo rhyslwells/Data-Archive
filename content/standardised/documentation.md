@@ -7,3 +7,8 @@ tags:
   - communication
 ---
 How you transfer ideas.
+
+Markdown book maker: [mdBook](https://rust-lang.github.io/mdBook/guide/installation.html)
+
+Also see: https://marp.app/
+

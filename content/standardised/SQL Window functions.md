@@ -1,8 +1,11 @@
 ---
-aliases: []
-category:
+aliases: 
+category: 
 date modified: 1-08-2025
-tags: [analysis, querying]
+tags:
+  - analysis
+  - querying
+  - SQL
 ---
 SQL Window Functions are a feature in SQL that allow you to perform calculations across a set of table rows that are somehow related to the current row. 
 

@@ -4,7 +4,7 @@ category:
 date modified: 1-08-2025
 tags: [evaluation, explainability, process]
 ---
-Feature importance refers to ==techniques that assign scores to input features== (predictors) in a machine learning model to ==indicate their relative impact on the model's predictions.==
+Feature importance refers to ==techniques that assign scores to input features== (predictors) in a machine learning model to ==indicate their relative impact on the model's predictions.==. Part of [[Feature Selection]].
 
 Feature importance is typically assessed ==after== [[Model Building]]. It involves analyzing the trained model to determine the impact of each feature on the predictions.
 
