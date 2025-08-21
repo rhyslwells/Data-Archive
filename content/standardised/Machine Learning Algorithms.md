@@ -53,6 +53,6 @@ Data Dependence: The performance of machine learning algorithms heavily depends 
 
 [[Overfitting]] occurs when the model learns the training data too well and fails to generalise to new, unseen data.
 
-[[Bias and variance]]: Machine learning algorithms can be biased, reflecting the biases present in the training data.
+[[Bias in ML]]: Machine learning algorithms can be biased, reflecting the biases present in the training data.
 
 [[Interpretability]]: Some machine learning algorithms, especially deep learning models, can be complex and difficult to interpret, making it challenging to understand the reasoning behind their predictions.

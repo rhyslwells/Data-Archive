@@ -16,4 +16,4 @@ If you have a perfectly balanced dataset (unlike [[Imbalanced Datasets]]) but st
 
 5. Model Overfitting or Underfitting: If the model is overfitting, it may perform well on training data but poorly on unseen data. Conversely, if it is underfitting, it may not capture the complexity of the data, leading to poor accuracy.
 
-Addressing these issues may require exploring different [[feature engineering]] techniques, selecting more appropriate models, or adjusting [[Hyperparameter]]s to improve class separability.
+Addressing these issues may require exploring different [[Feature Engineering]] techniques, selecting more appropriate models, or adjusting [[Hyperparameter]]s to improve class separability.

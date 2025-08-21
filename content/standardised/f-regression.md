@@ -5,7 +5,7 @@ date modified: 1-08-2025
 tags: [explainability, statistics]
 ---
 
-`f_regression` is a statistical method provided by `sklearn.feature_selection` to evaluate the linear relationship between each independent variable in X and a continuous target variable y. It is a univariate [[feature selection]] method based on the [[F-statistic]] from simple linear regression.
+`f_regression` is a statistical method provided by `sklearn.feature_selection` to evaluate the linear relationship between each independent variable in X and a continuous target variable y. It is a univariate [[Feature Selection]] method based on the [[F-statistic]] from simple linear regression.
 
 Specifically:
 
@@ -30,7 +30,7 @@ Specifically:
 Use `f_regression` when:
 
 * You're performing linear regression and want to evaluate individual feature relevance.
-* You want a fast, interpretable [[filter method]] for selecting features before training.
+* You want a fast, interpretable [[Filter Methods]] for selecting features before training.
 * You assume no or limited multicollinearity between features.
 
 Do not use `f_regression` when:

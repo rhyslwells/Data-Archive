@@ -1,6 +1,13 @@
+---
+aliases: []
+category: INDUSTRY
+date modified: 21-08-2025
+tags:
+  - documentation
+---
 Aim of reports:
--  identify operational deviations
-- balancing multiple parameters
+- Identify operational deviations
+- Balancing multiple parameters
 
 Need to be:
-- user friendly
+- User friendly

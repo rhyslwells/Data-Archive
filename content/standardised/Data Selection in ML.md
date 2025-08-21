@@ -25,7 +25,7 @@ When selecting data for machine learning models, several important consideration
    - Examine the correlation between features. Highly correlated features can lead to [[multicollinearity]], which can affect model stability and interpretability. Consider removing or combining correlated features.
 
 7. Dimensionality: [[Dimensionality Reduction]]
-   - High-dimensional data can lead to overfitting. Techniques like [[feature selection]], dimensionality reduction (e.g., PCA), or regularization can help manage this.
+   - High-dimensional data can lead to overfitting. Techniques like [[Feature Selection]], dimensionality reduction (e.g., PCA), or regularization can help manage this.
 
 8. Temporal Considerations:
 - For time series data, ensure that the temporal order is maintained. Avoid data leakage by ensuring that future information is not used in training.

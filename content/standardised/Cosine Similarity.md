@@ -14,3 +14,5 @@ Cosine similarity is commonly used in
 - recommendation systems to compare document similarity, user preferences, or item features.
 
 In [[Binary Classification]], cosine similarity can be used as a feature to help distinguish between two classes. For instance, in text classification tasks, you might represent documents as vectors using techniques like [[TF-IDF]]. 
+
+Cosine = "How aligned are two vectors in direction?"

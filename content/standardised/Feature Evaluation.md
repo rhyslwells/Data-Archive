@@ -9,7 +9,7 @@ Effective models depend on high-quality, ==informative features==. Feature evalu
 
 #### Objectives
 * Determine the relevance, predictive power, and redundancy of features.
-* Guide [[feature selection]], engineering, and model interpretation.
+* Guide [[Feature Selection]], engineering, and model interpretation.
 
 #### Core Aspects
 

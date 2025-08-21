@@ -6,6 +6,8 @@ tags:
   - exploration
 ---
 This note collects notes on datasets that are good examples for exploring various concepts.
+
+Use UCI Machine Learning repository. 
 ## Heart Failure Prediction Dataset
 - **Link**: [Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 - **Useful for**: Exploring predictive modeling in healthcare.

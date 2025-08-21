@@ -40,7 +40,7 @@ Follow this structure. Only return the output of the followed structure, Do not 
 
 ### Related Topics
  - {{Related Topic 1: e.g., Predictive maintenance in energy systems}}  
- - {{Related Topic 2: e.g., [[Feature selection]] in machine learning models}}  
+ - {{Related Topic 2: e.g., [[Feature Selection]] in machine learning models}}  
 
 ### Topics of interest:
 

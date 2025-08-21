@@ -5,6 +5,7 @@ date modified: 27-07-2025
 tags:
   - process
 ---
-Determine the [[Data Quality]] and quantity of data required and get it.
+Determine the [[Data Quality]] and quantity of data required and get it from [[Data Sources]].
 
-[[Imbalanced Datasets]]
+Types of data:
+- [[Imbalanced Datasets]]

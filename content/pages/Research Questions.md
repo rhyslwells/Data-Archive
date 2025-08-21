@@ -92,5 +92,5 @@ WHERE contains(tags, "question") AND category = "INDUSTRY"
 # Tasks
 
 ```tasks
-not done;;;
+not done
 ```

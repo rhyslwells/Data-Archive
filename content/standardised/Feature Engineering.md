@@ -2,7 +2,9 @@
 aliases: []
 category: 
 date modified: 1-08-2025
-tags: ["#optimisation", process]
+tags:
+  - "#optimisation"
+  - process
 type:
 ---
 Its the term given to the iterative process of building good features for a better model. Its the process that makes relevant features (using formulas and relations between others). 
@@ -27,3 +29,9 @@ Predicting house prices. Raw features might be square footage, number of bedroom
 
 
 ![[C1_W2_Lab07_FeatureEngLecture.png]]
+
+Interaction terms: [[Feature Engineering]]:
+- Definition and Purpose: Interaction terms are new features created by combining existing ones to capture the interaction effects between them, improving model ==accuracy==.
+- Common Methods: Multiplication (e.g., square footage * number of bedrooms) and division (e.g., price per square foot) are common ways to create interaction terms.
+- Benefits: They help uncover ==complex patterns, tackle non-linearities==, and enhance the model's ability to learn how features influence each other.
+- Application: Use domain knowledge to identify meaningful interactions and start with simple, pairwise interactions to avoid overfitting.

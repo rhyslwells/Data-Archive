@@ -23,7 +23,7 @@ Cross-validation is a statistical technique used in machine learning to ==assess
 1. [[Model Evaluation]]: Used to evaluate the performance of different models or algorithms to choose the best one.
 2. [[Hyperparameter]] Tuning: Provides a reliable performance metric for each set of hyperparameters.
 3. [[Model Validation]]: Ensures consistent performance across different subsets of data.
-4. [[Bias and variance]] tradeoff: Helps in understanding the tradeoff between bias and variance, guiding the choice of model complexity.
+4. [[Bias in ML]] tradeoff: Helps in understanding the tradeoff between bias and variance, guiding the choice of model complexity.
 
 Advantages:
 - Reduced Bias: Offers a more reliable performance estimate compared to using a single validation set.

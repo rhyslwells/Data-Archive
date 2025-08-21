@@ -6,9 +6,10 @@ tags:
   - language_models
 ---
 
-Why small models work:
-They’re faster, cheaper, and can run on consumer hardware (laptops, even Raspberry Pi-level devices with optimisations) while giving acceptable quality for narrow, well-defined tasks. Pairing them with a vector store (e.g., Chroma, Weaviate, Milvus) for [[RAG]] can dramatically boost usefulness without increasing model size.
+- [ ] Can you load a local model onto a SD card and run it on a raspberry pi?
 
+Why small models work:
+- They’re faster, cheaper, and can run on consumer hardware (laptops, even Raspberry Pi-level devices with optimisations) while giving acceptable quality for narrow, well-defined tasks. Pairing them with a vector store (e.g., Chroma, [[Weaviate]], Milvus) for [[RAG]] can dramatically boost usefulness without increasing model size.
 ### Use cases
 
 #### Text Processing & Automation

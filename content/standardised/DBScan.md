@@ -9,7 +9,11 @@ DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a [[Clus
 - Used when [[K-means]] doesn't work: DBSCAN handles datasets with ==irregular cluster shapes== and is not sensitive to outliers like K-means.
 - When you have nesting of clusters: It can identify clusters of varying shapes and sizes without needing to predefine the number of clusters, unlike K-means.
 - Groups core points to make clusters: DBSCAN identifies core points, which have many nearby points, and groups them together.
-- Can identify [[Outliers]]: It detects noise points (outliers) that don't belong to any cluster.
+- Can identify [[Outliers]]: It detects noise points (outliers) that don't belong to any cluster. Points in low-density regions are identified as anomalies.
+
+Steps:
+  1. Cluster data points based on neighborhood density.
+  2. Identify points that do not belong to any dense cluster (noise) as anomalies.
 
 ### Python Example:
 
@@ -31,21 +35,7 @@ plt.show()
 ```
 
 This will cluster the data and visualize it, highlighting core points and marking outliers as separate clusters.
-
 ## Sources
 1. [hex.tech - When and Why To Choose Density-Based Methods](https://hex.tech/blog/comparing-density-based-methods/#:~:text=DBSCAN%20is%20a%20density%2Dbased)
 2. [newhorizons.com - DBSCAN vs. K-Means: A Guide in Python](https://www.newhorizons.com/resources/blog/dbscan-vs-kmeans-a-guide-in-python)
 
-
-
-## [[DBSCAN]]
-
-Purpose:  
-  - Detects anomalies based on density rather than explicit statistical models.
-
-Key Idea:  
-  - Points in low-density regions are identified as anomalies.
-
-Steps:
-  1. Cluster data points based on neighborhood density.
-  2. Identify points that do not belong to any dense cluster (noise) as anomalies.

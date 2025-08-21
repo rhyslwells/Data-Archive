@@ -6,6 +6,8 @@ tags:
   - exploration
   - transformation
 ---
+- [ ] How to simply implement [[Logistic Regression]] in [[KNIME]]
+
 ETL tool
 
 extract form sheets,
@@ -95,3 +97,9 @@ boosting
 active learning
 
 
+### Knime
+
+Can open google sheets in it
+https://www.youtube.com/watch?v=YIzyhRVIpHQ&ab_channel=EasifyDataScience
+
+Can do imputation for missing values

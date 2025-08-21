@@ -2,11 +2,17 @@
 aliases: []
 category: INDUSTRY
 date modified: 1-08-2025
-tags: [business, communication]
+tags:
+  - business
+  - communication
+  - documentation
 ---
 ## Tools  
 - [[pdoc]] – Auto-generate Python API documentation  
 - [[Mermaid]] – Create diagrams and flowcharts from text in a Markdown-like syntax  
+
+Meetings:
+- Have rules for whether a meeting is worth having and who should be involved. 
 ## Templates  
 
 ### Project & Technical Meetings  
@@ -33,66 +39,65 @@ tags: [business, communication]
 ## Meeting Types
 
 ### Project & Technical Meetings  
-- **Sprint Planning / Stand-ups (Agile):**  
+- Sprint Planning / Stand-ups (Agile):  
   Define priorities, plan tasks, and report blockers on a daily/weekly basis  
 
-- **Design & Architecture Reviews:**  
+- Design & Architecture Reviews:  
   Evaluate technical designs—e.g., pipeline architecture, schemas, model design  
-
-- **Code Reviews / Pair Programming:**  
+- Code Reviews / Pair Programming:  
   Collaborative code sessions for learning and validation  
 
-- **Pipeline/Model Monitoring & Debugging:**  
+- Pipeline/Model Monitoring & Debugging:  
   Diagnose failures, resolve data/model performance issues in production  
 
 ### Data & Analytics Meetings  
-- **Exploratory Data Analysis ([[EDA]]) Discussions:**  
+- Exploratory Data Analysis ([[EDA]]) Discussions:  
   Share insights, anomalies, or feature engineering results  
 
-- **Model Review & Evaluation:**  
+- Model Review & Evaluation:  
   Present metrics, discuss trade-offs (e.g., ROC-AUC, fairness, overfitting)  
 
-- **Data Quality & Validation:**  
+- Data Quality & Validation:  
   Ensure schema consistency, missing data checks, rule-based validations  
 
-- **Experiment Review:**  
+- Experiment Review:  
   Discuss A/B test results, statistical significance, and business impact  
 
 ### Cross-functional / Stakeholder Meetings  
 
-- **Product or Domain Team Syncs:**  
+- Product or Domain Team Syncs:  
   Discuss project goals, KPIs, data availability  
 
-- **Ad Hoc Analysis Requests:**  
+- Ad Hoc Analysis Requests:  
   Clarify requirements for exploratory or one-off reporting  
 
-- **User Feedback / Data Product Reviews:**  
+- User Feedback / Data Product Reviews:  
   Gather user input on dashboards, ML outputs, or data access tools  
 
-- **Requirements Grooming:**  
+- Requirements Grooming:  
   Translate business requirements into data/technical specifications  
 
 ### Reporting & Strategic Meetings  
 
-- **Quarterly Business Reviews / OKR Alignment:**  
+- Quarterly Business Reviews / OKR Alignment:  
   Evaluate progress against metrics and strategic initiatives  
 
-- **Dashboard Walkthroughs / Reporting Demos:**  
+- Dashboard Walkthroughs / Reporting Demos:  
   Demonstrate key metrics, performance trends, and data tooling  
 
-- **Metrics Definition Meetings:**  
+- Metrics Definition Meetings:  
   Align teams on KPI definitions, calculation logic, and data sources  
 
 ### Collaborative Initiatives  
 
-- **Knowledge Sharing / Lunch & Learns:**  
+- Knowledge Sharing / Lunch & Learns:  
   Internal sessions to demo tools, share best practices, or teach concepts  
 
-- **Workshops (e.g., dbt, Airflow, MLOps):**  
+- Workshops:
   Hands-on learning sessions for technical upskilling  
 
-- **Data Governance / Compliance:**  
+- Data Governance / Compliance:  
   Ensure responsible data use, privacy adherence, and lineage tracking  
 
-- **Hackathons / Innovation Days:**  
+- Hackathons / Innovation Days:  
   Time-boxed events for experimentation and cross-team collaboration  

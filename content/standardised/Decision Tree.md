@@ -10,19 +10,20 @@ Decision Tree Structure are a flowchart-like model where each internal node repr
 
 Splits data recursively based on feature importance, forming a tree-like structure.
 
-The decision tree algorithm calculates the [[Gini impurity]] for each possible split and selects the one with the lowest impurity. Use to make predictions on new data, the algorithm traverses the decision tree from the root node to a leaf node, following decision rules based on input features. Once it reaches a leaf node, it assigns the corresponding class label or prediction.
+The decision tree algorithm calculates the i.e the [[Gini impurity]] for each possible split and selects the one with the lowest impurity. Use to make predictions on new data, the algorithm traverses the decision tree from the root node to a leaf node, following decision rules based on input features. Once it reaches a leaf node, it assigns the corresponding class label or prediction.
+
+Also see: [[CART]]
 
 ![[Pasted image 20240404154526.png|500]]
 ### Key Concepts
 
 1. Objective: Predict a target variable using input features.
 2. Splitting: Identify the best feature to split the data into subsets, aiming for homogeneous groups.
-3. Impurity Calculation: Use metrics like [[Gini Impurity]] or [[Cross Entropy]] ([[Gini Impurity vs Cross Entropy]])to evaluate splits. Choose the split that minimizes impurity.
+3. Impurity Calculation: Use metrics like [[Gini Impurity]] or [[Cross Entropy]] ([[Gini Impurity vs Cross Entropy]]) to evaluate splits. Choose the split that minimizes impurity.
 4. Purity: A node is pure if it perfectly classifies the data, requiring no further splits.
 5. Leaf Node Output: Assigns the most common class label or average value in the node.
 6. [[Overfitting]]: Can occur if the tree is too complex. Mitigate with [[pruning]] and limiting tree depth.
 7. [[Cross Validation]]: Refine the model to better generalize to new data.
-
 ### Splitting Process
 
 The splitting process in a Decision Tree involves dividing the dataset into subsets to create a tree-like structure. This process is crucial for building an effective model that can predict target variables accurately.
@@ -68,7 +69,6 @@ Can use [[GridSeachCv]] to pick the best paramaters.
 | `class_weight`      | Adjusts for imbalanced data      | Improves fairness.          | `class_weight='balanced'` or `class_weight={0:1, 1:2}`. |
 | `ccp_alpha`         | Pruning parameter                | Simplifies tree.            | `ccp_alpha=0.01` prunes weak splits based on complexity. |
 
-
 ### Advantages and Disadvantages of Decision Trees
 
 Advantages:
@@ -80,6 +80,4 @@ Disadvantages:
 - Prone to overfitting, especially with complex datasets.
 - Sensitive to small changes in data.
 - Can become complex with many features.
-
-[[Decision Tree]]
 

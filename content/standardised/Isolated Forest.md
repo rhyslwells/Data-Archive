@@ -23,7 +23,7 @@ Isolation Forest is highly efficient for large datasets and is particularly usef
  - **Isolation Trees (iTrees)**: Binary trees where the goal is to isolate observations based on randomly chosen features and split values.  
  - **Anomaly Score**: Calculated based on the average path length across all isolation trees.  
  - **Path Length**: Anomalies tend to have shorter path lengths as they are easier to isolate.  
- - **Random Splitting**: Random [[feature selection]] and splitting result in the separation of instances, with fewer splits isolating anomalies.
+ - **Random Splitting**: Random [[Feature Selection]] and splitting result in the separation of instances, with fewer splits isolating anomalies.
 
 Important
  - Anomalies are identified based on shorter average path lengths in the isolation forest, ==indicating that fewer splits are needed to isolate them.==  

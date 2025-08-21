@@ -4,7 +4,7 @@ category:
 date modified: 1-08-2025
 tags: [software]
 ---
-Software to [[search]] through a computer effectively.
+Software to [[Search]] through a computer effectively.
 
 - [ ] Can we search with descriptions ? 
 

@@ -21,3 +21,7 @@ Types of Modeling:
 - Entity: Uses [[ER Diagrams]] to represent data entities and relationships.
 - Network: An extension of hierarchical models.
 - Hierarchical: Organizes data in a tree-like structure.
+
+
+For flat files:
+- Various modeling techniques are applied to the data, and parameters are tuned to improve performance. Models like decision trees, neural networks, or [[Clustering]] may be used.

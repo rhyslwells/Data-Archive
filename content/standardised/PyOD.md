@@ -1,14 +1,18 @@
 ---
 aliases: 
-category: 
+category: ML
 date modified: 27-07-2025
 tags:
   - anomaly_detection
+  - python
 ---
 Python Outlier Detection library, covers many algorithms (tabular, numeric).
 
-| PyOD - Ensembles    | Combines multiple detectors — if a point scores high across methods, it is more confidently an outlier. |
-| :------------------ | :------------------------------------------------------------------------------------------------------ |
+PyOD - Ensembles Combines multiple detectors — if a point scores high across methods, it is more confidently an outlier. 
+
+Related to:
+- [[Anomaly Detection]]
+
 
 ```python
 # Step 1: Import libraries

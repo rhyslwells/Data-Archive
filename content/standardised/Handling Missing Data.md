@@ -2,7 +2,9 @@
 aliases: []
 category: DS
 date modified: 1-08-2025
-tags: [preprocessing, transformation]
+tags:
+  - preprocessing
+  - transformation
 ---
 Missing data can provide insights into the data collection process. It's important to determine whether the missing data is randomly distributed or specific to certain features. Filling in data is a type of [[Data Transformation]].
 
@@ -37,3 +39,5 @@ Replace Missing Values:
   - `df.reindex`: Reindexes the DataFrame.
   - Imputation methods for filling in missing data so that it has a higher likelyhood of being true.
 
+Related:
+- [[Missing Data]]

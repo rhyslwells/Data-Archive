@@ -1,8 +1,12 @@
 ---
-aliases: [KPI, Measure]
-category:
+aliases:
+  - KPI
+  - Measure
+category: 
 date modified: 1-08-2025
-tags: [business]
+tags:
+  - business
+  - evaluation
 ---
 ### Metrics in Machine Learning
 
@@ -17,3 +21,10 @@ For example, think of ==operational metrics== that represent your company's perf
 Calculated measures are part of metrics and apply to specific [Dimensions](Dimensions.md) traditionally mapped inside a [Bus Matrix](term/bus%20matrix.md). 
 
 
+[[Metric]]
+Metrics: Pick two to focus on
+- [[Metric|KPI]]
+- Whats the goal of it,
+- [[Evaluation Metrics]]: Help to evaluate the model [[Model Evaluation]]
+- The context matters.
+- [[Imbalanced Datasets|Class Imbalance]] matters.

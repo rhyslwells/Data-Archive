@@ -38,7 +38,7 @@ While fine-tuning BERT on sentence pairs can help produce embeddings that better
 * [What is BERT and how does it work? | A Quick Review](https://www.youtube.com/watch?v=6ahxPTLZxU8&list=PLcWfeUsAys2my8yUlOa6jEWB1-QbkNSUl&index=12)
 ### Exploratory Questions
 
-* [ ] What does [[BERT]] learn about syntax vs semantics?
+* [ ] What does [[BERT]] learn about syntax vs semantics? ⏬
 * [ ] How do [[Attention mechanism]] heads contribute to sentence meaning?
 * [ ] What are the limitations of BERT for [[Sentence Similarity]] and sentence clustering?
 

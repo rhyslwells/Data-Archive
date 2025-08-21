@@ -10,7 +10,7 @@ Activation functions play a role in [[Neural network]] by introducing non-linear
 ### Key Uses of Activation Functions:
 
 1. Non-linearity: Without activation functions, neural networks would behave as linear models, unable to capture complex, non-linear patterns in the data
-2. [[Data transformation]]: Activation functions modify input signals from one layer to another, helping the model focus on important information while ignoring irrelevant data,
+2. [[Data Transformation]]: Activation functions modify input signals from one layer to another, helping the model focus on important information while ignoring irrelevant data,
 3. [[Backpropagation]]: They enable gradient-based optimization by making the network differentiable, essential for efficient learning.
 
 ### Purpose of Typical Activation Functions

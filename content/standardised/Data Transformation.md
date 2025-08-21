@@ -2,7 +2,10 @@
 aliases: []
 category:
 date modified: 1-08-2025
-tags: [cleaning, transformation]
+tags:
+  - cleaning
+  - transformation
+  - portal
 ---
 Data transformation is the process of converting data from one format to another. 
 
@@ -14,16 +17,16 @@ Data transformation may involve:
 - [[Joining Datasets]]
 - [[Normalisation of data]]
 - [[Normalised Schema]]
+- [[Imputation Techniques]]
 
 Others:
 - Sorting: Arranging data in a logical order.  
 - Validating: Ensuring data integrity and accuracy.  
 - Data Type Conversion: Changing data types (e.g., converting strings to integers).  
 - Schema Normalization: Ensuring a consistent data structure for efficiency.  
-
 Related:
 - [[Data Transformation with Pandas]]  
-- [[Data transformation in Data Engineering]]
-- [[Data transformation in Machine Learning]]
+- [[Data Transformation in Data Engineering]]
+- [[Data Transformation in Machine Learning]]
 - [[Benefits of Data Transformation]]
-
+- [[Feature Transformations]]

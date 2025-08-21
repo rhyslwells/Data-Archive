@@ -5,9 +5,14 @@ date modified: 27-07-2025
 tags:
   - cleaning
 ---
-### Imputation Techniques
-
 For columns with say less than 30% missing data, you can fill in missing values using various imputation techniques.
+
+Questions when doing:
+- How to do this properly?
+- Does it make sense to do 
+- Are there related variables, group based on these
+
+Also see: [[KNIME]]
 
 ```python
 from sklearn.preprocessing import Imputer

@@ -63,7 +63,6 @@ This equation shows that ==logistic regression models the log-odds of the probab
 
 - Unlike [[Linear Regression]], logistic regression does not compute standard residuals.
 - Instead, [[Model Evaluation]] is performed by comparing predicted probabilities with actual class labels using metrics such as accuracy, precision, recall, and the [[Confusion Matrix]].
-
 ### Also see:
 
 Related terms:
@@ -77,3 +76,8 @@ Logistic regression can be extended to handle non-linear decision boundaries thr
 - Regularization techniques to improve generalization.
 
 [Explaining logistic regression](https://www.youtube.com/watch?v=Iju8l2qgaJU)
+
+Notes:
+- binary or classification options
+- in google sheets?
+- coefficients help with [[Feature Importance]]

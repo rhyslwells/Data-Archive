@@ -47,9 +47,9 @@ Welcome to the Data Archive, an archive of data-related concepts inspired by the
 | #software #orchestration #software<br> #code_snippet #architecture #system<br> #file_type #test #programming<br> #term #automation  |
 ### [[Project Management Portal]]
 
-| Focus: Communication, Project work               |
-| ------------------------------------------------ |
-| #career #field #question #drafting <br>#business |
+| Focus: Communication, Project work                        |
+| --------------------------------------------------------- |
+| #career #field #question #drafting <br>#business #documentation  |
 ### Others
 
 | Focus: computational tags                                         |
