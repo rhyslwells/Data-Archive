@@ -45,7 +45,6 @@ Understand the shape and scale of each variable:
 * Always interpret [[distributions]] in domain context, not just statistical form
 
 ## Data Relationships and [[Correlation]]
-
 Explore dependencies and associations between variables:
 * Use scatter plots and correlation coefficients
 * Investigate how multiple features interact with the target variable

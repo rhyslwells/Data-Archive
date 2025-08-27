@@ -12,7 +12,7 @@ tags: [regressor, statistics]
 
 
  Key Components:  
- - [[Regularisation]]: Adds $L_1$ ([[Lasso]]) or $L_2$ ([[Ridge]]) penalty to prevent overfitting in high-dimensional data.  
+ - [[Regularisation]]: Adds $L_1$ ([[L1 Regularisation]]) or $L_2$ ([[Ridge]]) penalty to prevent overfitting in high-dimensional data.  
  - Feature transformation: [[Polynomial Regression]] and logarithmic transformations adjust for non-linearity in data.  
  - Regression is a type of [[Supervised Learning]].
 

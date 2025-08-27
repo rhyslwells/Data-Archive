@@ -10,8 +10,17 @@ Can generate reports using:
 - [[Tableau]]
 - [[PowerBI]]
 - [[Looker Studio]]
+- [[Binder]]
 
 Types of plots:
 - [[Scatter Plots]]
 - [[Boxplot]]
+- [[Histogram]]
+- [[Grouped plots]]
+- [[Q-Q Plot]]
+- [[Heatmap]]
+
+Related to:
+- [[Multivariate Analysis]]
+- [[Univariate Analysis]]
 

@@ -26,4 +26,4 @@ Performance Impact: Measure how feature inclusion/exclusion affects:
 #### When Evaluation is Complete
 * Feature set achieves optimal model performance
 * Further changes offer no significant improvement
-* Feature effects are [[interpretability|interpretable]] and aligned with domain knowledge
+* Feature effects are [[Interpretability|interpretable]] and aligned with domain knowledge

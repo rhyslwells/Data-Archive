@@ -2,21 +2,26 @@
 aliases: []
 category:
 date modified: 1-08-2025
-tags: [architecture, deep_learning, optimisation]
+tags:
+  - optimisation
 ---
-Loss functions are used in training machine learning models. Also known as a [[Cost Function]], error function, or objective function. Serves as a metric for [[Model Evaluation]].
+A loss function is a key component in training machine learning models. It is closely related to the [[Cost Function]], error function, and [[objective function]], and serves as an important metric for [[Model Evaluation]].
 
-Purpose: ==Measure predictive accuracy==: Measures the difference between predicted and actual values. That is they measure how well a model's predictions match the actual target values by quantifying the error between the predicted output and the true output. 
+#### Purpose
+* Measure predictive accuracy:
+  Quantifies the difference between predicted and actual values.
+  In other words, it measures how well a model’s predictions match the true targets by assigning an error value to each prediction.
+- Goal: To be minimized:
+  During training, the primary objective is to minimize the loss function so that predictions become more accurate, even on unseen data.
 
-Goal: ==To be minimized==: The primary goal during model training is to minimize this loss, improving accuracy of predictions on unseen data.
+#### Usage
+* Training: Guides updates to [[Model Parameters]] during optimization (e.g., using [[Gradient Descent]]).
+* Evaluation: Assesses how well the trained model performs on validation or test data.
 
-Used during training to adjust [[Model Parameters]] and during evaluation to assess model performance.
+#### Examples
+* [[Mean Squared Error]] (MSE): Common in [[Regression]] tasks.
+* [[Cross Entropy]] (Log Loss): Common in [[Classification]] tasks.
 
-### Examples
-
-- **[[Mean Squared Error]] (MSE)**: Commonly used for [[Regression]] tasks.
-- **[[Cross Entropy]]**: Often used for [[Classification]] tasks.
-
-Resources
-- [Video Explanation](https://www.youtube.com/watch?v=-qT8fJTP3Ks)
-- [[Loss versus Cost function]]
+#### Related Notes
+* [[Loss versus Cost function]]
+* [[Model Optimisation]]

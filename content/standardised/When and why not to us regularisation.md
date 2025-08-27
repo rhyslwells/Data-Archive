@@ -23,7 +23,7 @@ to ensure effective performance on validation data. If your model is performing 
 
 4. Improper Regularization Parameter ($\lambda$): The effectiveness of regularization depends on the choice of the regularization parameter $\lambda$. If $\lambda$ is set too high, it can overly penalize the model's parameters, leading to underfitting. Conversely, if it's too low, it may not sufficiently reduce overfitting.
 
-5. Feature Interaction: Regularization techniques like [[Lasso|L1]] and [[Ridge|L2]] may not effectively capture complex interactions between features. If the relationships in the data are intricate, regularization alone may not improve the model's ability to generalize.
+5. Feature Interaction: Regularization techniques like [[L1 Regularisation|L1]] and [[Ridge|L2]] may not effectively capture complex interactions between features. If the relationships in the data are intricate, regularization alone may not improve the model's ability to generalize.
 
 6. Validation Set Issues: The validation set itself may not be representative of the problem space, or it may contain noise or outliers that affect the model's performance. Regularization won't address these issues if the validation data is flawed.
 

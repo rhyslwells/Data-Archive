@@ -14,7 +14,7 @@ By using methods like normalization and standardization, you can enhance the per
 
 See sklearn.preprocessing
 
-Examples of algorithms not affected by feature scaling are [[Naive Bayes]], [[Decision Tree]], and [[Linear Discriminant Analysis]].
+Examples of algorithms not affected by feature scaling are [[Naive Bayes Classifier]], [[Decision Tree]], and [[Linear Discriminant Analysis]].
 ### Why Use Feature Scaling?
 Feature scaling is important for several reasons:
 
@@ -28,7 +28,7 @@ Feature scaling is important for several reasons:
 ### When Scaling Is Unnecessary
 
 1. Tree-based Algorithms:
-    - Algorithms like [[Decision Tree]], [[Random Forests]], and Gradient Boosted Trees are invariant to feature scaling because they split data based on thresholds, not distances.
+    - Algorithms like [[Decision Tree]], [[Random Forest]], and Gradient Boosted Trees are invariant to feature scaling because they split data based on thresholds, not distances.
     - Example: Splits are determined by feature values, not their magnitude.
       
 2. Data with Uniform Scales:

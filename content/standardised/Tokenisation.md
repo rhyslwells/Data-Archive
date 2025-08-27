@@ -1,8 +1,12 @@
 ---
-aliases: []
+aliases:
+  - tokenization
 category: LANG
 date modified: 27-07-2025
-tags: [code_snippet, NLP, preprocessing]
+tags:
+  - code_snippet
+  - NLP
+  - preprocessing
 ---
 Tokenisation is a core step in natural language processing ([[NLP]]) where raw text is split into smaller units known as tokens. These tokens can be words, sentences, or subwords, depending on the level of analysis. Tokenisation prepares text for downstream tasks like embedding, classification, or parsing.
 

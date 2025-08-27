@@ -22,6 +22,7 @@ tags:
 - [[Usability]]: Providing a clear and intuitive structure that is easy for business users to understand and navigate.  
 - [[Accessibility]]: Ensuring that data is accessible when needed by authorized users.
 - [[Capability]]
+- [[Durability]]
 
  Data Quality & Integrity  
 - [[Data Integrity]]: Ensuring data accuracy and consistency.  

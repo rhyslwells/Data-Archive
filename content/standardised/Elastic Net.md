@@ -4,7 +4,7 @@ category:
 date modified: 27-07-2025
 tags: [code_snippet]
 ---
-This method combines both L1 ([[Lasso]]) and L2 ([[Ridge]]) regularization by adding both absolute and squared penalties to the loss function. It strikes a balance between Ridge and Lasso.
+This method combines both L1 ([[L1 Regularisation]]) and L2 ([[Ridge]]) regularization by adding both absolute and squared penalties to the loss function. It strikes a balance between Ridge and Lasso.
 
 It is particularly useful when you have high-dimensional datasets with highly correlated features.
 

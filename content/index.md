@@ -6,9 +6,9 @@ category:
 Welcome to the Data Archive, an archive of data-related concepts inspired by the [Digital Garden](https://jzhao.xyz/posts/networked-thought/) analogy. For more information and navigation see [[Data Archive]]. Here are some starting tags. For other navigation notes see #portal. For example see [[Clustering]].
 ### [[DS & ML Portal]]
 
-| Focus: Models                                                                       |
-| ----------------------------------------------------------------------------------- |
-| #classifier #regressor #clustering<br>#deep_learning #anomaly_detection #algorithm  |
+| Focus: Models                                                                                       |
+| --------------------------------------------------------------------------------------------------- |
+| #classifier #regressor #clustering<br>#deep_learning #anomaly_detection #algorithm<br>#time_series  |
 
 | Focus: modeling techniques, ML lifecycle, explainability             |
 | -------------------------------------------------------------------- |

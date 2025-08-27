@@ -15,7 +15,7 @@ This example highlights the effectiveness of resampling techniques, such as [[SM
     - Utilizing a larger dataset with a severe imbalance ratio (e.g., 99:1) makes the impact of resampling more apparent. This imbalance necessitates resampling for the model to predict the minority class accurately.
 
 2. **Choice of Classifier**:
-    - Switching from robust classifiers like [[Random Forests]] to more sensitive ones like [[Logistic Regression]] or Support Vector Machine ([[Support Vector Machines|SVM]]) highlights the benefits of resampling. These simpler models struggle with imbalance, providing a clear contrast between resampling and non-resampling scenarios.
+    - Switching from robust classifiers like [[Random Forest]] to more sensitive ones like [[Logistic Regression]] or Support Vector Machine ([[Support Vector Machines|SVM]]) highlights the benefits of resampling. These simpler models struggle with imbalance, providing a clear contrast between resampling and non-resampling scenarios.
 
 3. **Feature Overlap**:
     - Ensuring overlap in the feature space between minority and majority classes enhances the effectiveness of synthetic resampling techniques, such as SMOTE.

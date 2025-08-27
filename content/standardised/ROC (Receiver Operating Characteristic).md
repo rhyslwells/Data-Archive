@@ -4,7 +4,7 @@ category:
 date modified: 27-07-2025
 tags: [evaluation]
 ---
-**ROC (Receiver Operating Characteristic)** is a graphical representation of a classifier's performance across different thresholds, showing the trade-off between sensitivity (true positive rate) and specificity (1 - false positive rate).
+**ROC (Receiver Operating Characteristic)** is a graphical ==representation of a classifier's performance across different thresholds,== showing the trade-off between sensitivity (true positive rate) and specificity (1 - false positive rate).
 
  A graphical plot that illustrates the diagnostic ability of a binary classifier system as its discrimination threshold is varied.
 

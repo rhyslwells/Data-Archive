@@ -17,6 +17,7 @@ The aim of **clustering** is to **group similar data points together** so that i
 - [[DBSCAN]]
 - [[Hierarchical Clustering]]
 - [[Gaussian Mixture Models]]
+- [[Spectral Clustering]]
 ## [[Interpretability]]
 
 Important to look into:

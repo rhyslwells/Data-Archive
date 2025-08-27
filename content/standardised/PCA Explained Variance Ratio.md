@@ -50,5 +50,5 @@ Summing these ratios gives the total variance explained by the first few compone
 
 - **Dimensionality Reduction**: PCA is used to reduce the number of dimensions (features) in the dataset. The goal is to retain as much variance as possible while reducing the number of dimensions. By selecting the components with the highest explained variance, we can reduce the dataset's complexity without sacrificing much information.
     
-- **Data [[interpretability]]**: The explained variance helps us understand how important each component is in representing the dataset. If the first few components explain most of the variance, we can focus on them for analysis and modeling.
+- **Data [[Interpretability]]**: The explained variance helps us understand how important each component is in representing the dataset. If the first few components explain most of the variance, we can focus on them for analysis and modeling.
     

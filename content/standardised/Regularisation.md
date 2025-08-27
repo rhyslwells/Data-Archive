@@ -6,9 +6,11 @@ tags: [explainability, optimisation, process, visualization]
 ---
 Regularization is a technique in machine learning that reduces the risk of overfitting by adding a penalty to the [[Loss function]] during model training. This penalty term restricts the magnitude of the model's parameters, thereby controlling the complexity of the model. It is especially useful in linear models but can also be applied to more complex models like neural networks.
 
+==It simplifies the model.==
+
 ### Key Concepts
 
-- **$L_1$ Regularization ([[Lasso]]):** Adds the absolute value of the coefficients to the loss function, encouraging sparsity by driving some coefficients to zero, effectively selecting a subset of features.
+- **$L_1$ Regularization ([[L1 Regularisation]]):** Adds the absolute value of the coefficients to the loss function, encouraging sparsity by driving some coefficients to zero, effectively selecting a subset of features.
   
 - **$L_2$ Regularization ([[Ridge]]):** Adds the square of the coefficients to the loss function, shrinking them toward zero. It encourages smaller coefficients but does not push them exactly to zero, helping reduce overfitting by penalizing large weights.
 
@@ -39,7 +41,7 @@ $$ J(\theta) = \frac{1}{2m} \sum_{i=1}^{m} (h_{\theta}(x^{(i)}) - y^{(i)})^2 + \
 Here, $\lambda$ controls the strength of the regularization. Higher $\lambda$ values shrink the coefficients more.
 ### Related Topics
 
-- [[Feature Selection]]: L1 regularization can zero out irrelevant features, improving model [[interpretability]] and reducing computational costs.
+- [[Feature Selection]]: L1 regularization can zero out irrelevant features, improving model [[Interpretability]] and reducing computational costs.
 - [[Model Selection]] techniques for high-dimensional data.
 
 ### Applications

@@ -26,7 +26,7 @@ Resampling Techniques:
 ### Algorithm-Level Approaches
 
 - [[Cost-Sensitive Analysis]] / Cost-Sensitive Learning: Modify the learning algorithm to give more importance to the minority class. This can be done by assigning higher misclassification costs to the minority class during training.1. You have a perfectly balanced dataset but still experience poor classification accuracy. Why might the class separability be the issue?
-- Ensemble Methods: [[Bagging]] and Boosting: Use ensemble techniques like [[Random Forests]] or AdaBoost, which can be adapted to handle class imbalance by adjusting the sample weights or using balanced bootstrap samples.
+- Ensemble Methods: [[Bagging]] and Boosting: Use ensemble techniques like [[Random Forest]] or AdaBoost, which can be adapted to handle class imbalance by adjusting the sample weights or using balanced bootstrap samples.
 
 ### Evaluation Metrics & Others
 

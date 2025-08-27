@@ -13,9 +13,9 @@ Common [[Classification]] algorithms include:
 
 - [[Logistic Regression]]
 - [[Support Vector Machines]]
-- [[Naive Bayes]]
+- [[Naive Bayes Classifier]]
 - [[Decision Tree]]
-- [[Random Forests]]
+- [[Random Forest]]
 
 Common [[Regression]] algorithms include:
 - [[Linear Regression]]

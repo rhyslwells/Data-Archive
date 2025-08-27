@@ -9,7 +9,7 @@ Feature importance refers to ==techniques that assign scores to input features==
 Feature importance is typically assessed ==after== [[Model Building]]. It involves analyzing the trained model to determine the impact of each feature on the predictions.
 
 Feature importance helps in:
-- improving model [[interpretability]], 
+- improving model [[Interpretability]], 
 - identifying key predictors, 
 - and possibly performing [[Feature Selection]] to reduce dimensionality, and refining performance
 
@@ -19,7 +19,7 @@ By understanding which features contribute the most to the predictions, you can 
 ### Types of Feature Importance Methods
 
 Model-Specific Methods:
-- Tree-based models: Models like Random Forests, Gradient Boosted Trees, and Decision Trees have built-in mechanisms for calculating feature importance. They do so based on the decrease in impurity (e.g., [[Gini Impurity]] in classification tasks or variance in regression tasks) or based on the reduction in error when the feature is used for splitting. Tree-based algorithms like [[Random Forests]] or [[XGBoost]] automatically calculate feature importance. 
+- Tree-based models: Models like Random Forests, Gradient Boosted Trees, and Decision Trees have built-in mechanisms for calculating feature importance. They do so based on the decrease in impurity (e.g., [[Gini Impurity]] in classification tasks or variance in regression tasks) or based on the reduction in error when the feature is used for splitting. Tree-based algorithms like [[Random Forest]] or [[XGBoost]] automatically calculate feature importance. 
 - Linear models: In models like linear regression or logistic regression, feature importance can be derived from the absolute values of the model coefficients, assuming features are standardized ([[Why standardise features]]).
    
 Model-Agnostic Methods:

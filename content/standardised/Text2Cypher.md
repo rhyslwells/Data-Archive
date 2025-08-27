@@ -6,7 +6,7 @@ tags:
   - querying
   - NLP
 ---
-Text2Cypher is a concept that allows users to convert natural language queries into Cypher queries, which are used to interact with [[GraphRAG|graph database]] like [[Neo4j]]. This functionality enables users to ask questions in a more intuitive/[[interpretability|interpretable]], conversational manner, rather than needing to know the specific syntax of [[Cypher]].
+Text2Cypher is a concept that allows users to convert natural language queries into Cypher queries, which are used to interact with [[GraphRAG|graph database]] like [[Neo4j]]. This functionality enables users to ask questions in a more intuitive/[[Interpretability|interpretable]], conversational manner, rather than needing to know the specific syntax of [[Cypher]].
 
 Allows the user to ask vague questions.
 Allows for multihop queries on the graph

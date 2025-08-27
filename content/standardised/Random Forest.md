@@ -9,7 +9,7 @@ A random forest is an [[Model Ensemble]] of [[Decision Tree]]s. Take many decisi
 
 What is the Random Forest method;; an ensemble learning method based on constructing multiple decision trees during training and combining their predictions through averaging. Random Forests are flexibility, robustness, and ability to handle high-dimensional data, as well as their resistance to overfitting.
 
-What is an issue with [[Random Forests]];; susceptible to overfitting, especially when dealing with noisy or high-dimensional data. Proper tuning of hyperparameters like the number of trees and maximum depth is crucial to mitigate this.
+What is an issue with [[Random Forest]];; susceptible to overfitting, especially when dealing with noisy or high-dimensional data. Proper tuning of hyperparameters like the number of trees and maximum depth is crucial to mitigate this.
 
 Random forests combine multiple decision trees to improve accuracy and generalisation.
 
@@ -32,7 +32,7 @@ You can also speed up your training jobs with another parameter, `n_jobs`.
 
 
 
-What is an issue with [[Random Forests]];; susceptible to overfitting, especially when dealing with noisy or high-dimensional data. Proper tuning of hyperparameters like the number of trees and maximum depth is crucial to mitigate this.
+What is an issue with [[Random Forest]];; susceptible to overfitting, especially when dealing with noisy or high-dimensional data. Proper tuning of hyperparameters like the number of trees and maximum depth is crucial to mitigate this.
 
 [[Decision Tree]] are not the best - need to make flexible for new data. THey work well with the data set they are defined on.
 

@@ -16,7 +16,7 @@ K-Nearest Neighbors is a [[non-parametric]], [[supervised learning]] algorithm u
 
 * [[Non-parametric]]: Makes no assumptions about the underlying data distribution.
 * Instance-based: Stores training data and delays computation until prediction.
-* Simple and [[interpretability|interpretable]]: Easy to understand and implement.
+* Simple and [[Interpretability|interpretable]]: Easy to understand and implement.
 * Computationally expensive: Requires distance computation to all training points at prediction time.
 
 ### Use Cases

@@ -6,6 +6,9 @@ tags:
   - business
   - management
 ---
+To Note:
+- What is the business justification of this hire, and the impact they need to make.
+
 Managing Teams
 - Do the members feel ownership/recognitions
 - Break tasks down, and get easy wins
@@ -41,3 +44,6 @@ BlueSky thinking
 - ideas should move to prototyping, is there a process for this: [[Process for prototyping]]: problems statmenet and assessment
 - Ensure prototype are linked to buiesness problems
 - Remember to [[Showcase Value]] you are demonstrating
+
+Related:
+- [[Managing Data Science Teams]]

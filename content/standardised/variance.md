@@ -24,3 +24,6 @@ $$
 \text{Var}(X) = \frac{1}{n}\sum_{i=1}^n (x_i - \mu_X)^2
 $$
 - Variance determines the **spread** of data along a particular dimension.
+
+Related:
+- [[Variance in ML]]

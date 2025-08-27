@@ -20,7 +20,7 @@ Classification is a type of [[Supervised Learning]] in machine learning, where t
 
 Classifier: A model used for classification tasks, predicting discrete labels or categories. For example, determining whether an email is spam or not, or identifying the species of a flower based on its features. This contrasts with a Regressor ([[Regression]]), which predicts continuous values.
 
-- [[Naive Bayes]]
+- [[Naive Bayes Classifier]]
 - [[Decision Tree]]
 - [[Support Vector Machines]]
 - [[K-nearest neighbours]]

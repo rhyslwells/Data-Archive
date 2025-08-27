@@ -18,7 +18,7 @@ Key Considerations
 - Balance Between Exploration and Exploitation: Ensure a good balance between exploring the hyperparameter space and exploiting known good configurations.
 - [[Cross Validation]]: Use cross-validation to ensure that the hyperparameter tuning process is robust and not overfitting to a particular train-test split.
 
-Order matters: See [[Interpretable Decision Trees]]. Example when tuning hyperparameters for [[Random Forests]] try the following:
+Order matters: See [[Interpretable Decision Trees]]. Example when tuning hyperparameters for [[Random Forest]] try the following:
 
 1. High Train Accuracy, Low Test Accuracy (Overfitting)
 - Objective: Reduce model complexity to prevent overfitting.

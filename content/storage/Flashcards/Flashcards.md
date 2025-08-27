@@ -54,7 +54,7 @@ Pull flashcard files to phone and tablets with obsidian. Or with [[Anki]].
 - Data governance establishes {{clear policies and procedures for data management}}, ensuring compliance with regulations and data integrity.
 - Data principles are essential for ensuring that data is managed, used, and maintained effectively and ethically, including aspects like {{Data Quality, Data Governance, and Data Privacy}}.
 
-### [[Data Modelling]]
+### [[Data Modeling]]
 - Data modelling is the process of creating a {{visual representation}} of a system's data and the relationships between different data elements.
 - The workflow of data modeling includes a {{conceptual model, logical model, and physical model}} to ensure data is logically structured and organized.
 

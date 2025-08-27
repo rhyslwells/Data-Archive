@@ -1,10 +1,17 @@
 ---
-aliases: [SVM]
+aliases:
+  - SVM
 category:
 date modified: 1-08-2025
-tags: [classifier, clustering]
+tags:
+  - classifier
+  - clustering
 ---
-Support Vector Machines (SVM) are a type of [supervised learning](app://obsidian.md/supervised%20learning) algorithm primarily used for [[Classification]] tasks, though they can also be adapted for regression. The main idea is to find an optimal hyperplane that divides data into different classes by maximizing the margin between them. The support vectors are the data points closest to the hyperplane, influencing its position and orientation.
+Support Vector Machines (SVM) are a type of [supervised learning](app://obsidian.md/supervised%20learning) algorithm primarily used for [[Classification]] tasks, though they can also be adapted for regression. 
+
+==The main idea is to find an optimal hyperplane that divides data into different classes by maximizing the margin between them.== 
+
+The ==support vectors== are the data points closest to the hyperplane, influencing its position and orientation.
 
 Key Features
 - Hyperplane: Finds a hyperplane that maximizes the margin between classes.
@@ -30,7 +37,7 @@ In [[ML_Tools]] see: [[SVM_Example.py]]
 ## Margins
 
 - Outliers and Soft Margins: SVM allows for some miscalculations or errors in classification to handle outliers. This is part of the [Bias and variance](app://obsidian.md/Bias%20and%20variance) tradeoff, where the model is allowed to make a few mistakes to improve generalization.
-- Soft Margins: Allow some data points to be within the margin or even on the wrong side of the hyperplane, enabling SVM to handle imperfect separations.
+- ==Soft Margins==: Allow some data points to be within the margin or even on the wrong side of the hyperplane, enabling SVM to handle imperfect separations.
 
 ![[Pasted image 20240128193726.png|700]]
 

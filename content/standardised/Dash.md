@@ -1,14 +1,15 @@
 ---
-aliases: 
-category: 
+aliases:
+category:
 date modified: 1-08-2025
 tags:
   - python
   - frontend
+  - visualization
 ---
 Dash is an open-source framework for building interactive web applications using Python. 
 
-It is particularly well-suited for data visualization and dashboard creation. 
+It is particularly well-suited for [[Data Visualisation]] and dashboard creation. 
 
 Dash integrates with popular libraries such as [[Plotly]], Pandas, and NumPy, making it ideal for creating dynamic and interactive visualizations.
 

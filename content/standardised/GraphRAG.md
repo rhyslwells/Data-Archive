@@ -12,7 +12,7 @@ tags:
 - **[[Text2Cypher]]**: This feature allows users to interact with the graph in a user-friendly manner, converting natural language queries into Cypher queries.
 - How to move datasets into a graph database.
 - Graphrag patterns.
-- The role of [[interpretability]] in understanding graph-based retrieval[[GraphRAG]]AG]]
+- The role of [[Interpretability]] in understanding graph-based retrieval[[GraphRAG]]AG]]
 
 ### Implementation
 

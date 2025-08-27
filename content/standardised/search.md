@@ -7,6 +7,13 @@ tags:
   - NLP
   - mlprocess
 ---
+
+Aims of any search:
+1. Speed
+2. Accuracy (Precision)
+3. Ease of use 
+4. Comprehensiveness
+5. Freshness
 ## How Search Algorithms Work (in Information Retrieval)
 
 When you type a query into a search engine (e.g., "machine learning applications in healthcare"), the system must:

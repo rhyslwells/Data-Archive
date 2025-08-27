@@ -24,7 +24,7 @@ For [[Model Ensemble]] methods like Random Forests and Gradient Boosting, additi
 
 to help prevent overfitting. These techniques effectively restrict the model complexity, leading to better generalization .
 
-Below are the common regularization techniques used in tree models such as [[Decision Tree]], [[Random Forests]].
+Below are the common regularization techniques used in tree models such as [[Decision Tree]], [[Random Forest]].
 
 ### Regularization in Different Tree Models
 

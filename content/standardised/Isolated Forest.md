@@ -36,5 +36,5 @@ Follow up questions
  - What impact does the choice of sample size have on the performance and accuracy of isolation forests in high-dimensional data?
 
 Related Topics
- - [[Random Forests]] for classification and regression  
+ - [[Random Forest]] for classification and regression  
  - One-Class [[Support Vector Machines|SVM]] for anomaly detection

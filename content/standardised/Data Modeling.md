@@ -10,6 +10,8 @@ This helps in organizing and structuring the data so it can be efficiently manag
 
 Data modelling ensures that data is logically structured and organized, making it easier to store, retrieve, and manipulate in a database.
 
+The modelers job is to wisely choose an underlying model that reflects the reality of nature, and then use data to estimate the parameters of the model.
+
 Workflow of Data Modeling:
 1) [[Conceptual Model]]
 2) [[Logical Model]]
@@ -21,7 +23,6 @@ Types of Modeling:
 - Entity: Uses [[ER Diagrams]] to represent data entities and relationships.
 - Network: An extension of hierarchical models.
 - Hierarchical: Organizes data in a tree-like structure.
-
 
 For flat files:
 - Various modeling techniques are applied to the data, and parameters are tuned to improve performance. Models like decision trees, neural networks, or [[Clustering]] may be used.

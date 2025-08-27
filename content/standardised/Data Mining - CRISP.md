@@ -16,7 +16,7 @@ CRISP-DM stands for Cross-Industry Standard Process for [[Data Mining]], a widel
    
 [[Data Preparation]]
 
-[[Data Modelling]]
+[[Data Modeling]]
    
 [[Data Evaluation]]
    

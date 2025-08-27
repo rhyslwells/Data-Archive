@@ -42,7 +42,7 @@ Classification Models
 - [[Binary Classification]]
 - [[Support Vector Machines]]
 - [[Decision Tree]]
-- [[Random Forests]]
+- [[Random Forest]]
 - [[K-nearest neighbours]]
 - [[Logistic Regression]]
 

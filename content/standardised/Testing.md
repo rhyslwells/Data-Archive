@@ -52,3 +52,4 @@ Testing a [[Python]] program effectively involves multiple levels to ensure corr
 - [[Hypothesis testing]]
 - Test coverage
 - [[Types of Computational Bugs]]
+- [[Python]]: Use if `__name__ = __main__` (https://www.youtube.com/watch?v=KZpYtNtGxSU&ab_channel=VisuallyExplained)

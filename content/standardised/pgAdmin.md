@@ -2,7 +2,6 @@
 tags: 
 category: 
 ---
-
 Think of pgAdmin as the “control panel” . It lets you operate PostgreSQL more easily.
 
 - Type: GUI administration tool for PostgreSQL.
@@ -28,9 +27,21 @@ Spatial objects?
 
 Connections to database tables: hosted
 #### Connecting
-[[Adding a database to PostgreSQL]]
+- [[Adding a database to PostgreSQL]]
 
 #### PGAdmin
 pgadmin tools: to check system information
 
 ![[Pasted image 20250329081752.png]]
+
+
+
+Notes:
+
+[pgAdmin Tutorial - How to Use pgAdmin](https://www.youtube.com/@DatabaseStar)
+
+You can generate [[ER Diagrams]] in pgadmin
+
+Related:
+- [[PostgreSQL]]
+- [[Pgadmin Permissions on Windows]]

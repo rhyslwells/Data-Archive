@@ -17,7 +17,7 @@ where:
 - **FP (False Positives):** The number of instances incorrectly predicted as positive.
 
 Importance:
-- Precision is crucial in scenarios where the **cost of false positives is high**, such as in spam detection or medical diagnosis. It helps in understanding how many of the predicted positive instances are actually positive.
+- Precision is helpful in scenarios where the **cost of false positives is high**, such as in spam detection. It helps in understanding how many of the predicted positive instances are actually positive.
 
 ![[Pasted image 20241222091831.png]]
 

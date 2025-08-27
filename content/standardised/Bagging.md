@@ -27,7 +27,7 @@ It works by ==training multiple instances of the same learning algorithm on diff
 - **Parallelization**: Since each model is trained independently, bagging can be easily parallelized, making it scalable and efficient for large datasets.
 ### Example of Bagging:
 
-**Random Forest**: A well-known example of a bagging technique is the [[Random Forests]] algorithm. 
+**Random Forest**: A well-known example of a bagging technique is the [[Random Forest]] algorithm. 
 
 It uses decision trees as base models and combines their predictions to improve accuracy and robustness. 
 

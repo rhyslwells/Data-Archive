@@ -11,7 +11,7 @@ In supervised learning, the training data consists of input-output pairs, where 
 The algorithm's goal is to learn a mapping from the input to the output so that it can predict the output for new, unseen data.
 ### Examples of Supervised [[Machine Learning Algorithms]]:
 - [[K-nearest neighbours]] (KNN)
-- [[Naive Bayes]]
+- [[Naive Bayes Classifier]]
 - [[Decision Tree]]
 - [[Linear Regression]]
 - [[Support Vector Machines]] (SVM)

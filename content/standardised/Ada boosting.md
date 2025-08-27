@@ -26,17 +26,17 @@ Ada Boosting short for ==Adaptive Boosting==, is a specific type of [[Boosting]]
 
 ### Creating a Forest with AdaBoost:
 
-To create a forest using AdaBoost, you start with a [[Decision Tree]] or [[Random Forests]] approach, but instead of using full-sized trees, you use stumps. 
+To create a forest using AdaBoost, you start with a [[Decision Tree]] or [[Random Forest]] approach, but instead of using full-sized trees, you use stumps. 
 
 These stumps are trained sequentially, with each one focusing on the errors of the previous stumps. 
 
 The final prediction is a weighted sum of the predictions from all the stumps, where more accurate stumps have more influence on the final outcome.
 
-### Key Differences from [[Random Forests]]:
+### Key Differences from [[Random Forest]]:
 
-- **Tree Depth**: In [[Random Forests]], full-sized trees are used, and each tree gets an equal say in the final prediction. In contrast, AdaBoost uses low-depth trees (stumps) and assigns different weights to each stump based on its accuracy.
+- **Tree Depth**: In [[Random Forest]], full-sized trees are used, and each tree gets an equal say in the final prediction. In contrast, AdaBoost uses low-depth trees (stumps) and assigns different weights to each stump based on its accuracy.
 
-- **Order and Sequence**: In AdaBoost, the order of the stumps is important because errors are passed on in sequence. In [[Random Forests]], trees are built independently and simultaneously.
+- **Order and Sequence**: In AdaBoost, the order of the stumps is important because errors are passed on in sequence. In [[Random Forest]], trees are built independently and simultaneously.
 
 ### Advantages of AdaBoost:
 

@@ -1,8 +1,11 @@
 ---
-aliases: [Selection]
-category: 
+aliases:
+category:
 date modified: 1-08-2025
-tags: [evaluation, process]
+tags:
+  - evaluation
+  - process
+  - optimisation
 ---
 Model selection is an integral part of building a [[Machine Learning Operations]] to ensure that the best performing model is chosen for a given task, avoiding issues like overfitting or underfitting.
 

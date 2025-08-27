@@ -18,7 +18,7 @@ MLP's are blocks of vectors, these are acted on my the context matrix
 
 [[Johnson–Lindenstrauss lemma]]
 
-Sparse Autoencoder - used in [[interpretability]] of [[LLM]] responses
+Sparse Autoencoder - used in [[Interpretability]] of [[LLM]] responses
 
 See [[Anthropic]] posts
 - https://transformer-circuits.pub/2022/toy_model/index.html#adversarial

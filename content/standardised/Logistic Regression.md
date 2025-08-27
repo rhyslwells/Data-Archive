@@ -15,11 +15,12 @@ Logistic regression is best suited for cases where the decision boundary is appr
 Logistic [[Regression]] can be used for [[Binary Classification]]tasks.
 
 ### Related Notes:
-- [[Logistic Regression Statsmodel Summary table]]
+
 - [[Logistic Regression does not predict probabilities]]
 - [[Interpreting logistic regression model parameters]]
 - [[Model Evaluation]]
 - To get [[Model Parameters]] use [[Maximum Likelihood Estimation]]
+- [[Evaluating Logistic Regression]]
 
 In [[ML_Tools]], see:
 - [[Regression_Logistic_Metrics.ipynb]]
@@ -78,6 +79,4 @@ Logistic regression can be extended to handle non-linear decision boundaries thr
 [Explaining logistic regression](https://www.youtube.com/watch?v=Iju8l2qgaJU)
 
 Notes:
-- binary or classification options
-- in google sheets?
 - coefficients help with [[Feature Importance]]

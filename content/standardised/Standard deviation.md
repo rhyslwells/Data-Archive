@@ -28,7 +28,7 @@ $$
 ## Why Standard Deviation is Preferred Over [[Variance]]
 
 1. **Same Units as Data**  
-   Standard deviation is expressed in the same units as the original data, making it more [[interpretability|interpretable]].  
+   Standard deviation is expressed in the same units as the original data, making it more [[Interpretability|interpretable]].  
    - **Example:** If you measure height in centimeters, the standard deviation will also be in centimeters.  
    - **Contrast:** Variance is expressed in squared units (e.g., square centimeters), which can be less intuitive to understand.
 

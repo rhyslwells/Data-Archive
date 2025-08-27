@@ -37,7 +37,7 @@ The softmax function converts a vector of raw scores (logits) into a probability
 
 $$\sigma(\mathbf{z})_i = \frac{e^{z_i}}{\sum_{j=1}^{N} e^{z_j}}$$
 
-This ensures that the output values are between 0 and 1 and that they sum to 1, making them [[interpretability|interpretable]] as probabilities.
+This ensures that the output values are between 0 and 1 and that they sum to 1, making them [[Interpretability|interpretable]] as probabilities.
 
 
 

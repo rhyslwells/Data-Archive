@@ -1,15 +1,18 @@
 ---
-aliases: [Optimisation]
+aliases:
+  - Optimisation
 category:
 date modified: 1-08-2025
-tags: [drafting]
+tags:
 ---
 Model optimization is a step in the machine learning workflow aimed at enhancing a model's performance by fine-tuning its parameters and hyperparameters. The goal is to improve the model's accuracy, efficiency, and ability to generalize to new data. 
+
+[[Convex Optimisation]]
 ### Purpose:
 - Accuracy: Improve the model's predictive performance.
 - Efficiency: Ensure the model runs efficiently in terms of computation and resource usage.
-- Generalization: Enhance the model's ability to perform well on unseen data, avoiding overfitting.
-
+- [[Generalisation]]: Enhance the model's ability to perform well on unseen data, avoiding overfitting.
+- Minimising the [[objective function]]. 
 ### Process:
 0. [[Model Parameters]] tuning
 

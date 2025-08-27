@@ -7,7 +7,6 @@ tags:
   - visualization
 ---
 Related:
-- [[Data Visualisation]]
 - pairplots
 
 ```python

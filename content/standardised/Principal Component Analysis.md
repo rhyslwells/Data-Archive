@@ -8,8 +8,7 @@ PCA is a tool for [[Dimensionality Reduction]] in [[Unsupervised Learning]] to 
 
 It transforms the original data into a new coordinate system defined by the principal components, which are ==orthogonal vectors== that capture the most [[Variance]] in the data.
 
-It helps simplify models, enhances [[interpretability]], and improves computational efficiency by transforming data into a lower-dimensional space while ==retaining the most significant variance==, and reducing noise.
-
+It helps simplify models, enhances [[Interpretability]], and improves computational efficiency by transforming data into a lower-dimensional space while ==retaining the most significant variance==, and reducing noise.
 
 ### How PCA Works
 
@@ -20,6 +19,10 @@ It helps simplify models, enhances [[interpretability]], and improves computatio
 
 - [[t-SNE]]: Unlike PCA, t-SNE is a non-linear technique used for visualization, preserving local structures in high-dimensional data.
 - [[Manifold Learning]]: Techniques like Isomap and Locally Linear Embedding (LLE) are designed to capture non-linear structures, which PCA might miss due to its linear nature
+
+### Limitations
+
+Scaling
 ### Code Implementation
 
 In [[ML_Tools]] see:
@@ -30,3 +33,5 @@ In [[ML_Tools]] see:
 
 - [[PCA Explained Variance Ratio]]
 - [[PCA Principal Components]]
+- [[Multiple Correspondence Analysis]]
+- [[Sammon’s Mapping]]

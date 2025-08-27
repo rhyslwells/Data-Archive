@@ -89,3 +89,6 @@ for index, topic in enumerate(lda.components_):
 ### How to Interpret:
 - Document 1 ("Football is a great sport"): LDA might classify this document as being 60% about Topic (sports-related) and 40% about Topic (competitive play).
 - Document 2 ("Basketball is also fun to play"): LDA might classify this document as being 80% about Topic (competitive play) and 20% about Topic (sports-related).
+
+Related:
+- [[Latent Semantic Indexing]]

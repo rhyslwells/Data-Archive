@@ -7,9 +7,8 @@ tags: [evaluation]
 **AUC (Area Under the Curve)** is a metric for binary classification problems, representing the area under the [[ROC (Receiver Operating Characteristic)]]
 
 #### Key Concepts
-Represents the area under the ROC curve.
-
-AUC values range from 0 to 1, where 1 indicates perfect classification and 0.5 suggests no discriminative power (equivalent to random guessing).
+- Represents the area under the ROC curve.
+- AUC values range from 0 to 1, where 1 indicates perfect classification and 0.5 suggests no discriminative power (equivalent to random guessing).
 
 #### Roc and Auc Score
 

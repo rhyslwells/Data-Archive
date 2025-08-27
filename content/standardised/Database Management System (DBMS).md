@@ -13,6 +13,8 @@ Others:
 - [[MySql]]
 - [[MongoDB]]
 - [[Oracle]]
+- [[Cassandra]]
+- [[MariaDB]]
 
 These systems enable users to perform [[CRUD]] operations while maintaining data integrity and providing tools for backup, security, and optimization.
 

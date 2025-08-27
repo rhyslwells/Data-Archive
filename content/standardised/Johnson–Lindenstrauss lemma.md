@@ -9,13 +9,19 @@ tags: [math]
 
 https://youtu.be/9-Jl0dxWQs8?list=PLZx_FHIHR8AwKD9csfl6Sl_pgCXX19eer&t=1125
 
-THe number of vectors that can be fit into a spaces grows exponentially.
+The number of vectors that can be fit into a spaces grows exponentially.
 
 Useful for [[LLM]] in storing ideas. 
 
 Plotting M>N almost orthogonal vectors in N-dim space
 
 Optimisation process that nudges then towards being perpendicular between 89-91 degrees
+
+States there exists a linear mapping from a higher dimensional space into a sufficiently high-dimensional subspace that will preserve approximately the distances between points, up to a small amount of distortion. 
+
+In other words, states that any high dimensional dataset can be randomly projected into a lower dimensional Euclidean space while controlling the distortion in the pairwise distances.
+
+The limits of the project depend on error rate and number of points (not the number of dimensions).
 
 ```python
 import torch

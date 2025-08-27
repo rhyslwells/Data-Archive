@@ -60,7 +60,7 @@ $$
 - [[Search]]
 - [[Recommender systems]]
 - [[nltk]]
-- [[TF-IDF Implementation]]
+- [[TF-IDF Implementation]] <-
 
 ### Exploratory Ideas
 - Can track TF-IDF over time (e.g., note evolution)

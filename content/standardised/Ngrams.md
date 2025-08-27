@@ -9,7 +9,7 @@ N-grams are used in NLP that allow for the analysis of text data by breaking it 
 
 An **N-gram** is a contiguous sequence of *n* items (or tokens) from a given sample of text or speech. In the context of natural language processing ([[NLP]]) and text analysis, these items are typically words or characters. 
 
-N-grams are used to analyze and ==model the structure of language==, and they can help in various tasks such as [[text classification]].
+N-grams are used to analyze and ==model the structure of language==, and they can help in various tasks such as [[Text Classification]].
 ### Types of N-grams
 - **Unigram**: An N-gram where *n = 1*. It represents individual words or tokens. For example, in the sentence "I love AI", the unigrams are ["I", "love", "AI"].
 

@@ -47,6 +47,7 @@ Splitting Criteria:
 3. **Leaf Nodes**:
    - The process continues until reaching leaf nodes, which have no further splits.
    - At each leaf node, assign a class label (for classification) or predict a continuous value (for regression) based on the majority class or average value of the samples in that node.
+   - [[Distributions in Decision Tree Leaves]]
 
 ### Refinement
 
@@ -72,7 +73,7 @@ Can use [[GridSeachCv]] to pick the best paramaters.
 ### Advantages and Disadvantages of Decision Trees
 
 Advantages:
-- Simple and [[interpretability|interpretable]] model.
+- Simple and [[Interpretability|interpretable]] model.
 - Minimal data preparation required.
 - Transparent decision-making process.
 
@@ -80,4 +81,5 @@ Disadvantages:
 - Prone to overfitting, especially with complex datasets.
 - Sensitive to small changes in data.
 - Can become complex with many features.
+- [[Decision Trees are Fragile]]
 

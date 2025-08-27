@@ -26,6 +26,8 @@ When selecting features we ask:
 See:
 - [[Feature Selection vs Feature Importance]]
 - [[Feature Importance]]
+- [[Univariate Feature Selection]]
+- [[Forward Feature Selection]]
 ### Methods
 
 The choice of feature selection method depends on factors like the size of your dataset, the number of features, and the complexity of your model. It's often a balance between computational cost and performance improvement.

@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - ensemble
 category: ML
 date modified: 1-08-2025
 tags:

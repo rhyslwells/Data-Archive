@@ -4,11 +4,13 @@ category:
 date modified: 1-08-2025
 tags: [ml, preprocessing, transformation]
 ---
-Feature extraction is the process of transforming raw data into a structured set of informative features that are most relevant to a machine learning task. This process enhances both model performance and efficiency by simplifying input data and focusing on its most meaningful attributes.
+Feature extraction is the process of transforming raw data into a structured set of ==relevant informative features== to a machine learning task. 
+
+This process enhances both model performance and efficiency by simplifying input data and focusing on its most meaningful attributes.
 
 Key Concepts:
 - Purpose: Extract ==key attributes== from raw data to enable learning algorithms to detect patterns and make accurate predictions.
-- Informative Features: Feature extraction reduces complexity by generating a smaller, more meaningful set of features. This reduces noise, improves learning speed, and supports [[interpretability]].
+- Informative Features: Feature extraction reduces complexity by generating a smaller, more meaningful set of features. This reduces noise, improves learning speed, and supports [[Interpretability]].
 - Dimensionality Reduction: A core strategy in feature extraction, [[Dimensionality Reduction]] compresses data while preserving its most important variance, aiding in both model performance and comprehensibility.
 
 Example Tools (scikit-learn):
