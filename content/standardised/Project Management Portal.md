@@ -10,4 +10,4 @@ How to manage clients and get jobs done:
 - [[Asking questions]]
 - [[Communication with Stakeholders]]
 - [[Good Enough Principle in Data Projects]]
-- [[Managing Teams]]
+- [[Managing People]]

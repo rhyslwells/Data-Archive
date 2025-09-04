@@ -11,13 +11,13 @@ When working with decision trees, both [[Gini Impurity]] and [[Cross Entropy]] a
 
 - **Definition**: Gini impurity measures the probability of incorrectly classifying a randomly chosen element if it was randomly labeled according to the distribution of labels in the node.
 - **Computation**: Generally faster to compute than cross-entropy because it does not involve logarithms.
-- **Use Case**: Often used in the CART (Classification and Regression Trees) algorithm. It is a good default choice for classification tasks due to its simplicity and efficiency.
+- **Use Case**: Often used in the [[CART]] (Classification and Regression Trees) algorithm. It is a good default choice for classification tasks due to its simplicity and efficiency.
 
 ### Cross Entropy (More refined than impurity)
 
 - **Definition**: Cross-entropy measures the amount of information needed to encode the class distribution of the node. It quantifies the expected amount of information required to classify a new instance.
 - **Computation**: Involves logarithmic calculations, which can be computationally more intensive than Gini impurity.
-- **Use Case**: Often used in algorithms like ID3 and C4.5. It can be more informative in cases where the class [[Distributions]] is skewed or when you need a more nuanced measure of impurity.
+- **Use Case**: Often used in algorithms like ID3 and C4.5. It can be more informative in cases where the class [[Distributions]] is skewed or when you need a more nuanced measure of impurity. See [[Imbalanced Datasets|Class Imbalance]].
 
 ### Choosing Between Gini Impurity and Cross Entropy
 

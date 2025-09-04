@@ -6,7 +6,6 @@ tags:
   - modeling
   - time_series
 ---
-
 Time series data is a sequence of data points collected or recorded at successive points in time, typically at uniform intervals. Its key characteristic is the ==temporal ordering of observations,== which makes it essential for analyzing trends, patterns, and changes over time.
 
 Related:
@@ -20,8 +19,6 @@ To investigate:
 - [[Feature Engineering for Time Series]]
 - [[Time Series Forecasting]]
 - [[MLOPS for Time Series]]
-
----
 
  Key Characteristics
 * Each record consists of timestamps with measurements.

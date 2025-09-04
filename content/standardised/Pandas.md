@@ -14,3 +14,5 @@ Areas:
 - [[Data Transformation]]
 
 
+
+[[Pandas Series vs DataFrame]]

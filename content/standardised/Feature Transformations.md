@@ -3,9 +3,6 @@ tags:
   - optimisation
 category:
 ---
-
-
-[[Feature Transformations]]
 Transforming continuous features: 
 - Binning of values
 - Importance of Transformations: Transforming continuous features can reveal complex non-linear patterns and improve model performance.

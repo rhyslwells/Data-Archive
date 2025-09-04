@@ -6,7 +6,10 @@ tags:
   - business
   - management
 ---
-To Note:
+Related:
+- [[Coaching & Mentoring]]
+
+Hiring:
 - What is the business justification of this hire, and the impact they need to make.
 
 Managing Teams
@@ -47,3 +50,17 @@ BlueSky thinking
 
 Related:
 - [[Managing Data Science Teams]]
+
+### Other ideas
+
+Leadership vs. Management
+Leadership is about vision, motivation, and direction; management is about planning, organizing, and controlling to achieve objectives.
+
+**Delegation**  
+Assigning responsibility and authority to others, while retaining accountability.
+
+**Feedback Models**
+- _SBI_ (Situation – Behavior – Impact).
+
+**OKRs (Objectives and Key Results)**  
+A goal-setting framework linking big objectives with measurable outcomes.

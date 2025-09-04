@@ -29,3 +29,4 @@ $$\bar{x} \pm t_{\alpha/2, n-1} \cdot s \cdot \sqrt{1 + \frac{1}{n}}$$
 
 Related:
 - [[Probability]]
+- [[Prediction Intervals vs Confidence Interval]]

@@ -2,6 +2,9 @@
 aliases:
   - generalize
   - generalise
+  - generalisable
+  - robust
+  - Robustness
 category:
 date modified: 23-08-2025
 tags: []

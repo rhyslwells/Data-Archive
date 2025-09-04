@@ -8,6 +8,8 @@ Statisticians want to understand the world. The world is made of probabilities, 
 
 "Observe data and construct models, infer and refine hypotheses "
 
+Statistical data is random (unknown values) and uncertain (unknown what kind).
+
 Resources:
 https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E
 - [ ] Put links into relevant notes

@@ -11,7 +11,7 @@ Resource:
 
 Used to infer [[Model Parameters]] from collected data for example in [[Linear Regression]] ($\beta_0,\beta_1$).
 
-Definition: Likelihood
+Definition: [[Likelihood]]
 
 Why is it a good tool for guessing parameter values?
 
@@ -31,3 +31,13 @@ Assumptions for MLE:
 [[parametric vs non-parametric models]]
 
 Likelihood is a function of a parameter
+
+Images:
+
+Tha value obtained from MLE is the average of the data collected
+
+Related to [[EM Algorithm]]
+
+The shape of the [[Likelihood]] helps with finding paramaters.
+
+![[Pasted image 20250902074843.png]]

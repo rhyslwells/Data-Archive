@@ -2,9 +2,11 @@
 aliases: []
 category:
 date modified: 1-08-2025
-tags: [modeling]
+tags:
+  - modeling
+  - time_series
 ---
-ARIMA (AutoRegressive Integrated Moving Average) is a popular method for [[Time Series Forecasting]] that models the autocorrelations within the data. It is particularly useful for datasets with trends and patterns that are not seasonal. However, it is not perfect; for example, it struggles with predicting stock trading data.
+ARIMA (AutoRegressive Integrated Moving Average) is a popular method for [[Time Series Forecasting]] that models the autocorrelations within the data. It is particularly useful for datasets with trends and patterns that are not seasonal.
 
 ### ARIMA Explained
 
@@ -44,3 +46,4 @@ In [[ML_Tools]] see:
 - https://github.com/rhyslwells/ML_Tools/blob/main/Explorations/Build/TimeSeries/ARIMA.ipynb
 - [[Forecasting_AutoArima.py]]
 - [[pmdarima]]
+- [[ARIMA vs Random Forest in Time Series]]

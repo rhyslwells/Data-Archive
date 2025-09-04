@@ -9,7 +9,7 @@ When selecting data for machine learning models, several important consideration
 1. Relevance:
    - Ensure that the features (input variables) you select are relevant to the problem you are trying to solve. Irrelevant features can introduce noise and reduce model accuracy.
 
-2. Quality: [[Data Quality]]
+[[Data Quality]]
    - Assess the quality of the data, including checking for missing values, outliers, and errors. Poor quality data can lead to inaccurate models.
 
 3. Quantity:
