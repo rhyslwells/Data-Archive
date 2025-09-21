@@ -1,11 +1,12 @@
 ---
-aliases: []
+aliases:
+  - AIC
 category:
 date modified: 26-08-2025
 tags:
   - evaluation
 ---
-AIC stands for Akaike Information Criterion. It is a metric used to compare the goodness-of-fit of statistical models, taking into account both accuracy and complexity. For SARIMA (or any ARIMA-type model), the formula is:
+AIC stands for Akaike Information Criterion. It is a metric used to compare the goodness-of-fit of statistical models, taking into account both accuracy and complexity. For SARIMA (or any [[ARIMA]]-type model), the formula is:
 
 $$
 \text{AIC} = 2k - 2\ln(L)
@@ -25,3 +26,6 @@ Relative metric: AIC itself has no absolute meaning; it is only useful for compa
 
 Use in [[SARIMA]]: When tuning $(p,d,q)(P,D,Q)_s$, we often compute AIC for each combination. The model with the lowest AIC is considered the most efficient balance of fit and ==parsimony==.
 
+#### Related
+
+[[Evaluation Metrics]]

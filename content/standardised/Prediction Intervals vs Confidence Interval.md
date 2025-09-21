@@ -23,4 +23,4 @@ Key difference:
 * PI is about where a ==new observation== will fall.
 * CI is about where a ==statistical estimate== (like the mean) lies.
 
-In time series forecasting, a 95% prediction interval tells you the likely range of the next actual value, while a 95% confidence interval would tell you the uncertainty around the expected forecasted mean.
+In [[Time Series Forecasting]] a 95% prediction interval tells you the likely range of the next actual value, while a 95% confidence interval would tell you the uncertainty around the expected forecasted mean.

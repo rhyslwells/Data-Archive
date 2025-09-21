@@ -5,6 +5,14 @@ date modified: 1-08-2025
 tags: [code_snippet, evaluation]
 ---
 These metrics provide various ways to evaluate the performance of regression models.
+
+ [[Mean Absolute Error]]
+ [[Mean Absolute Percentage Error]]
+ [[Mean Squared Error]]
+ [[Root Mean Squared Error]]
+ [[R squared]]
+ [[Adjusted R squared]]
+ [[Median Absolute Error]]
 ### Evaluating Regression Models
 
 These metric provide:
@@ -18,32 +26,6 @@ These metric provide:
 4. **Model Comparison**: These metrics allow you to compare different models or configurations to determine which one performs best on your data.
 
 5. **Variance Explanation**: R-squared and Explained Variance Score provide insights into how much of the variability in the target variable is captured by the model, which is crucial for understanding the model's effectiveness.
-### Common Regression Metrics
-
-#### [[Mean Absolute Error]]
-
-#### [[Mean Squared Error]]
-#### [[Root Mean Squared Error]]
-#### [[R squared]]
-
-#### [[Adjusted R squared]]
-
-#### Median Absolute Error:
-   - Definition: This metric measures the median of the absolute errors between predicted and actual values.
-   - Interpretation: It provides a robust measure of prediction accuracy, especially in the presence of [[standardised/Outliers]].
-   - Formula: 
-   $$ \text{MedAE} = \text{median}(|y_i - \hat{y}_i|) $$
-
-#### Explained Variance Score:
-   - Definition: This metric measures the proportion of variance in the target variable that is predictable from the features.
-   - Interpretation: Higher values indicate that the model explains a greater proportion of the [[Variance]] in the target variable.
-   - Formula: 
-  $$\text{Explained Variance} = 1 - \frac{\text{Var}(y - \hat{y})}{\text{Var}(y)}$$
-   - Where:
-     - $\text{Var}(y)$ = variance of the actual values
-     - $\text{Var}(y - \hat{y})$ = variance of the prediction errors
-
 ### Implementation
 
 See Regression_Metrics.py
-

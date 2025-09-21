@@ -7,7 +7,7 @@ tags: [energy]
 Areas of interest:
 - [[Smart Grids]]
 - [[Energy Storage]]
-- [[Demand forecasting]]
+- [[Energy Demand Forecasting]]
 - [[Network Design]]
 - [[Energy ABM]]
 

@@ -6,23 +6,9 @@ tags: [explainability, ml, statistics]
 ---
 SARIMA extends ARIMA by adding seasonal components. It is written as: $$\text{SARIMA}(p, d, q)(P, D, Q)_s$$
 
-### Non-Seasonal ARIMA Part $(p, d, q)$
+Non-Seasonal ARIMA Part $(p, d, q)$ see [[ARIMA]]
 
-These are the standard ARIMA components:
-
-* $p$ – autoregressive (AR) order:
-  The number of lagged observations included in the model. ==AR terms capture how past values influence current values.==
-  Example: If $p=2$, the model uses the previous 2 time points to predict the current one.
-
-* $d$ – differencing order:
-  Number of times the data is differenced to make it stationary (remove trends).
-  Example: $d=1$ means we model the difference: $y_t - y_{t-1}$.
-
-* $q$ – moving average (MA) order:
-  Number of lagged forecast errors in the prediction equation. MA terms capture short-term shocks or noise in the series.
-  Example: $q=1$ means the model uses the previous time step’s error to adjust the prediction.
-
-### Seasonal Part $(P, D, Q)_s$
+Seasonal Part $(P, D, Q)_s$
 
 These extend ARIMA to handle repeating seasonal patterns. Here, $s$ is the seasonal period (how often the pattern repeats, e.g., 12 for monthly yearly seasonality).
 
@@ -54,19 +40,15 @@ These extend ARIMA to handle repeating seasonal patterns. Here, $s$ is the seaso
 
 2. Combine predictions:
    The model combines seasonal and non-seasonal components to forecast the next time step.
-### Example
-
-$\text{SARIMA}(1,1,1)(1,1,1)_{12}$
-
-* $p=1$: depends on previous value
-* $d=1$: difference once to remove trend
-* $q=1$: uses previous forecast error
-* $P=1$: depends on value 12 months ago
-* $D=1$: seasonal difference to remove annual seasonality
-* $Q=1$: adjusts using error from 12 months ago
-* $s=12$: yearly seasonality
-
-This model is good for monthly data with annual seasonal cycles.
-
 ### Related:
 - [[AIC in Model Evaluation]]
+- [[Evolving Seasonality]]
+- [[Differencing in Time Series]]
+
+### Determining parameters
+
+https://tsanggeorge.medium.com/a-semi-auto-way-to-determine-parameters-for-sarima-model-74cdee853080
+
+### Notes
+
+- Alternatively, **SARIMA** is conceptually similar to Holt-Winters but with more statistical rigor, so they can be compared side by side.

@@ -14,8 +14,8 @@ $$
 
 It takes values between $-1$ and $1$:
 
-* $\rho_k > 0$: Positive correlation → if $y_t$ is above its mean, $y_{t-k}$ tends to be above its mean too.
-* $\rho_k < 0$: Negative correlation → if $y_t$ is above its mean, $y_{t-k}$ tends to be below its mean.
+* $\rho_k > 0$: Positive correlation -> if $y_t$ is above its mean, $y_{t-k}$ tends to be above its mean too.
+* $\rho_k < 0$: Negative correlation -> if $y_t$ is above its mean, $y_{t-k}$ tends to be below its mean.
 * $\rho_k \approx 0$: No linear relationship between $y_t$ and its past at lag $k$.
 
 ### Intuition
@@ -28,6 +28,15 @@ Autocorrelation tells you ==how predictable a series is from its past==:
 
 ### Why it matters
 
-* Used to **detect [[Seasonality and Trends in Time Series]]**.
+* Used to **detect [[Decomposition in Time Series]]**.
 * Helps decide AR and MA terms in [[ARIMA]].
 * Checked via **Autocorrelation Function (ACF)** and **Partial Autocorrelation Function (PACF)** plots.
+
+### Hurst exponents
+- The Hurst exponent ($H$) is a measure used to characterize the long-term memory of time series. 
+- It helps to determine the presence of autocorrelation or persistence in the data. 
+- The goal of the Hurst exponent is to provide us with a scalar value that will help us to identify whether a series is  
+    - random walking,
+    - trending,
+    - [[Mean reverting]].
+

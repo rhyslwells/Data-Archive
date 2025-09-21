@@ -9,7 +9,7 @@ For energy data problems, many interpretable machine learning algorithms can be 
 
 For each of the energy data questions that RNNs might solve, interpretable alternatives [[Machine Learning Algorithms]]: such as linear regression, decision trees, random forests, and ARIMA models can be employed. These models provide transparency by revealing which features (e.g., weather, demand) influence predictions the most, making them suitable for stakeholders who need clear explanations of the decisions made by the model.
 
-### [[Demand forecasting]]
+### [[Energy Demand Forecasting]]
    - Algorithms:
      - Linear Regression: Can model simple linear relationships between energy consumption and time (e.g., daily/seasonal trends).
      - Decision Trees: Provides clear if-then rules for predicting future energy usage based on historical consumption, time of day, and other factors.
