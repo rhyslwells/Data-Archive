@@ -4,7 +4,6 @@ category: DS
 date modified: 27-07-2025
 tags: [clustering]
 ---
-
 Gaussian Mixture Models (GMMs) represent data as a mixture of multiple Gaussian [[distributions]], with each cluster corresponding to a different Gaussian component. GMMs are more effective than [[K-means]] because they consider the distributions of the data rather than relying solely on distance metrics.
 
 Soft [[Clustering]] technique.
