@@ -45,6 +45,6 @@ Training and Testing on Same Set (Careful!)
   - Example: Anomalous electricity usage — is it fraud, error, or legitimate increased demand?
 
 [[Data Visualisation]]
-- Visualize the results using plots (e.g., scatter plots, box plots) to understand the distribution of data and the identified anomalies.
+- Visualize the results using plots (e.g., [[Scatter Plots]], box plots) to understand the distribution of data and the identified anomalies.
 - [[Boxplot]]: Displays the distribution and identifies outliers using the interquartile range (IQR).
 - Scatter Plot: Helps visually identify outliers.

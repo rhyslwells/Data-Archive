@@ -1,8 +1,10 @@
 ---
 aliases: []
-category: DS
+category: DEVOPS
 date modified: 1-08-2025
-tags: [code_snippet, data_structure]
+tags:
+  - code_snippet
+  - data_structure
 ---
 A linked list is a linear data structure in which elements (called nodes) are linked together using pointers. Unlike arrays, linked lists do not store elements in contiguous [[memory]] locations; instead, each node contains:
 

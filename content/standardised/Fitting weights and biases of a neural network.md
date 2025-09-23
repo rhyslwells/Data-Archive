@@ -26,7 +26,7 @@ Proper initialization is critical for training to converge efficiently. Poor ini
 
 Weights:
 - Use small random values (e.g., drawn from Gaussian or uniform [[distributions]]) to break symmetry and ensure that neurons learn different features.
-- Initialization techniques like He initialization (for [[ReLU]] activations) or Xavier initialization (for sigmoid/tanh activations) are commonly used because they help maintain the scale of gradients across layers, promoting stable and faster convergence.
+- Initialization techniques like He initialization (for [[Relu]] activations) or Xavier initialization (for sigmoid/tanh activations) are commonly used because they help maintain the scale of gradients across layers, promoting stable and faster convergence.
 
 ```python
 from tensorflow.keras.layers import Dense

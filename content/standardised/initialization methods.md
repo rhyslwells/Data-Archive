@@ -26,7 +26,7 @@ Proper initialization ensures that:
 ## Common Initialization Methods
 
 * Xavier (Glorot): Scales weights based on the number of input and output units to maintain variance.
-* He: Optimized for [[ReLU]] activations, focuses on variance preservation from the input side.
+* He: Optimized for [[Relu]] activations, focuses on variance preservation from the input side.
 * Uniform / Normal: Basic methods that are prone to instability in deep networks.
 
 ## Related Notes

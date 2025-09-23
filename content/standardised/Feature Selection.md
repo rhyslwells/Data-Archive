@@ -44,7 +44,7 @@ After selecting features, it's essential to evaluate your model's performance ([
 
 - [[Dimensionality Reduction]] Techniques: Techniques like [[Principal Component Analysis]] or Singular Value Decomposition ([[SVD]]) can transform the features into a lower-dimensional space while preserving as much variance as possible. Features with low contribution to the principal components can be considered for removal.
 
-- [[Data Visualisation]]: Plotting pairwise scatter plots or [[Heatmap]] of feature [[Correlation]] can provide visual insights into redundant features. Clusters of highly correlated features or scatter plots showing no discernible pattern with the target variable can indicate noisy or redundant features.
+- [[Data Visualisation]]: Plotting pairwise scatter plots or [[Heatmap]] of feature [[Correlation]] can provide visual insights into redundant features. Clusters of highly correlated features or [[Scatter Plots]] showing no discernible pattern with the target variable can indicate noisy or redundant features.
 ### Investigating Features
 
 1. Variance Thresholding: Check the [[Variance]] & [[Distributions]] of each feature. Features with very low variance (close to zero) contribute little information and may be considered noisy. Removing such features can help simplify the model without sacrificing much predictive power.

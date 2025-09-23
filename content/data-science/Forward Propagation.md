@@ -8,7 +8,7 @@ tags: [deep_learning, statistics]
 >[!Summary]  
 > Forward propagation is the process by which input data moves through a neural network, layer by layer, to produce an output. During this process, each layer’s weights and biases are applied to the input data, and an activation function is used to transform the data at each layer. 
 > 
-> Mathematically, for each layer, the input $x$ is transformed into an output $y$ through the equation $y = f(Wx + b)$, where $W$ represents the weights, $b$ is the bias, and $f$ is the activation function (e.g., [[ReLU]], sigmoid). The output from one layer becomes the input to the next, and this continues until the final layer produces the predicted output. 
+> Mathematically, for each layer, the input $x$ is transformed into an output $y$ through the equation $y = f(Wx + b)$, where $W$ represents the weights, $b$ is the bias, and $f$ is the activation function (e.g., [[Relu]], sigmoid). The output from one layer becomes the input to the next, and this continues until the final layer produces the predicted output. 
 > 
 > This process does not involve learning; it only ==computes the prediction based on current weights.==
 
@@ -18,7 +18,7 @@ tags: [deep_learning, statistics]
 > - Weights ($W$) and biases ($b$): Parameters adjusted during training.  
 > - Activation function: Non-linear transformation, e.g., ReLU or sigmoid.  
 > - Output: Prediction made by the network.
-
+M
 >[!important]  
 > - Forward propagation calculates predictions ==by applying current model parameters== to inputs.  
 > - It is the first step before backpropagation, where the error is used to adjust weights.

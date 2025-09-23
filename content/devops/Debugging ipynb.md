@@ -1,8 +1,10 @@
 ---
 aliases: []
-category: DS
+category: DEVOPS
 date modified: 1-08-2025
-tags: [exploration]
+tags:
+  - exploration
+  - test
 ---
 [[debugging]] jupyter cells
 

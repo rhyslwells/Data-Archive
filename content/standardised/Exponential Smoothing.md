@@ -25,7 +25,7 @@ Qu: What do the parameters for each model tell us?
 * Holt’s -> Data with trend but no seasonality (e.g., stock with upward drift).
 	* [[Holt’s Linear Trend Model (Double Exponential Smoothing)]]
 * Holt-Winters -> Data with both trend and seasonality (e.g., sales data with monthly cycles).
-	* [[Holt-Winters Model (Triple Exponential Smoothing)]]
+	* [[Holt-Winters (Exponential Smoothing)]]
 
 All three methods can be implemented using the `holtwinters` (or `statsmodels`) package in Python.
 

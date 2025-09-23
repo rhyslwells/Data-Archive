@@ -1,8 +1,9 @@
 ---
-aliases: [policies]
-category: DS
+aliases:
+  - policies
+category: DL
 date modified: 1-08-2025
-tags: ["#question", question]
+tags:
 ---
 In [[reinforcement learning]] (RL), a **policy** is a strategy or a rule that defines the actions an agent takes in a given state to achieve its goals. It essentially ==maps states of the environment to actions that the agent should take when in those states.==
 
@@ -13,7 +14,7 @@ The goal of many RL algorithms is to find an optimal policy that maximizes the c
 ### Key Concepts
 
 **On-Policy vs. Off-Policy**:
-  - **On-Policy**: The agent learns the value of the policy it is currently following. An example is the [[SARSA]] algorithm, which updates its policy based on the actual actions taken by the agent.
+  - **On-Policy**: The agent learns the value of the policy it is currently following. An example is the [[Sarsa]] algorithm, which updates its policy based on the actual actions taken by the agent.
   - **Off-Policy**: The agent learns the value of the optimal policy, regardless of the actions it actually takes. [[Q-Learning]] is an example of an off-policy algorithm, as it updates its policy based on the best possible action in the next state, not necessarily the action taken.
 
 **Conservatism**:

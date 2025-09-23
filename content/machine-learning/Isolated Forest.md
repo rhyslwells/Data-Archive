@@ -7,7 +7,7 @@ tags: [anomaly_detection, data_quality]
 
  Isolation Forest (iForest) is an [[Model Ensemble]]-based method used for anomaly detection. It operates by isolating data points using a series of random binary splits.
  
-The key idea is that [[standardised/Outliers|anomalies]], being rare and different, are easier to isolate and thus require fewer splits. 
+The key idea is that [[standardised/Outliers|anomalies]], beingM rare and different, are easier to isolate and thus require fewer splits. 
 
 Mathematically, the isolation of a point is captured by the path length in a decision tree, where shorter paths indicate anomalies. The algorithm constructs multiple isolation trees, and the ==anomaly score of a point== is determined by the average path length across all trees. 
 

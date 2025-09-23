@@ -18,7 +18,7 @@ In short: ARIMA is a traditional statistical model suited for linear, [[Stationa
 | Captures patterns | Linear trends and seasonality                                                             | Non-linear patterns, interactions between features                                        |
 | Interpretability  | Relatively interpretable (coefficients have meaning)                                      | Less interpretable; [[feature importance]] can be analyzed                                    |
 | Forecast horizon  | Good for short- to medium-term forecasts if assumptions hold                              | Can perform well for complex patterns and longer horizons if features are engineered well |
-| Use case          | Classic [[time series forecasting]] where data is seasonal/trended                            | When time series is influenced by multiple variables or shows non-linear behavior         |
+| Use case          | Classic [[Time Series Forecasting]] where data is seasonal/trended                            | When time series is influenced by multiple variables or shows non-linear behavior         |
 
 
 

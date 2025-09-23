@@ -21,21 +21,19 @@ It takes values between $-1$ and $1$:
 ### Intuition
 
 Autocorrelation tells you ==how predictable a series is from its past==:
-
 * Stock returns: low/no autocorrelation (mostly random).
 * Daily temperatures: high autocorrelation at lag 1 (yesterday’s temperature is a good predictor of today’s).
 * Strong seasonal effects: autocorrelation spikes at seasonal lags (e.g., 7 days for weekly seasonality).
 
 ### Why it matters
-
 * Used to **detect [[Decomposition in Time Series]]**.
 * Helps decide AR and MA terms in [[ARIMA]].
-* Checked via **Autocorrelation Function (ACF)** and **Partial Autocorrelation Function (PACF)** plots.
+* Checked via **Autocorrelation Function (ACF)** and **Partial Autocorrelation Function (PACF)** plots ([[ACF Plots|ACF]], [[PACF Plots]]).
 
 ### Hurst exponents
 - The Hurst exponent ($H$) is a measure used to characterize the long-term memory of time series. 
 - It helps to determine the presence of autocorrelation or persistence in the data. 
-- The goal of the Hurst exponent is to provide us with a scalar value that will help us to identify whether a series is  
+- The goal of the Hurst exponent is to provide us with a scalar value that will help us to identify whether a series is 
     - random walking,
     - trending,
     - [[Mean reverting]].

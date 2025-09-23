@@ -12,7 +12,7 @@ tags: [drafting, field]
 
 ### Step 2: Develop Intuitions
 
-- **Explore Data**: Use exploratory data analysis ([[EDA]]) techniques to visualize and summarize the data.
+- **Explore Data**: Use exploratory [[data analysis]] ([[EDA]]) techniques to visualize and summarize the data.
 - **Identify Patterns**: Look for trends, correlations, and anomalies that might inform your understanding.
 - **Ask Preliminary Questions**: Consider what initial questions the data might help answer.
 ### Step 3: Formulate Your Question
@@ -48,4 +48,4 @@ tags: [drafting, field]
 ### Additional Considerations
 
 - **Iterative Process**: Be prepared to revisit and refine each step as new insights emerge.
-- **Documentation**: Keep thorough documentation of your process, findings, and decisions.
+- **[[Documentation]]**: Keep thorough documentation of your process, findings, and decisions.

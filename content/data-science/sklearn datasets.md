@@ -6,6 +6,7 @@ tags:
   - exploration
 ---
 [[Scikit-Learn]]
+[[Datasets]]
 
 make a dataframe by 
 

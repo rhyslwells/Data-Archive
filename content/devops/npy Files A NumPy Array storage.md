@@ -1,8 +1,9 @@
 ---
 aliases: []
-category: DS
+category: DEVOPS
 date modified: 1-08-2025
-tags: [file_type]
+tags:
+  - file_type
 ---
 A .npy file is a binary file format specifically designed to store a single NumPy array. NumPy, or Numerical Python, is a powerful library in Python used for numerical computing and data analysis.
 

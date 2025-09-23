@@ -8,7 +8,7 @@ A **Feedforward Neural Network (FFNN)** is the simplest type of [[Neural network
 
 ### Structure
 - Information flows in one direction: input → hidden layers → output.
-- During **[[forward propagation]]**, input data is passed through the network, processed by each layer, and an output is produced.
+- During **[[Forward Propagation]]**, input data is passed through the network, processed by each layer, and an output is produced.
 - Unlike [[recurrent neural networks]] (RNNs), FFNNs do not share information or weights between layers, meaning the model does not maintain memory of past inputs.
 
 ### Learning

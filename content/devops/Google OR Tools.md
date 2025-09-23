@@ -2,7 +2,10 @@
 aliases: []
 category: ML
 date modified: 1-08-2025
-tags: [math, optimisation]
+tags:
+  - math
+  - optimisation
+  - devops
 ---
 https://developers.google.com/optimization/examples
 
@@ -11,8 +14,6 @@ https://developers.google.com/optimization/examples
 Google OR-Tools (Operations Research Tools)
 
 A powerful open-source suite for solving combinatorial optimisation problems, such as:
-
 - Vehicle routing (e.g., delivery trucks)
 - Scheduling (e.g., job-shop scheduling)
 - Constraint satisfaction
-- Linear and integer programming

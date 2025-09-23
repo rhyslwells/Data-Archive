@@ -28,7 +28,7 @@ For each of the energy data questions that RNNs might solve, interpretable alter
    - Why: These algorithms can provide insights into the key weather conditions driving renewable energy generation and give transparent predictions for decision-making.
 ### 3. Energy Price Forecasting
    - Algorithms:
-     - ARIMA (AutoRegressive Integrated Moving Average): A traditional [[time series forecasting]] method that models linear relationships in energy prices over time.
+     - ARIMA (AutoRegressive Integrated Moving Average): A traditional [[Time Series Forecasting]] method that models linear relationships in energy prices over time.
      - Linear Regression: Can model the impact of factors like demand, supply, and historical prices in an interpretable way.
      - Decision Trees: Easy to interpret and can show thresholds where prices change based on inputs like demand or fuel costs.
      - XGBoost: Provides interpretability through SHAP values or feature importance, explaining which market factors (e.g., demand, fuel prices) drive price changes.

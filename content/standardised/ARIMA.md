@@ -6,7 +6,12 @@ tags:
   - modeling
   - time_series
 ---
-ARIMA (AutoRegressive Integrated Moving Average) is a widely used method for [[Time Series Forecasting]] that models the autocorrelations within the data. It is particularly effective for datasets with trends or patterns that are non-seasonal.
+ARIMA (AutoRegressive Integrated Moving Average) is a widely used method for [[Time Series Forecasting]] that models the autocorrelations within the data. It is particularly effective for datasets with trends or patterns that are non-seasonal. It is more **stochastic**, based on past correlations rather than explicit decomposition.
+
+When to use:
+ - When shocks, noise structure, or lagged dependencies drive the series more than trend/seasonality.
+ - Strong [[Autocorrelation]]
+* When seasonality changes over time (SARIMA can capture evolving seasonal relationships better than Holt-Winters).
 
 Requirement: [[Stationary Time Series]]
 ### ARIMA Explained
@@ -37,7 +42,7 @@ The main ARIMA parameters are:
 #### $q$ – Moving Average (MA) Order
 
 * Represents the number of lagged forecast errors included in the model.
-* Purpose: MA terms capture short-term shocks ([[Handling Time Series Shocks in the data]]) or noise.
+* Purpose: MA terms capture short-term shocks ([[Time Series Shocks]]) or noise.
 * Example: $q=1$ -> model uses the previous time step’s error to adjust the prediction.
 * How to pick $q$: Look at the [[Autocorrelation]] Function ([[ACF Plots|ACF]]) plot:
   * The lag after which ACF cuts off suggests the `q` value.
@@ -47,7 +52,7 @@ The main ARIMA parameters are:
 
 * Test several ARIMA models around initial `(p,d,q)` estimates.
 * Evaluate using [[AIC in Model Evaluation]] BIC, or [[Cross Validation]] (lower values indicate a better model).
-* Check residuals: They should resemble white noise (uncorrelated and zero mean).
+* Check [[Residuals in Time Series]]: They should resemble white noise (uncorrelated and zero mean).
 
 ### What ARIMA Does
 

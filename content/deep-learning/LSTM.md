@@ -67,7 +67,7 @@ These gates are regulated by ==sigmoid== activation, which output values between
 
 ### Example Workflow in Python using Keras:
 
-In this example, we define a simple LSTM model in [[Keras]] for a [[time series forecasting]] task. The model processes sequences with 1000 time steps, and the LSTM layer has 50 units, followed by a fully connected (Dense) layer for the final prediction.
+In this example, we define a simple LSTM model in [[Keras]] for a [[Time Series Forecasting]] task. The model processes sequences with 1000 time steps, and the LSTM layer has 50 units, followed by a fully connected (Dense) layer for the final prediction.
 
 ```python
 import numpy as np

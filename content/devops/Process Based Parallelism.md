@@ -1,8 +1,9 @@
 ---
 aliases: []
-category: DS
+category: DEVOPS
 date modified: 1-08-2025
-tags: [system]
+tags:
+  - system
 ---
 ## What Is Process-Based Parallelism?
 

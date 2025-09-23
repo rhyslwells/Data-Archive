@@ -1,9 +1,10 @@
 ---
-aliases: 
+aliases:
 category: DS
 date modified: 27-07-2025
 tags:
   - business
+  - role
 ---
 Data Scientist
   - Utilizes [[Business Intelligence]] (BI) tools to analyze data.
