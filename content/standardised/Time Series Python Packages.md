@@ -21,7 +21,7 @@ Forecasting & Modeling
 - [[Scikit-Learn]]
 
 [[Anomaly Detection]]
-- [[pyod]]: Comprehensive library for outlier and anomaly detection (can be applied to time series).
+- [[PyOD]]: Comprehensive library for outlier and anomaly detection (can be applied to time series).
 
 Others:
 - Darts

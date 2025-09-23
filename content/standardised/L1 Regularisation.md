@@ -10,7 +10,7 @@ tags:
   - optimisation
   - ml
 ---
-L1 regularization adds a penalty proportional to the ==absolute values== of the model coefficients to the [[loss function]]. This penalty encourages ==sparsity==-some coefficients become exactly zero-making it useful for [[feature selection]].
+L1 regularization adds a penalty proportional to the ==absolute values== of the model coefficients to the [[loss function]]. This penalty encourages ==sparsity==-some coefficients become exactly zero-making it useful for [[Feature Selection]].
 
 Remember how L1 and L2 metrics work with regards to the unit ball.
 

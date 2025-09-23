@@ -8,7 +8,7 @@ In [[ML_Tools]] see: [[Addressing_Multicollinearity.py]]
 
 Multicollinearity can impact the performance and [[Interpretability]] of regression models by causing instability in coefficient estimates and complicating the analysis of variable significance. Techniques like PCA can help by transforming correlated variables into uncorrelated principal components, thereby improving model stability and interpretability.
 
-[[Principal Component Analysis]] (PCA) is a [[dimensionality reduction]] technique that can help address [[multicollinearity]] in regression models.
+[[Principal Component Analysis]] (PCA) is a [[Dimensionality Reduction]] technique that can help address [[multicollinearity]] in regression models.
 
 1. **Combining Correlated Variables**: PCA transforms the correlated independent variables into a set of uncorrelated variables called principal components. These components capture the majority of the variance in the data while reducing redundancy.
 

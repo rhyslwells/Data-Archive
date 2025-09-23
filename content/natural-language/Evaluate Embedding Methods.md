@@ -6,7 +6,7 @@ tags: [analysis, evaluation, nlp]
 ---
 #### How to Evaluate Embedding Methods
 
-##### 1. Semantic Relationship Fidelity
+##### Semantic Relationship Fidelity
 
 A good [[Vector Embedding|embedding]] should place semantically similar sentences or words closer together in the embedding space. You can test this using:
 
@@ -32,7 +32,7 @@ A good [[Vector Embedding|embedding]] should place semantically similar sentence
 
 * Cluster the embeddings (e.g. via k-means) and evaluate whether related texts group together.
 * Measure cluster cohesion and separation (e.g. using Silhouette Score).
-##### 2. Information Content & Sparsity
+##### Information Content & Sparsity
 
  a) Use [[TF-IDF]] as Baseline
 
@@ -40,7 +40,7 @@ A good [[Vector Embedding|embedding]] should place semantically similar sentence
 * Evaluate how well dense embeddings retain the importance structure identified by TF-IDF.
 * For example, check whether high TF-IDF words receive higher attention in models like BERT (via attention weights) or influence sentence embedding directions.
 
-##### 3. Downstream Task Performance
+##### Downstream Task Performance
 
 Train simple classifiers (e.g. [[logistic regression]]) on embeddings to predict:
   * Sentiment
@@ -49,7 +49,7 @@ Train simple classifiers (e.g. [[logistic regression]]) on embeddings to predict
 
 Better embeddings typically yield better accuracy/F1 on such tasks.
 
-##### 4. Visual Inspection
+##### Visual Inspection
 
  a) [[Dimensionality Reduction]]
 * Use [[Principal Component Analysis|PCA]], [[t-SNE]], or [[UMAP]] to project embeddings into 2D.

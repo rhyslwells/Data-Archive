@@ -7,7 +7,7 @@ tags:
   - statistics
 ---
 Factor Analysis (FA) is a statistical method used for:
-- [[dimensionality reduction]],
+- [[Dimensionality Reduction]],
 - [[EDA]]
 - or latent variable detection
 

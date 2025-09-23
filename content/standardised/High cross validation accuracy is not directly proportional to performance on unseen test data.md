@@ -14,7 +14,7 @@ Reasons a Model with High [[Cross Validation]] Accuracy May Perform Poorly on Un
 
 Overfitting: 
   - Model captures noise in training data, leading to high CV but low test accuracy.
-  - Solution: Use simpler models, regularization, and evaluate test performance during [[hyperparameter tuning]].
+  - Solution: Use simpler models, regularization, and evaluate test performance during [[Hyperparameter Tuning]].
 
 Insufficient Cross-Validation Folds: 
   - Too few folds lead to high variance in performance estimates.
