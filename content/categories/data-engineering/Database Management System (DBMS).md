@@ -1,0 +1,24 @@
+---
+aliases:
+- DBMS
+category: DE
+date modified: 27-09-2025
+tags:
+- database
+- management
+---
+A **Database Management System** (DBMS) is software that allows you to interact with and manage databases.
+Easiest to use:
+- [[SQLite]]
+- [[PostgreSQL]]
+
+Others:
+- [[MySql]]
+- [[MongoDB]]
+- [[Oracle]]
+- [[Cassandra]]
+- [[MariaDB]]
+
+These systems enable users to perform [[CRUD]] operations while maintaining data integrity and providing tools for backup, security, and optimization.
+
+Can be proprietary (paid, with support) or Open source (free, self-supported).

@@ -17,13 +17,12 @@ The [[Data Archive]] is continuously growing and is the entry point of my resear
 > 
 > Click on the [Hashtags](Tags.md) to explore the topics by tags. 
 
-
 The Data Archive is split into two areas:
+
+> [!abstract]- categories
+> This folder is the knowledge-oriented part of the Data Archive; it follows the [[Zettelkasten]] method. Here, each note deals with one (and only one) concept or thought, and they are all linked together. Think of it as a personal Wikipedia that contains everything I know. Use the tagging system to navigate these notes.
+>
 
 > [!abstract]- Research Questions
 > The [[Research Questions]] page of the Data Archive contains questions which I think are interesting. One of the main aims of the Data Archive is towards generating good questions.
 > 
-
-> [!abstract]- Standardised
-> This folder is the knowledge-oriented part of the Data Archive; it follows the [[Zettelkasten]] method. Here, each note deals with one (and only one) concept or thought, and they are all linked together. Think of it as a personal Wikipedia that contains everything I know. Use the tagging system to navigate these notes.
->

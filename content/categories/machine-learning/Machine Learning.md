@@ -1,0 +1,29 @@
+---
+aliases: []
+category: ML
+date modified: 27-09-2025
+tags:
+- field
+---
+Machine learning (ML) is a type of artificial intelligence ([[AI]]) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. 
+
+Machine learning [[Machine Learning Algorithms]] use historical data as input to predict new output values.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

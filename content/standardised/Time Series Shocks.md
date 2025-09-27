@@ -1,1 +1,0 @@
-Think Covid's impact on the stock market.

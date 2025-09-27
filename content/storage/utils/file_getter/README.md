@@ -1,1 +1,0 @@
-Because [[NotebookLM]] requires files from a folder and I don't want to select manually the context I want i have added an automation tool here.

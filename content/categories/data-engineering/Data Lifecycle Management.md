@@ -1,0 +1,24 @@
+---
+aliases: []
+category: DE
+date modified: 27-09-2025
+tags:
+- management
+- portal
+---
+This is the comprehensive process of managing data from its initial ingestion to its final use in downstream processes. 
+
+Used for maintaining [[Data Integrity]], optimizing performance, and ensuring that data-driven decisions are based on accurate and timely information. 
+
+Not the same as the [[Software Development Life Cycle]]
+
+Key Stages of Full Lifecycle Management
+
+1. [[Data Ingestion]]
+2. [[Data Storage]]
+3. [[Preprocessing]]
+4. [[Data Analysis]]
+5. [[Data Visualisation]]
+6. [[Data Distribution]]
+
+Data engineers must evaluate and select tools and technologies based on several [[Performance Dimensions]]

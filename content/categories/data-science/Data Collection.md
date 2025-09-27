@@ -1,0 +1,12 @@
+---
+aliases:
+- null
+category: DS
+date modified: 27-09-2025
+tags:
+- process
+---
+Determine the [[Data Quality]] and quantity of data required and get it from [[Data Sources]].
+
+Types of data:
+- [[Imbalanced Datasets]]

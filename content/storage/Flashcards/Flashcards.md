@@ -5,6 +5,12 @@ category:
 ---
 Pull flashcard files to phone and tablets with obsidian. Or with [[Anki]].
 
+To do:
+- Generate cards here, create txt file then upload to anki
+- review cards, and delete poor ones
+- share cards
+- For a note in [[Data Archive]] ask to generate n cares of the for 
+	- question {{c1::answer}}
 ## Language models
 
 1. Small Language Models (SLMs) excel in specialized tasks due to their {{c1::computational efficiency, interpretability, and task-specific fine-tuning}}, making them highly relevant for Edge ML and edge computing, as well as for {{c2:: domain-specific}} tasks.
@@ -101,7 +107,7 @@ Pull flashcard files to phone and tablets with obsidian. Or with [[Anki]].
 ## ML
 
 ### [[NLP]]
-- In NLP the [[Bag of Words]] model represents text data by counting the {{occurrence of each word}} in a document. TF-IDF stands for {{Term Frequency-Inverse Document Frequency}} and improves on Bag of Words by considering the importance of a word in a document relative to its frequency across multiple documents.
+- In NLP the [[Bag of words]] model represents text data by counting the {{occurrence of each word}} in a document. TF-IDF stands for {{Term Frequency-Inverse Document Frequency}} and improves on Bag of Words by considering the importance of a word in a document relative to its frequency across multiple documents.
 - One-hot encoding converts categorical data into a {{binary vector representation}}.
 
 ### [[nltk]]
