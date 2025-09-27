@@ -1,64 +1,63 @@
 ---
-aliases: []
+title: Home
+tags: []
 category:
-date modified: 27-09-2025
-tags: [agents, algorithm, anomaly_detection, architecture, automation, career, classifier, cleaning, cloud, clustering, code_snippet, communication, data_quality, data_structure, database, devops, documentation, drafting, explainability, exploration, field, file_type, frontend, GenAI, governance, graph, language_models, management, math, ml, modeling, NLP, optimisation, orchestration, portal, process, programming, querying, question, regressor, software, SQL, statistics, system, term, test, transformation, visualization]
 ---
-Welcome to the Data Archive, an archive of data-related concepts inspired by the [Digital Garden](https://jzhao.xyz/posts/networked-thought/) analogy. For more information and navigation see [[Data Archive]]. Here are some starting tags. For other navigation notes see. For example see [[Clustering]].
+Welcome to the Data Archive, an archive of data-related concepts inspired by the [Digital Garden](https://jzhao.xyz/posts/networked-thought/) analogy. For more information and navigation see [[Data Archive]]. Here are some starting tags. For other navigation notes see #portal. For example see [[Clustering]].
 ### [[DS & ML Portal]]
 
 | Focus: Models                                                                                       |
 | --------------------------------------------------------------------------------------------------- |
-|<br>#deep_learning<br>#time_series  |
+| #classifier #regressor #clustering<br>#deep_learning #anomaly_detection #algorithm<br>#time_series  |
 
 | Focus: modeling techniques, ML lifecycle, explainability             |
 | -------------------------------------------------------------------- |
-|<br>#evaluation  |
+| #process #optimisation #explainability<br>#evaluation #modeling #ml  |
 
 | Focus: ML model structure, algorithms, and architecture |
 | ------------------------------------------------------- |
-| <br>                 |
+| #modeling #architecture #algorithm <br>                 |
 ### [[Data Engineering Portal]]
 
 | Focus: cleaning, transforming, and processing |
 | --------------------------------------------- |
-|                     |
+| #cleaning #transformation                     |
 
 | Focus: managing, securing, and validating data across systems |
 | ------------------------------------------------------------- |
-|<br>#security            |
+| #governance #management #data_quality<br>#security            |
 
 | Focus: designing and optimizing data systems and databases |
 | ---------------------------------------------------------- |
-| <br>#storage        |
+| #database #optimisation <br>#storage #modeling #SQL        |
 
 | Focus: orchestration, architecture, streaming                  |
 | -------------------------------------------------------------- |
-|<br>#database |
+| #devops #orchestration #cloud<br>#database #querying #frontend |
 
 ### [[Data Analysis Portal]]
 
 | Focus: data communication and exploration                                      |
 | ------------------------------------------------------------------------------ |
-|<br>#analysis |
+| #exploration #communication #visualization<br>#analysis |
 ### [[Software Development Portal]]
 
 | Focus: software development, tools, and system design                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
-|<br><br><br>  |
+| #software #orchestration #software<br> #code_snippet #architecture #system<br> #file_type #test #programming<br> #term #automation  |
 ### [[Project Management Portal]]
 
 | Focus: Communication, Project work                        |
 | --------------------------------------------------------- |
-| <br>#business  |
+| #career #field #question #drafting <br>#business #documentation  |
 ### Others
 
 | Focus: computational tags                                         |
 | ----------------------------------------------------------------- |
-|<br>#python |
+| #statistics #math #data_structure<br>#python #graph #programming |
 
 | Focus: GenAI, LLMs, NLP                                     |
 | ----------------------------------------------------------- |
-|<br>#memory_management  |
+| #GenAI #language_models #NLP<br>#memory_management #agents  |
 
 ![[Pasted image 20250412163226.png]]
