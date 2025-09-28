@@ -7,17 +7,17 @@ Welcome to the Data Archive, an archive of data-related concepts inspired by the
 
 ### [[DS & ML Portal]]
 
-| #classifier  #regressor  #clustering  #deep_learning  #anomaly_detection  #algorithm |
-| --- |
+| #classifier  #regressor  #clustering  #deep_learning  #anomaly_detection |
+| ------------------------------------------------------------------------ |
 | #time_series  #process  #optimisation  #explainability  #evaluation  #ml |
-| #modeling  #architecture |
+| #modeling  #architecture #algorithm                                      |
 
 ### [[Data Engineering Portal]]
 
-| #cleaning  #transformation  #governance  #management  #data_quality  #security |
-| --- |
-| #database  #storage  #SQL  #devops  #orchestration  #cloud |
-| #querying  #frontend |
+| #cleaning  #transformation  #governance  #management  #data_quality |
+| ------------------------------------------------------------------- |
+| #database  #storage  #SQL  #devops  #orchestration  #cloud          |
+| #querying  #frontend  #security                                     |
 
 ### [[Data Analysis Portal]]
 
@@ -26,9 +26,9 @@ Welcome to the Data Archive, an archive of data-related concepts inspired by the
 
 ### [[Devops Portal]]
 
-| #software  #code_snippet  #architecture  #system  #file_type  #test |
-| --- |
-| #programming  #term  #automation  #python |
+| #software  #code_snippet  #architecture  #system  #file_type |
+| ------------------------------------------------------------ |
+| #programming  #term  #automation  #python  #test             |
 
 ### [[Project Management Portal]]
 
@@ -44,5 +44,3 @@ Welcome to the Data Archive, an archive of data-related concepts inspired by the
 
 | #statistics  #math  #graph |
 | --- |
-
-![[Pasted image 20250412163226.png]]

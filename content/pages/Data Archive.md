@@ -22,3 +22,6 @@ The Data Archive is split into two areas:
 
 > [!abstract]- Research Questions
 > - The [[Research Questions]] page of the Data Archive contains questions which I think are interesting. One of the main aims of the Data Archive is towards generating good questions.
+
+
+![[Pasted image 20250412163226.png]]
