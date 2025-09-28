@@ -25,7 +25,7 @@ This is achieved by applying formal rules during the creation of a new database 
 [[How to normalise a merged table]]
 ## Denormalization
 
-**Denormalization**, on the other hand, is the process of intentionally introducing redundancy into a database design by combining tables or adding redundant data, aiming to improve query performance or simplify the database structure. Denormalization is the **opposite of normalization**. Please consider the trade-offs between data integrity and query performance. This technique is used with [Dimensional Modeling](Dimensional%20Modelling.md) in [OLAP](OLAP%20(online%20analytical%20processing).md) cubes, for example.
+**Denormalization**, on the other hand, is the process of intentionally introducing redundancy into a database design by combining tables or adding redundant data, aiming to improve query performance or simplify the database structure. Denormalization is the **opposite of normalization**. Please consider the trade-offs between data integrity and query performance. This technique is used with [Dimensional Modeling](Dimensional%20Modelling.md) in [OLAP](OLAP.md) cubes, for example.
 
 # Related to:
 

@@ -23,5 +23,5 @@ In **columnar storage**, the data would be stored by columns, like:
 If you're querying for the total sales (`order_amount`) in a specific period, only the `order_amount` and `order_date` columns are accessed. 
 
 
-Use case: **Data Analytics/[[OLAP (online analytical processing)]] (Online Analytical Processing)**
+Use case: **Data Analytics/[[OLAP]] (Online Analytical Processing)**
 - Running a query to get the **total sales for October** only needs to scan the `order_amount` and `order_date` columns, rather than scanning entire rows, faster [[Querying]]

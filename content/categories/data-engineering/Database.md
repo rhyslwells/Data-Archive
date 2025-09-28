@@ -31,3 +31,6 @@ Related Ideas:
 - [[Relating Tables Together]]
 - [[Turning a flat file into a database]]
 - [[Database Techniques]]
+
+Tasks:
+- [x] Investigate [[pyodbc]] ✅ 2025-09-28

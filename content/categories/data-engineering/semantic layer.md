@@ -16,7 +16,7 @@ Bridging the gap between complex data systems and business users, enabling more 
 
 Avoid extensive reshuffles or reprocesses of large amounts of data. 
 
-Think of [OLAP](OLAP%20(online%20analytical%20processing).md) cubes where you can dice-and-slice ad-hoc on significant amounts of data without storing them ahead of time
+Think of [OLAP](OLAP.md) cubes where you can dice-and-slice ad-hoc on significant amounts of data without storing them ahead of time
 
 ### Key Features of a Semantic Layer
 
