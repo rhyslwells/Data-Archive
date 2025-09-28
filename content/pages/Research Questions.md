@@ -59,7 +59,7 @@ TABLE
 FROM ""
 WHERE contains(tags, "question") AND category = "LANG"
 ```
-### DEVOPS: [[Software Development Portal]]
+### DEVOPS: [[Devops Portal]]
 ```dataview
 TABLE
 FROM ""

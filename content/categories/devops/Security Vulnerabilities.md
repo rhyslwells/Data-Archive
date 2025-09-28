@@ -5,7 +5,7 @@ date modified: 27-07-2025
 tags:
 - software
 ---
-[[Data Security]] vulnerabilities can be encountered and mitigated in [[Software Development Portal]].
+[[Data Security]] vulnerabilities can be encountered and mitigated in [[Devops Portal]].
 
 Useful Tools
 - [[tool.bandit]]

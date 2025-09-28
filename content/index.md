@@ -4,60 +4,45 @@ tags: []
 category:
 ---
 Welcome to the Data Archive, an archive of data-related concepts inspired by the [Digital Garden](https://jzhao.xyz/posts/networked-thought/) analogy. For more information and navigation see [[Data Archive]]. Here are some starting tags. For other navigation notes see #portal. For example see [[Clustering]].
+
 ### [[DS & ML Portal]]
 
-| Focus: Models                                                                                       |
-| --------------------------------------------------------------------------------------------------- |
-| #classifier #regressor #clustering<br>#deep_learning #anomaly_detection #algorithm<br>#time_series  |
+| #classifier | #regressor | #clustering | #deep_learning | #anomaly_detection | #algorithm |
+| ----------- | ---------- | ----------- | -------------- | ------------------ | ---------- |
+| #time_series | #process | #optimisation | #explainability | #evaluation | #ml |
+| #modeling | #architecture |            |                |                    |            |
 
-| Focus: modeling techniques, ML lifecycle, explainability             |
-| -------------------------------------------------------------------- |
-| #process #optimisation #explainability<br>#evaluation #modeling #ml  |
-
-| Focus: ML model structure, algorithms, and architecture |
-| ------------------------------------------------------- |
-| #modeling #architecture #algorithm <br>                 |
 ### [[Data Engineering Portal]]
 
-| Focus: cleaning, transforming, and processing |
-| --------------------------------------------- |
-| #cleaning #transformation                     |
-
-| Focus: managing, securing, and validating data across systems |
-| ------------------------------------------------------------- |
-| #governance #management #data_quality<br>#security            |
-
-| Focus: designing and optimizing data systems and databases |
-| ---------------------------------------------------------- |
-| #database #optimisation <br>#storage #modeling #SQL        |
-
-| Focus: orchestration, architecture, streaming                  |
-| -------------------------------------------------------------- |
-| #devops #orchestration #cloud<br>#database #querying #frontend |
+| #cleaning | #transformation | #governance | #management | #data_quality | #security |
+| --------- | --------------- | ----------- | ----------- | ------------- | --------- |
+| #database | #storage | #SQL | #devops | #orchestration | #cloud |
+| #querying | #frontend |       |        |              |        |
 
 ### [[Data Analysis Portal]]
 
-| Focus: data communication and exploration                                      |
-| ------------------------------------------------------------------------------ |
-| #exploration #communication #visualization<br>#analysis |
-### [[Software Development Portal]]
+| #exploration | #communication | #visualization | #analysis |        |        |
+| ------------ | -------------- | -------------- | --------- | ------ | ------ |
 
-| Focus: software development, tools, and system design                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------- |
-| #software #orchestration #software<br> #code_snippet #architecture #system<br> #file_type #test #programming<br> #term #automation  |
+### [[Devops Portal]]
+
+| #software | #code_snippet | #architecture | #system | #file_type | #test |
+| --------- | ------------- | ------------- | ------- | ---------- | ----- |
+| #programming | #term | #automation | #python |            |       |
+
 ### [[Project Management Portal]]
 
-| Focus: Communication, Project work                        |
-| --------------------------------------------------------- |
-| #career #field #question #drafting <br>#business #documentation  |
-### Others
+| #career | #field | #question | #drafting | #business | #documentation |
+| ------- | ------ | --------- | --------- | --------- | -------------- |
 
-| Focus: computational tags                                         |
-| ----------------------------------------------------------------- |
-| #statistics #math #data_structure<br>#python #graph #programming |
+### [[NLP Portal]]
 
-| Focus: GenAI, LLMs, NLP                                     |
-| ----------------------------------------------------------- |
-| #GenAI #language_models #NLP<br>#memory_management #agents  |
+| #GenAI | #language_models | #NLP | #memory_management | #agents |        |
+| ------ | ---------------- | ---- | ------------------ | ------- | ------ |
+
+### [[Science Portal]]
+
+| #statistics | #math | #graph |        |        |        |
+| ----------- | ----- | ------ | ------ | ------ | ------ |
 
 ![[Pasted image 20250412163226.png]]
