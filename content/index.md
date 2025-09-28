@@ -7,40 +7,28 @@ Welcome to the Data Archive, an archive of data-related concepts inspired by the
 
 ### [[DS & ML Portal]]
 
-| #classifier  #regressor  #clustering  #deep_learning  #anomaly_detection |
-| ------------------------------------------------------------------------ |
-| #time_series  #process  #optimisation  #explainability  #evaluation  #ml |
-| #modeling  #architecture #algorithm                                      |
-
+ #classifier #regressor #clustering #deep_learning #anomaly_detection 
+ #time_series #process #optimisation #explainability #evaluation #ml 
+ #modeling #architecture #algorithm                   
 ### [[Data Engineering Portal]]
 
-| #cleaning  #transformation  #governance  #management  #data_quality |
-| ------------------------------------------------------------------- |
-| #database  #storage  #SQL  #devops  #orchestration  #cloud          |
-| #querying  #frontend  #security                                     |
-
+ #cleaning #transformation #governance #management #data_quality 
+ #database #storage #SQL #devops #orchestration #cloud     
+ #querying #frontend #security                   
 ### [[Data Analysis Portal]]
 
-| #exploration  #communication  #visualization  #analysis |
-| --- |
-
+ #exploration #communication #visualization #analysis 
 ### [[Devops Portal]]
 
-| #software  #code_snippet  #architecture  #system  #file_type |
-| ------------------------------------------------------------ |
-| #programming  #term  #automation  #python  #test             |
-
+ #software #code_snippet #architecture #system #file_type 
+ #programming #term #automation #python #test       
 ### [[Project Management Portal]]
 
-| #career  #field  #question  #drafting  #business  #documentation |
-| --- |
-
+ #career #field #question #drafting #business #documentation 
 ### [[NLP Portal]]
 
-| #GenAI  #language_models  #NLP  #memory_management  #agents |
-| --- |
-
+ #GenAI #language_models #NLP #memory_management #agents 
 ### [[Science Portal]]
 
-| #statistics  #math  #graph |
-| --- |
+ #statistics #math #graph 
+
