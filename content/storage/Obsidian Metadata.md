@@ -12,6 +12,20 @@ Tags are more precise and contextual.
 Related:
 - [[Research Questions]]
 - [[Data Archive Graph]]
+
+To get all tags use:
+
+```
+```dataviewjs`
+let tags = []
+for (let tag of dv.pages('').file.tags) {
+ if (tags.indexOf(tag) == -1) {
+ tags.push(tag)
+ }
+}
+dv.list(tags)
+```
+
 # Graph View
 
 Link:

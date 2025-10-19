@@ -11,7 +11,7 @@ The Central Limit Theorem states that the distribution of the sum (or average) o
 
 ### Key Points
 
-- **Mean of [[Sampling]] Distribution:** The mean of the sampling distribution is equal to the mean of the original population.
+- **Mean of [[Resampling]] Distribution:** The mean of the sampling distribution is equal to the mean of the original population.
 - **Variance of Sampling Distribution:** The variance of the sampling distribution is the population variance divided by the sample size (\(n\)), making it \(n\) times smaller.
 - **Applicability:** The CLT applies when calculating the sum or average of many variables, such as the sum of rolled numbers when rolling dice.
 

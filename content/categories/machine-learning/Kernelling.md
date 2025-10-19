@@ -15,3 +15,4 @@ tags:
      - Polynomial kernel
      - Radial Basis Function (RBF) or exponential kernel
 
+![[Pasted image 20251005094421.png]]

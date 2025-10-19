@@ -16,7 +16,7 @@ A key concept in batch processing is **MapReduce**:
   - **Reduce**: Aggregates the processed data results from the individual tasks.
   - **Order**: The order of Map and Reduce steps is flexible; the primary focus is on splitting and then aggregating data.
 
-Batch processing is widely supported by cloud infrastructures like **Amazon EMR** and **[[Databricks]]**, which provide scalable environments for running batch jobs.
+Batch processing is widely supported by cloud infrastructures like **Amazon EMR** and **[[categories/devops/Databricks]]**, which provide scalable environments for running batch jobs.
 
 
 

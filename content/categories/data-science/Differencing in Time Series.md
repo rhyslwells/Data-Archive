@@ -1,9 +1,10 @@
 ---
-aliases: []
+aliases:
+  - Differencing
 category: DS
 date modified: 27-09-2025
 tags:
-- time_series
+  - time_series
 ---
 ### Why Do Differencing in Time Series?
 

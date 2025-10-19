@@ -3,55 +3,77 @@ aliases: []
 category: ML
 date modified: 27-09-2025
 tags:
-- explainability
-- ml
-- statistics
+  - explainability
+  - statistics
+  - time_series
 ---
-SARIMA extends ARIMA by adding seasonal components. It is written as: $$\text{SARIMA}(p, d, q)(P, D, Q)_s$$
+Seasonal ARIMA (SARIMA) extends the standard ARIMA model by incorporating seasonal components.
+It is expressed as:
 
-Non-Seasonal ARIMA Part $(p, d, q)$ see [[ARIMA]]
+$$\text{SARIMA}(p, d, q)(P, D, Q)_s$$
+### Components
 
-Seasonal Part $(P, D, Q)_s$
+#### Non-seasonal part $(p, d, q)$
 
-These extend ARIMA to handle repeating seasonal patterns. Here, $s$ is the seasonal period (how often the pattern repeats, e.g., 12 for monthly yearly seasonality).
+(See [[ARIMA]] for details.)
 
-* $P$ – seasonal autoregressive order:
-  Similar to $p$, but at the seasonal lag.
-  Example: If $P=1$ and $s=12$, the model uses $y_{t-12}$ (value from one year ago) to predict $y_t$.
+#### Seasonal part $(P, D, Q)_s$
 
-* $D$ – seasonal differencing order:
-  Number of times seasonal differencing is applied. Removes seasonal trends.
-  Example: $D=1$ with $s=12$: $y_t - y_{t-12}$.
+These terms allow ARIMA to model repeating seasonal patterns. 
 
-* $Q$ – seasonal moving average order:
-  Similar to $q$, but considers past seasonal forecast errors.
-  Example: $Q=1$ and $s=12$ uses the error from 12 months ago.
+The parameter $s$ denotes the seasonal period, how often the pattern repeats (e.g., $s=12$ for monthly data with yearly seasonality).
 
-### How SARIMA Works (Step by Step)
+* $P$ - Seasonal Autoregressive Order
+  Analogous to $p$, but applies to seasonal lags.
+  Example: If $P=1$ and $s=12$, the model uses $y_{t-12}$ (the value from one year ago) to predict $y_t$.
 
-1. Seasonal differencing first (if $D>0$):
-   Remove repeating seasonal trends to stabilize the mean.
-   $y'_t = y_t - y_{t-s}$
+* $D$ - Seasonal Differencing Order
+  The number of times seasonal differencing is applied to remove seasonal trends.
+  Example: $D=1$ with $s=12$ applies $y_t - y_{t-12}$.
 
-2. Non-seasonal differencing (if $d>0$):
-   Remove overall trend to make the series stationary.
+* $Q$ - Seasonal Moving Average Order
+  Analogous to $q$, but incorporates forecast errors from seasonal lags.
+  Example: $Q=1$ and $s=12$ uses the forecast error from 12 months prior.
 
-3. Apply ARMA on transformed series:
+### How SARIMA Works
 
-   * Non-seasonal AR ($p$) and MA ($q$) model short-term dependencies.
-   * Seasonal AR ($P$) and MA ($Q$) model dependencies at seasonal lags.
+1. Seasonal differencing ($D > 0$)
+   * Remove repeating seasonal patterns to stabilize the mean.
+   $$y'_t = y_t - y_{t-s}$$
 
-2. Combine predictions:
-   The model combines seasonal and non-seasonal components to forecast the next time step.
-### Related:
-- [[AIC in Model Evaluation]]
-- [[Evolving Seasonality]]
-- [[Differencing in Time Series]]
+2. Non-seasonal differencing ($d > 0$)
+   * Remove overall trends to make the series stationary.
 
-### Determining parameters
+3. Fit ARMA components
 
-https://tsanggeorge.medium.com/a-semi-auto-way-to-determine-parameters-for-sarima-model-74cdee853080
+   * Non-seasonal AR ($p$) and MA ($q$) capture short-term dependencies.
+   * Seasonal AR ($P$) and MA ($Q$) capture longer-term dependencies at seasonal lags.
 
-### Notes
+2. Combine predictions
+   The final forecast combines seasonal and non-seasonal components.
 
-- Alternatively, **SARIMA** is conceptually similar to Holt-Winters but with more statistical rigor, so they can be compared side by side.
+### Determining Parameters
+
+Refer to:
+[Tsang, G. (2020). *A semi-auto way to determine parameters for SARIMA models*](https://tsanggeorge.medium.com/a-semi-auto-way-to-determine-parameters-for-sarima-model-74cdee853080)
+
+### Practical Notes
+
+* SARIMA is conceptually similar to Holt–Winters exponential smoothing, but relies on more formal statistical assumptions.
+* Before estimating $P$ and $Q$, ensure the series is seasonally stationary by applying seasonal [[Differencing in Time Series|Differencing]] if required ($D>0$).
+
+### Identifying Seasonal Orders with [[ACF Plots|ACF]] and [[PACF Plots]]
+
+To choose $Q$ (Seasonal MA order):
+  * Examine the ACF plot for significant autocorrelations at seasonal lags (multiples of $s$).
+  * A sharp cut-off at a seasonal lag suggests the appropriate $Q$.
+
+To choose $P$ (Seasonal AR order):
+  * Examine the PACF plot for significant spikes at seasonal lags.
+  * A sharp cut-off indicates the seasonal AR order $P$.
+
+### Related
+
+* [[AIC in Model Evaluation]]
+* [[Evolving Seasonality]]
+* [[Differencing in Time Series]]

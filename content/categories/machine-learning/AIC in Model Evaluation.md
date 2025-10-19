@@ -29,3 +29,17 @@ Use in [[SARIMA]]: When tuning $(p,d,q)(P,D,Q)_s$, we often compute AIC for each
 #### Related
 
 [[Evaluation Metrics]]
+
+### BIC
+
+```
+# **Bayesian Information Criterion (BIC)**
+
+#
+
+# - Similar to AIC, the BIC is another criterion for model selection, but it introduces a stronger penalty for models with more parameters.
+
+# - $BIC = \ln(n)k - 2\ln(\hat{L})$, where $n$ is the number of observations, $k$ is the number of parameters, and $\hat{L}$ is the maximized likelihood.
+
+# - A lower BIC value indicates a better model, preferring simpler models to complex ones, especially as the sample size $n$ increases.
+```

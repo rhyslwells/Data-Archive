@@ -47,7 +47,7 @@ A data lakehouse is an emerging architectural approach that combines the best fe
    - They provide a robust foundation for advanced analytics, including machine learning and real-time data processing, allowing organizations to extract actionable insights more effectively.
 
 Platforms that implement the data lakehouse architecture include:
-- [[Databricks]] Lakehouse Platform: Combines data engineering, data science, and BI capabilities with a focus on collaboration.
+- [[categories/devops/Databricks]] Lakehouse Platform: Combines data engineering, data science, and BI capabilities with a focus on collaboration.
 - [[Apache Iceberg]]: A high-performance table format for large analytic datasets that supports ACID transactions and [[Schema Evolution]].
 - [[Apache Iceberg vs Databricks]]
 

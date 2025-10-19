@@ -22,4 +22,4 @@ Word2Vec generates dense, continuous vector representations where words with sim
 
 - `vector("king") - vector("man") + vector("woman") ≈ vector("queen")`
 
-Uses Negative [[Sampling]].
+Uses Negative [[Resampling]].

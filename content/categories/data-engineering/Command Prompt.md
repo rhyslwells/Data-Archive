@@ -15,7 +15,7 @@ Summary Characteristics
 * Limited Built-in Commands: Focused on core utilities like file handling, process control, and system inspection.
 * Direct Execution: Commands are interpreted and executed line-by-line, without support for pipelines.
 
-Navigating the File System
+#### Navigating the File System
 * Change Directory:
   ```cmd
   cd C:\path\to\directory
@@ -29,7 +29,16 @@ Navigating the File System
   dir /b
   ```
 
-Managing Files and Directories
+#### Managing Files and Directories
+- Creating many folders
+```cmd
+mkdir time_series_analysis
+cd time_series_analysis
+type nul > 01_data_prep.py
+type nul > 02_exploration.py
+type nul > 03_decomposition_stats.py
+```
+
 * Create a Directory:
   ```cmd
   mkdir newfolder
@@ -51,7 +60,7 @@ Managing Files and Directories
   del file.txt
   ```
 
-Viewing System and Network Information
+#### Viewing System and Network Information
 * Network Configuration:
   ```cmd
   ipconfig
@@ -61,7 +70,7 @@ Viewing System and Network Information
   systeminfo
   ```
 
-Managing Processes
+#### Managing Processes
 * List Running Processes:
   ```cmd
   tasklist
@@ -72,7 +81,7 @@ Managing Processes
   ```
 
 
-Scripting with Batch Files
+#### Scripting with Batch Files
 * Simple `.bat` Script Example:
   `example.bat`
   ```cmd
@@ -85,7 +94,7 @@ Scripting with Batch Files
   example.bat
   ```
 
-Environment Variables
+#### Environment Variables
 * View All Variables:
   ```cmd
   set

@@ -17,7 +17,7 @@ Big Data Technologies
 - [[Apache Spark]]
 - [[Hadoop]]
 - [[Scala]]
-- [[Databricks]]
+- [[categories/devops/Databricks]]
 
 Handling big data involves:
 - Distributed storage systems/ [[Data Storage]]: Ensuring that data is split and stored across multiple machines for redundancy and speed.

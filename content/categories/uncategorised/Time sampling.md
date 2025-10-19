@@ -1,0 +1,3 @@
+upsampling 
+
+down samplings

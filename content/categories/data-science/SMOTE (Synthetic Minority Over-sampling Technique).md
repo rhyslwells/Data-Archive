@@ -7,7 +7,7 @@ tags: []
 ---
 SMOTE (Synthetic Minority Over-sampling Technique)
 
-See: [[Sampling]]
+See: [[Resampling]]
 
 Generate synthetic samples for the minority class by interpolating between existing samples.
 

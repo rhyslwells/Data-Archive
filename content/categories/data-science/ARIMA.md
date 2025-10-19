@@ -19,7 +19,7 @@ Requirement: [[Stationary Time Series]]
 ARIMA consists of three components:
 
 * AutoRegressive (AR): Uses past values to predict the current value.
-* Integrated (I): Applies differencing to make the series stationary.
+* Integrated (I): Applies differencing to make the series stationary. [[Differencing in Time Series]]
 * Moving Average (MA): Uses past forecast errors to improve predictions.
 
 The main ARIMA parameters are:
@@ -48,12 +48,6 @@ The main ARIMA parameters are:
   * The lag after which ACF cuts off suggests the `q` value.
   * Example: ACF is significant at lag 1 -> `q = 1`.
 
-### Fine-Tuning and Iterative Refinement
-
-* Test several ARIMA models around initial `(p,d,q)` estimates.
-* Evaluate using [[AIC in Model Evaluation]] BIC, or [[Cross Validation]] (lower values indicate a better model).
-* Check [[Residuals in Time Series]]: They should resemble white noise (uncorrelated and zero mean).
-
 ### What ARIMA Does
 
 1. Checks for stationarity and applies differencing ($d$ times) if needed.
@@ -62,6 +56,11 @@ The main ARIMA parameters are:
    * Past forecast errors (MA component)
 3. Fits parameters by minimizing a loss function (typically log-likelihood).
 4. Forecasts future values using the learned structure.
+### Fine-Tuning and Iterative Refinement
+
+* Test several ARIMA models around initial `(p,d,q)` estimates.
+* Evaluate using [[AIC in Model Evaluation]] BIC, or [[Cross Validation]] (lower values indicate a better model).
+* Check [[Residuals in Time Series]]: They should resemble white noise (uncorrelated and zero mean).
 ### Why ARIMA Isn’t Enough for Seasonal Data
 
 ARIMA does not model repeating patterns (e.g., quarterly or monthly seasonality). For such cases, [[SARIMA]] is used.
@@ -72,4 +71,3 @@ In [[ML_Tools]] see:
 * [[Forecasting_AutoArima.py]]
 * [[pmdarima]]
 * [[ARIMA vs Random Forest in Time Series]]
-* [[SARIMA]]

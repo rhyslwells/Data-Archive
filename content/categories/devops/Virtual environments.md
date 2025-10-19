@@ -35,12 +35,5 @@ If you want to **recreate the environment** (equivalent to `rmdir /s /q venv && 
 `poetry env remove python poetry install`
 
 
-```dataviewjs
-let tags = []
-for (let tag of dv.pages('').file.tags) {
- if (tags.indexOf(tag) == -1) {
- tags.push(tag)
- }
-}
-dv.list(tags)
-```
+Other:
+- [[Using requirements or env.yml]]

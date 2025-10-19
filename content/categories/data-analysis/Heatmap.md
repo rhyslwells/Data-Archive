@@ -6,8 +6,6 @@ tags:
 - code_snippet
 - visualization
 ---
-### Description
-
 A **heatmap** is a two-dimensional graphical representation of data where individual values are represented by colors. It is particularly useful for visualizing numerical data organized in a table-like format. 
 
 A heatmap is a graphical representation of data where individual values are represented by colors. It is useful for visualizing numerical data and analyzing the correlation between features.
