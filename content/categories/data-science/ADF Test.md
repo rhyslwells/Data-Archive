@@ -1,23 +1,28 @@
 ---
 aliases: []
 category: DS
-date modified: 27-09-2025
-tags: []
+date modified: 19-10-2025
+tags: [analysis, statistics, time_series]
 ---
-### Augmented Dickey-Fuller Test
+### **Augmented Dickey-Fuller (ADF) Test**
 
-- This is a statistical procedure to determine whether a time series is stationary or not. 
-- We will discuss more details about the test in the next lectures.
-- For now, that's what we need to know:
-    1. **Null hypothesis:** $H_0$: the series is nonstationary.
-    2. **Alternative hypothesis:** $H_A$: the series is stationary.
-    3. 
-Dickey-Fuller test for sationarity
+The **ADF test** is a statistical procedure used to determine whether a time series is **stationary** or **non-stationary**. It is an extension of the Dickey-Fuller test that allows testing for [[Stationary Time Series|stationarity]] in series with more complex autocorrelation structures by including multiple lags.
 
-This is the main idea behind the [Dickey-Fuller test](https://en.wikipedia.org/wiki/Dickey%E2%80%93Fuller_test) for stationarity of time series (testing the presence of a unit root). If we can get a stationary series from a non-stationary series using the first difference, we call those series integrated of order 1. The null hypothesis of the test is that the time series is non-stationary, which was rejected on the first three plots and finally accepted on the last one. We have to say that the first difference is not always enough to get a stationary series as the process might be integrated of order d, d > 1 (and have multiple unit roots). In such cases, the augmented Dickey-Fuller test is used, which checks multiple lags at once.
+### **Hypotheses**
 
-Notes:
--  The ADF test specifically looks for a *unit root* (more on this later on).
-- A unit root indicates that shocks ([[Time Series Shocks]]) to the time series have a permanent effect
-- The test's conclusion is about the *absence of a unit root*.
-- [[Mean reverting]] - sinusoidal. 
+1. **Null hypothesis ($H_0$):** The series is non-stationary (has a unit root).
+2. **Alternative hypothesis ($H_A$):** The series is stationary (no unit root).
+
+### **Key Concepts**
+
+* **Unit root:** Indicates that ([[Time Series Shocks]]) shocks to the time series have a **permanent effect** and the series is non-stationary.
+* **Integration:**
+  * If [[Differencing in Time Series|differencing]] a non-stationary series once produces a stationary series, it is said to be **integrated of order 1** ($I(1)$).
+  * Some processes may require differencing multiple times (order $d>1$).
+* **Mean reversion ([[Mean reverting]]):** A stationary series tends to revert around a constant mean (can be sinusoidal).
+
+### **Notes**
+
+* The ADF test generalizes the Dickey-Fuller test by testing multiple lags simultaneously.
+* Its conclusion focuses on the **absence of a unit root**, indicating stationarity.
+* Useful reference: [Dickey-Fuller Test](https://en.wikipedia.org/wiki/Dickey%E2%80%93Fuller_test).

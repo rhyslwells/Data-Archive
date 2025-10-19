@@ -1,11 +1,12 @@
 ---
-aliases: []
+aliases:
+  - stationarity
 category: DS
 date modified: 27-09-2025
 tags:
-- probability
-- statistics
-- time_series
+  - probability
+  - statistics
+  - time_series
 ---
 A stationary time series is one whose statistical properties do not change over time. Many classical time series models (e.g., [[ARIMA]], [[SARIMA]]) assume stationarity. Non-stationary data can lead to misleading results expecially in [[Time Series Forecasting]]. 
 

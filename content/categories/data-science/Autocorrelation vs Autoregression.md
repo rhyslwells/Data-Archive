@@ -1,12 +1,10 @@
 ---
 aliases:
-- AR
-- Autoregressive
 category: DS
 date modified: 27-09-2025
 tags:
-- statistics
-- time_series
+  - statistics
+  - time_series
 ---
 ## Key Difference
 

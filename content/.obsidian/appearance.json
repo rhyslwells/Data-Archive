@@ -1,8 +1,8 @@
 {
   "accentColor": "#46376d",
-  "cssTheme": "Things",
+  "cssTheme": "SynthWave",
   "theme": "obsidian",
-  "baseFontSize": 20,
+  "baseFontSize": 23,
   "showViewHeader": true,
   "enabledCssSnippets": [],
   "baseFontSizeAction": true,

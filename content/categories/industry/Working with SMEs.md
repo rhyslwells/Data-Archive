@@ -5,25 +5,22 @@ date modified: 27-09-2025
 tags:
 - business
 ---
-Why do this:
-- To get an appreciation of business processes.
-- To see if any fields are being missed in the data. How they could be captured
-- To give a better understanding of the business case
+**Purpose:**
+* Understand business processes and workflows.
+* Identify missing or poorly captured data fields.
+* Clarify and strengthen the business case.
 
-[[Working with SMEs]]
-Working with SME's
-- what vars to use and relationships
-- critical to understand 
-- they havea model of the buienss model
-- use them to confirm patters
-- present relations and check if the are true
-- confirm anything that weird
+**Approach:**
+* Identify key variables and relationships in the data.
+* Leverage SME knowledge to validate assumptions and patterns.
+* Present observed patterns or relationships to confirm accuracy.
+* Investigate anything unusual or inconsistent.
 
-Related:
-- [[Communication with Stakeholders]]
+**Preparation:**
+* Perform initial **data understanding** before engaging SMEs.
+* Prepare predictive examples (e.g., top levels of a [[Decision Tree]]) to guide discussion.
 
-[[Working with SMEs]]
-[[Data Understanding]] before talking to SME:
-Strong predictions ot dicsuss with a SME:
-- use the top level of a decision tree 
-- use [[Decision Tree]] to understand the features
+**Related Notes:**
+* [[Communication with Stakeholders]]
+* [[Data Understanding]]
+* [[Decision Tree]]

@@ -2,20 +2,20 @@
 aliases: []
 category:
 date modified: 14-10-2025
-tags: [classifer, ml_process, statistics]
+tags:
+  - classifer
+  - ml_process
+  - statistics
+  - time_series
 ---
-## **Forecasting with Autoregressive (AR) Models**
-
-
-**Objective**
-Predict future values using past observations, assuming linear dependence on previous time steps.
+Predict future values using past observations ([[Autoregression]]), assuming linear dependence on previous time steps.
 
 **Procedure**
 
-1. **Ensure Stationarity**
+1. **Ensure [[Stationary Time Series|Stationarity]]**
 
-   * Remove trend and seasonality via *differencing* or *decomposition*.
-   * Test for stationarity with the **ADF test**.
+   * Remove trend and seasonality via *[[Differencing in Time Series|differencing]]* or *decomposition*.
+   * Test for stationarity with the **[[ADF test]]**.
 
 2. **Model Identification**
 
@@ -36,4 +36,4 @@ Predict future values using past observations, assuming linear dependence on pre
 5. **Interpretation**
 
    * AR models describe *persistence* or *memory* in data.
-   * A slow decay in ACF or significant PACF lags indicates how many past values drive predictions.
+   * A slow decay in [[ACF Plots|ACF]] or significant PACF lags indicates how many past values drive predictions.

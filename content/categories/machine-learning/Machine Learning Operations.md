@@ -1,25 +1,41 @@
 ---
-aliases:
-- MLOPs
+aliases: [MLOPs]
 category: ML
-date modified: 27-09-2025
-tags:
-- process
+date modified: 19-10-2025
+tags: [automation, ml, ml_process, MLOps, model_explainability, process]
 ---
-Machine Learning Operations (MLOps) is a set of practices and tools designed to streamline the entire lifecycle of machine learning models, from development to deployment and maintenance. It aims to integrate machine learning with [[DevOps]] principles to ensure that models are reliable, scalable, and efficient in production environments. 
+MLOps is a set of practices and tools designed to streamline the entire lifecycle of machine learning models—from development to deployment and ongoing maintenance. It integrates [[DevOps]] principles to ensure models are reliable, scalable, and efficient in production.
 
-1. Development: MLOps focuses on creating a seamless workflow for developing machine learning models. This includes data preprocessing, feature engineering, [[Model Building]], and training. The goal is to ensure that models can be developed quickly and efficiently. See [[DS & ML Portal]].
+MLOps ensures that machine learning models are **reliable, [[Maintainability|maintainable]], and scalable** in production. Core principles include automation, monitoring, reproducibility, collaboration, and adaptability to changing data environments.
 
-2. Deployment: Once a model is developed and evaluated, MLOps facilitates its deployment into a production environment. This involves setting up the necessary infrastructure to serve the model and ensuring that it can handle real-world data and workloads.
+### **Key Components**
 
-3. Maintenance: MLOps emphasizes the importance of monitoring and maintaining models over time. This includes tracking model performance, detecting data drift, and retraining models as needed to ensure they remain accurate and relevant.
+1. **Development:**
+   * Establish seamless workflows for [[Preprocessing|data preprocessing]], [[feature engineering]], [[Model Building]], and model training.
+   * Goal: Accelerate model development while ensuring quality and reproducibility.
+   * See [[DS & ML Portal]] for reference workflows.
 
-4. Generalization and Robustness: MLOps aims to create models that generalize well to new, unseen data, especially in dynamic environments. It also focuses on ensuring models remain robust to noisy or unexpected data inputs.
+2. **Deployment:**
 
-5. Collaboration and Automation: MLOps encourages collaboration between data scientists, engineers, and operations teams. It also leverages automation to streamline repetitive tasks, such as model training, evaluation, and deployment.
+   * Deploy models to production environments with the necessary infrastructure.
+   * Ensure models can handle real-world data, workloads, and user requirements.
 
-6. [[Model Observability]] and Retraining: Continuous monitoring of model performance is crucial in MLOps. Observability tools help track metrics and identify when a model needs retraining due to changes in data patterns or performance degradation.
+3. **Maintenance:**
 
-MLOps Awareness
-- Versioning (data and models), reproducibility, CI/CD pipelines.
-- Monitoring [[Performance Drift|concept drift]]
+   * Monitor model performance continuously using [[Model Observability|observability]] tools.
+   * Detect [[data drift]] or [[Performance Drift|concept drift]] and retrain models as needed.
+
+4. **Generalization and Robustness:**
+
+   * Build models that generalize well to unseen data.
+   * Ensure robustness to noisy, incomplete, or unexpected inputs.
+
+5. **Collaboration and Automation:**
+
+   * Promote collaboration among data scientists, engineers, and operations teams.
+   * Automate repetitive tasks such as model training, evaluation, and [[Model Deployment|deployment]].
+
+6. **Versioning and CI/CD:**
+
+   * Maintain versioning for data and models.
+   * Use [[Continuous Integration|CI]] and [[Continuous Delivery - Deployment|CD]] pipelines for consistent and reproducible workflows.

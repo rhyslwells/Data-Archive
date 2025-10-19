@@ -1,12 +1,10 @@
 ---
 aliases: []
-category: DE
+category: ML
 date modified: 27-09-2025
 tags:
-- architecture
+  - architecture
 ---
-# Overview:
-
 Bagging, short for Bootstrap Aggregating, is an [[Model Ensemble]] technique designed to improve the stability and accuracy of machine learning algorithms. 
 
 It works by ==training multiple instances of the same learning algorithm on different subsets of the training data== and then ==combining their predictions.==
@@ -45,3 +43,19 @@ Each tree in a random forest is trained on a different bootstrap sample of the d
 
 - **Complexity**: While bagging reduces overfitting, it can increase the complexity of the model, making it harder to interpret.
 - **Computational Cost**: Training multiple models can be computationally intensive, although this can be mitigated by parallel processing.
+
+### [[Bagging]]
+
+* **How it works:**
+
+  * Train multiple models **independently** on **random subsets of data** (with replacement).
+  * Combine predictions via **majority vote** (classification) or **average** (regression).
+* **Example:** Random Forest.
+* **Focus:** Reduce **variance** of high-variance models (like deep decision trees).
+* **Pros:**
+
+  * Less prone to overfitting than single complex models.
+  * Works well with noisy datasets.
+* **Cons:**
+
+  * Less effective at reducing bias.

@@ -16,6 +16,7 @@ Key Concepts of Ensemble Models:
 Main Ensemble Techniques:
 - [[Bagging]]
 - [[Boosting]]
+- [[Bagging vs Boosting]]
 - [[Stacking]]
 - [[Isolated Forest]]
 

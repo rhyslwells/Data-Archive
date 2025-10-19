@@ -3,8 +3,8 @@ aliases: []
 category: ML
 date modified: 27-09-2025
 tags:
-- architecture
-- explainability
+  - architecture
+  - explainability
 ---
 Boosting is a type of [[Model Ensemble]] in machine learning that focuses on improving the accuracy of predictions by building a ==sequence of models==. Each subsequent model focuses on correcting the errors made by the previous ones.
 
@@ -30,3 +30,24 @@ It combines [[Weak Learners]] (models that are slightly better than random guess
 
 - Complexity: Boosting models can be more complex and computationally intensive than single models.
 - [[Interpretability]]: The final model may be harder to interpret compared to simpler models like decision trees.
+
+## Related
+- [[Order matters in Boosting]]
+
+### [[Boosting]]
+
+* **How it works:**
+  * Train models **sequentially**, each correcting errors of the previous one.
+  * Combine predictions using **weighted sums**.
+
+* **Example:** AdaBoost, Gradient Boosting, XGBoost.
+
+* **Focus:** Reduce **bias** by turning weak learners into a strong model.
+
+* **Pros:**
+  * Can achieve very high accuracy.
+  * Strong at capturing patterns in complex datasets.
+
+* **Cons:**
+  * Sensitive to noisy data and outliers.
+  * Risk of overfitting if not tuned carefully.
