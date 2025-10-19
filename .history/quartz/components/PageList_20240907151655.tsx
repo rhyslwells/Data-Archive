@@ -28,10 +28,9 @@ export function byDateAndAlphabetical(cfg: GlobalConfiguration): SortFn {
 type Props = {
   limit?: number
   sort?: SortFn
-  showTags?: boolean   // ✅ Add this line
 } & QuartzComponentProps
 
-export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort, showTags = true }: Props) => {  // ✅ Default true
+export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort }: Props) => {
   const sorter = sort ?? byDateAndAlphabetical(cfg)
   let list = allFiles.sort(sorter)
   if (limit) {
@@ -61,22 +60,18 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
                   </a>
                 </h3>
               </div>
-
-              {/* ✅ Only render tags if showTags is true */}
-              {showTags && (
-                <ul class="tags">
-                  {tags.map((tag) => (
-                    <li>
-                      <a
-                        class="internal tag-link"
-                        href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
-                      >
-                        {tag}
-                      </a>
-                    </li>
-                  ))}
-                </ul>
-              )}
+              <ul class="tags">
+                {tags.map((tag) => (
+                  <li>
+                    <a
+                      class="internal tag-link"
+                      href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
+                    >
+                      {tag}
+                    </a>
+                  </li>
+                ))}
+              </ul>
             </div>
           </li>
         )
@@ -84,7 +79,6 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
     </ul>
   )
 }
-
 
 PageList.css = `
 .section h3 {

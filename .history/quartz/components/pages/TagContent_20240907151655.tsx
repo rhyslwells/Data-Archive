@@ -93,7 +93,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
                         </>
                       )}
                     </p>
-                    <PageList limit={options.numPages} {...listProps} sort={opts?.sort} showTags={false} />
+                    <PageList limit={options.numPages} {...listProps} sort={opts?.sort} />
                   </div>
                 </div>
               )
@@ -114,7 +114,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
           <div class="page-listing">
             <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>
             <div>
-              <PageList {...listProps} showTags={false} />
+              <PageList {...listProps} />
             </div>
           </div>
         </div>
