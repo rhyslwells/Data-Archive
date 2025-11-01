@@ -131,8 +131,8 @@ export const defaultListPageLayout: PageLayout = {
       folderClickBehavior: "link"})),
   ],
   right: [
-    Component.MobileOnly(Component.Explorer({
-      folderClickBehavior: "link"    })),
+    // Component.MobileOnly(Component.Explorer({
+      // folderClickBehavior: "link"    })),
     // Component.DesktopOnly(Component.Graph()),
     // Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
