@@ -1,12 +1,13 @@
 ---
 aliases:
-- embedding
-- word embedding
+  - embedding
+  - word embedding
 category: ML
 date modified: 27-09-2025
 tags:
-- language_models
-- math
+  - language_models
+  - math
+  - ML_Tools
 ---
 Vector Embedding is a technique used in machine learning and [[NLP]] to represent data in a continuous vector space. This representation captures the [[Semantic Relationships]] of data, such as words or sentences, allowing similar items to be positioned close to each other in the vector space.
 ### Key Concepts
@@ -52,13 +53,9 @@ Popular methods for generating vector (word) embeddings include:
 
 
 ![[Pasted image 20241015211844.png]]
-
-
 ## Implementation
 
 How to do vector embeddings in [[PyTorch]] that show [[Semantic Relationships]] between terms.
-
-In [[ML_Tools]] see: [[Vector_Embedding.py]]
 ## Articles
 
 https://blog.esciencecenter.nl/king-man-woman-king-9a7fd2935a85

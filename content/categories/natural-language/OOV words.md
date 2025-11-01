@@ -16,7 +16,7 @@ Modern transformer-based models (e.g., BERT, GPT) almost eliminate the concept o
 
 ### Context and Meaning
 
-Many NLP models (e.g., classical models like [[Bag of words]], or early word embeddings like [[Word2vec]]) rely on a fixed vocabulary that was built from a training corpus. Any word not seen during training is considered out-of-vocabulary.
+Many NLP models (e.g., classical models like [[Bag of Words]], or early word embeddings like [[Word2vec]]) rely on a fixed vocabulary that was built from a training corpus. Any word not seen during training is considered out-of-vocabulary.
 ### Why OOV Words Matter
 
 1. Loss of information: If a model cannot represent or process a word (e.g., "microservices" or a new slang term), it cannot reason about its meaning.

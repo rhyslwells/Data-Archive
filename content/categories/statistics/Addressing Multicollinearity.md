@@ -3,10 +3,9 @@ aliases: []
 category: STATISTICS
 date modified: 27-09-2025
 tags:
-- statistics
+  - statistics
+  - ML_Tools
 ---
-In [[ML_Tools]] see: [[Addressing_Multicollinearity.py]]
-
 Multicollinearity can impact the performance and [[Interpretability]] of regression models by causing instability in coefficient estimates and complicating the analysis of variable significance. Techniques like PCA can help by transforming correlated variables into uncorrelated principal components, thereby improving model stability and interpretability.
 
 [[Principal Component Analysis]] (PCA) is a [[Dimensionality Reduction]] technique that can help address [[Multicollinearity]] in regression models.

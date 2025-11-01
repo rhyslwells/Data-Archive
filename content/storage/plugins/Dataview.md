@@ -8,6 +8,11 @@ https://www.youtube.com/watch?v=ccN5vJzXwvo
 
 I want to be able to extract all the notes fora given querey. Like the local graph. Maybe so that I can add comments and filter effectively
 
+```dataview-
+table
+where contains(file.name, ".py")
+```
+
 ### Get all inline and out links for a given file
 
 ```dataview
@@ -25,11 +30,6 @@ dataviewjs
 dv.header(2, 'phd/dailytasks');  
 dv.taskList(dv.pages('#phd/dailytasks').file.tasks.filter(task => task.header.subpath == "Phd").where(t => !t.completed));  
 ```
-
-### Tasks
-- [x] Investigate dataview see session buddy
-- [x] How to use kaban with dataview? 
-- [x] Make template with dataview prepd ✅ 2025-07-20
 
 ### Notes
 

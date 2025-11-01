@@ -1,21 +1,19 @@
 ---
 aliases:
-- Class Imbalance
+  - Class Imbalance
 category: DS
 date modified: 27-09-2025
 tags:
-- cleaning
-- data_quality
-- exploration
+  - cleaning
+  - data_quality
+  - exploration
+  - ML_Tools
 ---
 Handling imbalanced datasets to ensure robustness of models is a common challenge in machine learning, particularly in classification tasks where one class significantly outnumbers the other(s). 
 
 In [[Classification]] tasks, an imbalanced dataset can lead to a model that ==performs well on the majority class but poorly on the minority class==. This is because the model may learn to predict the majority class more often due to its prevalence. 
 
 For [[Regression]] tasks, handling outliers or data skewness might be necessary.
-
-In [[ML_Tools]] see:
-- [[Imbalanced_Datasets_SMOTE.py]]
 ### Examples
 
 Consider a scenario where you have an imbalanced dataset of resumes, with a majority of male resumes and a minority of female resumes. You want to build a model to predict gender based on resume features.

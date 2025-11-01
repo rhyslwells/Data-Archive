@@ -3,7 +3,8 @@ aliases: []
 category: DEVOPS
 date modified: 27-09-2025
 tags:
-- exploration
+  - exploration
+  - ML_Tools
 ---
 Debugging is the process of identifying, analyzing, and resolving bugs or defects in software while [[Testing]]. It is a critical part of the [[Software Development Life Cycle]], ensuring that applications function correctly and efficiently. Debugging involves several techniques and tools to pinpoint the source of errors and fix them.
 

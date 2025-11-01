@@ -1,11 +1,15 @@
 ---
 aliases:
-- data build tool
+  - data build tool
 category: DEVOPS
-date modified: 27-09-2025
+date modified: 22-10-2025
 tags:
-- tool
-- transformation
+  - data_engineering
+  - data_modeling
+  - data_pipeline
+  - tool
+  - transformation
+  - governance
 ---
 Data build tool is an open-source framework designed for [[Data Transformation]] within a modern data stack. 
 
@@ -70,7 +74,12 @@ In this model:
 https://www.getdbt.com/blog/what-exactly-is-dbt
 [dbt](https://docs.getdbt.com/docs/introduction) 
 
+**dbt (Data Build Tool)** is primarily a **transformation and modeling tool** for your data warehouse or lakehouse.
 
+* It helps you **transform raw data into clean, analytics-ready tables** using SQL.
+* It enforces **version control**, **testing**, and **documentation** for your transformations.
+* You define transformations as **modular SQL models** (SELECT statements), and dbt manages **dependencies**, **execution order**, and **incremental builds**.
 
-[[dbt]]
-   **Tags**:,
+In short:
+
+> dbt = "SQL-based data engineering framework for managing transformations as code."

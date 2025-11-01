@@ -15,6 +15,4 @@ Areas:
 - [[Data Selection]]
 - [[Data Transformation]]
 
-
-
 [[Pandas Series vs DataFrame]]

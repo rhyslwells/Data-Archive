@@ -3,8 +3,9 @@ aliases: []
 category: ML
 date modified: 27-09-2025
 tags:
-- classifier
-- regressor
+  - classifier
+  - regressor
+  - ML_Tools
 ---
 ==Logistic regression models the log-odds of the probability as a linear function of the input features.==
 
@@ -23,9 +24,6 @@ Logistic [[Regression]] can be used for [[Binary Classification]]tasks.
 - [[Model Evaluation]]
 - To get [[Model Parameters]] use [[Maximum Likelihood Estimation]]
 - [[Evaluating Logistic Regression]]
-
-In [[ML_Tools]], see:
-- [[Regression_Logistic_Metrics.ipynb]]
 ## Key Concepts of Logistic Regression
 
 ### Logistic Function (Sigmoid Function)

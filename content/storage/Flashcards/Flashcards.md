@@ -107,7 +107,7 @@ To do:
 ## ML
 
 ### [[NLP]]
-- In NLP the [[Bag of words]] model represents text data by counting the {{occurrence of each word}} in a document. TF-IDF stands for {{Term Frequency-Inverse Document Frequency}} and improves on Bag of Words by considering the importance of a word in a document relative to its frequency across multiple documents.
+- In NLP the [[Bag of Words]] model represents text data by counting the {{occurrence of each word}} in a document. TF-IDF stands for {{Term Frequency-Inverse Document Frequency}} and improves on Bag of Words by considering the importance of a word in a document relative to its frequency across multiple documents.
 - One-hot encoding converts categorical data into a {{binary vector representation}}.
 
 ### [[nltk]]

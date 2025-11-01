@@ -46,7 +46,7 @@ tags:
 #### Encoding Text
 
 Convert processed tokens into numerical format:
-* [[Bag of words]] (BoW)
+* [[Bag of Words]] (BoW)
 * [[TF-IDF]]
 * Word Embeddings (Word2Vec, GloVe, FastText)
 * Contextual embeddings (BERT, GPT tokenization).

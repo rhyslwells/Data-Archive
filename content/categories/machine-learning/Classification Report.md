@@ -45,8 +45,6 @@ Parameters:
 
 ## Resources
 
-In [[ML_Tools]] see: [[Evaluation_Metrics.py]]
-
 [official documentation](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html).
 
 

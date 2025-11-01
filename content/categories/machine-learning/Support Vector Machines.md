@@ -28,8 +28,6 @@ Disadvantages
 Visualisation: https://dash.gallery/dash-svm/
 ## How SVM Works
 
-In [[ML_Tools]] see: [[SVM_Example.py]]
-
 1. Initial Space: Start in the low-dimensional space, where the data may not be linearly separable.
 2. Kernel Function: Use a [Kernelling](app://obsidian.md/Kernelling) function to move the data into a higher dimension where separation is clearer.
 3. Hyperplane Placement: Place hyperplanes (decision boundaries) between the data clusters to classify the data.

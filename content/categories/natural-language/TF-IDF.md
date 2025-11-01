@@ -58,7 +58,7 @@ $$
 
 ### Related Notes
 
-- [[Bag of words]]
+- [[Bag of Words]]
 - [[Tokenisation]]
 - [[Clustering]]
 - [[Search]]

@@ -3,14 +3,13 @@ aliases: []
 category: LANG
 date modified: 27-09-2025
 tags:
-- NLP
-- python
+  - NLP
+  - python
+  - ML_Tools
 ---
 Word2Vec is a technique for generating vector representations of words. Developed by researchers at Google, it uses a shallow [[Neural network]] to produce [[Vector Embedding|word embedding]] that capture [[Semantic Relationships]] and [[syntactic relationships]]. Word2Vec has two main architectures:
 
-In [[ML_Tools]] see: [[Word2Vec.py]]
-
-1. CBOW (Continuous [[Bag of words]]):
+1. CBOW (Continuous [[Bag of Words]]):
     - Predicts a target word given its context (neighboring words).
     - Efficient for smaller datasets.
       

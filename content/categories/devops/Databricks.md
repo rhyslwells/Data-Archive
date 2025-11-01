@@ -49,3 +49,14 @@ Databricks inherits scalability from the [[Hadoop]] ecosystem but offers signifi
 - [[Overwriting and Refreshing Tables in Databricks]]
 - [[Delta Tables in Databricks]]
 - [[Catalogs, Schemas, and Tables in Databricks]]
+
+## [[Databricks]]
+
+**Databricks** is a **data platform** built on **Apache Spark**, designed for:
+
+* Large-scale **data processing** (batch + streaming)
+* **Data engineering**, **machine learning**, and **analytics**
+* Managing data in a **Lakehouse architecture** (unifying data lakes and warehouses)
+* Storing data in **Delta tables** within a **catalog** (Unity Catalog)
+
+It’s both a **processing engine** and a **collaborative workspace** for Python, SQL, R, and Scala.

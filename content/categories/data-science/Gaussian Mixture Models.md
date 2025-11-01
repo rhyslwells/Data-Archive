@@ -10,8 +10,6 @@ Gaussian Mixture Models (GMMs) represent data as a mixture of multiple Gaussian 
 
 Soft [[Clustering]] technique.
 
-In [[ML_Tools]] see: [[Gaussian_Mixture_Model_Implementation.py]]
-
 [[Kmeans vs GMM]]
 
 GMMs can have difference [[Covariance Structures]]
@@ -34,7 +32,6 @@ GMMs can have difference [[Covariance Structures]]
 ## Applications
 
 - **[[Anomaly Detection]]**: GMMs are widely used in various applications, including anomaly detection.
-
 ## Important Considerations
 
 - **Covariance Types**: The choice of covariance types (full, tied, diagonal, spherical) can significantly impact the performance of GMMs.

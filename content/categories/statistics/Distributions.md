@@ -1,15 +1,13 @@
 ---
 aliases:
-- Distribution
+  - Distribution
 category: STATISTICS
 date modified: 27-09-2025
 tags:
-- statistics
+  - statistics
+  - ML_Tools
 ---
-In [[ML_Tools]] see:
-- [[Distribution_Analysis.py]]
-- [[Feature_Distribution.py]]
-#### Discrete Distributions
+### Discrete Distributions
 These distributions have probabilities concentrated on specific values.
 
 - [[Uniform]] Distribution: All outcomes are equally likely. Example: Drawing a card from a shuffled deck. A boxplot can be meaningful if there’s variation in the distribution. Since the values are discrete, the boxplot will show the range and quartiles effectively.

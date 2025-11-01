@@ -1,17 +1,16 @@
 ---
 aliases:
-- PR Curve
+  - PR Curve
 category: ML
 date modified: 27-09-2025
 tags:
-- evaluation
+  - evaluation
+  - ML_Tools
 ---
 A [[Precision]]-[[Recall]] curve is a graphical representation used to evaluate the performance of a [[Binary Classification]] model, particularly in scenarios where the classes are imbalanced. It plots [[Precision]] (the positive predictive value) against [[Recall]] (the true positive rate) for different threshold values.
 
 Overall, precision-recall curves are a valuable tool for assessing the tradeoffs between precision and recall, helping to choose the optimal threshold for classification based on the specific requirements of the task.
 ### Resources
-
-In [[ML_Tools]] see: [[ROC_PR_Example.py]]
 
 [Sklearn Link](https://scikit-learn.org/1.5/auto_examples/model_selection/plot_precision_recall.html)
 ### Precision Recall Curve:

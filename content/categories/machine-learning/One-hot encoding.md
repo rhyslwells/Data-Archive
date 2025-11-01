@@ -3,8 +3,9 @@ aliases: []
 category: ML
 date modified: 27-09-2025
 tags:
-- preprocessing
-- transformation
+  - preprocessing
+  - transformation
+  - ML_Tools
 ---
 Related terms:
 - Why do we need to drop one of the dummy columns? [[Dummy variable trap]]: 
@@ -25,8 +26,6 @@ One-hot encoding is used because many machine learning [[Algorithms]] cannot wor
 
 Interpretation in the Model: One-Hot Encoding treats each category as a separate binary feature and does not impose any ordinal relationship between them. This means the model doesn’t assume that one category is greater or lesser than another. Each category is treated independently.
 ### Implementation
-
-In [[ML_Tools]] see: [[One_hot_encoding.py]]
 
 ```python
 cat_variables = ['Sex',

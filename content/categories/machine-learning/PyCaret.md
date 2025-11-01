@@ -23,9 +23,6 @@ PyCaret provides an end-to-end solution for automating repetitive tasks in machi
 See: https://pycaret.gitbook.io/docs/get-started/quickstart
 
 Resources: https://github.com/pycaret/pycaret/tree/master
-
-In [[ML_Tools]] see: 
-- [[Pycaret_Example.py]]
 ### Key Features of PyCaret
 
 1. Ease of Use: PyCaret is designed to be beginner-friendly, enabling users to build models without deep expertise in coding.

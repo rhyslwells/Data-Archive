@@ -3,7 +3,8 @@ aliases: []
 category: DS
 date modified: 27-09-2025
 tags:
-- time_series
+  - time_series
+  - ML_Tools
 ---
 When working with [[Time Series]] data, the main goal is often predicting future values based on historical patterns. Can be done:
 
@@ -45,7 +46,6 @@ ML/State of the Art Methods:
 
 Examples:
 - [[Random Forest]] for time series (global approach)
-	- In [[ML_Tools]] see: https://github.com/rhyslwells/ML_Tools/blob/main/Explorations/Build/TimeSeries/TS_Random_Forest.py
 - [[XGBoost]]
 - [[LightGBM]]
 
@@ -55,7 +55,6 @@ To know if a forecasting model is good:
 - Use proper [[Evaluation Metrics]] such as MAE, RMSE, MAPE.
 - Apply time series cross-validation (rolling or expanding windows). See https://medium.com/@soumyachess1496/cross-validation-in-time-series-566ae4981ce4
 - Time series cross validation techniques like Nested Cross Validation, Time Series Split Cross Validation, Blocked Cross Validation
-- In [[ML_Tools]]: See https://github.com/rhyslwells/ML_Tools/blob/main/Explorations/Build/TimeSeries/TS_Cross_Validation.py
 
 Resources:
 [Time Series Forecasting Guide](https://simrenbasra.github.io/simys-blog/2024/09/19/timeseries_part2.html)

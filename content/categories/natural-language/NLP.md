@@ -15,7 +15,7 @@ Natural Language Processing (NLP) involves the interaction between computers and
 - [[Part of speech tagging]]: Assigning a specific part-of-speech category (such as noun, verb, adjective, etc.) to each word in a text.
 
 ### Models
-- [[Bag of words]]: Represents text data by counting the occurrence of each word in a document, ignoring grammar and word order. It takes key terms of a text in normalized unordered form.
+- [[Bag of Words]]: Represents text data by counting the occurrence of each word in a document, ignoring grammar and word order. It takes key terms of a text in normalized unordered form.
 - [[TF-IDF]]: Stands for Term Frequency-Inverse Document Frequency. It improves on Bag of Words by considering the importance of a word in a document relative to its frequency across multiple documents.
 - Vectorization: Converting text into numerical vectors. Techniques like Bag of Words, TF-IDF, or [[Vector Embedding]] (e.g., Word2Vec, GloVe) are used to represent text data numerically.
 

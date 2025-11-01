@@ -11,7 +11,6 @@ tags:
 
 ## Resources
 - [Bandit Documentation](https://bandit.readthedocs.io/en/latest/)
-
 ## How to Use Bandit
 
 Installation

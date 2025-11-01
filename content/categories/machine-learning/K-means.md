@@ -8,8 +8,6 @@ tags:
 K-means clustering is an [[Unsupervised Learning]] algorithm that partitions data into (k) clusters. Each data point is assigned to the cluster with the nearest centroid.
 
 The algorithm partitions a dataset into k clusters by assigning data points to the closest cluster mean. The means are updated iteratively until convergence is achieved.
-
-In [[ML_Tools]] see: [[K_Means.py]]
 ## Key Features
 
 - Unsupervised Learning: K-means organizes unlabeled data into meaningful groups without prior knowledge of the categories.

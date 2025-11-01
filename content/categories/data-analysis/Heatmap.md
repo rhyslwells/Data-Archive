@@ -3,8 +3,9 @@ aliases: []
 category: DATA_ANALYSIS
 date modified: 27-09-2025
 tags:
-- code_snippet
-- visualization
+  - code_snippet
+  - visualization
+  - ML_Tools
 ---
 A **heatmap** is a two-dimensional graphical representation of data where individual values are represented by colors. It is particularly useful for visualizing numerical data organized in a table-like format. 
 
@@ -18,7 +19,4 @@ The correlation coefficients range from -1 to 1:
 - **-1**: Indicates a perfect negative correlation; if one attribute is present, the other is almost certainly absent.
 - **0**: Indicates no correlation; there is no dependence between the attributes.
 - **1**: Indicates a perfect positive correlation; if one attribute is present, the other is also certainly present.
-### Implementation in Python
-
-In [[ML_Tools]] see: [[Heatmaps_Dendrograms.py]]
 

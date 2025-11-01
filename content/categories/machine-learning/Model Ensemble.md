@@ -19,8 +19,6 @@ Main Ensemble Techniques:
 - [[Bagging vs Boosting]]
 - [[Stacking]]
 - [[Isolated Forest]]
-
-In [[ML_Tools]] see: [[Comparing_Ensembles.py]]
 # Further Understanding
 ### Analogy:
 - Ensemble methods can be likened to consulting multiple doctors for a diagnosis. Each doctor (model) may have a different opinion, but by considering all opinions, the final diagnosis (prediction) is more accurate than relying on a single doctor's opinion.

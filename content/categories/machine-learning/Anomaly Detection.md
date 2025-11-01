@@ -10,8 +10,6 @@ Anomaly detection involves identifying [[uncategorised/Outliers|Outliers]]. Dete
 Outlier detection needs formalized criteria (e.g., statistical models, distance measures, density estimates) because "weird" is contextual and depends on distribution.
 ## Methods for Detecting Anomalies
 
-In [[ML_Tools]] see: 
-- [[Pycaret_Anomaly.ipynb]]
 - [ ] Explore [[PyOD]]
 ## Process of Detection
 

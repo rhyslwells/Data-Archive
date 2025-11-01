@@ -1,11 +1,13 @@
 ---
 aliases:
-- null
+  - 
 category: PM
 date modified: 27-09-2025
 tags:
-- documentation
-- python
+  - documentation
+  - python
+  - ML_Tools
+  - architecture
 ---
 [PDOC](https://pdoc.dev/) is a documentation generator specifically designed for Python projects:
 

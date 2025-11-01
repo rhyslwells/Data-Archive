@@ -3,10 +3,9 @@ aliases: []
 category: LANG
 date modified: 27-09-2025
 tags:
-- NLP
+  - NLP
+  - ML_Tools
 ---
-In [[ML_Tools]] see: [[Bag_of_Words.py]]
-
 In the context of natural language processing (NLP), the Bag of Words (BoW) model is a simple and commonly used ==method for text representation==. It converts text data into numerical form by treating each ==document as a collection of individual words, disregarding grammar and word order==. Here's how it works:
 
 1. Vocabulary Creation: A vocabulary is created from the entire corpus, which is a list of all unique words appearing in the documents.

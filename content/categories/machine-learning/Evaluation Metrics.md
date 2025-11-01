@@ -22,9 +22,6 @@ tags:
 
 ## Resources:
 [Link to good website describing these](https://txt.cohere.com/classification-eval-metrics/)
-
-In [[ML_Tools]] see: [[Evaluation_Metrics.py]]
-
 ## Types of predictions
 
 Types of predictions in evaluating models. Also see [[Why Type 1 and Type 2 matter]]

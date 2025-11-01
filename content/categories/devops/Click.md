@@ -3,11 +3,10 @@ aliases: []
 category: DEVOPS
 date modified: 27-09-2025
 tags:
-- python
+  - python
+  - ML_Tools
 ---
 Python Click, or "[[Command Line]] Interface Creation Kit," is a library for building command-line interfaces (CLIs). It supports arbitrary nesting of commands, automatic help page generation, and lazy loading of subcommands. 
-
-In [[ML_Tools]] see: [[Click_Implementation.py]]
 ## Installation
 
 To install Click, use pip:

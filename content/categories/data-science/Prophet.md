@@ -7,6 +7,7 @@ tags:
   - forecasting
   - ml_process
   - time_series
+  - ML_Tools
 ---
 **Prophet** is a [[Time Series Forecasting]] method developed by [[facebook]] for modeling time series data with **trend**, **seasonality**, and **holiday effects**. It is designed to handle business time series with strong seasonal patterns and missing data.
 

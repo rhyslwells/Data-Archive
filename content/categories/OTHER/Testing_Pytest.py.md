@@ -6,10 +6,6 @@ date modified: 27-09-2025
 tags:
 - blank
 ---
-https://github.com/rhyslwells/ML_Tools/blob/main/Explorations/Deployment/Testing_Pytest.py
-
-In [[ML_Tools]] see: [[Testing_Pytest.py]]
-
 The `pytest` example script demonstrates several key features of the [[Pytest]] testing framework:
 
 1. **Fixtures**: The script uses a fixture named `sample_data` to provide common test data that can be reused across multiple test functions. This helps reduce code duplication and enhances test maintainability.

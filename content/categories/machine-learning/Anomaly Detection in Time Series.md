@@ -26,5 +26,3 @@ To perform [[Anomaly Detection]] specifically for [[Time Series]] data, you can 
 5. Visual Methods:
    - Time Series Plots: Visual inspection of time series plots can help identify anomalies.
    - Control Charts: Use control charts to monitor the time series and flag points that fall outside control limits.
-
-In [[ML_Tools]] see: [[TS_Anomaly_Detection.py]]

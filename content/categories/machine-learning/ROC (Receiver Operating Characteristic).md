@@ -3,15 +3,14 @@ aliases: []
 category: ML
 date modified: 27-09-2025
 tags:
-- evaluation
+  - evaluation
+  - ML_Tools
 ---
 **ROC (Receiver Operating Characteristic)** is a graphical ==representation of a classifier's performance across different thresholds,== showing the trade-off between sensitivity (true positive rate) and specificity (1 - false positive rate).
 
  A graphical plot that illustrates the diagnostic ability of a binary classifier system as its discrimination threshold is varied.
 
 It plots the true positive rate (TPR) against the false positive rate (FPR) at different threshold settings.
-
-In [[ML_Tools]] see: [[ROC_Curve.py]]
 #### Why Use Predicted Probabilities?
 
 In ROC analysis, predicted probabilities (`y_probs`) are used instead of predicted classes (`y_pred`) because the ROC curve evaluates the model's performance across different threshold levels. Probabilities allow you to adjust the threshold to see how it affects sensitivity and specificity.
