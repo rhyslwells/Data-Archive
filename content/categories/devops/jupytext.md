@@ -3,8 +3,9 @@ aliases: []
 category: DEVOPS
 date modified: 27-09-2025
 tags:
-- communication
-- software
+  - communication
+  - software
+  - documentation
 ---
 Jupytext is a tool that lets you convert between Jupyter Notebooks (`.[[ipynb]]`) and plain text formats like:
 * [[Python]] scripts (`.py`)

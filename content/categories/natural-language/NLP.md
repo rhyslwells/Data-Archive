@@ -13,6 +13,7 @@ Natural Language Processing (NLP) involves the interaction between computers and
 ### [[Preprocessing]]
 - [[Normalisation of Text]]: The process of converting text into a standard format, which may include lowercasing, removing punctuation, and stemming or [[lemmatization]].
 - [[Part of speech tagging]]: Assigning a specific part-of-speech category (such as noun, verb, adjective, etc.) to each word in a text.
+- Understanding a sentence: Participants and actions.
 
 ### Models
 - [[Bag of Words]]: Represents text data by counting the occurrence of each word in a document, ignoring grammar and word order. It takes key terms of a text in normalized unordered form.

@@ -30,8 +30,15 @@ Model-Agnostic Methods:
 - [[SHapley Additive exPlanations]]
 - [[Local Interpretable Model-agnostic Explainations]]
 
-[[Feature Importance]]
 Quantify how much each feature influences model predictions using:
 * [[Statistical Tests]] (e.g. ANOVA, chi-squared)
 * Model-based scores (e.g. Gini importance in trees)
 * Permutation importance
+
+### Links
+https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html
+
+### Feature Permutation
+
+- Better than impurity based importance.
+- Takes longer to compute.

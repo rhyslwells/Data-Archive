@@ -14,7 +14,7 @@ from statsmodels.tsa.seasonal import STL
 ```
 
 Seasonal-Trend decomposition using LOESS
-* Unlike classical decomposition, STL allows seasonal patterns to change gradually.
+* Unlike classical decomposition, ==STL allows seasonal patterns to change gradually.==
 * Better suited for real-world, non-stationary data.
 * Produces adaptive seasonality and cleaner residuals compared to classical methods.
 * Useful when you want to deseasonalize but the seasonality is not straightforward.

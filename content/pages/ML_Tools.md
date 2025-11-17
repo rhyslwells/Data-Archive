@@ -14,7 +14,8 @@ We connect ([ML_Tools](https://github.com/rhyslwells/ML_Tools)) with the [[Data 
 - [[Model Optimisation|Optimisation]]
 - [[Model Deployment|Deployment]]
 - [[Model Observability|Observability]]
-### Table
+### Table (Update-able)
+
 | Page | Link |
 |------|------|
 | [[ARIMA]] | [Forecasting_AutoArima](https://github.com/rhyslwells/ML_Tools/blob/main/Explorations/Build/TimeSeries/Forecasting_AutoArima.py) |

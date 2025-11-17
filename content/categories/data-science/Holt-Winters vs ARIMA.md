@@ -24,7 +24,7 @@ Holt-Winters is particularly useful when data shows a **clear trend and stable s
 
 ARIMA, on the other hand, is most effective when the series exhibits **strong autocorrelation** without clear seasonality, or when shocks and lagged dependencies drive the dynamics. Seasonal ARIMA (SARIMA) can handle evolving seasonal patterns better than Holt-Winters.
 
-These methods can also be combined. For example, one can fit Holt-Winters to capture trend and seasonality, then apply ARIMA to the **[[Residuals in Time Series]]** to model autocorrelation that Holt-Winters does not explain. Alternatively, SARIMA provides a statistically rigorous approach that integrates both seasonal and autocorrelation modeling. 
+These methods can also be combined. For example, one can fit Holt-Winters to capture trend and seasonality, then apply ARIMA to the **[[Residuals Analysis]]** to model autocorrelation that Holt-Winters does not explain. Alternatively, SARIMA provides a statistically rigorous approach that integrates both seasonal and autocorrelation modeling. 
 
 # Holt-Winters vs ARIMA: Assumptions
 

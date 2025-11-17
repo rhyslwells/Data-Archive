@@ -42,4 +42,58 @@ Considerations
 Related:
 - [[Scikit-Learn]]
 
+### When we have [[Imbalanced Datasets]]
 
+```python
+from sklearn.model_selection import train_test_split
+X_train, X_test, y_train, y_test = train_test_split(X, y,stratify=y,random_state=42)
+```
+
+The `stratify` argument in `train_test_split()` is used to ensure that the **class distribution** in your training and test sets reflects the **original distribution** of the target variable $y$.
+
+In other words, it performs a **stratified split**, which preserves the proportion of each class across both subsets.
+
+Why stratification matters
+
+Suppose your dataset has **class imbalance**, e.g.:
+
+| Class | Count |
+| :---- | ----: |
+| 0     |   900 |
+| 1     |   100 |
+
+If you randomly split this dataset into 80% training and 20% test **without** stratification, the test set might (by chance) end up with very few or even **no examples** of class `1`.
+That leads to:
+
+* Biased model evaluation (performance on minority class unmeasured),
+* Training data not representative of the whole population.
+
+By adding `stratify=y`, scikit-learn ensures:
+
+| Subset         | Class 0 | Class 1 |
+| :------------- | :------ | :------ |
+| Training (80%) | 720     | 80      |
+| Test (20%)     | 180     | 20      |
+
+Both subsets now **preserve the 9:1 ratio** of the original dataset.
+
+Code breakdown
+
+```python
+X_train, X_test, y_train, y_test = train_test_split(
+    X, y,
+    stratify=y,
+    random_state=42
+)
+```
+
+When to use
+
+✅ Recommended for:
+
+* **Classification tasks** (especially when the classes are imbalanced).
+* **Model evaluation**, to ensure fair representation of all classes.
+
+❌ Not needed for:
+
+* Regression tasks (continuous `y` values), because stratification only works with discrete class labels.

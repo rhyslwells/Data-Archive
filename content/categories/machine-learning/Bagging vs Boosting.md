@@ -1,8 +1,12 @@
 ---
 aliases: []
-category:
+category: ML
 date modified: 19-10-2025
-tags: [boosting, clustering, ml, ml_process]
+tags:
+  - boosting
+  - clustering
+  - ml
+  - ml_process
 ---
 [[Bagging]] and [[Boosting]] are both [[Model Ensemble|ensemble]] methods, but they have different purposes and perform better in different situations. There isn’t a single “better” method - it depends on your data and problem. Here’s a clear comparison:
 

@@ -34,7 +34,7 @@ By writing and running tests, you can ensure that your code behaves as expected 
 ### Exploring Further
 
 - **Test Coverage**: Measure how much of your code is covered by tests. Tools like `coverage.py` can help identify untested parts of your code.
-- **Continuous Integration (CI)**: Automate the running of tests using CI tools like Jenkins, Travis CI, or GitHub Actions to ensure code quality in every commit.
+- **Continuous Integration (CI)**: Automate the running of tests using CI tools like Jenkins, Travis CI, or [[categories/devops/Github Actions|GitHub Actions]] to ensure code quality in every commit.
 - **Behavior-Driven Development (BDD)**: An extension of TDD that uses natural language to describe the behavior of software, often using tools like `pytest-bdd` or `behave`.
 
 2. **Edge Cases and Error Handling**:

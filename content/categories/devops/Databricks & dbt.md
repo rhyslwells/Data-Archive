@@ -1,6 +1,6 @@
 ---
 aliases: []
-category:
+category: DEVOPS
 date modified: 22-10-2025
 tags:
   - data_integration

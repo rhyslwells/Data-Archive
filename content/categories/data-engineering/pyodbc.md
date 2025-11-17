@@ -1,7 +1,7 @@
 ---
 date modified: 28-09-2025
 aliases:
-category:
+category: DE
 title: Investigate pyodbc
 tags:
   - SQL

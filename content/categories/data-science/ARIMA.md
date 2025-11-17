@@ -61,7 +61,7 @@ The main ARIMA parameters are:
 
 * Test several ARIMA models around initial `(p,d,q)` estimates.
 * Evaluate using [[AIC in Model Evaluation]] BIC, or [[Cross Validation]] (lower values indicate a better model).
-* Check [[Residuals in Time Series]]: They should resemble white noise (uncorrelated and zero mean).
+* Check [[Residuals Analysis]]: They should resemble white noise (uncorrelated and zero mean).
 ### Why ARIMA Isn’t Enough for Seasonal Data
 
 ARIMA does not model repeating patterns (e.g., quarterly or monthly seasonality). For such cases, [[SARIMA]] is used.

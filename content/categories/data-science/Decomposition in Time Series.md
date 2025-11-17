@@ -10,7 +10,7 @@ tags:
 When analyzing a [[Time Series]], we often use [[Decomposition in Time Series]] to separate it into three main components:
 * [[Trends in Time Series]] – long-term direction in the data
 * [[Seasonality in Time Series]] – repeating patterns at fixed intervals
-* [[Residuals in Time Series]] – the unexplained variation after removing trend and seasonality
+* [[Residuals Analysis]] – the unexplained variation after removing trend and seasonality
 
 A common method for decomposition is [[STL Decomposition]], which flexibly extracts trend and seasonal components.
 
