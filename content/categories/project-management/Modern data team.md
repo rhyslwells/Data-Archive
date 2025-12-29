@@ -2,7 +2,8 @@
 aliases: []
 category: PM
 date modified: 27-09-2025
-tags: []
+tags:
+  - management
 ---
 Modern data team
 - data engineer

@@ -1,8 +1,10 @@
 ---
 aliases: []
-category: 
+category: OTHER
 date modified: 14-11-2025
-tags: [analysis, data]
+tags:
+  - analysis
+  - data
 ---
 A PGN file is a plain-text format used to record chess games. PGN stands for *Portable Game Notation*. It captures both the **metadata** of a game and the **move sequence**, making it a standard for storing, sharing, and analysing chess data.
 

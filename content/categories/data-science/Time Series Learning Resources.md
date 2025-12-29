@@ -2,7 +2,8 @@
 aliases: []
 category: DS
 date modified: 27-09-2025
-tags: []
+tags:
+  - time_series
 ---
 ### Courses
 * **Intel course on time series** — [Link](https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/course-time-series-analysis.html)

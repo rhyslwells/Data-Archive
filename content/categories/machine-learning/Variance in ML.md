@@ -2,7 +2,8 @@
 aliases: []
 category: ML
 date modified: 27-09-2025
-tags: []
+tags:
+  - ml
 ---
 Variance measures how much a model’s predictions change when trained on different subsets of the training data. It reflects the model’s sensitivity to the specific data used for training.
 

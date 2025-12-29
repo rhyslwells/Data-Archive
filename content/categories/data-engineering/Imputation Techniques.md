@@ -13,6 +13,9 @@ Questions when doing:
 - Does it make sense to do 
 - Are there related variables, group based on these
 
+Resources:
+- https://scikit-learn.org/stable/modules/impute.html
+
 Also see: [[KNIME]]
 
 ```python

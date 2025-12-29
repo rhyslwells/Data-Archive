@@ -2,7 +2,8 @@
 aliases: []
 category: DS
 date modified: 27-09-2025
-tags: []
+tags:
+  - ml
 ---
 Batch Gradient Descent computes the gradient of the [[Cost Function]] ==using the entire training dataset== at each iteration before updating the [[Model Parameters]].
 

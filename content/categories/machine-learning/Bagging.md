@@ -30,13 +30,11 @@ It works by ==training multiple instances of the same learning algorithm on diff
 - **Parallelization**: Since each model is trained independently, bagging can be easily parallelized, making it scalable and efficient for large datasets.
 ### Example of Bagging:
 
-**Random Forest**: A well-known example of a bagging technique is the [[Random Forest]] algorithm. 
+A well-known example of a bagging technique is the [[Random Forest]] algorithm. 
 
 It uses decision trees as base models and combines their predictions to improve accuracy and robustness. 
 
 Each tree in a random forest is trained on a different bootstrap sample of the data, and the final prediction is made by averaging the outputs (for regression) or majority voting (for classification).
-# Further Understanding
-
 ### Advantages of Bagging:
 
 - **Increased Accuracy**: By combining multiple models, bagging often achieves higher accuracy than individual models.
@@ -50,76 +48,5 @@ Each tree in a random forest is trained on a different bootstrap sample of the d
 - **Computational Cost**: Training multiple models can be computationally intensive, although this can be mitigated by parallel processing.
 - Less effective at reducing bias.
 
-
-### Sklearn
-
-The change aligns the naming convention between ensemble models:
-
-BaggingClassifier(estimator=...)
-
-StackingClassifier(estimators=...)
-
-VotingClassifier(estimators=...)
-
-This makes the API more consistent.
-
-
-Excellent question — these two ensemble methods are closely related but serve different purposes and have distinct internal mechanics.
-
-### Bagging Classifier vs Random Forest Classifier
-
-## **1. Conceptual overview**
-
-### **BaggingClassifier**
-
-* Implements **Bootstrap Aggregating (Bagging)**.
-* Trains multiple *independent* copies of a **base estimator** on random subsets of the training data (with replacement).
-* The final prediction is the **average (regression)** or **majority vote (classification)** of all estimators.
-
-### **RandomForestClassifier**
-
-* A **special case** of `BaggingClassifier` that uses **Decision Trees** as base estimators **plus an additional randomization** in feature selection.
-* Each tree is trained not only on a bootstrap sample of the data but also on a **random subset of features** at each split.
-
----
-
-## **2. Main differences**
-
-| Feature                    | BaggingClassifier                           | RandomForestClassifier                                                           |
-| -------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------- |
-| **Base model**             | Any estimator (e.g. DecisionTree, KNN, SVM) | Always `DecisionTreeClassifier`                                                  |
-| ==**Feature randomness**== | None by default                             | Adds randomness by selecting a subset of features at each split (`max_features`) |
-| **Correlation reduction**  | Only via bootstrapped samples               | Both via bootstrapping *and* random feature selection                            |
-| **Bias–variance tradeoff** | Reduces variance (not bias)                 | Reduces variance more effectively due to extra feature randomness                |
-| **Out-of-bag score**       | Supported (`oob_score=True`)                | Supported (`oob_score=True`)                                                     |
-| **Speed and tuning**       | Slower (depends on base model)              | Faster and easier to tune; optimized for trees                                   |
-| **Interpretability**       | Depends on base model                       | Easier to interpret (feature importances, etc.)                                  |
-| **API simplicity**         | More flexible                               | More specialized and efficient for trees                                         |
-
-
-Typically, the **Random Forest** performs as well or better than the plain **Bagging** ensemble, because of the ==decorrelated trees produced by random feature selection.==
-
-## **4. When to use which**
-
-* **Use `BaggingClassifier` when**:
-
-  * You want to ensemble *any* kind of model (not just trees).
-  * Example: bagging multiple **KNN classifiers** or **SVMs**.
-
-* **Use `RandomForestClassifier` when**:
-
-  * You specifically want an ensemble of **Decision Trees** with feature-level randomness.
-  * You want **better generalization** and **less overfitting** with minimal tuning.
-
----
-
-## **5. Summary**
-
-| Aspect     | BaggingClassifier                                   | RandomForestClassifier                       |
-| ---------- | --------------------------------------------------- | -------------------------------------------- |
-| Type       | General-purpose ensemble wrapper                    | Specialized ensemble of trees                |
-| Randomness | Bootstrapped samples                                | Bootstrapped samples + random feature subset |
-| Strength   | Flexibility (can wrap any model)                    | Strong performance, low variance             |
-| Weakness   | May not generalize as well without extra randomness | Limited to trees only                        |
-
-### Random Forest is a special case of a Bagging Classifier
+### Related:
+- [[Bagging Classifier vs Random Forest Classifier]]

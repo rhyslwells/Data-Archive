@@ -10,5 +10,5 @@ tags: []
 - Note: At a small company, a data team of one may own all three of these roles and responsibilities. As your team grows, the lines between these roles will remain blurry.
 
 They:
-- Use [[dbt 1]]
+- Use [[dbt]]
 - Do the jobs of an analyst and engineer 

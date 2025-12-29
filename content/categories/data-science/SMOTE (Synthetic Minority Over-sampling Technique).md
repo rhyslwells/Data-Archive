@@ -1,9 +1,10 @@
 ---
 aliases:
-- SMOTE
+  - SMOTE
 category: DS
 date modified: 27-09-2025
-tags: []
+tags:
+  - statistics
 ---
 SMOTE (Synthetic Minority Over-sampling Technique)
 

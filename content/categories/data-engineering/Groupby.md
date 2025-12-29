@@ -3,7 +3,7 @@ aliases: []
 category: DE
 date modified: 27-09-2025
 tags:
-- transformation
+  - transformation
 type: grouping
 ---
 Groupby is a versatile method in pandas used to group data based on one or more columns, and then perform aggregate functions on the grouped data. 

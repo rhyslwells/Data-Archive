@@ -1,8 +1,10 @@
 ---
 aliases: []
-category:
+category: OTHER
 date modified: 15-11-2025
-tags: [analysis, learning]
+tags:
+  - analysis
+  - learning
 ---
 Algebraic notation is compact, but it follows strict rules that make it possible to know **which piece moved**, even when it doesn’t explicitly say so. Below is a clear explanation in simple steps.
 ## 1. Pawns have no letter

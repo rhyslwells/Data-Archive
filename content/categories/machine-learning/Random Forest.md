@@ -48,3 +48,7 @@ Related:
 
 ![[Pasted image 20240128194716.png]]
 ![[Pasted image 20240118145117.png]]
+
+### Questions
+
+- [ ] How do you do [[Feature Importance]] with a [[Random Forest]] to get the most important features?

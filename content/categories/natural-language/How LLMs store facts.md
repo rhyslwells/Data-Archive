@@ -1,11 +1,11 @@
 ---
 aliases:
-- null
+  - 
 category: LANG
 date modified: 27-09-2025
 tags:
-- agents
-- NLP
+  - agents
+  - NLP
 ---
 [How might LLMs store facts](https://www.youtube.com/watch?v=9-Jl0dxWQs8&list=PLZx_FHIHR8AwKD9csfl6Sl_pgCXX19eer&index=6)
 

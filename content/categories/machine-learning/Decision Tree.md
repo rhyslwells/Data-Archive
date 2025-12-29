@@ -69,3 +69,7 @@ Disadvantages:
 - Can become complex with many features.
 - [[Decision Trees are Fragile]]
 
+### Questions
+
+[[Decision Tree]]
+- [ ] How does a decision tree decide on which feature to split: by gini impurity and feature importance

@@ -2,7 +2,8 @@
 aliases: []
 category: DS
 date modified: 27-09-2025
-tags: []
+tags:
+  - ensemble
 ---
 Stacking in a [[Model Ensemble]] combines predictions of multiple base models ==by training a meta-model== on the outputs of the base models.
 

@@ -2,7 +2,8 @@
 aliases: []
 category: DATA_ANALYSIS
 date modified: 27-09-2025
-tags: []
+tags:
+  - analysis
 ---
 [[Data Visualisation]] for two variables:
 - Consider target categorical: and a input feature

@@ -2,7 +2,8 @@
 aliases: []
 category: DE
 date modified: 19-10-2025
-tags: []
+tags:
+  - python
 ---
 
 [[Databricks|Databricks]] & [[PySpark]]

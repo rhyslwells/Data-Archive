@@ -2,7 +2,8 @@
 aliases: []
 category: ML
 date modified: 27-09-2025
-tags: []
+tags:
+  - ensemble
 ---
 [[Decision Tree]] & [[Gradient Boosting]]
 

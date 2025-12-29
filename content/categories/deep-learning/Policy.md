@@ -1,9 +1,10 @@
 ---
 aliases:
-- policies
+  - policies
 category: DL
 date modified: 27-09-2025
-tags: []
+tags:
+  - learning
 ---
 In [[Reinforcement learning]] (RL), a **policy** is a strategy or a rule that defines the actions an agent takes in a given state to achieve its goals. It essentially ==maps states of the environment to actions that the agent should take when in those states.==
 

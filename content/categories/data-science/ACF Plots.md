@@ -1,9 +1,10 @@
 ---
 aliases:
-- ACF
+  - ACF
 category: DS
 date modified: 27-09-2025
-tags: []
+tags:
+  - time_series
 ---
 An [[Autocorrelation]] Function (ACF) plot shows how each observation in a time series is correlated with its past values at different lags ([[Forecasting using Lags]]). It helps identify **trends**, **seasonality**, and whether a series is **stationary**.
 
@@ -37,6 +38,7 @@ An [[Autocorrelation]] Function (ACF) plot shows how each observation in a time 
 * ACF includes *indirect effects*: e.g., correlation at lag 3 may result from correlations at lags 1 and 2.
 * Apply ACF to **stationary data**; otherwise correlations may be misleading.
 * Use ACF to determine **$q$** in an MA($q$) model.
+### Related
 
 [[PACF Plots]]
 [[Forecasting with Autoregressive (AR) Models]]

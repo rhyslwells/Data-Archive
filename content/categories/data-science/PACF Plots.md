@@ -4,10 +4,7 @@ category: DS
 date modified: 27-09-2025
 tags: []
 ---
-The Partial Autocorrelation Function (PACF) plot shows how a time series is correlated with its **lagged values**, ==while **controlling for correlations at shorter lags**.== For instance, in a series of air passengers, PACF reveals how much each observation is directly influenced by past values and identifies how far back statistically significant correlations exist.
-
-PACF differs from the [[ACF Plots]] in that it **isolates direct correlations**, removing the effects of intermediate lags. Examining **both ACF and PACF together** provides a more complete view of the time series structure.
-
+The Partial Autocorrelation Function (PACF) plot shows how a time series is correlated with its **lagged values**, ==while controlling for correlations at shorter lags.== PACF differs from the [[ACF Plots]] in that it **isolates direct correlations**, removing the effects of intermediate lags. Examining **both ACF and PACF together** provides a more complete view of the time series structure.
 ### **Purpose**
 
 The PACF is used to:
@@ -28,6 +25,8 @@ The PACF is used to:
 * The **first significant lag** in PACF often determines the **AR order $p$**.
 * PACF complements ACF — together they guide **model identification for ARIMA**.
 * If **both ACF and PACF decay slowly**, the series is likely non-stationary.
+
+### Related
 
 [[Decomposition in Time Series]]
 [[ACF Plots]]

@@ -34,7 +34,7 @@ Non-stationary:
   * Series with changing variance (e.g., volatility clustering in finance).
   * Series with seasonality (patterns repeating over time).
 
-### Trnasfomration to get Stationarity
+### Transformations to get Stationarity
 
 Common [[Data Transformation]] to achieve stationarity include:
 - [[Differencing in Time Series]]

@@ -2,7 +2,8 @@
 aliases: []
 category: DS
 date modified: 27-09-2025
-tags: []
+tags:
+  - devops
 ---
 [GitLab CI CD Tutorial for Beginners Crash Course](https://www.youtube.com/watch?v=qP8kir2GUgo)
 

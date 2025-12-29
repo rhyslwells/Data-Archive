@@ -1,9 +1,10 @@
 ---
 aliases:
-- Optimisation
+  - Optimisation
 category: ML
 date modified: 27-09-2025
-tags: []
+tags:
+  - optimisation
 ---
 Model optimization is a step in the machine learning workflow aimed at enhancing a model's performance by fine-tuning its parameters and hyperparameters. The goal is to improve the model's accuracy, efficiency, and ability to generalize to new data. 
 

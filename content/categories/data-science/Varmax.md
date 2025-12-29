@@ -28,7 +28,6 @@ Where:
 [[Statsmodels]] implements this within the statespace framework, giving access to [[Kalman filtering]], smoothing, and forecast intervals.
 
 [[Multivariate Analysis]]
-
 ## How VARMAX is used
 
 ### 1. **Multivariate forecasting**
