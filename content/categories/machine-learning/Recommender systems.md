@@ -8,7 +8,7 @@ tags:
 ---
 Crab on Python
 
-- [ ] How would you make a simple one on [[Streamlit]]?
+- [ ] How would you make a simple one on [[categories/devops/Streamlit]]?
 
 A recommender system, or recommendation system, is a type of information filtering system that aims to predict the preferences or interests of users by analyzing their behavior and the behavior of similar users or items. 
 

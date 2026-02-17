@@ -3,12 +3,10 @@ aliases: []
 category: DE
 date modified: 27-09-2025
 tags:
-- data
-- null
-- SQL
+  - data
+  - SQL
+  - database
 ---
-\#database\_storage
-
 **MariaDB** is an **open-source relational database management system (RDBMS)**. It was originally created as a fork of **MySQL** in 2009, after concerns arose that Oracle Corporation’s acquisition of [[MySql]] might limit its open-source future.
 
 ### Key Points:
@@ -22,7 +20,6 @@ tags:
   * Web applications (often used as a backend in LAMP/LEMP stacks).
   * Data warehousing (with MariaDB ColumnStore).
   * Enterprise systems that need high availability and replication.
-
 ### Example:
 
 ```sql

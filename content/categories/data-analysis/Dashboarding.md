@@ -8,5 +8,5 @@ tags:
 - frontend
 ---
 [[Dash]]
-[[Streamlit.io]]
+[[categories/uncategorised/Streamlit]]
 

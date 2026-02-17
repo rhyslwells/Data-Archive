@@ -32,3 +32,4 @@ Use a formula to design a prompt.
 
 ### Related
 - [[Asking questions]]
+- [[Code Prompting with AI]]

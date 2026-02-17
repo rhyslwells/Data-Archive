@@ -9,7 +9,7 @@ tags:
 ---
 Cryptography is the foundation of digital [[Data Security]], enabling privacy and secure communication over the internet.
 
-Examples are implemented in [[Node.JS]] (using `crypto` module) and are written in [[JavaScript]].
+Examples are implemented in [[Node.js]] (using `crypto` module) and are written in [[JavaScript]].
 
 Resources:
 - [7 Cryptography Concepts EVERY Developer Should Know](https://www.youtube.com/watch?v=NuyzuNBFWxQ)
@@ -74,7 +74,7 @@ console.log(login('foo@bar.com', 'password'));
 
 HMAC combines a hash with a secret key, ensuring authenticity and integrity.
 
-### HMAC in [[Node.JS]]
+### HMAC in [[Node.js]]
 
 ```javascript
 const { createHmac } = require('crypto');

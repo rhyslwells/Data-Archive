@@ -1,11 +1,11 @@
 ---
 aliases:
-- null
-category: DATA_ANALYSIS
+  - 
+category: DEVOPS
 date modified: 27-09-2025
 tags:
-- communication
-- visualization
+  - communication
+  - visualization
 ---
 https://mybinder.org/
 

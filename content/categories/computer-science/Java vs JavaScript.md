@@ -14,7 +14,7 @@ Although their names are similar, Java and JavaScript are fundamentally differen
 | Type                    | Object-Oriented Programming Language                                   | Scripting Language                                                                      |
 | Use                     | General-purpose, used for desktop, mobile, and enterprise applications | Primarily used for web development (front-end and back-end)                             |
 | Execution               | Runs on the Java Virtual Machine (JVM)                                 | Runs in the browser or on server-side (Node.js)                                         |
-| Compiled or Interpreted | Compiled to bytecode, then executed by the JVM                         | Interpreted directly by the browser or Node.js [[Node.JS]]                              |
+| Compiled or Interpreted | Compiled to bytecode, then executed by the JVM                         | Interpreted directly by the browser or Node.js [[Node.js]]                              |
 | Syntax                  | Strongly typed; requires defining data types                           | Loosely typed; variables can change types                                               |
 | [[Concurrency]]         | Supports [[Multithreading]]                                            | Single-threaded, but supports asynchronous programming (e.g., with callbacks, promises) |
 | Platform Dependency     | Platform-independent (write once, run anywhere)                        | Platform-independent, mainly within the context of the web                              |

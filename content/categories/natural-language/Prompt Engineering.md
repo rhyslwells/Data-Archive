@@ -10,7 +10,7 @@ Prompt engineering is a technique in the field of natural language processing (N
 
 It involves designing and optimizing input [[Prompts]] to get the most relevant and accurate responses from these models. 
 
-Techniques like [[prompt retrievers]], which include systems like UPRISE and DaSLaM, enhance the ability to retrieve and generate contextually appropriate prompts.
+Techniques like [[Prompt Retrievers]], which include systems like UPRISE and DaSLaM, enhance the ability to retrieve and generate contextually appropriate prompts.
 
 Prompt engineering aims to ==guide LLMs toward producing desired outputs while minimizing ambiguity.== 
 

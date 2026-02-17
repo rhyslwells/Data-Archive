@@ -20,7 +20,7 @@ Key features of AWS Lambda include:
 
 4. **No Server Management**: AWS Lambda abstracts the underlying infrastructure, so you don't need to manage servers, patch operating systems, or worry about scaling.
 
-5. **Supports Multiple Languages**: AWS Lambda supports several [[programming languages]], including Python, Java, [[Node.JS]], C#, Ruby, and Go, among others.
+5. **Supports Multiple Languages**: AWS Lambda supports several [[programming languages]], including Python, Java, [[Node.js]], C#, Ruby, and Go, among others.
 
 6. **Integration with AWS Services**: Lambda integrates seamlessly with other AWS services, allowing you to build complex, scalable applications.
 

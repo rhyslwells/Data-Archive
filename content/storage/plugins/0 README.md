@@ -1,3 +1,5 @@
+### Tasks
+https://publish.obsidian.md/tasks/Queries/Examples
 ### Graph Analysis
 
 [Graph Analysis - Co Citations](https://www.youtube.com/watch?v=rK6JVDrGERA)
@@ -32,8 +34,6 @@ Gets a visual of current graph
 ### Mindmap
 
 ### Media notes
-
-
 
 ### Templator
 

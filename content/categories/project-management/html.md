@@ -14,7 +14,7 @@ An HTML file is the foundational format for structuring content on the web.
 
 #### Create Web Applications
 * Serve as the frontend for web apps
-* Work with backend languages (e.g. Python, [[Node.JS]], PHP) to render dynamic content
+* Work with backend languages (e.g. Python, [[Node.js]], PHP) to render dynamic content
 
 #### Data Presentation & Visualization
 * Embed interactive charts using libraries like Chart.js, D3.js, or [[Plotly]]

@@ -16,7 +16,6 @@ Related terms:
 - [[Change Management]]
 - [[Prevention Is Better Than The Cure]]
 
-
 Related terms:
 - [[Data Observability]]
 - [[Data Contract]]

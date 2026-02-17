@@ -8,3 +8,6 @@ tags:
 - tool
 ---
 An application to interact with [[SQLite]] databases.
+
+Supports:
+- [[Trigger]]

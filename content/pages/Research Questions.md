@@ -16,7 +16,6 @@ WHERE contains(tags, "reading") AND category = "PAPER"
 # Categories
 ### DS: [[DS & ML Portal]]
 
-[[What is the role of gradient-based optimization in training deep learning models.]]
 ```dataview
 TABLE
 FROM ""
