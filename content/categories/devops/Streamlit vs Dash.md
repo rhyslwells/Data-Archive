@@ -7,6 +7,7 @@ tags:
   - python
   - visualisation
   - web_apps
+  - deployment
 ---
 #### 1. Core purpose
 

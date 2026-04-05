@@ -30,3 +30,11 @@ poetry init
 poetry add numpy
 ```
 
+Now, instead of manually creating/activating `venv`:
+
+`poetry install   # creates venv + installs deps poetry shell     # activates venv`
+
+If you want to **recreate the environment** (equivalent to `rmdir /s /q venv && python -m venv venv`):
+
+`poetry env remove python poetry install`
+

@@ -1,7 +1,7 @@
 ---
 aliases:
   - TUI
-category:
+category: DE
 date modified: 7-02-2026
 tags: []
 ---

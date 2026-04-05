@@ -30,3 +30,19 @@ Definition: A family of databases that store data in non-tabular formats, often 
 * IoT and sensor data
 * Social networks
 * Mobile and web apps
+
+### General
+
+No need for relationships
+
+Scales better
+
+- Flexibility: NoSQL databases are non-relational and schema-less, making them easier to change and use.
+    
+- Scalability: They are cluster-friendly, allowing data to be stored across many servers.
+    
+- Efficiency: NoSQL databases store entire transactions as aggregates, simplifying data management and synchronization.
+    
+
+Cluster friendly. 
+Records are stored in aggregates

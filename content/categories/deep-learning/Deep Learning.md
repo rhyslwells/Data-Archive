@@ -24,7 +24,7 @@ Areas of Deep Learning:
 
 Follow up questions
  - How does the choice of activation function affect the performance of deep learning models across different tasks?
- - What are the trade-offs between different gradient descent algorithms (e.g., [[Stochastic Gradient Descent|SGD]] vs. Adam) in training neural networks? See [[Optimisation techniques]].
+ - What are the trade-offs between different gradient descent algorithms (e.g., [[Stochastic Gradient Descent|SGD]] vs. Adam) in training neural networks? See [[Optimisation Techniques]].
 
 Related Topics
  - [[Transfer Learning]]: Applying pre-trained models to new tasks.

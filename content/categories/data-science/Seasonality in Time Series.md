@@ -23,3 +23,5 @@ Example: higher sales of cold drinks during summer.
 
 3. Seasonal Dummy Variables
    Encode seasonality as categorical indicators (e.g., month or quarter dummies) to use as features in machine learning models.
+
+

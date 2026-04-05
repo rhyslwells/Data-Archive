@@ -28,4 +28,3 @@ Adam is particularly effective for large datasets and complex models, as it prov
 ## Related concepts
 - [[Gradient Descent]]
 - [[Why does the Adam Optimizer converge]]
-- 

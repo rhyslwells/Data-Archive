@@ -18,4 +18,4 @@ This process is repeated until:
 - The cost function converges (i.e., the change in the loss function becomes negligible), or  
 - The maximum number of iterations is reached.  
 
-See [[Optimisation techniques]].
+See [[Optimisation Techniques]].

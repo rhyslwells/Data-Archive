@@ -207,7 +207,7 @@ To do:
 ### [[Distributions]]
 - Discrete distributions have probabilities concentrated on specific values, while {{continuous distributions}} have probabilities spread over a continuous range.
 
-### [[Statistical Tests]]
+### [[categories/statistics/Statistical Tests]]
 - Statistical tests are methods used to determine if there is a {{significant difference}} between groups or if a relationship exists between variables.
 
 ### [[Statistical Assumptions]]

@@ -14,7 +14,7 @@ Purpose of Statistical Assumptions:
 
 #### Key Assumptions:
 
-- [[Assumption of Normality]]: This assumption posits that the data follows a normal distribution. Many [[Statistical Tests]], such as t-tests and [[ANOVA]], rely on this assumption to validate their results. If the data is not normally distributed, alternative methods or transformations may be necessary. Heavy tailed distributions can violate this.
+- [[Assumption of Normality]]: This assumption posits that the data follows a normal distribution. Many [[categories/statistics/Statistical Tests]], such as t-tests and [[ANOVA]], rely on this assumption to validate their results. If the data is not normally distributed, alternative methods or transformations may be necessary. Heavy tailed distributions can violate this.
 
 - Homoscedasticity: This refers to the assumption that the variance of the residuals (errors) remains constant across all levels of the independent variable(s). Violations of this assumption can lead to inefficient estimates and impact [[Hypothesis testing]].
 	- Huber Error?
@@ -36,7 +36,7 @@ Distribution Assumptions: Different statistical tests make specific assumptions 
 
 Testing Assumptions: It is important to test these assumptions before conducting statistical analyses. Common methods include:
   - Visual Inspection: Using plots (e.g., Q-Q plots, residual plots) to visually assess normality and homoscedasticity.
-  - [[Statistical Tests]]: Employing tests like the Shapiro-Wilk test for normality or Levene's test for homoscedasticity.
+  - [[categories/statistics/Statistical Tests]]: Employing tests like the Shapiro-Wilk test for normality or Levene's test for homoscedasticity.
 
 Consequences of Violating Assumptions: Understanding the implications of assumption violations is crucial. For example, violating the [[Assumption of Normality]] can lead to:
   - Increased Type I or Type II error rates.

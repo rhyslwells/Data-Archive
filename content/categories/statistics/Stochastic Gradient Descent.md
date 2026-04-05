@@ -16,11 +16,9 @@ Stochastic Gradient Descent (SGD) is an optimization algorithm that updates [[Mo
 * Can run on a deployed system.
 
 #### Key Characteristics
-* Update Rule:
-  Parameters are updated for each sample using its gradient contribution.
+* Update Rule:  Parameters are updated for each sample using its gradient contribution.
 
-* Objective:
-  Minimize the [[Loss function]] efficiently without processing the full dataset at every step.
+* Objective:  Minimize the [[Loss function]] efficiently without processing the full dataset at every step.
 #### Pros:
 * Fast parameter updates.
 * Handles large-scale and streaming data well.

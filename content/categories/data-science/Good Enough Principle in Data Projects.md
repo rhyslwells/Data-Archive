@@ -40,7 +40,7 @@ Minimum Viable Product (MVP)
 
 Common reasons DS projects fail:
 * Fuzzy goals: unclear or unmeasurable success metrics.
-* Poor project management: unrealistic timelines or milestones.
+* Poor [[Project Management]]: unrealistic timelines or milestones.
 * Insufficient resources: software, skills, or expertise gaps.
 * Lack of senior management support or incentives.
 * Over-complexity: chasing marginal gains at high cost.

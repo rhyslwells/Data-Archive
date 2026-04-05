@@ -6,7 +6,6 @@ tags:
 - optimisation
 ---
 A loss function is a key component in training machine learning models. It is closely related to the [[Cost Function]], error function, and [[objective function]], and serves as an important metric for [[Model Evaluation]].
-
 #### Purpose
 * Measure predictive accuracy:
   Quantifies the difference between predicted and actual values.
@@ -16,7 +15,7 @@ A loss function is a key component in training machine learning models. It is cl
 
 #### Usage
 * Training: Guides updates to [[Model Parameters]] during optimization (e.g., using [[Gradient Descent]]).
-* Evaluation: Assesses how well the trained model performs on validation or test data.
+* Evaluation: Assesses how well the trained model performs on [[Validation]] or test data.
 
 #### Examples
 * [[Mean Squared Error]] (MSE): Common in [[Regression]] tasks.

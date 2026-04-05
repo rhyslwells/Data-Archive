@@ -27,3 +27,14 @@ Outcome
 * A clear understanding of what data is available, its limitations, and its suitability for the problem.
 * A foundation for [[Data Preparation]] and subsequent modeling.
 
+Data Understanding: How to describe the data: First pass, efficiently: get initial questions
+- Where is data from
+- Structuring on data, weird values, groupings
+- Bring up questions to 
+- What do the type of values in a categorical mean, look at the sources 
+- What is the context for this dataset: the story
+- Create a Discards sheet with comments on why you have these rows in here.
+- Create a table of a few examples of those that could create an error.
+- Duplicate keys?
+
+

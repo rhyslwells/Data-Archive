@@ -5,7 +5,7 @@ date modified: 27-09-2025
 tags:
 - anomaly_detection
 ---
-Removing [[uncategorised/Outliers]] May Improve Regression but Harm Classification
+Removing [[Outliers]] May Improve Regression but Harm Classification
 
 ### Impact on Regression Model:
 

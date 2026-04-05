@@ -4,9 +4,9 @@ category: DE
 created: 2024-06-22 21:06
 date modified: 27-09-2025
 tags:
-- software
-- system
-type: null
+  - software
+  - system
+type:
 ---
 PowerShell is a task automation and configuration management framework developed by Microsoft, consisting of a [[Command Line]] shell and an associated scripting language. It is designed to automate system administration tasks across local and remote Windows systems and, with PowerShell Core (now known as PowerShell 7+), across macOS and Linux as well.
 
@@ -14,7 +14,6 @@ Related:
 - [[Command Prompt]]
 - [[Powershell versus Command Prompt]]
 - [[Powershell scripts]]
-
 
 Object-Oriented Architecture: Unlike `cmd`, which handles plain text, PowerShell processes .[[NET]] objects. This allows for structured data manipulation and precise control of outputs. Example:
     
@@ -102,4 +101,14 @@ $p = -path
 getting the script working 
 
 https://stackoverflow.com/questions/41117421/ps1-cannot-be-loaded-because-running-scripts-is-disabled-on-this-system
+### If you want to learn more PowerShell, explore:
 
+See these concepts:
+   - Functions with parameters
+   - Error handling: `$LASTEXITCODE`
+   - String interpolation
+   - File operations: `Test-Path`, `Get-Content`
+   - Process invocation: `ssh`, `scp`
+   - Cmdlets vs traditional commands
+   - Parameter documentation
+   - Aliases and full cmdlet names

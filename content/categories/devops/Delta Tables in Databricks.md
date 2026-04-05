@@ -1,7 +1,7 @@
 ---
 aliases:
   - Delta Table
-category:
+category: DEVOPS
 date modified: 19-10-2025
 tags:
   - data_engineering

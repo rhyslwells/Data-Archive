@@ -5,7 +5,7 @@ date modified: 27-09-2025
 tags:
 - anomaly_detection
 ---
-Anomaly detection involves identifying [[uncategorised/Outliers|Outliers]]. Detecting these anomalies is necessary for maintaining [[Data Integrity]] and improving model performance.
+Anomaly detection involves identifying [[Outliers|Outliers]]. Detecting these anomalies is necessary for maintaining [[Data Integrity]] and improving model performance.
 
 Outlier detection needs formalized criteria (e.g., statistical models, distance measures, density estimates) because "weird" is contextual and depends on distribution.
 ## Methods for Detecting Anomalies

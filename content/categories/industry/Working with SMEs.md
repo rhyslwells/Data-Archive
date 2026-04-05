@@ -24,3 +24,11 @@ tags:
 * [[Communication with Stakeholders]]
 * [[Data Understanding]]
 * [[Decision Tree]]
+
+Strategies for organising the work: Before asking SME: [[EDA]]
+- Take column names and transpose:
+- Then add columns for 
+- source	potential role	level of measure	number of values	missing data?	strange values	notes	questions for SME	formula
+- Remember to look at the source data dictionary.
+- Is there ongoing data collection in the future?
+

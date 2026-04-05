@@ -37,7 +37,7 @@ Model Comparison: [[Model Selection]]
   - Models with similar accuracy can have significantly different losses.
   - The model with lower test loss is generally preferred as it suggests reliability in predicting probabilities, especially in critical applications like medical diagnoses or risk assessment.
 
- Outlier Sensitivity: [[uncategorised/Outliers]]/ [[uncategorised/Outliers|Handling Outliers]]
+ Outlier Sensitivity: [[Outliers]]/ [[Outliers|Handling Outliers]]
   - Test loss can help identify model sensitivity to outliers.
   - A model might achieve high accuracy but perform poorly in terms of test loss if it incorrectly classifies a few outliers.
   - Conversely, a model with low test loss might be more stable in making predictions, even for edge cases.

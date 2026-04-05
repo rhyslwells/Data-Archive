@@ -5,7 +5,7 @@ date modified: 27-09-2025
 tags:
 - clustering
 ---
-Clustering involves grouping a set of data points into subsets or clusters based on inherent patterns or similarities. It is an [[Unsupervised Learning]]technique used for tasks like customer segmentation and [[uncategorised/Outliers|anomalies]] detection. 
+Clustering involves grouping a set of data points into subsets or clusters based on inherent patterns or similarities. It is an [[Unsupervised Learning]]technique used for tasks like customer segmentation and [[Outliers|anomalies]] detection. 
 
 The primary goal of clustering is to organize data by grouping similar items.
 

@@ -10,7 +10,7 @@ tags:
 - [[Plotly]]: Interactive time series charts.time series
 
 Forecasting & Modeling
-- [[statsmodels]]: ARIMA, SARIMA, state-space models, [[Statistical Tests]] for stationarity and autocorrelation.
+- [[statsmodels]]: ARIMA, SARIMA, state-space models, [[categories/statistics/Statistical Tests]] for stationarity and autocorrelation.
 - [[pmdarima]]: Auto-ARIMA model selection and diagnostics.
 - prophet (by Meta): Decomposable additive models, handles trend, seasonality, and holidays easily.
 - [[ruptures]]: Change point detection for time series.

@@ -41,6 +41,6 @@ Accuracy metrics alone are not always sufficient; forecasts should be evaluated 
 
 - Does the forecast support decision-making?  
 - Are critical thresholds or targets met?  
-- For example, in energy demand forecasting, errors may translate into over- or under-supply penalties, which are more meaningful than purely numerical accuracy.  
+- For example, in [[Energy Demand]] forecasting, errors may translate into over- or under-supply penalties, which are more meaningful than purely numerical accuracy.  
 
 Evaluating forecasts from a business perspective ensures that models are not only statistically sound but also operationally useful.

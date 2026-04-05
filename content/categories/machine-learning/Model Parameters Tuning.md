@@ -21,7 +21,7 @@ To find optimal [[Model Parameters]].
 4. Data Splitting:
    - Split the data into training and cross-validation sets to evaluate model performance. Plot the parameter of interest on the x-axis and accuracy on the y-axis to visualize performance.
 
-[[Optimisation techniques]]
+[[Optimisation Techniques]]
 ### Example
 
 

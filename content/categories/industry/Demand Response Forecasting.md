@@ -5,7 +5,7 @@ date modified: 27-09-2025
 tags:
 - energy
 ---
-- **Overview**: Demand response programs encourage consumers to adjust their energy usage during peak periods in response to time-based rates or other incentives. RL can optimize how these programs are implemented.
+- **Overview**: [[Demand Response]] programs encourage consumers to adjust their energy usage during peak periods in response to time-based rates or other incentives. RL can optimize how these programs are implemented.
 
 - **Applications**:
     - **Incentive Management**: [[Reinforcement learning|RL]] models can dynamically adjust incentives for consumers to reduce usage during peak times based on real-time grid conditions and consumer behavior.

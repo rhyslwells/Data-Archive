@@ -10,7 +10,7 @@ type: term
 ---
 Data cleansing is the process of correcting or removing inaccurate, incomplete, or inconsistent data to improve its [[Data Quality]] for analysis. Involves:
 
-- [[uncategorised/Outliers|Handling Outliers]]
+- [[Outliers|Handling Outliers]]
 - [[Handling Missing Data]]
 - [[Handling Different Distributions]]
 

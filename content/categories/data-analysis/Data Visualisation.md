@@ -3,7 +3,7 @@ aliases: []
 category: DATA_ANALYSIS
 date modified: 27-09-2025
 tags:
-- analysis
+  - analysis
 ---
 Data visualization involves presenting data in a visual format, enabling stakeholders to quickly grasp insights and make informed decisions. Effective visualization tools include dashboards and reports.
 
@@ -25,3 +25,4 @@ Related to:
 - [[Multivariate Analysis]]
 - [[Univariate Analysis]]
 
+Visuallisation:  [http://vita.had.co.nz/papers/model-vis.html](http://vita.had.co.nz/papers/model-vis.html "http://vita.had.co.nz/papers/model-vis.html").

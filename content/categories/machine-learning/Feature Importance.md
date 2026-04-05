@@ -31,7 +31,7 @@ Model-Agnostic Methods:
 - [[Local Interpretable Model-agnostic Explainations]]
 
 Quantify how much each feature influences model predictions using:
-* [[Statistical Tests]] (e.g. ANOVA, chi-squared)
+* [[categories/statistics/Statistical Tests]] (e.g. ANOVA, chi-squared)
 * Model-based scores (e.g. Gini importance in trees)
 * Permutation importance
 

@@ -49,7 +49,7 @@ Practical checks:
 - Then, one calculates statistics for each chunk, and compare them. 
 - Large deviations in either the mean or the variance among chunks might indicate that the time series is nonstationary.
 
-[[Statistical Tests]]:
+[[categories/statistics/Statistical Tests]]:
 - [[ADF Test]] & [[KPSS Test]]: Augmented Dickey-Fuller test give statistical justification to what our eyes see. If the the p-value is not less than 0.05, we must assume the series is non-stationary.
 - Visual inspection with [[STL Decomposition]]
 - [[ACF Plots]]

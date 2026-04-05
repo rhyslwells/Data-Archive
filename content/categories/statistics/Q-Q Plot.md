@@ -7,8 +7,6 @@ tags:
 - statistics
 - visualization
 ---
-#### Q-Q plot
-
 A Q-Q (quantile-quantile) plot is a graphical tool used to compare the distribution of a dataset against a theoretical distribution (e.g., normal, logistic, exponential). It helps assess how well a given distribution fits the data.
 
 How Q-Q Plots Work:

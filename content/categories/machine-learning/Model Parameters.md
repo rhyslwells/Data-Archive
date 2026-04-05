@@ -13,7 +13,7 @@ These parameters are adjusted during the training process to optimize the model'
 
 See also: 
 - [[Model Parameters Tuning]]
-- [[Optimisation techniques]]
+- [[Optimisation Techniques]]
 ### Examples
 
 1. **[[Linear Regression]]**: 

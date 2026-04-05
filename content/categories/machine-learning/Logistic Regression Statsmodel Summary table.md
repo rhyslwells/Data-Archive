@@ -7,7 +7,7 @@ tags:
 - ml
 - regressor
 ---
-Statsmodel has this summary table unlike [[Scikit-Learn]]
+[[Statsmodel]] has this summary table unlike [[Scikit-Learn]]
 
 [Explanation of summary](https://youtu.be/JwUj5M8QY4U?t=658)
 

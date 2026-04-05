@@ -11,7 +11,7 @@ A log transformation is a mathematical operation that applies the logarithm func
 ### Purpose of Log Transformation
 - Normalization of Data: Log transformation can help make a dataset more normally distributed, which is often an assumption for many statistical methods and machine learning algorithms.
 - Reducing Skewness: It is particularly effective for positively skewed data (where a majority of values are clustered at the lower end). By applying a log transformation, the [[Distributions|distribution]] can be made more symmetric.
-- Dealing with Outliers: Log transformation can reduce the influence of extreme values ([[outliers]]) on statistical analyses, making the data more robust for modeling.
+- Dealing with Outliers: Log transformation can reduce the influence of extreme values ([[Outliers]]) on statistical analyses, making the data more robust for modeling.
 - Linearizing Relationships: In [[regression]] analysis, log transformation can help linearize relationships between variables, making it easier to model.
 ### When to Use Log Transformation
 

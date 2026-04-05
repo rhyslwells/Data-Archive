@@ -15,7 +15,7 @@ Related:
 ## Key Components
 
 Uses:
-- Identifying [[uncategorised/Outliers]].
+- Identifying [[Outliers]].
 - Understanding the spread and skewness of the data [[Distributions]].
 - Comparing distributions across different categories.
 - Need to remove then in order to do [[Data Cleansing]].

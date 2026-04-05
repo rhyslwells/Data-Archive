@@ -18,6 +18,16 @@ Requires (seasonality/trends can be handled separately):
 May use:
 - [[Forecasting using Lags]]
 
+How to estimate the forecastability of a time series?
+
+The more regular and repeatable patterns a time series has, the easier it is to forecast. The ‘Approximate Entropy’ can be used to quantify the regularity and unpredictability of fluctuations in a time series.
+
+The higher the approximate entropy, the more difficult it is to forecast it.
+
+Another better alternate is the ‘Sample Entropy’.
+
+Sample Entropy is similar to approximate entropy but is more consistent in estimating the complexity even for smaller time series. For example, a random time series with fewer data points can have a lower ‘approximate entropy’ than a more ‘regular’ time series, whereas, a longer random time series will have a higher ‘approximate entropy’.
+
 #### Time Series Statistical Methods
 
 Traditional models that explicitly capture trend, seasonality, and autocorrelation in time series data.

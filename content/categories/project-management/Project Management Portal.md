@@ -12,3 +12,6 @@ How to manage clients and get jobs done:
 - [[Communication with Stakeholders]]
 - [[Good Enough Principle in Data Projects]]
 - [[Managing People]]
+
+Related:
+ - [[Project Management]]

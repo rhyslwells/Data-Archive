@@ -8,7 +8,7 @@ tags:
 - business
 ---
 Applications: [[Data Quality]] Checking:
-- Outlier detection is essential for detecting errors (e.g., typos, sensor failures, strange business events).
+- Outlier detection is essential for detecting errors (e.g., typos, ==sensor failures==, strange business events).
 - But: Catching every outlier is not always worth it — it needs to be cost-effective.
 - Business Cost:  
   - False positives → wasted time investigating non-issues.

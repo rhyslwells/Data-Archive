@@ -86,4 +86,4 @@ Learning rate impacts convergence. It is a [[Hyperparameter]] that determines th
 
 Techniques:
 - [[Learning Rate]] Scheduling: Reduce learning rate as training progresses to fine-tune the learning process.
-- Adaptive Learning Rates: Optimizers [[Optimisation techniques]]
+- Adaptive Learning Rates: Optimizers [[Optimisation Techniques]]

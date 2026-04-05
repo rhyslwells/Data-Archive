@@ -26,7 +26,7 @@ Portal for all statistics notes:
 
 [[Distributions]]
 
-[[Statistical Tests]]
+[[categories/statistics/Statistical Tests]]
 
 [[Monte Carlo Simulation]]
 

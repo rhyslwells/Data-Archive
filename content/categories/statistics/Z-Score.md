@@ -5,7 +5,7 @@ date modified: 27-09-2025
 tags:
 - statistics
 ---
-Z-scores standardize a value relative to a distribution by measuring how many standard deviations it is from the mean. This is useful for [[uncategorised/Outliers|Outliers]] and [[Normalisation]].
+Z-scores standardize a value relative to a distribution by measuring how many standard deviations it is from the mean. This is useful for [[Outliers|Outliers]] and [[Normalisation]].
 
 Definition:  
 The Z-score of a value $x$ is given by:

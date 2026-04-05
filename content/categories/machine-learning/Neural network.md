@@ -35,7 +35,7 @@ Weights and Biases: [[Model Parameters]]
 
 Training: See [[Fitting weights and biases of a neural network]]
 
-Optimization: See [[Optimisation techniques]]
+Optimization: See [[Optimisation Techniques]]
 - The optimization process (often gradient descent) updates the network's weights to minimize the loss function, ensuring the model improves with training and generalizes well to new, unseen data.
 
 Inputs:

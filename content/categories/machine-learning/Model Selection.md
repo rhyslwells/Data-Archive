@@ -18,7 +18,7 @@ Model selection typically involves the following steps:
    
 2. Train each model: Train all the candidate models on the training set using different algorithms or parameter settings.
    
-3. Evaluate performance ([[Model Evaluation]]): Use a validation set or cross-validation to evaluate the performance of each model. Common evaluation metrics include accuracy, precision, recall, F1 score, and mean squared error, depending on the type of problem (classification or regression).
+3. Evaluate performance ([[Model Evaluation]]): Use a [[Validation]] set or cross-validation to evaluate the performance of each model. Common evaluation metrics include accuracy, precision, recall, F1 score, and mean squared error, depending on the type of problem (classification or regression).
 
 4. Select the best model: Based on the evaluation metrics, choose the model that performs best on the validation set. The aim is to balance bias and variance to achieve good generalization to unseen data.
 

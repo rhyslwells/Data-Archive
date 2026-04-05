@@ -60,3 +60,5 @@ Databricks inherits scalability from the [[Hadoop]] ecosystem but offers signifi
 * Storing data in **Delta tables** within a **catalog** (Unity Catalog)
 
 It’s both a **processing engine** and a **collaborative workspace** for Python, SQL, R, and Scala.
+
+[https://www.databricks.com/resources/demos/library?type=2029](https://www.databricks.com/resources/demos/library?type=2029 "https://www.databricks.com/resources/demos/library?type=2029")

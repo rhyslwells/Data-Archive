@@ -10,15 +10,17 @@ tags:
 EDA is an approach to analyzing datasets to summarize their main characteristics, often through visual and statistical methods. It helps with:
 * Understanding data structure and organization
 * Detecting patterns and trends
+* [[Data Preparation]]
 * Choosing appropriate statistical techniques
 * Selecting and assessing variables
 * Addressing [[Data Quality]] issues
-* Identifying [[uncategorised/Outliers]] and [[storage/utils/file_getter/selected_files/Outliers|anomalies]]
+* Identifying [[Outliers]] and [[storage/utils/file_getter/selected_files/Outliers|anomalies]]
 * Formulating and testing hypotheses
 * Verifying assumptions prior to modelling
 
 Related to:
 - [[Data Mining - CRISP]]
+- [[Data Understanding]]
 
 ## Understanding Variable Behaviour
 
@@ -31,6 +33,7 @@ Techniques:
 * [[Data Visualisation]]: histograms, box plots, bar charts
 * Pair plots: for relationships between multiple numerical variables
 * Correlation matrices: to assess linear relationships
+* [[Distributions|Distribution]] shapes
 * Box plots: numeric vs categorical comparison
 
 [[Feature Importance]]Determine which variables matter most:
@@ -73,3 +76,7 @@ EDA is iterative-refine your insights as your understanding of the data deepens.
 
 Use implementation tools in [[ML_Tools]], e.g.:
 * [[EDA_Pandas.py]]
+
+## Counterexamples
+
+Anscombes quartet Example: ILO: Cautionary example about EDA: Dont pay attention to only descriptive stats without any graphics.

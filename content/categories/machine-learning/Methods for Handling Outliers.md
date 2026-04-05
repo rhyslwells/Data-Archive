@@ -24,3 +24,5 @@ tags:
 ### Winsorizing 
 
 - Description: Similar to capping and flooring, winsorizing replaces extreme values with less extreme values within a specified range, typically using percentiles.
+
+### [[Interpolation]]

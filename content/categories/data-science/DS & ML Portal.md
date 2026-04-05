@@ -29,7 +29,7 @@ tags:
 - [[Feature Selection]]
 - [[Feature Engineering]]
 - [[Imbalanced Datasets]]
-- [[uncategorised/Outliers]]
+- [[Outliers]]
 - [[Anomaly Detection]]
 - [[Multicollinearity]]
 - [[Dimensionality Reduction]]
@@ -80,7 +80,7 @@ Boosting and Optimisation
 ### Algorithms and Frameworks
 
 - [[Machine Learning Algorithms]]
-- [[Optimisation techniques]]
+- [[Optimisation Techniques]]
 - [[Optimisation function]]
 - [[Model Ensemble]]
 - [[Batch Processing]]

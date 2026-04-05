@@ -1,10 +1,11 @@
 ---
 aliases:
-- null
+  - 
 category: DEVOPS
 date modified: 27-09-2025
 tags:
-- system
+  - system
+  - programming
 ---
 #### Automation Scripts
 
@@ -95,4 +96,22 @@ else
   echo "File does not exist."
 fi
 ```
+### If you want to learn more bash, explore:
 
+See these concepts:
+   - Shebang: `#!/bin/bash`
+   - Variables: `$PI_IP`, `${variable}`
+   - Conditionals: `if [ condition ]; then`
+   - Loops: `for`, `while`
+   - Functions: `function_name() {}`
+   - Command substitution: `$(command)`
+   - Redirects: `>`, `>>`, `2>&1`
+
+See these concepts:
+   - Function definitions and exports
+   - Color codes (ANSI escape sequences)
+   - Command piping: `|`
+   - SSH with command execution
+   - Error checking: `$?`
+   - Configuration files
+   - Heredocs: `<< 'EOF'`

@@ -32,7 +32,7 @@ Observability is a process in ML, and is usually achieved through logging, metri
    - Tracking the data sources, transformations, and processes that influence the model’s input data. This provides visibility into how data flows through the pipeline and helps in reproducing results or addressing data-related issues.
 
 2. Pipeline Monitoring:
-   - Observing the entire ML pipeline from data ingestion and preprocessing to model training, [[validation]], and deployment. This includes identifying bottlenecks, delays, and system failures that may affect the model's ability to make predictions in real-time.
+   - Observing the entire ML pipeline from data ingestion and preprocessing to model training, [[Validation]], and deployment. This includes identifying bottlenecks, delays, and system failures that may affect the model's ability to make predictions in real-time.
 
 2. Alerts and Automation:
    - Setting up ==automated alerts== when certain thresholds are breached, such as a sudden drop in accuracy or an increase in response time. This allows for prompt interventions, whether retraining the model, adjusting the pipeline, or tuning hyperparameters.
