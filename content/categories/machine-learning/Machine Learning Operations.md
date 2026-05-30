@@ -39,3 +39,25 @@ MLOps ensures that machine learning models are **reliable, [[Maintainability|mai
 
    * Maintain versioning for data and models.
    * Use [[Continuous Integration|CI]] and [[Continuous Delivery - Deployment|CD]] pipelines for consistent and reproducible workflows.
+
+
+## Links
+
+```dataview
+TABLE 
+    file.link AS "Note",
+    file.tags AS "Tags",
+    file.aliases AS "Aliases",
+    category AS "Category",
+    file.ctime AS "Created"
+WHERE contains(file.outlinks, this.file.link)
+SORT file.ctime DESC
+```
+
+
+```dataview
+TABLE 
+    file.outlinks AS "Links From This Note",
+    file.inlinks AS "Links To This Note"
+WHERE file = this.file
+```
