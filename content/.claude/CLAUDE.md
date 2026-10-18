@@ -22,7 +22,7 @@ Obsidian vault, published as a Quartz site. About 1,175 notes.
 
 ## Working in the graph
 - Start from the current note and follow its direct links only.
-- Pull in a hub (a portal note) only when the task needs it.
+- Pull in a hub (a note tagged `portal`, or named "Portal") only when the task needs it. Find hubs by the `portal` tag, not by title. See [[Vault Map]].
 - Go no further than two hops without a stated reason.
 - Do not search the whole vault unless asked.
 - Skip `archived` notes unless asked.

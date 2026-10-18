@@ -17,7 +17,7 @@ How the user likes Obsidian canvases built. Read before creating or editing any 
 - Several canvases are welcome if they each have a clear theme.
 
 ## Layouts
-- Topic maps: centre on `[[Data Archive]]`, with portal notes as branches and a few notes under each branch.
+- Topic maps: centre on `[[Data Archive]]`, with hub notes (tagged `portal`) as branches and a few notes under each branch.
 - Flow canvases: use labelled groups as stages, laid out left to right, with arrows between stages.
 
 ## Example files
