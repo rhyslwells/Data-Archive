@@ -1,5 +1,9 @@
 {
   "permissions": {
+    "allow": [
+      "Bash(python -I .claude/scripts/graph.py:*)",
+      "Bash(python .claude/scripts/graph.py:*)"
+    ],
     "deny": [
       "Bash(rm:*)",
       "Bash(rmdir:*)",

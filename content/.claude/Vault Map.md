@@ -1,7 +1,7 @@
 ---
 name: Vault Map
 description: Index of the vault's major areas and their hub (portal) notes, found by the portal tag as well as by name
-status: reference
+status: draft
 type: reference
 created: 2026-10-18
 updated: 2026-10-18

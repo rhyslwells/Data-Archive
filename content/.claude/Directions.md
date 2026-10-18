@@ -1,7 +1,7 @@
 ---
 name: Directions
 description: Live statement of the directions being explored, one section each. Claude reads the relevant section first. Maintained by the user, with Claude updating the Active now and Log lines.
-status: reviewed
+status: draft
 type: reference
 created: 2026-10-18
 updated: 2026-10-18

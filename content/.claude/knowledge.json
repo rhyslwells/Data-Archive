@@ -1,0 +1,33 @@
+{
+  "_comment": "Repo-specific settings. Everything in .claude/ reads these keys instead of hard-coding folders. Change values here when you move the setup to another knowledge repo.",
+
+  "hub_tag": "portal",
+  "hub_name_hint": "Portal",
+  "hub_min_links": 3,
+  "hub_map": ".claude/Vault Map.md",
+
+  "exclude_dirs": [".obsidian", ".git", ".claude", ".trash"],
+
+  "working_dir": "Inbox/Working",
+  "template": "storage/templates/0-note.md",
+  "outputs": {
+    "ideas": "Inbox/Working",
+    "canvases": "Inbox/Working/canvases",
+    "bases": "Inbox/Working/bases"
+  },
+  "read_only_dirs": ["categories"],
+  "unpublished_dirs": ["Inbox", "storage"],
+
+  "statuses": ["draft", "reviewed", "reference", "archived"],
+  "types": ["context", "data", "idea", "build", "strategy", "project", "reference", "implementation", "process", "term", "grouping", "language"],
+  "stages": ["proposed", "tested", "approved", "building", "live", "retired", "rejected"],
+  "sources_required_types": ["context", "data"],
+  "templates_dir": ".claude/templates",
+  "required_frontmatter_new_notes": ["status", "type", "project", "created", "updated"],
+
+  "traversal": {
+    "neighbourhood_hops": 1,
+    "connect_max_hops": 3
+  },
+  "min_hubs_per_note": 1
+}
