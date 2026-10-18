@@ -3,7 +3,7 @@ aliases: []
 category: ML
 date modified: 28-03-2026
 tags:
-  - interpretability
+  - explainability
   - ml
   - optimisation
 ---

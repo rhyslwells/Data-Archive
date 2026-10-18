@@ -5,7 +5,7 @@ date modified: 27-09-2025
 projects: null
 tags:
 - analysis
-- classifer
+- classifier
 - ml
 - NLP
 - probability

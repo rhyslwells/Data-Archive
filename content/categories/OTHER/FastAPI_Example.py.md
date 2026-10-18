@@ -3,8 +3,7 @@ aliases:
 - null
 category: OTHER
 date modified: 27-09-2025
-tags:
-- blank
+tags: []
 ---
 https://github.com/rhyslwells/ML_Tools/blob/main/Explorations/Deployment/FastAPI_Example.py
 ### Explanation of New Features

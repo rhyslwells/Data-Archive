@@ -1,12 +1,11 @@
 ---
 aliases: []
 category: DEVOPS
-created: 2024-06-22 21:32
+created: 2024-06-22
 date modified: 27-09-2025
 tags:
-- '#software'
+- software
 - system
-type: null
 ---
 [[PowerShell]] and [[Command Prompt]] (cmd) are both command-line interfaces available on Windows systems, but they differ significantly in their capabilities, syntax, and scripting abilities. 
 

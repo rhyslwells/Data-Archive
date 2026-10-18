@@ -6,7 +6,6 @@ date modified: 27-09-2025
 tags:
 - deep_learning
 - python
-type: null
 ---
 [Watch Overview Video](https://www.youtube.com/watch?v=MDP9FfsNx60)
 

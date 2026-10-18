@@ -1,5 +1,5 @@
 ---
-tags:
+tags: []
 category: DS
 ---
 The <a href='https://en.wikipedia.org/wiki/Granger_causality'>Granger causality test</a> is a a hypothesis test to determine if one time series is useful in forecasting another. 

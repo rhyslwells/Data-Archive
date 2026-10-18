@@ -1,5 +1,5 @@
 ---
-tags: 
+tags: []
 category: 
 ---
 Tell about a recent project of yours {{c1::Collaborating in the image matching Kaggle competition and working on the S2DS project.}}

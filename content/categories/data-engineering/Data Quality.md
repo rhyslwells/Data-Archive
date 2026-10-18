@@ -3,7 +3,7 @@ aliases: []
 category: DE
 date modified: 27-09-2025
 tags:
-- '#data_quality'
+- data_quality
 ---
 Data quality is the process of ensuring that data meets established expectations. High-quality data is crucial for effective decision-making and analysis.
 

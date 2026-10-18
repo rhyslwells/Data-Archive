@@ -3,9 +3,8 @@ aliases: []
 category: DS
 date modified: 27-09-2025
 tags:
-- '#optimisation'
+- optimisation
 - process
-type: null
 ---
 Its the term given to the iterative process of building good features for a better model. Its the process that makes relevant features (using formulas and relations between others). 
  

@@ -4,7 +4,6 @@ category: STATISTICS
 date modified: 27-09-2025
 tags:
 - statistics
-type: null
 ---
 When two or more regressors are in [[Correlation]]
 

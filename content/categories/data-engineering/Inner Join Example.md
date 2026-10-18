@@ -6,7 +6,7 @@ tags:
   - data_modeling
   - joins
   - relational_model
-  - sql
+  - SQL
 ---
 
 Consider a canonical one-to-many relationship:

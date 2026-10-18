@@ -2,8 +2,7 @@
 aliases: []
 category: DEVOPS
 date modified: 27-09-2025
-tags:
-- blank
+tags: []
 ---
 ### **`@patch` (from `unittest.mock`) Explanation**
 

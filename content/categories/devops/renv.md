@@ -1,5 +1,5 @@
 ---
-tags:
+tags: []
 category: DEVOPS
 ---
 This guide covers managing R package dependencies in your project, similar to Python's `pip` + `venv`.

@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#flashcards"
+  - flashcards
 category:
 ---
 Pull flashcard files to phone and tablets with obsidian. Or with [[Anki]].

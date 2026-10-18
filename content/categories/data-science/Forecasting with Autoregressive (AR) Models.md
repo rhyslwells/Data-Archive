@@ -3,7 +3,7 @@ aliases: []
 category:
 date modified: 14-10-2025
 tags:
-  - classifer
+  - classifier
   - ml_process
   - statistics
   - time_series

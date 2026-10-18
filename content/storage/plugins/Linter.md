@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: 
+tags: []
 category: 
 date modified: Sunday, July 27th 2025
 ---

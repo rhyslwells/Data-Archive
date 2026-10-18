@@ -4,7 +4,7 @@ category: ML
 date modified: 27-09-2025
 tags:
 - analysis
-- classifer
+- classifier
 - NLP
 ---
 Text [[Classification]] is an NLP (Natural Language Processing) task where the goal is to assign predefined categories or labels to a given piece of text. 

@@ -3,8 +3,7 @@ aliases: []
 category: DS
 date modified: 27-09-2025
 tags:
-- '#evaluation'
-type: null
+- evaluation
 ---
 Cross-validation is a statistical technique used in machine learning to ==assess how well a model will generalize== to an independent dataset. It is a crucial step in the model-building process because it helps ensure that the model is not [[Overfitting]] or underfitting the training data.
 

@@ -3,8 +3,7 @@ aliases:
 - null
 category: OTHER
 date modified: 27-09-2025
-tags:
-- blank
+tags: []
 ---
 The `pytest` example script demonstrates several key features of the [[Pytest]] testing framework:
 

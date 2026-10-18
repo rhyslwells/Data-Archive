@@ -2,8 +2,7 @@
 aliases: []
 category: DEVOPS
 date modified: 27-09-2025
-tags:
-- null
+tags: []
 ---
 PMML is an XML-based standard developed by the Data Mining Group (DMG) that allows applications to describe and share predictive models across different platforms and tools.
 #### Purpose

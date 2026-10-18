@@ -4,8 +4,8 @@ category: DEVOPS
 date modified: 27-03-2026
 tags:
   - dashboards
-  - r
-  - visualisation
+  - R
+  - visualization
 ---
 **Shiny** is an R framework for building **interactive web applications and [[dashboards]]** directly from [[R]], without requiring JavaScript or frontend development.
 ## Core idea

@@ -6,7 +6,7 @@ tags:
   - data_manipulation
   - pandas
   - programming
-  - visualisation
+  - visualization
   - R
 ---
 

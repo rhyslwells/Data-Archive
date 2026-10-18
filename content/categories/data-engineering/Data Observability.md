@@ -3,7 +3,7 @@ aliases: []
 category: DE
 date modified: 27-09-2025
 tags:
-- '#orchestration'
+- orchestration
 - management
 ---
 Data observability refers to the continuous monitoring and collection of metrics about your data to ensure its [[Data Quality]], reliability, and availability. 

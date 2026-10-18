@@ -4,7 +4,7 @@ category: DE
 date modified: 27-09-2025
 tags:
 - exploration
-- mlprocess
+- ml_process
 - NLP
 ---
 Aims of any search:

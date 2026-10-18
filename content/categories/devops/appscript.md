@@ -1,5 +1,5 @@
 ---
-tags: 
+tags: []
 category: 
 ---
 [[Google Sheets]]

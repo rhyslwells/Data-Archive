@@ -2,8 +2,7 @@
 aliases: []
 category: DE
 date modified: 27-09-2025
-tags:
-- null
+tags: []
 ---
 Think of pgAdmin as the “control panel” . It lets you operate PostgreSQL more easily.
 

@@ -1,7 +1,7 @@
 ---
 aliases: []
 category: DEVOPS
-created: 2024-06-20 16:38
+created: 2024-06-20
 date modified: 27-09-2025
 tags:
 - python

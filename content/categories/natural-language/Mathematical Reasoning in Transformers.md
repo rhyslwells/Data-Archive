@@ -3,7 +3,7 @@ aliases: []
 category: LANG
 date modified: 27-09-2025
 tags:
-- '#question'
+- question
 ---
 **transformer-based models** that address mathematical reasoning either through pretraining, hybrid systems, or fine-tuning on specific mathematical tasks
 

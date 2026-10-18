@@ -4,9 +4,8 @@ category: DEVOPS
 created:
 date modified: 27-09-2025
 tags:
-  - "#orchestration"
+  - orchestration
   - python
-type:
 ---
 PySpark is the Python API for [[Apache Spark]], allowing users to write distributed data processing tasks using familiar Python syntax.
 

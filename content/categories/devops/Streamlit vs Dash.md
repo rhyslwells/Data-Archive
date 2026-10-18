@@ -5,7 +5,7 @@ date modified: 11-02-2026
 tags:
   - dashboarding
   - python
-  - visualisation
+  - visualization
   - web_apps
   - deployment
 ---

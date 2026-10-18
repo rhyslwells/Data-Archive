@@ -4,7 +4,7 @@ category: ML
 date modified: 5-11-2025
 tags:
   - architecture
-  - classifer
+  - classifier
   - ensemble
   - ml_process
   - statistics

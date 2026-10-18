@@ -6,12 +6,11 @@ aliases:
 category: DATA_ANALYSIS
 date modified: 27-09-2025
 tags:
-- '#optimisation'
+- optimisation
 - cleaning
 - portal
 - preprocessing
 - transformation
-type: null
 ---
 ### Data Preprocessing
 

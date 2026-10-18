@@ -4,7 +4,7 @@ aliases:
 category: ML
 date modified: 27-09-2025
 tags:
-- '#clustering'
+- clustering
 - field
 ---
 Unsupervised learning is a type of machine learning where the algorithm is trained on data without explicit labels or predefined outputs. 

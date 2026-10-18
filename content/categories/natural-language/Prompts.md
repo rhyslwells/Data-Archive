@@ -3,7 +3,7 @@ aliases: []
 category: LANG
 date modified: 27-09-2025
 tags:
-- prompt
+- prompting
 ---
 Pre set prompts are most useful when they are easily accessible.
 

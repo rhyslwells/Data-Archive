@@ -3,7 +3,7 @@ aliases: []
 category: ML
 date modified: 21-11-2025
 tags:
-  - classifer
+  - classifier
   - ml
 ---
 

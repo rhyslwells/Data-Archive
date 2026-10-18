@@ -3,7 +3,7 @@ aliases: []
 category: LANG
 date modified: 27-09-2025
 tags:
-- prompt
+- prompting
 ---
 Pyright is a ==static type checker== for Python that enhances code reliability by enforcing type constraints ==at compile-time.==
 

@@ -4,7 +4,7 @@ aliases:
 category: ML
 date modified: 27-09-2025
 tags:
-- '#deep_learning'
+- deep_learning
 - drafting
 ---
 A [[Neural network|Neural Network]] is a computational model inspired by biological neural networks in the human brain. It consists of layers of interconnected nodes (neurons) that process and transmit information. Neural networks are fundamental to [[Deep Learning]].

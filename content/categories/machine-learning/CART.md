@@ -3,8 +3,8 @@ aliases: []
 category: ML
 date modified: 27-09-2025
 tags:
-- classifer
-- mlprocess
+- classifier
+- ml_process
 - regressor
 ---
 CART stands for Classification and Regression Trees. It is one of the most widely used algorithms for building decision trees.

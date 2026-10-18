@@ -3,7 +3,7 @@ aliases: []
 category: INDUSTRY
 date modified: 27-09-2025
 tags:
-- '#governance'
+- governance
 - business
 ---
 [**Data governance**](https://www.talend.com/resources/what-is-data-governance/) **is a collection of processes, roles, policies, standards, and metrics that ensure the effective and efficient use of information in enabling an organization to achieve its goals.**

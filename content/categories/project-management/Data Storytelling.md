@@ -1,5 +1,5 @@
 ---
-tags:
+tags: []
 category: PM
 ---
 Plot to go on the quest.

@@ -4,7 +4,7 @@ aliases:
 category: DEVOPS
 date modified: 27-09-2025
 tags:
-- '#orchestration'
+- orchestration
 ---
 A structured approach like the Software Development Life Cycle (SDLC) ensures ==systematic progression through various stages of development==. SDLC remains relevant today by outlining the essential stages a product must undergo to achieve success.
 ## SDLC Stages
